@@ -16,25 +16,22 @@
     color: white;
 
   user-select: none;
+
   text-shadow: black 0.2em 0.2em 0.3em;
-  background-color: #222;
-  }
-  #bg {
-  position: fixed;
+
   background-image: linear-gradient(to right, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.3)),
                     url(https://gamesdonequick.com/gdqsection.webp);
   background-color: #222;
   background-repeat: no-repeat;
-  /* background-size: cover; */
-  background-size: 0 - 99.9%;
-  /* background-attachment: fixed; */ /* 不要用這個，手機捲動會 LAG */
-    margin: 0;
-    margin-left: -1px;
-    padding: 0;
-height: 101vh;
-  width: 101vw;
-z-index: -1;
+  background-size: cover;
+  background-attachment: fixed;
   }
+/* 直式、手機 */
+@media all and (orientation:portrait) {
+  body {
+    background-image: none;
+  }
+}
   .day-selector {
     display: flex;
     background: rgba(0, 0, 0, 0.2);
@@ -164,8 +161,6 @@ z-index: -1;
 </style>
 </head>
 <body>
-
-<img id="bg"></div>
 
 <div class="day-selector" id="daySelector"></div>
 
