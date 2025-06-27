@@ -200,6 +200,7 @@
 <script src="https://unpkg.com/embla-carousel/embla-carousel.umd.js"></script>
 <script src="https://unpkg.com/embla-carousel-wheel-gestures/dist/embla-carousel-wheel-gestures.umd.js"></script>
 <script src="gameDB.js"></script>
+<script src="sgdq2025.js"></script>
 <script>
   // 顯示 loading
   const loadingEl = document.getElementById('loadingOverlay');
@@ -211,36 +212,51 @@
 
   async function init() {
     try {
-      // const res = await fetch(`https://gamesdonequick.com/api/schedule/${EVENT_ID}`);
-      const res = await fetch(`https://tracker.gamesdonequick.com/tracker/api/v2/events/${EVENT_ID}/runs`);
-      const json = await res.json();
-      // allRuns = json.schedule
-      allRuns = json.results
-        .filter(r => r.type === 'speedrun')
-        .map(r => ({
-          game: r.name,
-          category: r.category,
-          runners: r.runners.map(rr => rr.name).join(', '),
-          start: new Date(r.starttime),
-          estimate: r.run_time,
-          console: r.console,
-        }));
 
-      createDayButtons();
-      const firstDate = getUniqueDates()[0];
-      if (firstDate) {
-        filterAndRender(firstDate);
-        document.querySelector('.day-button').classList.add('active');
+      // const res = await fetch(`https://gamesdonequick.com/api/schedule/${EVENT_ID}`);
+      // const res = await fetch(`https://tracker.gamesdonequick.com/tracker/api/v2/events/${EVENT_ID}/runs`);
+      // const json = await res.json();
+
+    let json;
+    try {
+      const res = await fetch(`https://tracker.gamesdonequick.com/tracker/api/v2/events/${EVENT_ID}/runs`);
+      json = await res.json();
+    } catch (fetchErr) {
+      console.warn('API 抓取失敗，改用本地備用資料。', fetchErr);
+      if (window.gdqLocalData) {
+        json = { results: window.gdqLocalData.results };
+      } else {
+        throw new Error('找不到本地備用資料');
       }
-    } catch (e) {
-      document.body.innerHTML = '<p style="color:red; text-align:center; margin-top:2rem;">賽程載入失敗</p>';
-      console.error(e);
-    } finally {
-      // 隱藏 loading
-      const loadingEl = document.getElementById('loadingOverlay');
-      if (loadingEl) loadingEl.style.display = 'none';
     }
+
+    allRuns = json.results
+      .filter(r => r.type === 'speedrun' || r.name) // local fallback 沒有 type 時也允許
+      .map(r => ({
+        game: r.name,
+        category: r.category,
+        runners: Array.isArray(r.runners) ? r.runners.map(rr => rr.name).join(', ') : r.runners,
+        start: new Date(r.starttime),
+        estimate: r.run_time,
+        console: r.console,
+      }));
+
+    createDayButtons();
+    const firstDate = getUniqueDates()[0];
+    if (firstDate) {
+      filterAndRender(firstDate);
+      document.querySelector('.day-button').classList.add('active');
+    }
+  } catch (e) {
+    document.body.innerHTML = '<p style="color:red; text-align:center; margin-top:2rem;">賽程載入失敗</p>';
+    console.error(e);
+  } finally {
+    const loadingEl = document.getElementById('loadingOverlay');
+    if (loadingEl) loadingEl.style.display = 'none';
   }
+
+  }
+
 
   function getUniqueDates() {
     const fmt = new Intl.DateTimeFormat("sv-SE", {
