@@ -169,6 +169,18 @@
   z-index: 9999;
   text-shadow: black 0.1em 0.1em 0.2em;
 }
+
+
+
+
+.fade-out {
+  opacity: 0;
+  transition: opacity 0.5s ease;
+}
+.fade-in {
+  opacity: 1;
+  transition: opacity 0.5s ease;
+}
 </style>
 </head>
 <body>
@@ -271,9 +283,35 @@
     });
   }
 
-  function filterAndRender(dateStr) {
+  async function filterAndRender(dateStr) {
     const scheduleList = document.getElementById('scheduleList');
     const thumbnailContainer = document.getElementById('thumbnailContainer');
+
+
+  const emblaEl = document.getElementById('embla');
+  const thumbListEl = document.getElementById('thumbnailList');
+
+
+
+  // 先移除 fade-in，確保動畫正確觸發
+  emblaEl.classList.remove('fade-in');
+  thumbListEl.classList.remove('fade-in');
+
+  // 加 fade-out 淡出
+  emblaEl.classList.add('fade-out');
+  thumbListEl.classList.add('fade-out');
+
+  // 強制重繪，觸發 transition
+  emblaEl.offsetHeight;
+  thumbListEl.offsetHeight;
+
+  // 等 500ms (動畫時間) 再換內容
+  await new Promise(resolve => setTimeout(resolve, 600));
+
+
+
+
+
     scheduleList.innerHTML = '';
     thumbnailContainer.innerHTML = '';
 
@@ -380,6 +418,18 @@
         embla.scrollTo(index);
       });
     });
+
+
+
+  // 淡入
+  emblaEl.classList.remove('fade-out');
+  emblaEl.classList.add('fade-in');
+  thumbListEl.classList.remove('fade-out');
+  thumbListEl.classList.add('fade-in');
+
+
+
+
 
     // 預設選中第一張
     embla.emit('select');
