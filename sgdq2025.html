@@ -211,6 +211,7 @@
           runners: r.runners.map(rr => rr.name).join(', '),
           start: new Date(r.starttime),
           estimate: r.run_time,
+          console: r.console,
         }));
 
       createDayButtons();
@@ -311,7 +312,7 @@
           <h3>${info.jp || ''}</h3>
           <h3>${info.en || ''}</h3>
           ${details[0] ? `<p class="category-tw">${details[0]}</p><p>${item.category}</p>` : `<p class="category-tw">${item.category}</p>`}
-          <p><strong>預定開跑：</strong>${item.start.toLocaleString('zh-TW', { timeZone: 'Asia/Taipei', hourCycle: 'h23', hour: '2-digit', minute: '2-digit' })}　<strong>預計長度：</strong>${item.estimate}</p>
+          <p><strong>預定開跑：</strong>${item.start.toLocaleString('zh-TW', { timeZone: 'Asia/Taipei', hourCycle: 'h23', hour: '2-digit', minute: '2-digit' })}　<strong>預計長度：</strong>${item.estimate}　<strong>主機平台：</strong>${item.console}</p>
           <p><strong>跑者：</strong>${item.runners}</p>
           ${details[1] ? `<p class="details">${details[1]}</p>` : ''}
         </div>
