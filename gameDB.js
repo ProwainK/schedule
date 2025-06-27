@@ -610,7 +610,7 @@ window.gameDB = {
     "tw": null,
     "jp": null,
     "en": "A Plumber for All Seasons",
-    "boxart": "http://i3.ytimg.com/vi/5tSiTJ4ev4w/hqdefault.jpg",
+    "boxart": "https://i3.ytimg.com/vi/5tSiTJ4ev4w/hqdefault.jpg",
     "sgdq2025": {
         "Any%": [
           null,
@@ -1190,7 +1190,7 @@ window.gameDB = {
     "tw": null,
     "jp": null,
     "en": "Sayonara Mario World 2",
-    "boxart": "http://i3.ytimg.com/vi/-iznAClMnCA/hqdefault.jpg",
+    "boxart": "https://i3.ytimg.com/vi/-iznAClMnCA/hqdefault.jpg",
     "sgdq2025": {
         "XXO%": [
           null,
