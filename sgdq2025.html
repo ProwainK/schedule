@@ -359,7 +359,7 @@
       slide.className = 'embla__slide';
       slide.innerHTML = `
         <div class="left-side">
-          <img loading="lazy" class="game-boxart" src="${info.boxart || ''}" alt="${item.game}" />
+          <img class="game-boxart" src="${info.boxart || ''}" alt="${item.game}" />
         </div>
         <div class="right-side">
           <h2>${info.tw || info.en || item.game}</h2>
@@ -377,7 +377,6 @@
       const thumbSlide = document.createElement('div');
       thumbSlide.className = 'embla__slide';
       const thumbImg = document.createElement('img');
-      thumbImg.loading = 'lazy';
       thumbImg.className = 'thumbnail';
       thumbImg.src = info.boxart || '';
       thumbImg.alt = `${item.game} 縮圖`;
