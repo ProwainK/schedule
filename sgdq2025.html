@@ -258,7 +258,9 @@
 
       const btn = document.createElement('button');
       btn.className = 'day-button';
-      btn.textContent = labelFmt.format(localDate);
+      // btn.textContent = labelFmt.format(localDate);
+      let text = labelFmt.format(localDate).replace(/[（）]/g, ' ').trim(); // "07/07 週一"
+      btn.textContent = text;
       btn.onclick = () => {
         document.querySelectorAll('.day-button').forEach(b => b.classList.remove('active'));
         btn.classList.add('active');
