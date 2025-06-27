@@ -19,9 +19,9 @@
 
   text-shadow: black 0.2em 0.2em 0.3em;
 
-  background-image: linear-gradient(to right, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.3)),
-                    url("https://gamesdonequick.com/gdqsection.webp");
   background-color: #222;
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.3)),
+                    url(https://gamesdonequick.com/gdqsection.webp);
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -211,24 +211,35 @@
   let embla, thumbEmbla;
 
   async function init() {
+
     try {
 
-      // const res = await fetch(`https://gamesdonequick.com/api/schedule/${EVENT_ID}`);
-      // const res = await fetch(`https://tracker.gamesdonequick.com/tracker/api/v2/events/${EVENT_ID}/runs`);
-      // const json = await res.json();
+      let json = null;
 
-    let json;
-    try {
-      const res = await fetch(`https://tracker.gamesdonequick.com/tracker/api/v2/events/${EVENT_ID}/runs`);
-      json = await res.json();
-    } catch (fetchErr) {
-      console.warn('API 抓取失敗，改用本地備用資料。', fetchErr);
-      if (window.gdqLocalData) {
-        json = { results: window.gdqLocalData.results };
-      } else {
-        throw new Error('找不到本地備用資料');
+      // 舊版 API
+      /*
+      try {
+        const res = await fetch(`https://gamesdonequick.com/api/schedule/${EVENT_ID}`);
+        json = await res.json();
+      } catch { }
+      */
+
+      // 新版 API
+      if (json == null) {
+        try {
+          const res = await fetch(`https://tracker.gamesdonequick.com/tracker/api/v2/events/${EVENT_ID}/runs`);
+          json = await res.json();
+          console.log("新版 API Success");
+        } catch { }
       }
-    }
+
+      // 已經抓好的 JS 檔，但會過期
+      if (json == null) {
+        try {
+          json = { results: window.gdqLocalData.results };
+          console.log("JS 檔 Success");
+        } catch { }
+      }
 
     allRuns = json.results
       .filter(r => r.type === 'speedrun' || r.name) // local fallback 沒有 type 時也允許
