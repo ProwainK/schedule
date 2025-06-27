@@ -152,9 +152,28 @@
   .thumbnail.is-selected {
     border-color: #FFF;
   }
+
+/* Loading 樣式 */
+#loadingOverlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.8);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  z-index: 9999;
+  text-shadow: black 0.1em 0.1em 0.2em;
+}
 </style>
 </head>
 <body>
+
+<div id="loadingOverlay">載入中，請稍候…</div>
 
 <div class="day-selector" id="daySelector"></div>
 
@@ -170,6 +189,10 @@
 <script src="https://unpkg.com/embla-carousel-wheel-gestures/dist/embla-carousel-wheel-gestures.umd.js"></script>
 <script src="gameDB.js"></script>
 <script>
+  // 顯示 loading
+  const loadingEl = document.getElementById('loadingOverlay');
+  if (loadingEl) loadingEl.style.display = 'flex';
+
   const EVENT_ID = 56;
   let allRuns = [];
   let embla, thumbEmbla;
@@ -199,6 +222,10 @@
     } catch (e) {
       document.body.innerHTML = '<p style="color:red; text-align:center; margin-top:2rem;">賽程載入失敗</p>';
       console.error(e);
+    } finally {
+      // 隱藏 loading
+      const loadingEl = document.getElementById('loadingOverlay');
+      if (loadingEl) loadingEl.style.display = 'none';
     }
   }
 
@@ -275,7 +302,7 @@
       slide.className = 'embla__slide';
       slide.innerHTML = `
         <div class="left-side">
-          <img class="game-boxart" src="${info.boxart || ''}" alt="${item.game}" />
+          <img loading="lazy" class="game-boxart" src="${info.boxart || ''}" alt="${item.game}" />
         </div>
         <div class="right-side">
           <h2>${info.tw || info.en || item.game}</h2>
@@ -293,6 +320,7 @@
       const thumbSlide = document.createElement('div');
       thumbSlide.className = 'embla__slide';
       const thumbImg = document.createElement('img');
+      thumbImg.loading = 'lazy';
       thumbImg.className = 'thumbnail';
       thumbImg.src = info.boxart || '';
       thumbImg.alt = `${item.game} 縮圖`;
