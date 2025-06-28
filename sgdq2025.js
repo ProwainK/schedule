@@ -1,4 +1,4 @@
-window.gdqLocalData = {
+window.gdqLocalSchedule = {
   "count": 146,
   "next": null,
   "previous": null,
@@ -3370,12 +3370,12 @@ window.gdqLocalData = {
         {
           "type": "talent",
           "id": 4036,
-          "name": "Vain",
-          "stream": "",
+          "name": "Vainx",
+          "stream": "https://twitch.tv/vainx",
           "twitter": "",
           "youtube": "",
           "platform": "TWITCH",
-          "pronouns": ""
+          "pronouns": "he/him"
         }
       ],
       "starttime": "2025-07-08T12:10:00-04:00",
@@ -4316,6 +4316,16 @@ window.gdqLocalData = {
           "youtube": "",
           "platform": "TWITCH",
           "pronouns": "He/Him"
+        },
+        {
+          "type": "talent",
+          "id": 562,
+          "name": "Nerd_Squared",
+          "stream": "https://twitch.tv/n3rd_squared",
+          "twitter": "N3rd_Squared",
+          "youtube": "",
+          "platform": "TWITCH",
+          "pronouns": ""
         }
       ],
       "starttime": "2025-07-09T04:02:00-04:00",
@@ -6311,6 +6321,16 @@ window.gdqLocalData = {
           "youtube": "",
           "platform": "TWITCH",
           "pronouns": "she/they"
+        },
+        {
+          "type": "talent",
+          "id": 2018,
+          "name": "Kobazco",
+          "stream": "https://twitch.tv/kobazco",
+          "twitter": "Kobazco",
+          "youtube": "",
+          "platform": "TWITCH",
+          "pronouns": "they/she"
         }
       ],
       "starttime": "2025-07-10T07:07:00-04:00",
@@ -7326,25 +7346,25 @@ window.gdqLocalData = {
     {
       "type": "speedrun",
       "id": 7039,
-      "name": "Game To Be Revealed",
-      "display_name": "Game To Be Revealed",
-      "twitch_name": "",
+      "name": "Doom: The Dark Ages",
+      "display_name": "Doom: The Dark Ages",
+      "twitch_name": "Doom: The Dark Ages",
       "description": "",
-      "category": "Mystery",
+      "category": "Any%",
       "coop": false,
       "onsite": "ONSITE",
-      "console": "TBD",
+      "console": "PC",
       "release_year": 2025,
       "runners": [
         {
           "type": "talent",
-          "id": 1767,
-          "name": "Mystery Runner",
-          "stream": "",
-          "twitter": "",
+          "id": 833,
+          "name": "BloodThunder",
+          "stream": "https://twitch.tv/bloodthunder",
+          "twitter": "bl00dthunder",
           "youtube": "",
           "platform": "TWITCH",
-          "pronouns": ""
+          "pronouns": "He/Him"
         }
       ],
       "hosts": [
@@ -7359,7 +7379,38 @@ window.gdqLocalData = {
           "pronouns": ""
         }
       ],
-      "commentators": [],
+      "commentators": [
+        {
+          "type": "talent",
+          "id": 2424,
+          "name": "Meta",
+          "stream": "https://twitch.tv/meta_live",
+          "twitter": "ItsCamNotCan",
+          "youtube": "",
+          "platform": "TWITCH",
+          "pronouns": "He/Him"
+        },
+        {
+          "type": "talent",
+          "id": 2026,
+          "name": "Raitro_",
+          "stream": "https://www.twitch.tv/raitro_",
+          "twitter": "Raitro_",
+          "youtube": "",
+          "platform": "TWITCH",
+          "pronouns": "Any/All"
+        },
+        {
+          "type": "talent",
+          "id": 1221,
+          "name": "BloodShot9001",
+          "stream": "https://www.twitch.tv/bloodshot9001",
+          "twitter": "BloodShot9001",
+          "youtube": "",
+          "platform": "TWITCH",
+          "pronouns": ""
+        }
+      ],
       "starttime": "2025-07-10T22:21:00-04:00",
       "endtime": "2025-07-10T23:59:00-04:00",
       "order": 106,
@@ -7370,7 +7421,7 @@ window.gdqLocalData = {
       "video_links": [],
       "priority_tag": null,
       "tags": [
-        "mystery"
+        "new_addition"
       ]
     },
     {
@@ -7860,12 +7911,12 @@ window.gdqLocalData = {
         {
           "type": "talent",
           "id": 4036,
-          "name": "Vain",
-          "stream": "",
+          "name": "Vainx",
+          "stream": "https://twitch.tv/vainx",
           "twitter": "",
           "youtube": "",
           "platform": "TWITCH",
-          "pronouns": ""
+          "pronouns": "he/him"
         },
         {
           "type": "talent",
@@ -10055,25 +10106,25 @@ window.gdqLocalData = {
     {
       "type": "speedrun",
       "id": 7076,
-      "name": "BONUS GAME 4 - Game To Be Revealed",
-      "display_name": "BONUS GAME 4 - Game To Be Revealed",
-      "twitch_name": "",
+      "name": "BONUS GAME 4 - Mario Kart World",
+      "display_name": "BONUS GAME 4 - Mario Kart World",
+      "twitch_name": "Mario Kart World",
       "description": "",
-      "category": "Question Block",
+      "category": "Knockout Tours",
       "coop": false,
       "onsite": "ONSITE",
-      "console": "TBD",
+      "console": "Switch 2",
       "release_year": 2025,
       "runners": [
         {
           "type": "talent",
-          "id": 1767,
-          "name": "Mystery Runner",
-          "stream": "",
-          "twitter": "",
+          "id": 1795,
+          "name": "Peas",
+          "stream": "https://twitch.tv/peassmb",
+          "twitter": "peassmb",
           "youtube": "",
           "platform": "TWITCH",
-          "pronouns": ""
+          "pronouns": "He/him"
         }
       ],
       "hosts": [
@@ -10088,7 +10139,38 @@ window.gdqLocalData = {
           "pronouns": "she"
         }
       ],
-      "commentators": [],
+      "commentators": [
+        {
+          "type": "talent",
+          "id": 1939,
+          "name": "limy",
+          "stream": "https://twitch.tv/limy_sr",
+          "twitter": "limy_sr",
+          "youtube": "",
+          "platform": "TWITCH",
+          "pronouns": "any"
+        },
+        {
+          "type": "talent",
+          "id": 1023,
+          "name": "Helix",
+          "stream": "https://twitch.tv/helix13_",
+          "twitter": "helix13_",
+          "youtube": "",
+          "platform": "TWITCH",
+          "pronouns": "she/they"
+        },
+        {
+          "type": "talent",
+          "id": 2163,
+          "name": "KingJO444",
+          "stream": "https://twitch.tv/kingjo444",
+          "twitter": "Kingj0444",
+          "youtube": "",
+          "platform": "TWITCH",
+          "pronouns": "He/Him"
+        }
+      ],
       "starttime": "2025-07-12T20:50:00-04:00",
       "endtime": "2025-07-12T22:45:00-04:00",
       "order": 144,
@@ -10100,7 +10182,7 @@ window.gdqLocalData = {
       "priority_tag": null,
       "tags": [
         "bonus",
-        "mystery"
+        "new_addition"
       ]
     },
     {
