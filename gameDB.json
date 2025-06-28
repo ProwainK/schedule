@@ -364,7 +364,7 @@
         ]
     }
   },
-  "BONUS GAME 1 - Donkey Kong Jungle Beat": {
+  "Donkey Kong Jungle Beat": {
     "tw": "大金剛 叢林節奏",
     "jp": "ドンキーコングジャングルビート",
     "en": "Donkey Kong Jungle Beat",
@@ -908,7 +908,7 @@
         ]
     }
   },
-  "Synchronica (シンクロニカ)": {
+  "Synchronica": {
     "tw": null,
     "jp": "シンクロニカ",
     "en": "Synchronica",
@@ -920,7 +920,7 @@
         ]
     }
   },
-  "BONUS GAME 2 - Super Mario Odyssey": {
+  "Super Mario Odyssey": {
     "tw": "超級瑪利歐 奧德賽",
     "jp": "スーパーマリオ オデッセイ",
     "en": "Super Mario Odyssey",
@@ -1222,6 +1222,18 @@
         ]
     }
   },
+  "Doom: The Dark Ages": {
+    "tw": "毀滅戰士 黑暗時代",
+    "jp": null,
+    "en": "Doom: The Dark Ages",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/936822813_IGDB.jpg",
+    "sgdq2025": {
+        "Any%": [
+          null,
+          "今年 5 月發售、Doom 系列第八部作品！"
+        ]
+    }
+  },
   "Neon White": {
     "tw": "霓虹白客",
     "jp": null,
@@ -1428,7 +1440,7 @@
         ]
     }
   },
-  "BONUS GAME 3 - Bloodborne": {
+  "Bloodborne": {
     "tw": "血源詛咒",
     "jp": null,
     "en": "Bloodborne",
@@ -1614,15 +1626,15 @@
         ]
     }
   },
-  "BONUS GAME 4 - Game To Be Revealed": {
-    "tw": null,
-    "jp": null,
-    "en": "BONUS GAME 4",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-static/404_boxart-600x800.jpg",
+  "Mario Kart World": {
+    "tw": "瑪利歐賽車世界",
+    "jp": "マリオカート ワールド",
+    "en": "Mario Kart World",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1826300051_IGDB.jpg",
     "sgdq2025": {
-        "Question Block": [
+        "Knockout Tours": [
           null,
-          "加碼遊戲 BONUS GAME 4"
+          "加碼遊戲 BONUS GAME 4<br>今年 5 月發售、飛簷走壁跑出花式華麗路線！"
         ]
     }
   },
@@ -1652,27 +1664,15 @@
   },
 
 
-  "Doom: The Dark Ages": {
-    "tw": "毀滅戰士 黑暗時代",
+  "BONUS GAME 4": {
+    "tw": null,
     "jp": null,
-    "en": "Doom: The Dark Ages",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/936822813_IGDB.jpg",
+    "en": "BONUS GAME 4",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-static/404_boxart-600x800.jpg",
     "sgdq2025": {
-        "Any%": [
+        "Question Block": [
           null,
-          "今年 5 月發售、Doom 系列第八部作品！"
-        ]
-    }
-  },
-  "BONUS GAME 4 - Mario Kart World": {
-    "tw": "瑪利歐賽車世界",
-    "jp": "マリオカート ワールド",
-    "en": "Mario Kart World",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1826300051_IGDB.jpg",
-    "sgdq2025": {
-        "Knockout Tours": [
-          null,
-          "加碼遊戲 BONUS GAME 4<br>今年 5 月發售、飛簷走壁跑出花式華麗路線！"
+          "加碼遊戲 BONUS GAME 4"
         ]
     }
   },

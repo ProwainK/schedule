@@ -200,6 +200,7 @@
 <script src="https://unpkg.com/embla-carousel/embla-carousel.umd.js"></script>
 <script src="https://unpkg.com/embla-carousel-wheel-gestures/dist/embla-carousel-wheel-gestures.umd.js"></script>
 <script src="gameDB.js"></script>
+<script src="renameDB.js"></script>
 <script src="sgdq2025.js"></script>
 <script>
   // 顯示 loading
@@ -362,6 +363,8 @@
     }
 
     filtered.forEach((item, i) => {
+      item.game = window.renameDB[item.game] || item.game;
+      // console.log(item.game);
       const info = window.gameDB[item.game] || {};
       const details = (info.sgdq2025 && info.sgdq2025[item.category]) || [null, null];
 
