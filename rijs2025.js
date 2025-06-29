@@ -5,6 +5,7 @@ const gameData = {
     "jp": null,
     "en": "Barbie: Super Model",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/15372_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
         "Any% Super Model": [
           null,
@@ -17,6 +18,7 @@ const gameData = {
     "jp": "バイオハザード RE:2",
     "en": "Resident Evil 2 (2019)",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/195053862_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "Hunk": [
         null,
@@ -29,6 +31,7 @@ const gameData = {
     "jp": null,
     "en": "Chants of Sennaar",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/790563148_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "100%": [
         null,
@@ -41,6 +44,7 @@ const gameData = {
     "jp": null,
     "en": "Climbing In Barrel With Double-Barrel",
     "boxart": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2908140/header.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "Any%": [
         null,
@@ -53,6 +57,7 @@ const gameData = {
     "jp": null,
     "en": "Cook, Serve, Delicious! 3?!",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/513770_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "Buttermilk County% Standard Mode Only (single run)": [
         null,
@@ -65,6 +70,7 @@ const gameData = {
     "jp": null,
     "en": "Dead Cells",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/495961_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "FreshFile": [
         null,
@@ -73,10 +79,11 @@ const gameData = {
     }
   },
   "Death and Taxes": {
-    "tw": null,
-    "jp": "Death and Taxes",
+    "tw": "死亡與稅賦",
+    "jp": null,
     "en": "Death and Taxes",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/515940_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "Utopia%": [
         null,
@@ -85,10 +92,11 @@ const gameData = {
     }
   },
   "DEMENTO": {
-    "tw": null,
-    "jp": "DEMENTO",
-    "en": "DEMENTO",
-    "boxart": null,
+    "tw": "狂氣古城",
+    "jp": "デメント",
+    "en": "Haunting Ground / DEMENTO",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/2607_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "NewGame+ A Ending レース": [
         null,
@@ -97,10 +105,11 @@ const gameData = {
     }
   },
   "DRAG-ON DRAGOON 3": {
-    "tw": null,
-    "jp": "DRAG-ON DRAGOON 3",
-    "en": "DRAG-ON DRAGOON 3",
-    "boxart": null,
+    "tw": "誓血龍騎士 3",
+    "jp": "ドラッグオンドラグーン 3",
+    "en": "Drakengard 3 / DRAG-ON DRAGOON 3",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/133413_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "[A] NG+": [
         null,
@@ -109,10 +118,11 @@ const gameData = {
     }
   },
   "E.T. The Extra-Terrestrial": {
-    "tw": null,
-    "jp": "E.T. The Extra-Terrestrial",
+    "tw": "E.T. 外星人",
+    "jp": null,
     "en": "E.T. The Extra-Terrestrial",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/3631_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "Any% No RNG Manipulation Hard": [
         null,
@@ -122,9 +132,10 @@ const gameData = {
   },
   "Final Fantasy X-2 HD Remaster": {
     "tw": null,
-    "jp": "Final Fantasy X-2 HD Remaster",
+    "jp": null,
     "en": "Final Fantasy X-2 HD Remaster",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/271501702_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "Any% No Creature Creator": [
         null,
@@ -134,9 +145,10 @@ const gameData = {
   },
   "Final Fantasy IX": {
     "tw": null,
-    "jp": "Final Fantasy IX",
+    "jp": null,
     "en": "Final Fantasy IX",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/8090_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "PSX Any% JP": [
         null,
@@ -145,10 +157,11 @@ const gameData = {
     }
   },
   "Inscryption": {
-    "tw": null,
-    "jp": "Inscryption",
+    "tw": "賭命牌卡",
+    "jp": null,
     "en": "Inscryption",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1147745783_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "Kaycee’s mod All Challenges並走会 レース": [
         null,
@@ -157,10 +170,11 @@ const gameData = {
     }
   },
   "Looney Tunes ロードランナーvsワイリーコヨーテ": {
-    "tw": null,
+    "tw": "嗶嗶鳥的死亡谷拉力賽",
     "jp": "Looney Tunes ロードランナーvsワイリーコヨーテ",
-    "en": "Looney Tunes ロードランナーvsワイリーコヨーテ",
-    "boxart": null,
+    "en": "Road Runner's Death Valley Rally",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/16863_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "Any%": [
         null,
@@ -169,10 +183,11 @@ const gameData = {
     }
   },
   "METAL MAX2": {
-    "tw": null,
-    "jp": "METAL MAX2",
-    "en": "METAL MAX2",
-    "boxart": null,
+    "tw": "坦克戰記 2",
+    "jp": "メタルマックス 2",
+    "en": "METAL MAX 2",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/10926_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "Any%ALL BOUNTIES": [
         null,
@@ -182,9 +197,10 @@ const gameData = {
   },
   "Minecraft Java Edition": {
     "tw": null,
-    "jp": "Minecraft Java Edition",
-    "en": "Minecraft Java Edition",
-    "boxart": null,
+    "jp": null,
+    "en": "Minecraft: Java Edition",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/27471_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "HHH Any% Random Seed Glitchless レース": [
         null,
@@ -193,10 +209,11 @@ const gameData = {
     }
   },
   "NieR:Automata": {
-    "tw": null,
-    "jp": "NieR:Automata",
-    "en": "NieR:Automata",
-    "boxart": null,
+    "tw": "尼爾：自動人形",
+    "jp": "ニーア オートマタ",
+    "en": "NieR: Automata",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/494162_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "[A] Normal": [
         null,
@@ -206,9 +223,10 @@ const gameData = {
   },
   "noita": {
     "tw": null,
-    "jp": "noita",
-    "en": "noita",
-    "boxart": null,
+    "jp": null,
+    "en": "Noita",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/505705_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "All Bosses(Random Seed)": [
         null,
@@ -217,10 +235,11 @@ const gameData = {
     }
   },
   "Nova Drift": {
-    "tw": null,
-    "jp": "Nova Drift",
+    "tw": "新星漂移",
+    "jp": null,
     "en": "Nova Drift",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/497013_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "Phylogeny": [
         null,
@@ -229,10 +248,11 @@ const gameData = {
     }
   },
   "Radiant Silvergun": {
-    "tw": null,
-    "jp": "Radiant Silvergun",
+    "tw": "閃亮銀槍",
+    "jp": null,
     "en": "Radiant Silvergun",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/15540_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "Scoring , sword only": [
         null,
@@ -241,10 +261,11 @@ const gameData = {
     }
   },
   "Radical Relocation": {
-    "tw": null,
-    "jp": "Radical Relocation",
+    "tw": "過激搬家",
+    "jp": null,
     "en": "Radical Relocation",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/516889_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "NG Car%": [
         null,
@@ -253,10 +274,11 @@ const gameData = {
     }
   },
   "Rhythm Doctor": {
-    "tw": null,
-    "jp": "Rhythm Doctor",
+    "tw": "節奏醫生",
+    "jp": null,
     "en": "Rhythm Doctor",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/504502_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "Any%,r30+,Blindfolded,No Samurai,Normal": [
         null,
@@ -265,10 +287,11 @@ const gameData = {
     }
   },
   "Salt and Sanctuary": {
-    "tw": null,
-    "jp": "Salt and Sanctuary",
+    "tw": "鹽與聖所",
+    "jp": null,
     "en": "Salt and Sanctuary",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/476371_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "All Bosses No Major Glitches": [
         null,
@@ -278,9 +301,10 @@ const gameData = {
   },
   "SCHiM - スキム -": {
     "tw": null,
-    "jp": "SCHiM - スキム -",
-    "en": "SCHiM - スキム -",
-    "boxart": null,
+    "jp": null,
+    "en": "SCHiM",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/791503107_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "Any% レース": [
         null,
@@ -289,10 +313,11 @@ const gameData = {
     }
   },
   "Shadow corridor": {
-    "tw": null,
-    "jp": "Shadow corridor",
-    "en": "Shadow corridor",
-    "boxart": null,
+    "tw": "影之迴廊",
+    "jp": null,
+    "en": "Shadow Corridor",
+    "boxart": "https://i.namu.wiki/i/K1HAjThVhjhjOTV6LMR93ZDtBCqs_11omHTUohb69reympIOE-1MudbmdtHRMbhIhh8LIbAtHgEhvW8ONpI-eg.webp",
+    "leaderboard": null,
     "rijs2025": {
       "Path of Asuras Full": [
         null,
@@ -301,10 +326,11 @@ const gameData = {
     }
   },
   "SILENT HILL 2 (2024)": {
-    "tw": null,
-    "jp": "SILENT HILL 2 (2024)",
+    "tw": "沉默之丘 2：重製版",
+    "jp": null,
     "en": "SILENT HILL 2 (2024)",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/2058570718_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "Restricted": [
         null,
@@ -313,10 +339,11 @@ const gameData = {
     }
   },
   "Smushi Come Home": {
-    "tw": null,
-    "jp": "Smushi Come Home",
+    "tw": "斯摩西回家",
+    "jp": null,
     "en": "Smushi Come Home",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/606867561_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "All Hats": [
         null,
@@ -326,9 +353,10 @@ const gameData = {
   },
   "Super Puzzled Cat": {
     "tw": null,
-    "jp": "Super Puzzled Cat",
+    "jp": null,
     "en": "Super Puzzled Cat",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/998306791_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "Any%": [
         null,
@@ -337,10 +365,11 @@ const gameData = {
     }
   },
   "TETRIS THE GRAND MASTER 4 -ABSOLUTE EYE-": {
-    "tw": null,
-    "jp": "TETRIS THE GRAND MASTER 4 -ABSOLUTE EYE-",
-    "en": "TETRIS THE GRAND MASTER 4 -ABSOLUTE EYE-",
-    "boxart": null,
+    "tw": "俄羅斯方塊大師 4 - 絕世之眼 -",
+    "jp": "テトリス ザ・グランドマスター 4 - アブソリュート アイ -",
+    "en": "TETRIS THE GRAND MASTER 4 - ABSOLUTE EYE -",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/253599228_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "MASTER-mode Rank \"Master\" Challenge レース": [
         null,
@@ -349,10 +378,11 @@ const gameData = {
     }
   },
   "The Elder Scrolls V: Skyrim": {
-    "tw": null,
-    "jp": "The Elder Scrolls V: Skyrim",
+    "tw": "上古卷軸 V：無界天際",
+    "jp": null,
     "en": "The Elder Scrolls V: Skyrim",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/30028_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "Glitchless Main Quest": [
         null,
@@ -362,9 +392,10 @@ const gameData = {
   },
   "TOEM": {
     "tw": null,
-    "jp": "TOEM",
+    "jp": null,
     "en": "TOEM",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1746925300_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "Combined 99%": [
         null,
@@ -374,9 +405,10 @@ const gameData = {
   },
   "vivid/stasis": {
     "tw": null,
-    "jp": "vivid/stasis",
+    "jp": null,
     "en": "vivid/stasis",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1039569154_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "リズムゲームショーケース": [
         null,
@@ -386,9 +418,10 @@ const gameData = {
   },
   "wattam": {
     "tw": null,
-    "jp": "wattam",
-    "en": "wattam",
-    "boxart": null,
+    "jp": null,
+    "en": "Wattam",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/488629_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "Any%": [
         null,
@@ -398,9 +431,10 @@ const gameData = {
   },
   "Windowkill": {
     "tw": null,
-    "jp": "Windowkill",
+    "jp": null,
     "en": "Windowkill",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1175329714_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "Any% v.4.0.0 Standardized レース": [
         null,
@@ -409,10 +443,11 @@ const gameData = {
     }
   },
   "Wizardry: Proving Grounds of the Mad Overlord": {
-    "tw": null,
-    "jp": "Wizardry: Proving Grounds of the Mad Overlord",
+    "tw": "巫術：瘋狂領主的試驗場",
+    "jp": null,
     "en": "Wizardry: Proving Grounds of the Mad Overlord",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1770954340_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "Any%": [
         null,
@@ -422,9 +457,10 @@ const gameData = {
   },
   "Xeno Runners": {
     "tw": null,
-    "jp": "Xeno Runners",
+    "jp": null,
     "en": "Xeno Runners",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1346851276_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "Any% F-6000 レース": [
         null,
@@ -433,10 +469,11 @@ const gameData = {
     }
   },
   "XI[sái]シリーズトリロジーリレー": {
-    "tw": null,
-    "jp": "XI[sái]シリーズトリロジーリレー",
-    "en": "XI[sái]シリーズトリロジーリレー",
-    "boxart": null,
+    "tw": "X1 (骰子大戰) 三部曲接力賽",
+    "jp": "XI [sái] シリーズトリロジーリレー",
+    "en": "Devil Dice series trilogy relay",
+    "boxart": "https://www.speedrun.com/static/game/3dx2yy51/cover.png",
+    "leaderboard": null,
     "rijs2025": {
       "XI[sái] / Puzzle Mode 100-Puzzles リレー": [
         null,
@@ -453,10 +490,11 @@ const gameData = {
     }
   },
   "ZWEI2(ツヴァイ2)": {
-    "tw": null,
-    "jp": "ZWEI2(ツヴァイ2)",
-    "en": "ZWEI2(ツヴァイ2)",
-    "boxart": null,
+    "tw": "雙星物語 2",
+    "jp": "ツヴァイ 2",
+    "en": "Zwei: The Ilvard Insurrection / ZWEI II",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/370519_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "Any%,New Game": [
         null,
@@ -465,10 +503,11 @@ const gameData = {
     }
   },
   "アーケードアーカイブス トリオ・ザ・パンチ": {
-    "tw": null,
+    "tw": "艷姿三強男之勝負拳",
     "jp": "アーケードアーカイブス トリオ・ザ・パンチ",
-    "en": "アーケードアーカイブス トリオ・ザ・パンチ",
-    "boxart": null,
+    "en": "Trio the Punch: Never Forget Me",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/33266_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "Any% Race レース": [
         null,
@@ -477,10 +516,11 @@ const gameData = {
     }
   },
   "アーネスト・エバンス": {
-    "tw": null,
+    "tw": "叢林戰士 (狼組製作)",
     "jp": "アーネスト・エバンス",
-    "en": "アーネスト・エバンス",
-    "boxart": null,
+    "en": "Earnest Evans",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/16519_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "Any%": [
         null,
@@ -489,10 +529,11 @@ const gameData = {
     }
   },
   "アーマード・コア ナインブレイカー": {
-    "tw": null,
+    "tw": "機戰傭兵：9 號破壞者",
     "jp": "アーマード・コア ナインブレイカー",
-    "en": "アーマード・コア ナインブレイカー",
-    "boxart": null,
+    "en": "Armored Core: Nine Breaker",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/20615_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "All Training Gold レース": [
         null,
@@ -501,10 +542,11 @@ const gameData = {
     }
   },
   "アフターイメージ": {
-    "tw": null,
+    "tw": "心淵夢境",
     "jp": "アフターイメージ",
-    "en": "アフターイメージ",
-    "boxart": null,
+    "en": "Afterimage",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/197234813_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "Any%（Unrestricted）": [
         null,
@@ -513,10 +555,11 @@ const gameData = {
     }
   },
   "アメリカンバトルドーム": {
-    "tw": null,
+    "tw": "對戰彈珠檯",
     "jp": "アメリカンバトルドーム",
-    "en": "アメリカンバトルドーム",
-    "boxart": null,
+    "en": "American Battle Dome",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/508107_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "All Stages レース": [
         null,
@@ -525,10 +568,11 @@ const gameData = {
     }
   },
   "アメリカ横断ウルトラクイズ": {
-    "tw": null,
+    "tw": "橫貫美國大猜謎",
     "jp": "アメリカ横断ウルトラクイズ",
-    "en": "アメリカ横断ウルトラクイズ",
-    "boxart": null,
+    "en": "America Oudan Ultra Quiz: Shijou Saidai no Tatakai",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/11761_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "Original Mode": [
         null,
@@ -537,10 +581,11 @@ const gameData = {
     }
   },
   "アリス・エスケイプト！": {
-    "tw": null,
+    "tw": "尋找愛麗絲！",
     "jp": "アリス・エスケイプト！",
-    "en": "アリス・エスケイプト！",
-    "boxart": null,
+    "en": "Alice Escaped!",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1805112810_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "All Endings HardCore": [
         null,
@@ -549,10 +594,11 @@ const gameData = {
     }
   },
   "イースⅠクロニクルズ": {
-    "tw": null,
-    "jp": "イースⅠクロニクルズ",
-    "en": "イースⅠクロニクルズ",
-    "boxart": null,
+    "tw": "伊蘇 I 年代記",
+    "jp": "イース Iクロニクルズ",
+    "en": "Ys Chronicles 1",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/2029060124_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "Any％": [
         null,
@@ -562,21 +608,23 @@ const gameData = {
   },
   "いただきストリート　ゴージャスキング": {
     "tw": null,
-    "jp": "いただきストリート　ゴージャスキング",
-    "en": "いただきストリート　ゴージャスキング",
-    "boxart": null,
+    "jp": "いただきストリート ゴージャスキング (人生街道系列)",
+    "en": "Itadaki Street: Gorgeous King",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/489227_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "いたスト王決定戦": [
         null,
-        null
+        "人生街道系列 (骰動人生好運道，富豪街)"
       ]
     }
   },
   "ウルトラ怪獣モンスターファーム": {
-    "tw": null,
+    "tw": "超人怪獸農場",
     "jp": "ウルトラ怪獣モンスターファーム",
-    "en": "ウルトラ怪獣モンスターファーム",
-    "boxart": null,
+    "en": "Ultra Kaiju Monster Rancher",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/591032671_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "6 emblem レース": [
         null,
@@ -585,10 +633,11 @@ const gameData = {
     }
   },
   "カラスのおしごと": {
-    "tw": null,
+    "tw": "搗蛋鴉",
     "jp": "カラスのおしごと",
-    "en": "カラスのおしごと",
-    "boxart": null,
+    "en": "Just Crow Things",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1365842505_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "All Levels NG": [
         null,
@@ -597,10 +646,11 @@ const gameData = {
     }
   },
   "カンパニーマン 社畜の下剋上": {
-    "tw": null,
+    "tw": "打工人",
     "jp": "カンパニーマン 社畜の下剋上",
-    "en": "カンパニーマン 社畜の下剋上",
-    "boxart": null,
+    "en": "The Company Man",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/738442100_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "New Game": [
         null,
@@ -609,10 +659,11 @@ const gameData = {
     }
   },
   "クロノアーク": {
-    "tw": null,
+    "tw": "超時空方舟",
     "jp": "クロノアーク",
-    "en": "クロノアーク",
-    "boxart": null,
+    "en": "Chrono Ark",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/515157_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "ハード血霧４赤い荒野": [
         null,
@@ -621,10 +672,11 @@ const gameData = {
     }
   },
   "ゲームセンターCX 有野の挑戦状 1+2 REPLAY": {
-    "tw": null,
-    "jp": "ゲームセンターCX 有野の挑戦状 1+2 REPLAY",
-    "en": "ゲームセンターCX 有野の挑戦状 1+2 REPLAY",
-    "boxart": null,
+    "tw": "Game Center CX 有野的挑戰書 1+2 REPLAY",
+    "jp": "ゲームセンター CX 有野の挑戦状 1+2 REPLAY",
+    "en": "GameCenter CX: Arino no Chousenjou 1 + 2 Replay",
+    "boxart": "https://www.speedrun.com/static/game/m1zy5n06/cover.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "有野の挑戦状 Any%": [
         null,
@@ -633,10 +685,11 @@ const gameData = {
     }
   },
   "ケツバトラー": {
-    "tw": null,
+    "tw": "屁股戰士",
     "jp": "ケツバトラー",
-    "en": "ケツバトラー",
-    "boxart": null,
+    "en": "Ketsu Battler",
+    "boxart": "https://www.speedrun.com/static/game/m1mep0xd/cover.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "Beat 6 Characters with 6 Characters レース": [
         null,
@@ -645,10 +698,11 @@ const gameData = {
     }
   },
   "ゴジラ怪獣大決戦": {
-    "tw": null,
-    "jp": "ゴジラ怪獣大決戦",
-    "en": "ゴジラ怪獣大決戦",
-    "boxart": null,
+    "tw": "哥吉拉 怪獸大決戰",
+    "jp": "ゴジラ 怪獣大決戦",
+    "en": "Godzilla: Monster War",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/20768_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "Expert": [
         null,
@@ -657,10 +711,11 @@ const gameData = {
     }
   },
   "サカつく2002 J.LEAGUEプロサッカークラブをつくろう!": {
-    "tw": null,
-    "jp": "サカつく2002 J.LEAGUEプロサッカークラブをつくろう!",
-    "en": "サカつく2002 J.LEAGUEプロサッカークラブをつくろう!",
-    "boxart": null,
+    "tw": "模擬 J 聯盟足球 2002",
+    "jp": "サカつく 2002 J.LEAGUE プロサッカークラブをつくろう！",
+    "en": "Sakatsuku 2002: J.League Pro Soccer Club wo Tsukurou!",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/357871856_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "J1 Champion": [
         null,
@@ -669,10 +724,11 @@ const gameData = {
     }
   },
   "サルゲッチュ": {
-    "tw": null,
+    "tw": "捉猴啦",
     "jp": "サルゲッチュ",
-    "en": "サルゲッチュ",
-    "boxart": null,
+    "en": "Ape Escape",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/12270_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "All Monkeys": [
         null,
@@ -681,10 +737,11 @@ const gameData = {
     }
   },
   "スーパーワギャンランド": {
-    "tw": null,
+    "tw": "超級瓦強世界",
     "jp": "スーパーワギャンランド",
-    "en": "スーパーワギャンランド",
-    "boxart": null,
+    "en": "Super Wagyan Land",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/31616_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "KAMISAMA Any%": [
         null,
@@ -693,10 +750,11 @@ const gameData = {
     }
   },
   "スゴイツヨイトウフ": {
-    "tw": null,
+    "tw": "最強豆腐",
     "jp": "スゴイツヨイトウフ",
-    "en": "スゴイツヨイトウフ",
-    "boxart": null,
+    "en": "The Strongest TOFU",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1115015222_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "Koya Tofu Any% レース": [
         null,
@@ -705,10 +763,11 @@ const gameData = {
     }
   },
   "デジモンワールド": {
-    "tw": null,
+    "tw": "數碼寶貝世界",
     "jp": "デジモンワールド",
-    "en": "デジモンワールド",
-    "boxart": null,
+    "en": "Digimon World",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/3564_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "Any% No Major Glitches": [
         null,
@@ -717,10 +776,11 @@ const gameData = {
     }
   },
   "ときめきメモリアル Girl's Side 4th Heart": {
-    "tw": null,
+    "tw": "純愛手札 Girl's Side 4th Heart",
     "jp": "ときめきメモリアル Girl's Side 4th Heart",
-    "en": "ときめきメモリアル Girl's Side 4th Heart",
-    "boxart": null,
+    "en": "Tokimeki Memorial Girl's Side 4th Heart",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/512241_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "Ryota% 通常告白ED": [
         null,
@@ -729,10 +789,11 @@ const gameData = {
     }
   },
   "ドラゴンクエストIV 導かれし者たち": {
-    "tw": null,
-    "jp": "ドラゴンクエストIV 導かれし者たち",
-    "en": "ドラゴンクエストIV 導かれし者たち",
-    "boxart": null,
+    "tw": "勇者鬥惡龍 IV 被引導的人們",
+    "jp": "ドラゴンクエスト IV 導かれし者たち",
+    "en": "Dragon Quest IV: Chapters of the Chosen",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/488153_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "Any% (Save glitch)": [
         null,
@@ -741,10 +802,11 @@ const gameData = {
     }
   },
   "ドラゴンクエストモンスターズ キャラバンハート": {
-    "tw": null,
+    "tw": "勇者鬥惡龍 怪獸仙境 秘境探險隊",
     "jp": "ドラゴンクエストモンスターズ キャラバンハート",
-    "en": "ドラゴンクエストモンスターズ キャラバンハート",
-    "boxart": null,
+    "en": "Dragon Quest Monsters: Caravan Heart",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/21757_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "Defeat Magarugi": [
         null,
@@ -753,10 +815,11 @@ const gameData = {
     }
   },
   "ドラゴンファングZ": {
-    "tw": null,
-    "jp": "ドラゴンファングZ",
-    "en": "ドラゴンファングZ",
-    "boxart": null,
+    "tw": "龍牙 Z 龍人蘿潔與寄宿木迷宮",
+    "jp": "ドラゴンファング Z",
+    "en": "DragonFangZ - The Rose & Dungeon of Time",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/500622_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "竜の深淵": [
         null,
@@ -765,10 +828,11 @@ const gameData = {
     }
   },
   "パウ・パトロール ザ・ムービー：アドベンチャーシティがよんでいる": {
-    "tw": null,
+    "tw": "汪汪隊立大功 電影版冒險城的呼喚",
     "jp": "パウ・パトロール ザ・ムービー：アドベンチャーシティがよんでいる",
-    "en": "パウ・パトロール ザ・ムービー：アドベンチャーシティがよんでいる",
-    "boxart": null,
+    "en": "PAW Patrol The Movie: Adventure City Calls",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1918557591_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "Any%": [
         null,
@@ -777,10 +841,11 @@ const gameData = {
     }
   },
   "ファイナルファイト（カプコンベルトアクションコレクション）": {
-    "tw": null,
-    "jp": "ファイナルファイト（カプコンベルトアクションコレクション）",
-    "en": "ファイナルファイト（カプコンベルトアクションコレクション）",
-    "boxart": null,
+    "tw": "街頭快打 (卡普空經典動作合輯)",
+    "jp": "ファイナルファイト",
+    "en": "Final Fight",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/6147_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "1 CC Guy Turbo": [
         null,
@@ -789,10 +854,11 @@ const gameData = {
     }
   },
   "フィリスのアトリエ ～不思議な旅の錬金術士～ DX": {
-    "tw": null,
+    "tw": "菲莉絲的鍊金工房 ～不可思議旅的鍊金術士～ DX",
     "jp": "フィリスのアトリエ ～不思議な旅の錬金術士～ DX",
-    "en": "フィリスのアトリエ ～不思議な旅の錬金術士～ DX",
-    "boxart": null,
+    "en": "Atelier Firis: The Alchemist and the Mysterious Journey DX",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1251865245_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "Master vs Apprentice! (Hard)": [
         null,
@@ -801,10 +867,11 @@ const gameData = {
     }
   },
   "ふしぎの城のヘレン+": {
-    "tw": null,
+    "tw": "海倫的神秘城堡 (不思議之城的海倫)",
     "jp": "ふしぎの城のヘレン+",
-    "en": "ふしぎの城のヘレン+",
-    "boxart": null,
+    "en": "Helen's Mysterious Castle",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/502192_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "Any% Good Ending": [
         null,
@@ -813,10 +880,11 @@ const gameData = {
     }
   },
   "ブリーチ ヒート・ザ・ソウル7": {
-    "tw": null,
-    "jp": "ブリーチ ヒート・ザ・ソウル7",
-    "en": "ブリーチ ヒート・ザ・ソウル7",
-    "boxart": null,
+    "tw": "死神 ～炙熱之魂 7～",
+    "jp": "BLEACH 〜ヒート・ザ・ソウル 7〜",
+    "en": "Bleach: Heat the Soul 7",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/27774_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "Story": [
         null,
@@ -825,10 +893,11 @@ const gameData = {
     }
   },
   "メタルギアソリッド インテグラル": {
-    "tw": null,
+    "tw": "潛龍諜影 Integral",
     "jp": "メタルギアソリッド インテグラル",
-    "en": "メタルギアソリッド インテグラル",
-    "boxart": null,
+    "en": "Metal Gear Solid: Integral",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/2044634980_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "Any%(EXTREME) - Glitchless レース": [
         null,
@@ -837,10 +906,11 @@ const gameData = {
     }
   },
   "モンスターハンター2（ドス）": {
-    "tw": null,
-    "jp": "モンスターハンター2（ドス）",
-    "en": "モンスターハンター2（ドス）",
-    "boxart": null,
+    "tw": "魔物獵人 2 (Dos)",
+    "jp": "モンスターハンター 2 (ドス)",
+    "en": "Monster Hunter 2",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/21407_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "Any%": [
         null,
@@ -851,8 +921,9 @@ const gameData = {
   "ルミネス リマスター": {
     "tw": null,
     "jp": "ルミネス リマスター",
-    "en": "ルミネス リマスター",
-    "boxart": null,
+    "en": "Lumines Remastered",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1936591288_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "Basic any% 4columns": [
         null,
@@ -861,10 +932,11 @@ const gameData = {
     }
   },
   "レスキューショット ブービーぼー": {
-    "tw": null,
+    "tw": "笨狗守護者",
     "jp": "レスキューショット ブービーぼー",
-    "en": "レスキューショット ブービーぼー",
-    "boxart": null,
+    "en": "Rescue Shot",
+    "boxart": "https://www.speedrun.com/static/game/268mrkdp/cover.png",
+    "leaderboard": "https://www.speedrun.com/rescue_shot",
     "rijs2025": {
       "Easy Mode": [
         null,
@@ -873,10 +945,11 @@ const gameData = {
     }
   },
   "ロックマン9 野望の復活!!": {
-    "tw": null,
-    "jp": "ロックマン9 野望の復活!!",
-    "en": "ロックマン9 野望の復活!!",
-    "boxart": null,
+    "tw": "洛克人 9 野心的復活！！",
+    "jp": "ロックマン 9 野望の復活！！",
+    "en": "Mega Man 9 / Rockman 9",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/19151_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "Any%": [
         null,
@@ -885,10 +958,11 @@ const gameData = {
     }
   },
   "ロックマンDASH 鋼の冒険心": {
-    "tw": null,
+    "tw": "洛克人 DASH 鋼之冒險心",
     "jp": "ロックマンDASH 鋼の冒険心",
-    "en": "ロックマンDASH 鋼の冒険心",
-    "boxart": null,
+    "en": "Mega Man Legends",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/7240_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "難易度：ふつう": [
         null,
@@ -897,22 +971,24 @@ const gameData = {
     }
   },
   "ロックマンエグゼ5": {
-    "tw": null,
+    "tw": "洛克人 EXE 5",
     "jp": "ロックマンエグゼ5",
-    "en": "ロックマンエグゼ5",
-    "boxart": null,
+    "en": "Mega Man Battle Network 5 / Rockman EXE 5",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/324568485_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
-      "Any% No ASE (Colonel)": [
+      "Any% No ASE (Colonel) / 卡尼爾小隊": [
         null,
         null
       ]
     }
   },
   "悪魔城ドラキュラXX": {
-    "tw": null,
-    "jp": "悪魔城ドラキュラXX",
-    "en": "悪魔城ドラキュラXX",
-    "boxart": null,
+    "tw": "惡魔城 XX",
+    "jp": "悪魔城ドラキュラ XX",
+    "en": "Castlevania: Dracula X",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/10071_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "Best Ending": [
         null,
@@ -921,10 +997,11 @@ const gameData = {
     }
   },
   "姐": {
-    "tw": null,
-    "jp": "姐",
-    "en": "姐",
-    "boxart": null,
+    "tw": "大姐頭",
+    "jp": "姐 (あねさん)",
+    "en": "ane-san",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/29932_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "Any%": [
         null,
@@ -933,10 +1010,11 @@ const gameData = {
     }
   },
   "機動戦士ガンダム 一年戦争": {
-    "tw": null,
+    "tw": "機動戰士鋼彈 一年戰爭",
     "jp": "機動戦士ガンダム 一年戦争",
-    "en": "機動戦士ガンダム 一年戦争",
-    "boxart": null,
+    "en": "Mobile Suit Gundam: One Year War",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/596659189_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "Story Mode": [
         null,
@@ -945,10 +1023,11 @@ const gameData = {
     }
   },
   "救国のスネジンカ:Sentinel Girls2": {
-    "tw": null,
-    "jp": "救国のスネジンカ:Sentinel Girls2",
-    "en": "救国のスネジンカ:Sentinel Girls2",
-    "boxart": null,
+    "tw": "救國少女 斯娜靜歌",
+    "jp": "救国のスネジンカ：Sentinel Girls 2",
+    "en": "Snezhinka: Sentinel Girls 2",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/284633032_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "Any% Hard EC レース": [
         null,
@@ -957,10 +1036,11 @@ const gameData = {
     }
   },
   "古明地さとりの情操教育": {
-    "tw": null,
+    "tw": "古明地覺的情操教育",
     "jp": "古明地さとりの情操教育",
-    "en": "古明地さとりの情操教育",
-    "boxart": null,
+    "en": "Komeiji Satori no Jousou Kyouiku",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/477411122_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "Defeat Hijiri - No Strong Koishi": [
         null,
@@ -969,10 +1049,11 @@ const gameData = {
     }
   },
   "松方弘樹のスーパートローリング": {
-    "tw": null,
+    "tw": "松方弘樹的超級釣魚",
     "jp": "松方弘樹のスーパートローリング",
-    "en": "松方弘樹のスーパートローリング",
-    "boxart": null,
+    "en": "Matsukata Hiroki no Super Trawling",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/25567_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "100% GLITCHLESS レース": [
         null,
@@ -981,10 +1062,11 @@ const gameData = {
     }
   },
   "新・熱血硬派 くにおたちの挽歌 -with River City Girls Extra-": {
-    "tw": null,
+    "tw": "熱血硬派國夫君外傳 熱血少女 零",
     "jp": "新・熱血硬派 くにおたちの挽歌 -with River City Girls Extra-",
-    "en": "新・熱血硬派 くにおたちの挽歌 -with River City Girls Extra-",
-    "boxart": null,
+    "en": "River City Girls Zero",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/518673_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "1p Normal": [
         null,
@@ -993,10 +1075,10 @@ const gameData = {
     }
   },
   "新鬼武者": {
-    "tw": null,
-    "jp": "新鬼武者",
-    "en": "新鬼武者",
-    "boxart": null,
+    "tw": "新鬼武者",
+    "jp": "新 鬼武者 DAWN OF DREAMS",
+    "en": "Onimusha: Dawn of Dreams",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1952_IGDB.jpg",
     "leaderboard": null,
     "rijs2025": {
       "New Game Nomal": [
@@ -1052,6 +1134,19 @@ const gameData = {
     "leaderboard": "https://www.speedrun.com/trials_of_mana",
     "rijs2025": {
       "Any%": [
+        null,
+        null
+      ]
+    }
+  },
+  "Ao Oni (2024)": {
+    "tw": null,
+    "jp": "最恐 -青鬼-",
+    "en": "Ao Oni (2024) / Absolute Fear -AOONI-",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1179914202_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/Ao_Oni_2024",
+    "rijs2025": {
+      "Any% 雙人競速": [
         null,
         null
       ]
@@ -1137,15 +1232,95 @@ const gameData = {
   },
 
 
+
+  "14 Minesweeper Variants": {
+    "tw": "【備選節目】14 種掃雷變體",
+    "jp": null,
+    "en": "14 Minesweeper Variants",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/8559714_IGDB.jpg",
+    "leaderboard": null,
+    "rijs2025": {
+      "Any%": [
+        null,
+        "(Backup Run 1)"
+      ]
+    }
+  },
+  "Celeste": {
+    "tw": "【備選節目】蔚藍",
+    "jp": null,
+    "en": "Celeste",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/492535_IGDB.jpg",
+    "leaderboard": null,
+    "rijs2025": {
+      "Any% One Handed": [
+        null,
+        "(Backup Run 2)"
+      ]
+    }
+  },
+  "Racing Lagoon": {
+    "tw": "【備選節目】陸地霸者",
+    "jp": "レーシングラグーン",
+    "en": "Racing Lagoon",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/10016_IGDB.jpg",
+    "leaderboard": null,
+    "rijs2025": {
+      "Any%": [
+        null,
+        "(Backup Run 3)"
+      ]
+    }
+  },
+  "アークザラッド": {
+    "tw": "【備選節目】亞克傳承",
+    "jp": "アークザラッド",
+    "en": "Arc The Lad",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/6636_IGDB.jpg",
+    "leaderboard": null,
+    "rijs2025": {
+      "JP Any%": [
+        null,
+        "(Backup Run 4)"
+      ]
+    }
+  },
+  "ブレス オブ ファイアV ドラゴンクォーター": {
+    "tw": "【備選節目】龍戰士 V",
+    "jp": "ブレス オブ ファイアV ドラゴンクォーター",
+    "en": "Breath of Fire: Dragon Quarter",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1168_IGDB.jpg",
+    "leaderboard": null,
+    "rijs2025": {
+      "Any%": [
+        null,
+        "(Backup Run 5)"
+      ]
+    }
+  },
   "ミスタードリラーアンコール": {
     "tw": "【備選節目】爆鑽小英雄 鑽頭樂園",
     "jp": "ミスタードリラーアンコール",
     "en": "Mr. DRILLER DrillLand",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/922417542_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "All Stages (Level 1, 2, & 3)": [
         null,
         "(Backup Run 6)"
+      ]
+    }
+  },
+  "We Love Katamari REROLL+ Royal Reverie": {
+    "tw": "【備選節目】人見人愛的塊魂 安可+ 國王大人的小小回憶",
+    "jp": "みんな大好き塊魂アンコール＋ 王様プチメモリー",
+    "en": "We Love Katamari REROLL+ Royal Reverie",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/899185268_IGDB.jpg",
+    "leaderboard": null,
+    "rijs2025": {
+      "Roll Up the Sun": [
+        null,
+        "(Backup Run 7)"
       ]
     }
   },
@@ -1154,6 +1329,7 @@ const gameData = {
     "jp": "ロマンシング サガ 3 (HD リマスター)",
     "en": "Romancing SaGa 3 (HD Remaster)",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/884146157_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
       "分身技禁止%": [
         null,
@@ -1166,6 +1342,7 @@ const gameData = {
     "jp": "魔界戦記ディスガイア 6",
     "en": "Disgaea 6: Defiance of Destiny",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1937232178_IGDB.jpg",
+    "leaderboard": null,
     "rijs2025": {
         "Main Story Yes Auto": [
           null,
