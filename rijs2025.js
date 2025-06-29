@@ -1221,7 +1221,7 @@ const gameData = {
     "tw": "悠遠物語",
     "jp": "悠遠物語 ～空の大陸とアイテム屋さん～",
     "en": "Faraway Story",
-    "boxart": "http://fa2.s372.xrea.com/es/banner.png",
+    "boxart": "https://pbs.twimg.com/card_img/1934570572358303744/46Fj0lY2?format=jpg&name=small",
     "leaderboard": null,
     "rijs2025": {
       "Ver0.76.06 ED1": [
