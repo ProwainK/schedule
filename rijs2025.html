@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <title>RTA in Japan Summer 2025 入選遊戲一覽</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #111;
+      color: #eee;
+    }
+    .game {
+      display: flex;
+      align-items: center;
+      margin: 10px 0;
+
+      padding-bottom: 10px;
+    }
+    .game img {
+      width: 120px;
+      height: auto;
+      margin-right: 15px;
+    }
+    .names {
+      display: flex;
+      flex-direction: column;
+    }
+    .names span {
+      line-height: 1.5;
+    }
+  </style>
+</head>
+<body>
+  <h1>RTA in Japan Summer 2025 入選遊戲一覽</h1>
+  <h2>2025/08/09 (土) ～ 2025/08/15 (金) (UTC+9)</h2>
+  <div id="game-list"></div>
+
+  <script src="rijs2025.js"></script>
+
+  <script>
+
+    const gameList = document.getElementById('game-list');
+
+    for (const title in gameData) {
+      const game = gameData[title];
+      const boxart = game.boxart || '';
+      const tw = game.tw || '';
+      const jp = game.jp || '';
+      const en = game.en || title;
+      const category = Object.keys(game["rijs2025"]) || '';
+
+      const gameDiv = document.createElement('div');
+      gameDiv.className = 'game';
+
+      const img = document.createElement('img');
+      img.src = boxart || 'https://via.placeholder.com/120x160?text=No+Image';
+      img.alt = en;
+
+      const namesDiv = document.createElement('div');
+      namesDiv.className = 'names';
+      namesDiv.innerHTML = `
+        <span><h1>${tw || jp || en}</h1><h3>${category}</h3></span>
+        <span>${jp || ''}</span>
+        <span>${en || ''}</span>
+      `;
+
+      gameDiv.appendChild(img);
+      gameDiv.appendChild(namesDiv);
+      gameList.appendChild(gameDiv);
+    }
+  </script>
+</body>
+</html>
