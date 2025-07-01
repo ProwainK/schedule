@@ -1,4 +1,33 @@
 window.gameDB = {
+  "RTA in Japan Summer 2025": {
+    "tw": null,
+    "jp": null,
+    "en": null
+  },
+  "Barbie: Super Model": {
+    "tw": "芭比娃娃 超級模特兒",
+    "jp": null,
+    "en": "Barbie: Super Model",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/15372_IGDB.jpg",
+    "rijs2025": {
+      "Any% Super Model": [
+        null,
+        null
+      ]
+    }
+  },
+  "魔界戦記ディスガイア6": {
+    "tw": "魔界戰記 6",
+    "jp": "魔界戦記ディスガイア 6",
+    "en": "Disgaea 6: Defiance of Destiny",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1937232178_IGDB.jpg",
+    "rijs2025": {
+      "Main Story Yes Auto": [
+        null,
+        null
+      ]
+    }
+  },
   "Summer Games Done Quick 2025": {
     "tw": null,
     "jp": null,
@@ -196,7 +225,7 @@ window.gameDB = {
       ]
     }
   },
-  "Hello Kitty Roller Rescue": {
+  "Hello Kitty: Roller Rescue": {
     "tw": "凱蒂貓的嗶可嗶可大作戰 (滾輪救援)",
     "jp": "ハローキティのピコピコ大作戦!",
     "en": "Hello Kitty: Roller Rescue",
@@ -232,10 +261,10 @@ window.gameDB = {
       ]
     }
   },
-  "Teenage Mutant Ninja Turtles: Turtles in Time Arcade": {
+  "Teenage Mutant Ninja Turtles IV: Turtles in Time Arcade": {
     "tw": null,
     "jp": null,
-    "en": "Teenage Mutant Ninja Turtles: Turtles in Time Arcade",
+    "en": "Teenage Mutant Ninja Turtles IV: Turtles in Time Arcade",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/246278701_IGDB.jpg",
     "sgdq2025": {
       "Arcade - Medium": [
@@ -328,10 +357,10 @@ window.gameDB = {
       ]
     }
   },
-  "Star Wars Jedi Survivor": {
+  "Star Wars Jedi: Survivor": {
     "tw": "星際大戰絕地 倖存者",
     "jp": null,
-    "en": "Star Wars Jedi Survivor",
+    "en": "Star Wars Jedi: Survivor",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1407096487_IGDB.jpg",
     "sgdq2025": {
       "Any% NJ Restricted Console": [
@@ -412,7 +441,7 @@ window.gameDB = {
       ]
     }
   },
-  "Plants Vs Zombies": {
+  "Plants vs. Zombies": {
     "tw": "植物大戰殭屍",
     "jp": null,
     "en": "Plants vs. Zombies",
@@ -485,10 +514,17 @@ window.gameDB = {
     }
   },
   "Ao Oni (2024)": {
-    "tw": "最恐 -青鬼-",
-    "jp": null,
+    "tw": null,
+    "jp": "最恐 -青鬼-",
     "en": "Ao Oni (2024) / Absolute Fear -AOONI-",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1179914202_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/Ao_Oni_2024",
+    "rijs2025": {
+      "Any%": [
+        "雙人競速",
+        null
+      ]
+    },
     "sgdq2025": {
       "Any% RTA (15x Speed)": [
         "青鬼 15 倍速挑戰",
@@ -608,7 +644,7 @@ window.gameDB = {
     "tw": null,
     "jp": null,
     "en": "A Plumber for All Seasons",
-    "boxart": "http://i3.ytimg.com/vi/5tSiTJ4ev4w/hqdefault.jpg",
+    "boxart": "https://i3.ytimg.com/vi/5tSiTJ4ev4w/hqdefault.jpg",
     "sgdq2025": {
       "Any%": [
         null,
@@ -873,6 +909,12 @@ window.gameDB = {
     "jp": null,
     "en": "Cuphead",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/459064_IGDB.jpg",
+    "rijs2025": {
+      "DLC+BaseGame, All S+P Grades": [
+        "本篇 + DLC 全關卡 S+P 評價",
+        null
+      ]
+    },
     "sgdq2025": {
       "Any% Race": [
         "本篇破關、雙人競速<br>允許 v1.1 及以上版本、普通難度",
@@ -1184,7 +1226,7 @@ window.gameDB = {
     "tw": null,
     "jp": null,
     "en": "Sayonara Mario World 2",
-    "boxart": "http://i3.ytimg.com/vi/-iznAClMnCA/hqdefault.jpg",
+    "boxart": "https://i3.ytimg.com/vi/-iznAClMnCA/hqdefault.jpg",
     "sgdq2025": {
       "XXO%": [
         null,
@@ -1216,15 +1258,15 @@ window.gameDB = {
       ]
     }
   },
-  "Doom: The Dark Ages": {
+  "DOOM: The Dark Ages": {
     "tw": "毀滅戰士 黑暗時代",
     "jp": null,
-    "en": "Doom: The Dark Ages",
+    "en": "DOOM: The Dark Ages",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/936822813_IGDB.jpg",
     "sgdq2025": {
       "Any%": [
         null,
-        "今年 5 月發售、Doom 系列第八部作品！"
+        "今年 5 月發售、DOOM 系列第八部作品！"
       ]
     }
   },
@@ -2274,7 +2316,7 @@ window.gameDB = {
   },
   "ane-san": {
     "tw": "大姐頭",
-    "jp": "あねさん",
+    "jp": "姐 (あねさん)",
     "en": "ane-san",
     "All Characters": "-關 東 初 代 喧 嘩 上 等-"
   },
