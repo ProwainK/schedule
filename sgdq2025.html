@@ -373,7 +373,7 @@
       slide.className = 'embla__slide';
       slide.innerHTML = `
         <div class="left-side">
-          <img class="game-boxart" src="${info.boxart || ''}" alt="${item.game}" />
+          <img class="game-boxart" src="${info.boxart || 'https://static-cdn.jtvnw.net/ttv-static/404_boxart-600x800.jpg' || ''}" alt="${item.game}" />
         </div>
         <div class="right-side">
           <h2>${info.tw || info.en || item.game}</h2>
@@ -392,7 +392,7 @@
       thumbSlide.className = 'embla__slide';
       const thumbImg = document.createElement('img');
       thumbImg.className = 'thumbnail';
-      thumbImg.src = info.boxart || '';
+      thumbImg.src = info.boxart || 'https://static-cdn.jtvnw.net/ttv-static/404_boxart-600x800.jpg' || '';
       thumbImg.alt = `${item.game} 縮圖`;
       thumbImg.dataset.index = i;
       thumbSlide.appendChild(thumbImg);
