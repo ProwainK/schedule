@@ -1,2 +1,0 @@
-node jsonToJs.js
-pause
