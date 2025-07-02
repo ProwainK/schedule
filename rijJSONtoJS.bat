@@ -1,0 +1,2 @@
+node rijJSONtoJS.js
+pause

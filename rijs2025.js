@@ -1,1354 +1,1375 @@
-const gameData = {
-
-  "Barbie: Super Model": {
-    "tw": "芭比娃娃 超級模特兒",
-    "jp": null,
-    "en": "Barbie: Super Model",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/15372_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-        "Any% Super Model": [
-          null,
-          null
+window.eventLocalSchedule = {
+  "data": {
+    "id": "3211a1c9cbec3e7aae",
+    "name": "RTA in Japan Summer 2025",
+    "slug": "rtaijs2025",
+    "timezone": "Asia/Tokyo",
+    "start": "2025-08-09T15:00:00+09:00",
+    "start_t": 1754719200,
+    "website": "https://rtain.jp/",
+    "twitter": "rtainjapan",
+    "twitch": "rtainjapan",
+    "description": null,
+    "setup": "PT08M",
+    "setup_t": 480,
+    "updated": "2025-07-02T11:55:04Z",
+    "hidden_columns": [
+      "setup"
+    ],
+    "link": "https://horaro.org/rtaij/rtaijs2025",
+    "columns": [
+      "ゲーム",
+      "カテゴリ",
+      "種類",
+      "機種",
+      "走者",
+      "setup"
+    ],
+    "items": [
+      {
+        "length": "PT1H05M",
+        "length_t": 3900,
+        "scheduled": "2025-08-09T15:00:00+09:00",
+        "scheduled_t": 1754719200,
+        "data": [
+          "Cuphead",
+          "DLC+BaseGame, All S+P Grades",
+          "single",
+          "PC",
+          "うらまつ",
+          "0:08:00"
         ]
-    }
-  },
-  "Resident Evil 2 (2019)": {
-    "tw": "惡靈古堡 2 重製版",
-    "jp": "バイオハザード RE:2",
-    "en": "Resident Evil 2 (2019)",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/195053862_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "Hunk": [
-        null,
-        null
-      ]
-    }
-  },
-  "Chants of Sennaar": {
-    "tw": "巴別塔聖歌",
-    "jp": null,
-    "en": "Chants of Sennaar",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/790563148_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "100%": [
-        null,
-        null
-      ]
-    }
-  },
-  "Climbing In Barrel With Double-Barrel": {
-    "tw": null,
-    "jp": null,
-    "en": "Climbing In Barrel With Double-Barrel",
-    "boxart": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2908140/header.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "Any%": [
-        null,
-        null
-      ]
-    }
-  },
-  "Cook, Serve, Delicious! 3?!": {
-    "tw": "烹煮、上菜、美味！3？！",
-    "jp": null,
-    "en": "Cook, Serve, Delicious! 3?!",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/513770_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "Buttermilk County% Standard Mode Only (single run)": [
-        null,
-        null
-      ]
-    }
-  },
-  "Dead Cells": {
-    "tw": "死亡細胞",
-    "jp": null,
-    "en": "Dead Cells",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/495961_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "FreshFile": [
-        null,
-        null
-      ]
-    }
-  },
-  "Death and Taxes": {
-    "tw": "死亡與稅賦",
-    "jp": null,
-    "en": "Death and Taxes",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/515940_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "Utopia%": [
-        null,
-        null
-      ]
-    }
-  },
-  "DEMENTO": {
-    "tw": "狂氣古城",
-    "jp": "デメント",
-    "en": "Haunting Ground / DEMENTO",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/2607_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "NewGame+ A Ending レース": [
-        null,
-        null
-      ]
-    }
-  },
-  "DRAG-ON DRAGOON 3": {
-    "tw": "誓血龍騎士 3",
-    "jp": "ドラッグオンドラグーン 3",
-    "en": "Drakengard 3 / DRAG-ON DRAGOON 3",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/133413_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "[A] NG+": [
-        null,
-        null
-      ]
-    }
-  },
-  "E.T. The Extra-Terrestrial": {
-    "tw": "E.T. 外星人",
-    "jp": null,
-    "en": "E.T. The Extra-Terrestrial",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/3631_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "Any% No RNG Manipulation Hard": [
-        null,
-        null
-      ]
-    }
-  },
-  "Final Fantasy X-2 HD Remaster": {
-    "tw": null,
-    "jp": null,
-    "en": "Final Fantasy X-2 HD Remaster",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/271501702_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "Any% No Creature Creator": [
-        null,
-        null
-      ]
-    }
-  },
-  "Final Fantasy IX": {
-    "tw": null,
-    "jp": null,
-    "en": "Final Fantasy IX",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/8090_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "PSX Any% JP": [
-        null,
-        null
-      ]
-    }
-  },
-  "Inscryption": {
-    "tw": "賭命牌卡",
-    "jp": null,
-    "en": "Inscryption",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1147745783_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "Kaycee’s mod All Challenges並走会 レース": [
-        null,
-        null
-      ]
-    }
-  },
-  "Looney Tunes ロードランナーvsワイリーコヨーテ": {
-    "tw": "嗶嗶鳥的死亡谷拉力賽",
-    "jp": "Looney Tunes ロードランナーvsワイリーコヨーテ",
-    "en": "Road Runner's Death Valley Rally",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/16863_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "Any%": [
-        null,
-        null
-      ]
-    }
-  },
-  "METAL MAX2": {
-    "tw": "坦克戰記 2",
-    "jp": "メタルマックス 2",
-    "en": "METAL MAX 2",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/10926_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "Any%ALL BOUNTIES": [
-        null,
-        null
-      ]
-    }
-  },
-  "Minecraft Java Edition": {
-    "tw": null,
-    "jp": null,
-    "en": "Minecraft: Java Edition",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/27471_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "HHH Any% Random Seed Glitchless レース": [
-        null,
-        null
-      ]
-    }
-  },
-  "NieR:Automata": {
-    "tw": "尼爾：自動人形",
-    "jp": "ニーア オートマタ",
-    "en": "NieR: Automata",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/494162_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "[A] Normal": [
-        null,
-        null
-      ]
-    }
-  },
-  "noita": {
-    "tw": null,
-    "jp": null,
-    "en": "Noita",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/505705_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "All Bosses(Random Seed)": [
-        null,
-        null
-      ]
-    }
-  },
-  "Nova Drift": {
-    "tw": "新星漂移",
-    "jp": null,
-    "en": "Nova Drift",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/497013_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "Phylogeny": [
-        null,
-        null
-      ]
-    }
-  },
-  "Radiant Silvergun": {
-    "tw": "閃亮銀槍",
-    "jp": null,
-    "en": "Radiant Silvergun",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/15540_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "Scoring , sword only": [
-        null,
-        null
-      ]
-    }
-  },
-  "Radical Relocation": {
-    "tw": "過激搬家",
-    "jp": null,
-    "en": "Radical Relocation",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/516889_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "NG Car%": [
-        null,
-        null
-      ]
-    }
-  },
-  "Rhythm Doctor": {
-    "tw": "節奏醫生",
-    "jp": null,
-    "en": "Rhythm Doctor",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/504502_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "Any%,r30+,Blindfolded,No Samurai,Normal": [
-        null,
-        null
-      ]
-    }
-  },
-  "Salt and Sanctuary": {
-    "tw": "鹽與聖所",
-    "jp": null,
-    "en": "Salt and Sanctuary",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/476371_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "All Bosses No Major Glitches": [
-        null,
-        null
-      ]
-    }
-  },
-  "SCHiM - スキム -": {
-    "tw": null,
-    "jp": null,
-    "en": "SCHiM",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/791503107_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "Any% レース": [
-        null,
-        null
-      ]
-    }
-  },
-  "Shadow corridor": {
-    "tw": "影之迴廊",
-    "jp": null,
-    "en": "Shadow Corridor",
-    "boxart": "https://i.namu.wiki/i/K1HAjThVhjhjOTV6LMR93ZDtBCqs_11omHTUohb69reympIOE-1MudbmdtHRMbhIhh8LIbAtHgEhvW8ONpI-eg.webp",
-    "leaderboard": null,
-    "rijs2025": {
-      "Path of Asuras Full": [
-        null,
-        null
-      ]
-    }
-  },
-  "SILENT HILL 2 (2024)": {
-    "tw": "沉默之丘 2：重製版",
-    "jp": null,
-    "en": "SILENT HILL 2 (2024)",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/2058570718_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "Restricted": [
-        null,
-        null
-      ]
-    }
-  },
-  "Smushi Come Home": {
-    "tw": "斯摩西回家",
-    "jp": null,
-    "en": "Smushi Come Home",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/606867561_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "All Hats": [
-        null,
-        null
-      ]
-    }
-  },
-  "Super Puzzled Cat": {
-    "tw": null,
-    "jp": null,
-    "en": "Super Puzzled Cat",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/998306791_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "Any%": [
-        null,
-        null
-      ]
-    }
-  },
-  "TETRIS THE GRAND MASTER 4 -ABSOLUTE EYE-": {
-    "tw": "俄羅斯方塊大師 4 - 絕世之眼 -",
-    "jp": "テトリス ザ・グランドマスター 4 - アブソリュート アイ -",
-    "en": "TETRIS THE GRAND MASTER 4 - ABSOLUTE EYE -",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/253599228_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "MASTER-mode Rank \"Master\" Challenge レース": [
-        null,
-        null
-      ]
-    }
-  },
-  "The Elder Scrolls V: Skyrim": {
-    "tw": "上古卷軸 V：無界天際",
-    "jp": null,
-    "en": "The Elder Scrolls V: Skyrim",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/30028_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "Glitchless Main Quest": [
-        null,
-        null
-      ]
-    }
-  },
-  "TOEM": {
-    "tw": null,
-    "jp": null,
-    "en": "TOEM",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1746925300_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "Combined 99%": [
-        null,
-        null
-      ]
-    }
-  },
-  "vivid/stasis": {
-    "tw": null,
-    "jp": null,
-    "en": "vivid/stasis",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1039569154_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "リズムゲームショーケース": [
-        null,
-        null
-      ]
-    }
-  },
-  "wattam": {
-    "tw": null,
-    "jp": null,
-    "en": "Wattam",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/488629_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "Any%": [
-        null,
-        null
-      ]
-    }
-  },
-  "Windowkill": {
-    "tw": null,
-    "jp": null,
-    "en": "Windowkill",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1175329714_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "Any% v.4.0.0 Standardized レース": [
-        null,
-        null
-      ]
-    }
-  },
-  "Wizardry: Proving Grounds of the Mad Overlord": {
-    "tw": "巫術：瘋狂領主的試驗場",
-    "jp": null,
-    "en": "Wizardry: Proving Grounds of the Mad Overlord",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1770954340_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "Any%": [
-        null,
-        null
-      ]
-    }
-  },
-  "Xeno Runners": {
-    "tw": null,
-    "jp": null,
-    "en": "Xeno Runners",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1346851276_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "Any% F-6000 レース": [
-        null,
-        null
-      ]
-    }
-  },
-  "XI[sái]シリーズトリロジーリレー": {
-    "tw": "X1 (骰子大戰) 三部曲接力賽",
-    "jp": "XI [sái] シリーズトリロジーリレー",
-    "en": "Devil Dice series trilogy relay",
-    "boxart": "https://www.speedrun.com/static/game/3dx2yy51/cover.png",
-    "leaderboard": null,
-    "rijs2025": {
-      "XI[sái] / Puzzle Mode 100-Puzzles リレー": [
-        null,
-        null
-      ],
-      "XI JUMBO / Trial Mode Norma Attack リレー": [
-        null,
-        null
-      ],
-      "XIゴ / Quest Mode: Night リレー": [
-        null,
-        null
-      ]
-    }
-  },
-  "ZWEI2(ツヴァイ2)": {
-    "tw": "雙星物語 2",
-    "jp": "ツヴァイ 2",
-    "en": "Zwei: The Ilvard Insurrection / ZWEI II",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/370519_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "Any%,New Game": [
-        null,
-        null
-      ]
-    }
-  },
-  "アーケードアーカイブス トリオ・ザ・パンチ": {
-    "tw": "艷姿三強男之勝負拳",
-    "jp": "アーケードアーカイブス トリオ・ザ・パンチ",
-    "en": "Trio the Punch: Never Forget Me",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/33266_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "Any% Race レース": [
-        null,
-        null
-      ]
-    }
-  },
-  "アーネスト・エバンス": {
-    "tw": "叢林戰士 (狼組製作)",
-    "jp": "アーネスト・エバンス",
-    "en": "Earnest Evans",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/16519_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "Any%": [
-        null,
-        null
-      ]
-    }
-  },
-  "アーマード・コア ナインブレイカー": {
-    "tw": "機戰傭兵：9 號破壞者",
-    "jp": "アーマード・コア ナインブレイカー",
-    "en": "Armored Core: Nine Breaker",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/20615_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "All Training Gold レース": [
-        null,
-        null
-      ]
-    }
-  },
-  "アフターイメージ": {
-    "tw": "心淵夢境",
-    "jp": "アフターイメージ",
-    "en": "Afterimage",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/197234813_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "Any%（Unrestricted）": [
-        null,
-        null
-      ]
-    }
-  },
-  "アメリカンバトルドーム": {
-    "tw": "對戰彈珠檯",
-    "jp": "アメリカンバトルドーム",
-    "en": "American Battle Dome",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/508107_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "All Stages レース": [
-        null,
-        null
-      ]
-    }
-  },
-  "アメリカ横断ウルトラクイズ": {
-    "tw": "橫貫美國大猜謎",
-    "jp": "アメリカ横断ウルトラクイズ",
-    "en": "America Oudan Ultra Quiz: Shijou Saidai no Tatakai",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/11761_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "Original Mode": [
-        null,
-        null
-      ]
-    }
-  },
-  "アリス・エスケイプト！": {
-    "tw": "尋找愛麗絲！",
-    "jp": "アリス・エスケイプト！",
-    "en": "Alice Escaped!",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1805112810_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "All Endings HardCore": [
-        null,
-        null
-      ]
-    }
-  },
-  "イースⅠクロニクルズ": {
-    "tw": "伊蘇 I 年代記",
-    "jp": "イース Iクロニクルズ",
-    "en": "Ys Chronicles 1",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/2029060124_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "Any％": [
-        null,
-        null
-      ]
-    }
-  },
-  "いただきストリート　ゴージャスキング": {
-    "tw": null,
-    "jp": "いただきストリート ゴージャスキング (人生街道系列)",
-    "en": "Itadaki Street: Gorgeous King",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/489227_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "いたスト王決定戦": [
-        null,
-        "人生街道系列 (骰動人生好運道，富豪街)"
-      ]
-    }
-  },
-  "ウルトラ怪獣モンスターファーム": {
-    "tw": "超人怪獸農場",
-    "jp": "ウルトラ怪獣モンスターファーム",
-    "en": "Ultra Kaiju Monster Rancher",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/591032671_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "6 emblem レース": [
-        null,
-        null
-      ]
-    }
-  },
-  "カラスのおしごと": {
-    "tw": "搗蛋鴉",
-    "jp": "カラスのおしごと",
-    "en": "Just Crow Things",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1365842505_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "All Levels NG": [
-        null,
-        null
-      ]
-    }
-  },
-  "カンパニーマン 社畜の下剋上": {
-    "tw": "打工人",
-    "jp": "カンパニーマン 社畜の下剋上",
-    "en": "The Company Man",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/738442100_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "New Game": [
-        null,
-        null
-      ]
-    }
-  },
-  "クロノアーク": {
-    "tw": "超時空方舟",
-    "jp": "クロノアーク",
-    "en": "Chrono Ark",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/515157_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "ハード血霧４赤い荒野": [
-        null,
-        null
-      ]
-    }
-  },
-  "ゲームセンターCX 有野の挑戦状 1+2 REPLAY": {
-    "tw": "Game Center CX 有野的挑戰書 1+2 REPLAY",
-    "jp": "ゲームセンター CX 有野の挑戦状 1+2 REPLAY",
-    "en": "GameCenter CX: Arino no Chousenjou 1 + 2 Replay",
-    "boxart": "https://www.speedrun.com/static/game/m1zy5n06/cover.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "有野の挑戦状 Any%": [
-        null,
-        null
-      ]
-    }
-  },
-  "ケツバトラー": {
-    "tw": "屁股戰士",
-    "jp": "ケツバトラー",
-    "en": "Ketsu Battler",
-    "boxart": "https://www.speedrun.com/static/game/m1mep0xd/cover.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "Beat 6 Characters with 6 Characters レース": [
-        null,
-        null
-      ]
-    }
-  },
-  "ゴジラ怪獣大決戦": {
-    "tw": "哥吉拉 怪獸大決戰",
-    "jp": "ゴジラ 怪獣大決戦",
-    "en": "Godzilla: Monster War",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/20768_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "Expert": [
-        null,
-        null
-      ]
-    }
-  },
-  "サカつく2002 J.LEAGUEプロサッカークラブをつくろう!": {
-    "tw": "模擬 J 聯盟足球 2002",
-    "jp": "サカつく 2002 J.LEAGUE プロサッカークラブをつくろう！",
-    "en": "Sakatsuku 2002: J.League Pro Soccer Club wo Tsukurou!",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/357871856_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "J1 Champion": [
-        null,
-        null
-      ]
-    }
-  },
-  "サルゲッチュ": {
-    "tw": "捉猴啦",
-    "jp": "サルゲッチュ",
-    "en": "Ape Escape",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/12270_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "All Monkeys": [
-        null,
-        null
-      ]
-    }
-  },
-  "スーパーワギャンランド": {
-    "tw": "超級瓦強世界",
-    "jp": "スーパーワギャンランド",
-    "en": "Super Wagyan Land",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/31616_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "KAMISAMA Any%": [
-        null,
-        null
-      ]
-    }
-  },
-  "スゴイツヨイトウフ": {
-    "tw": "最強豆腐",
-    "jp": "スゴイツヨイトウフ",
-    "en": "The Strongest TOFU",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1115015222_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "Koya Tofu Any% レース": [
-        null,
-        null
-      ]
-    }
-  },
-  "デジモンワールド": {
-    "tw": "數碼寶貝世界",
-    "jp": "デジモンワールド",
-    "en": "Digimon World",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/3564_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "Any% No Major Glitches": [
-        null,
-        null
-      ]
-    }
-  },
-  "ときめきメモリアル Girl's Side 4th Heart": {
-    "tw": "純愛手札 Girl's Side 4th Heart",
-    "jp": "ときめきメモリアル Girl's Side 4th Heart",
-    "en": "Tokimeki Memorial Girl's Side 4th Heart",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/512241_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "Ryota% 通常告白ED": [
-        null,
-        null
-      ]
-    }
-  },
-  "ドラゴンクエストIV 導かれし者たち": {
-    "tw": "勇者鬥惡龍 IV 被引導的人們",
-    "jp": "ドラゴンクエスト IV 導かれし者たち",
-    "en": "Dragon Quest IV: Chapters of the Chosen",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/488153_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "Any% (Save glitch)": [
-        null,
-        null
-      ]
-    }
-  },
-  "ドラゴンクエストモンスターズ キャラバンハート": {
-    "tw": "勇者鬥惡龍 怪獸仙境 秘境探險隊",
-    "jp": "ドラゴンクエストモンスターズ キャラバンハート",
-    "en": "Dragon Quest Monsters: Caravan Heart",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/21757_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "Defeat Magarugi": [
-        null,
-        null
-      ]
-    }
-  },
-  "ドラゴンファングZ": {
-    "tw": "龍牙 Z 龍人蘿潔與寄宿木迷宮",
-    "jp": "ドラゴンファング Z",
-    "en": "DragonFangZ - The Rose & Dungeon of Time",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/500622_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "竜の深淵": [
-        null,
-        null
-      ]
-    }
-  },
-  "パウ・パトロール ザ・ムービー：アドベンチャーシティがよんでいる": {
-    "tw": "汪汪隊立大功 電影版冒險城的呼喚",
-    "jp": "パウ・パトロール ザ・ムービー：アドベンチャーシティがよんでいる",
-    "en": "PAW Patrol The Movie: Adventure City Calls",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1918557591_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "Any%": [
-        null,
-        null
-      ]
-    }
-  },
-  "ファイナルファイト（カプコンベルトアクションコレクション）": {
-    "tw": "街頭快打 (卡普空經典動作合輯)",
-    "jp": "ファイナルファイト",
-    "en": "Final Fight",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/6147_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "1 CC Guy Turbo": [
-        null,
-        null
-      ]
-    }
-  },
-  "フィリスのアトリエ ～不思議な旅の錬金術士～ DX": {
-    "tw": "菲莉絲的鍊金工房 ～不可思議旅的鍊金術士～ DX",
-    "jp": "フィリスのアトリエ ～不思議な旅の錬金術士～ DX",
-    "en": "Atelier Firis: The Alchemist and the Mysterious Journey DX",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1251865245_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "Master vs Apprentice! (Hard)": [
-        null,
-        null
-      ]
-    }
-  },
-  "ふしぎの城のヘレン+": {
-    "tw": "海倫的神秘城堡 (不思議之城的海倫)",
-    "jp": "ふしぎの城のヘレン+",
-    "en": "Helen's Mysterious Castle",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/502192_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "Any% Good Ending": [
-        null,
-        null
-      ]
-    }
-  },
-  "ブリーチ ヒート・ザ・ソウル7": {
-    "tw": "死神 ～炙熱之魂 7～",
-    "jp": "BLEACH 〜ヒート・ザ・ソウル 7〜",
-    "en": "Bleach: Heat the Soul 7",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/27774_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "Story": [
-        null,
-        null
-      ]
-    }
-  },
-  "メタルギアソリッド インテグラル": {
-    "tw": "潛龍諜影 Integral",
-    "jp": "メタルギアソリッド インテグラル",
-    "en": "Metal Gear Solid: Integral",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/2044634980_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "Any%(EXTREME) - Glitchless レース": [
-        null,
-        null
-      ]
-    }
-  },
-  "モンスターハンター2（ドス）": {
-    "tw": "魔物獵人 2 (Dos)",
-    "jp": "モンスターハンター 2 (ドス)",
-    "en": "Monster Hunter 2",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/21407_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "Any%": [
-        null,
-        null
-      ]
-    }
-  },
-  "ルミネス リマスター": {
-    "tw": null,
-    "jp": "ルミネス リマスター",
-    "en": "Lumines Remastered",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1936591288_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "Basic any% 4columns": [
-        null,
-        null
-      ]
-    }
-  },
-  "レスキューショット ブービーぼー": {
-    "tw": "笨狗守護者",
-    "jp": "レスキューショット ブービーぼー",
-    "en": "Rescue Shot",
-    "boxart": "https://www.speedrun.com/static/game/268mrkdp/cover.png",
-    "leaderboard": "https://www.speedrun.com/rescue_shot",
-    "rijs2025": {
-      "Easy Mode": [
-        null,
-        null
-      ]
-    }
-  },
-  "ロックマン9 野望の復活!!": {
-    "tw": "洛克人 9 野心的復活！！",
-    "jp": "ロックマン 9 野望の復活！！",
-    "en": "Mega Man 9 / Rockman 9",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/19151_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "Any%": [
-        null,
-        null
-      ]
-    }
-  },
-  "ロックマンDASH 鋼の冒険心": {
-    "tw": "洛克人 DASH 鋼之冒險心",
-    "jp": "ロックマンDASH 鋼の冒険心",
-    "en": "Mega Man Legends",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/7240_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "難易度：ふつう": [
-        null,
-        null
-      ]
-    }
-  },
-  "ロックマンエグゼ5": {
-    "tw": "洛克人 EXE 5",
-    "jp": "ロックマンエグゼ5",
-    "en": "Mega Man Battle Network 5 / Rockman EXE 5",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/324568485_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "Any% No ASE (Colonel) / 卡尼爾小隊": [
-        null,
-        null
-      ]
-    }
-  },
-  "悪魔城ドラキュラXX": {
-    "tw": "惡魔城 XX",
-    "jp": "悪魔城ドラキュラ XX",
-    "en": "Castlevania: Dracula X",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/10071_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "Best Ending": [
-        null,
-        null
-      ]
-    }
-  },
-  "姐": {
-    "tw": "大姐頭",
-    "jp": "姐 (あねさん)",
-    "en": "ane-san",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/29932_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "Any%": [
-        null,
-        null
-      ]
-    }
-  },
-  "機動戦士ガンダム 一年戦争": {
-    "tw": "機動戰士鋼彈 一年戰爭",
-    "jp": "機動戦士ガンダム 一年戦争",
-    "en": "Mobile Suit Gundam: One Year War",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/596659189_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "Story Mode": [
-        null,
-        null
-      ]
-    }
-  },
-  "救国のスネジンカ:Sentinel Girls2": {
-    "tw": "救國少女 斯娜靜歌",
-    "jp": "救国のスネジンカ：Sentinel Girls 2",
-    "en": "Snezhinka: Sentinel Girls 2",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/284633032_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "Any% Hard EC レース": [
-        null,
-        null
-      ]
-    }
-  },
-  "古明地さとりの情操教育": {
-    "tw": "古明地覺的情操教育",
-    "jp": "古明地さとりの情操教育",
-    "en": "Komeiji Satori no Jousou Kyouiku",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/477411122_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "Defeat Hijiri - No Strong Koishi": [
-        null,
-        null
-      ]
-    }
-  },
-  "松方弘樹のスーパートローリング": {
-    "tw": "松方弘樹的超級釣魚",
-    "jp": "松方弘樹のスーパートローリング",
-    "en": "Matsukata Hiroki no Super Trawling",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/25567_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "100% GLITCHLESS レース": [
-        null,
-        null
-      ]
-    }
-  },
-  "新・熱血硬派 くにおたちの挽歌 -with River City Girls Extra-": {
-    "tw": "熱血硬派國夫君外傳 熱血少女 零",
-    "jp": "新・熱血硬派 くにおたちの挽歌 -with River City Girls Extra-",
-    "en": "River City Girls Zero",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/518673_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "1p Normal": [
-        null,
-        null
-      ]
-    }
-  },
-  "新鬼武者": {
-    "tw": "新鬼武者",
-    "jp": "新 鬼武者 DAWN OF DREAMS",
-    "en": "Onimusha: Dawn of Dreams",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1952_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "New Game Nomal": [
-        null,
-        null
-      ]
-    }
-  },
-  "Dynasty Warriors 8: Xtreme Legends Complete Edition": {
-    "tw": "真・三國無雙 7 with 猛將傳",
-    "jp": "真・三國無双 7 with 猛将伝",
-    "en": "Dynasty Warriors 8: Xtreme Legends Complete Edition",
-    "boxart": "https://www.speedrun.com/static/game/j1npky6p/cover.png",
-    "leaderboard": "https://www.speedrun.com/dw8xlce",
-    "rijs2025": {
-      "呉伝 No OoB - IFエンド": [
-        null,
-        null
-      ]
-    }
-  },
-  "Shin Megami Tensei if...": {
-    "tw": "真‧女神轉生 if...",
-    "jp": "真・女神転生 if...",
-    "en": "Shin Megami Tensei if...",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/5274_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/smtif",
-    "rijs2025": {
-      "Bid war": [
-        null,
-        null
-      ]
-    }
-  },
-  "Etrian Odyssey II HD": {
-    "tw": "世界樹的迷宮 II 諸王的聖杯 HD REMASTER",
-    "jp": "世界樹の迷宮 II 諸王の聖杯 HD REMASTER",
-    "en": "Etrian Odyssey II HD",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1577906119_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/eo2hd",
-    "rijs2025": {
-      "Ur-Child": [
-        null,
-        null
-      ]
-    }
-  },
-  "Trials of Mana (2020)": {
-    "tw": "聖劍傳說 3",
-    "jp": "聖剣伝説 3",
-    "en": "Trials of Mana (2020) / Seiken Densetsu 3",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/512997_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/trials_of_mana",
-    "rijs2025": {
-      "Any%": [
-        null,
-        null
-      ]
-    }
-  },
-  "Ao Oni (2024)": {
-    "tw": null,
-    "jp": "最恐 -青鬼-",
-    "en": "Ao Oni (2024) / Absolute Fear -AOONI-",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1179914202_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/Ao_Oni_2024",
-    "rijs2025": {
-      "Any% 雙人競速": [
-        null,
-        null
-      ]
-    }
-  },
-  "Densha de Go!": {
-    "tw": "電車 GO！",
-    "jp": "電車で GO！",
-    "en": "Densha de Go!",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/6944_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/densha_de_go",
-    "rijs2025": {
-      "Whistlestop (All Lines 1cc)": [
-        null,
-        null
-      ]
-    }
-  },
-  "東方永夜抄 〜 Imperishable Night.": {
-    "tw": "東方永夜抄",
-    "jp": "東方永夜抄 〜 Imperishable Night.",
-    "en": "Touhou Eiyashou ~ Imperishable Night.",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/19909.jpg",
-    "leaderboard": "https://www.speedrun.com/touhou_eiyashou_imperishable_night",
-    "rijs2025": {
-      "Lunatic スコアアタック": [
-        null,
-        null
-      ]
-    }
-  },
-  "Bomberman 64": {
-    "tw": "爆轟炸超人",
-    "jp": "爆ボンバーマン",
-    "en": "Bomberman 64",
-    "boxart": "https://www.speedrun.com/static/game/4d799r17/cover.png",
-    "leaderboard": "https://www.speedrun.com/bm64",
-    "rijs2025": {
-      "120 Cards": [
-        null,
-        null
-      ]
-    }
-  },
-  "Visit all municipalities in Hokkaido": {
-    "tw": null,
-    "jp": "北海道 4,000km 道内全市町村踏破",
-    "en": "Visit all municipalities in Hokkaido",
-    "boxart": "https://www.speedrun.com/static/game/9doxepkd/cover.png",
-    "leaderboard": "https://www.speedrun.com/Visit_all_municipalities_in_Hokkaido",
-    "rijs2025": {
-      "Any% + 踏破判定：通過": [
-        null,
-        null
-      ]
-    }
-  },
-  "迷宮組曲 ミロンの大冒険": {
-    "tw": "迷宮組曲 米龍的大冒險",
-    "jp": "迷宮組曲 ミロンの大冒険",
-    "en": "Milon's Secret Castle",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/7593_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/milons_secret_castle",
-    "rijs2025": {
-      "Any% レース": [
-        null,
-        null
-      ]
-    }
-  },
-  "悠遠物語 ～空の大陸とアイテム屋さん～": {
-    "tw": "悠遠物語",
-    "jp": "悠遠物語 ～空の大陸とアイテム屋さん～",
-    "en": "Faraway Story",
-    "boxart": "https://pbs.twimg.com/card_img/1934570572358303744/46Fj0lY2?format=jpg&name=small",
-    "leaderboard": null,
-    "rijs2025": {
-      "Ver0.76.06 ED1": [
-        null,
-        null
-      ]
-    }
-  },
-
-
-
-  "14 Minesweeper Variants": {
-    "tw": "【備選節目】14 種掃雷變體",
-    "jp": null,
-    "en": "14 Minesweeper Variants",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/8559714_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "Any%": [
-        null,
-        "(Backup Run 1)"
-      ]
-    }
-  },
-  "Celeste": {
-    "tw": "【備選節目】蔚藍",
-    "jp": null,
-    "en": "Celeste",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/492535_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "Any% One Handed": [
-        null,
-        "(Backup Run 2)"
-      ]
-    }
-  },
-  "Racing Lagoon": {
-    "tw": "【備選節目】陸地霸者",
-    "jp": "レーシングラグーン",
-    "en": "Racing Lagoon",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/10016_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "Any%": [
-        null,
-        "(Backup Run 3)"
-      ]
-    }
-  },
-  "アークザラッド": {
-    "tw": "【備選節目】亞克傳承",
-    "jp": "アークザラッド",
-    "en": "Arc The Lad",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/6636_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "JP Any%": [
-        null,
-        "(Backup Run 4)"
-      ]
-    }
-  },
-  "ブレス オブ ファイアV ドラゴンクォーター": {
-    "tw": "【備選節目】龍戰士 V",
-    "jp": "ブレス オブ ファイアV ドラゴンクォーター",
-    "en": "Breath of Fire: Dragon Quarter",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1168_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "Any%": [
-        null,
-        "(Backup Run 5)"
-      ]
-    }
-  },
-  "ミスタードリラーアンコール": {
-    "tw": "【備選節目】爆鑽小英雄 鑽頭樂園",
-    "jp": "ミスタードリラーアンコール",
-    "en": "Mr. DRILLER DrillLand",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/922417542_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "All Stages (Level 1, 2, & 3)": [
-        null,
-        "(Backup Run 6)"
-      ]
-    }
-  },
-  "We Love Katamari REROLL+ Royal Reverie": {
-    "tw": "【備選節目】人見人愛的塊魂 安可+ 國王大人的小小回憶",
-    "jp": "みんな大好き塊魂アンコール＋ 王様プチメモリー",
-    "en": "We Love Katamari REROLL+ Royal Reverie",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/899185268_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "Roll Up the Sun": [
-        null,
-        "(Backup Run 7)"
-      ]
-    }
-  },
-  "Romancing SaGa 3 (HD Remaster)": {
-    "tw": "【備選節目】復活邪神 3 高畫質復刻版",
-    "jp": "ロマンシング サガ 3 (HD リマスター)",
-    "en": "Romancing SaGa 3 (HD Remaster)",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/884146157_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "分身技禁止%": [
-        null,
-        "(Backup Run 8)"
-      ]
-    }
-  },
-  "Disgaea 6: Defiance of Destiny": {
-    "tw": "【備選節目】魔界戰記 6",
-    "jp": "魔界戦記ディスガイア 6",
-    "en": "Disgaea 6: Defiance of Destiny",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1937232178_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-        "Main Story Yes Auto": [
-          null,
-        "(Backup Run 9)"
+      },
+      {
+        "length": "PT10M",
+        "length_t": 600,
+        "scheduled": "2025-08-09T16:13:00+09:00",
+        "scheduled_t": 1754723580,
+        "data": [
+          "E.T. The Extra-Terrestrial",
+          "Any% No RNG Manipulation Hard",
+          "single",
+          "Atari 2600",
+          "扶桑",
+          "0:08:00"
         ]
-    }
+      },
+      {
+        "length": "PT26M",
+        "length_t": 1560,
+        "scheduled": "2025-08-09T16:31:00+09:00",
+        "scheduled_t": 1754724660,
+        "data": [
+          "悪魔城ドラキュラXX",
+          "Best Ending",
+          "single",
+          "SFC",
+          "偏差値60",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT20M",
+        "length_t": 1200,
+        "scheduled": "2025-08-09T17:05:00+09:00",
+        "scheduled_t": 1754726700,
+        "data": [
+          "Dead Cells",
+          "FreshFile",
+          "single",
+          "PC",
+          "ギけとマト",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT1H",
+        "length_t": 3600,
+        "scheduled": "2025-08-09T17:33:00+09:00",
+        "scheduled_t": 1754728380,
+        "data": [
+          "古明地さとりの情操教育",
+          "Defeat Hijiri - No Strong Koishi",
+          "single",
+          "PC",
+          "tea",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT1H10M",
+        "length_t": 4200,
+        "scheduled": "2025-08-09T18:41:00+09:00",
+        "scheduled_t": 1754732460,
+        "data": [
+          "爆ボンバーマン",
+          "120 Cards",
+          "single",
+          "N64",
+          "スピンス",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT1H15M",
+        "length_t": 4500,
+        "scheduled": "2025-08-09T19:59:00+09:00",
+        "scheduled_t": 1754737140,
+        "data": [
+          "Radiant Silvergun",
+          "Scoring , sword only",
+          "single",
+          "PC",
+          "VTF-いの",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT15M",
+        "length_t": 900,
+        "scheduled": "2025-08-09T21:22:00+09:00",
+        "scheduled_t": 1754742120,
+        "data": [
+          "Windowkill",
+          "Any% v.4.0.0 Standardized",
+          "race",
+          "PC",
+          "†黒姫†美少女, へぷ, 晩翠マヤ",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT26M",
+        "length_t": 1560,
+        "scheduled": "2025-08-09T21:45:00+09:00",
+        "scheduled_t": 1754743500,
+        "data": [
+          "Looney Tunes ロードランナーvsワイリーコヨーテ",
+          "Any%",
+          "single",
+          "SFC",
+          "gameO",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT45M",
+        "length_t": 2700,
+        "scheduled": "2025-08-09T22:19:00+09:00",
+        "scheduled_t": 1754745540,
+        "data": [
+          "真・三國無双7 with 猛将伝",
+          "呉伝 No OoB - IFエンド",
+          "single",
+          "PC",
+          "ロビン",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT21M",
+        "length_t": 1260,
+        "scheduled": "2025-08-09T23:12:00+09:00",
+        "scheduled_t": 1754748720,
+        "data": [
+          "ファイナルファイト（カプコンベルトアクションコレクション）",
+          "1 CC Guy Turbo",
+          "single",
+          "PlayStation 4",
+          "BARON",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT58M",
+        "length_t": 3480,
+        "scheduled": "2025-08-09T23:41:00+09:00",
+        "scheduled_t": 1754750460,
+        "data": [
+          "新・熱血硬派 くにおたちの挽歌 -with River City Girls Extra-",
+          "1p Normal",
+          "single",
+          "PC",
+          "夜行狐さん",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT19M",
+        "length_t": 1140,
+        "scheduled": "2025-08-10T00:47:00+09:00",
+        "scheduled_t": 1754754420,
+        "data": [
+          "姐",
+          "Any%",
+          "single",
+          "PCエンジン SUPER CD-ROM2",
+          "いるかん",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT12M",
+        "length_t": 720,
+        "scheduled": "2025-08-10T01:14:00+09:00",
+        "scheduled_t": 1754756040,
+        "data": [
+          "アーネスト・エバンス",
+          "MegaCD Any%",
+          "single",
+          "メガCD",
+          "ゆゆキチ",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT5H",
+        "length_t": 18000,
+        "scheduled": "2025-08-10T01:34:00+09:00",
+        "scheduled_t": 1754757240,
+        "data": [
+          "いただきストリート　ゴージャスキング",
+          "いたスト王決定戦",
+          "single",
+          "PlayStation",
+          "めっつ",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT1H40M",
+        "length_t": 6000,
+        "scheduled": "2025-08-10T06:42:00+09:00",
+        "scheduled_t": 1754775720,
+        "data": [
+          "METAL MAX2",
+          "Any%ALL BOUNTIES",
+          "single",
+          "SFC",
+          "しゃの",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT20M",
+        "length_t": 1200,
+        "scheduled": "2025-08-10T08:30:00+09:00",
+        "scheduled_t": 1754782200,
+        "data": [
+          "Xeno Runners",
+          "Any% F-6000",
+          "race",
+          "PC",
+          "いちくろ, さっぼますたぁ",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT1H",
+        "length_t": 3600,
+        "scheduled": "2025-08-10T08:58:00+09:00",
+        "scheduled_t": 1754783880,
+        "data": [
+          "北海道4,000km 道内全市町村踏破",
+          "Any% + 踏破判定：通過",
+          "single",
+          "PC",
+          "磊々舘カンナ",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT1H10M",
+        "length_t": 4200,
+        "scheduled": "2025-08-10T10:06:00+09:00",
+        "scheduled_t": 1754787960,
+        "data": [
+          "Smushi Come Home",
+          "All Hats",
+          "single",
+          "PC",
+          "シカダ",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT45M",
+        "length_t": 2700,
+        "scheduled": "2025-08-10T11:24:00+09:00",
+        "scheduled_t": 1754792640,
+        "data": [
+          "アメリカンバトルドーム",
+          "All Stages",
+          "race",
+          "SFC",
+          "あすなろ, ピエトロ",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT35M",
+        "length_t": 2100,
+        "scheduled": "2025-08-10T12:17:00+09:00",
+        "scheduled_t": 1754795820,
+        "data": [
+          "カラスのおしごと",
+          "All Levels NG",
+          "single",
+          "PC",
+          "Keiichi",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT3H",
+        "length_t": 10800,
+        "scheduled": "2025-08-10T13:00:00+09:00",
+        "scheduled_t": 1754798400,
+        "data": [
+          "サカつく2002 J.LEAGUEプロサッカークラブをつくろう!",
+          "J1 Champion",
+          "single",
+          "PlayStation 2",
+          "華乃子",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT1H",
+        "length_t": 3600,
+        "scheduled": "2025-08-10T16:08:00+09:00",
+        "scheduled_t": 1754809680,
+        "data": [
+          "Inscryption",
+          "Kaycee’s mod All Challenges並走会",
+          "race",
+          "PC",
+          "DEVILMAN, kanisan, 神月うじゅ, 失敗は成功のもと子ちゃん",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT2H10M",
+        "length_t": 7800,
+        "scheduled": "2025-08-10T17:16:00+09:00",
+        "scheduled_t": 1754813760,
+        "data": [
+          "ウルトラ怪獣モンスターファーム",
+          "6 emblem",
+          "race",
+          "Switch",
+          "news, るなそる",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT25M",
+        "length_t": 1500,
+        "scheduled": "2025-08-10T19:34:00+09:00",
+        "scheduled_t": 1754822040,
+        "data": [
+          "Super Puzzled Cat",
+          "Any%",
+          "single",
+          "PC",
+          "タイヤ",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT48M",
+        "length_t": 2880,
+        "scheduled": "2025-08-10T20:07:00+09:00",
+        "scheduled_t": 1754824020,
+        "data": [
+          "アメリカ横断ウルトラクイズ",
+          "Original Mode",
+          "single",
+          "PlayStation 2",
+          "asasumi",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT1H25M",
+        "length_t": 5100,
+        "scheduled": "2025-08-10T21:03:00+09:00",
+        "scheduled_t": 1754827380,
+        "data": [
+          "メタルギアソリッド インテグラル",
+          "Any%(EXTREME) - Glitchless",
+          "race",
+          "PC",
+          "hamatet, ぶらっきー",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT06M",
+        "length_t": 360,
+        "scheduled": "2025-08-10T22:36:00+09:00",
+        "scheduled_t": 1754832960,
+        "data": [
+          "Climbing In Barrel With Double-Barrel",
+          "Any%",
+          "single",
+          "PC",
+          "霧島いろは",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT9H30M",
+        "length_t": 34200,
+        "scheduled": "2025-08-10T22:50:00+09:00",
+        "scheduled_t": 1754833800,
+        "data": [
+          "Final Fantasy IX",
+          "PSX Any% JP",
+          "single",
+          "PlayStation",
+          "Wisteria",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT1H10M",
+        "length_t": 4200,
+        "scheduled": "2025-08-11T08:28:00+09:00",
+        "scheduled_t": 1754868480,
+        "data": [
+          "ときめきメモリアル Girl's Side 4th Heart",
+          "Ryota% 通常告白ED",
+          "single",
+          "Switch",
+          "Re:e",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT1H45M",
+        "length_t": 6300,
+        "scheduled": "2025-08-11T09:46:00+09:00",
+        "scheduled_t": 1754873160,
+        "data": [
+          "Chants of Sennaar",
+          "100%",
+          "single",
+          "PC",
+          "BBRC",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT1H",
+        "length_t": 3600,
+        "scheduled": "2025-08-11T11:39:00+09:00",
+        "scheduled_t": 1754879940,
+        "data": [
+          "ルミネス リマスター",
+          "Basic any% 4columns",
+          "single",
+          "PC",
+          "MlNTlA",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT28M",
+        "length_t": 1680,
+        "scheduled": "2025-08-11T12:47:00+09:00",
+        "scheduled_t": 1754884020,
+        "data": [
+          "救国のスネジンカ:Sentinel Girls2",
+          "Any%Hard-EC",
+          "race",
+          "PC",
+          "＠らんたん, nagi",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT1H10M",
+        "length_t": 4200,
+        "scheduled": "2025-08-11T13:23:00+09:00",
+        "scheduled_t": 1754886180,
+        "data": [
+          "Shadow Corridor",
+          "Path of Asuras Full",
+          "single",
+          "PC",
+          "あーる",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT35M",
+        "length_t": 2100,
+        "scheduled": "2025-08-11T14:41:00+09:00",
+        "scheduled_t": 1754890860,
+        "data": [
+          "ロックマン9 野望の復活!!",
+          "Any%",
+          "single",
+          "Wii",
+          "そらんちゃん",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT1H05M",
+        "length_t": 3900,
+        "scheduled": "2025-08-11T15:24:00+09:00",
+        "scheduled_t": 1754893440,
+        "data": [
+          "ロックマンDASH 鋼の冒険心",
+          "Any% 難易度：ふつう",
+          "single",
+          "PlayStation",
+          "のんのん",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT45M",
+        "length_t": 2700,
+        "scheduled": "2025-08-11T16:37:00+09:00",
+        "scheduled_t": 1754897820,
+        "data": [
+          "東方永夜抄 〜 Imperishable Night.",
+          "Lunatic スコアアタック",
+          "single",
+          "PC",
+          "岩魚穣娘（絶）",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT30M",
+        "length_t": 1800,
+        "scheduled": "2025-08-11T17:30:00+09:00",
+        "scheduled_t": 1754901000,
+        "data": [
+          "Nova Drift",
+          "Phylogeny",
+          "single",
+          "PC",
+          "ngi_ery",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT35M",
+        "length_t": 2100,
+        "scheduled": "2025-08-11T18:08:00+09:00",
+        "scheduled_t": 1754903280,
+        "data": [
+          "アフターイメージ",
+          "Any%（Unrestricted）",
+          "single",
+          "PC",
+          "タテハ・BelmonDue",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT1H30M",
+        "length_t": 5400,
+        "scheduled": "2025-08-11T18:51:00+09:00",
+        "scheduled_t": 1754905860,
+        "data": [
+          "NieR:Automata",
+          "[A] Normal",
+          "single",
+          "PC",
+          "やまねこ",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT50M",
+        "length_t": 3000,
+        "scheduled": "2025-08-11T20:29:00+09:00",
+        "scheduled_t": 1754911740,
+        "data": [
+          "Salt and Sanctuary",
+          "All Bosses No Major Glitches",
+          "single",
+          "PC",
+          "ユートロピー",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT04M",
+        "length_t": 240,
+        "scheduled": "2025-08-11T21:27:00+09:00",
+        "scheduled_t": 1754915220,
+        "data": [
+          "Barbie Super Model",
+          "Any% Super Model",
+          "single",
+          "SNES",
+          "Dellyred",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT1H20M",
+        "length_t": 4800,
+        "scheduled": "2025-08-11T21:39:00+09:00",
+        "scheduled_t": 1754915940,
+        "data": [
+          "デジモンワールド",
+          "Any% No Major Glitches",
+          "single",
+          "PlayStation",
+          "はちぴー。",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT1H20M",
+        "length_t": 4800,
+        "scheduled": "2025-08-11T23:07:00+09:00",
+        "scheduled_t": 1754921220,
+        "data": [
+          "DEMENTO",
+          "NewGame+ A Ending",
+          "race",
+          "PlayStation 2",
+          "Ecdycis, ソードフィッシュ",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT20M",
+        "length_t": 1200,
+        "scheduled": "2025-08-12T00:35:00+09:00",
+        "scheduled_t": 1754926500,
+        "data": [
+          "青鬼(2024)",
+          "Any%",
+          "race",
+          "PC",
+          "おれんじ, ふじくら",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT08M",
+        "length_t": 480,
+        "scheduled": "2025-08-12T01:03:00+09:00",
+        "scheduled_t": 1754928180,
+        "data": [
+          "BIOHAZARD RE:2",
+          "Hunk",
+          "single",
+          "PC",
+          "じっかちゃん",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT2H45M",
+        "length_t": 9900,
+        "scheduled": "2025-08-12T01:19:00+09:00",
+        "scheduled_t": 1754929140,
+        "data": [
+          "SILENT HILL 2 (2024)",
+          "Restricted",
+          "single",
+          "PC",
+          "シャオ・ブルーナ",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT4H30M",
+        "length_t": 16200,
+        "scheduled": "2025-08-12T04:12:00+09:00",
+        "scheduled_t": 1754939520,
+        "data": [
+          "モンスターハンター2（ドス）",
+          "Any%",
+          "single",
+          "PlayStation 2",
+          "もず",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT2H",
+        "length_t": 7200,
+        "scheduled": "2025-08-12T08:50:00+09:00",
+        "scheduled_t": 1754956200,
+        "data": [
+          "新鬼武者",
+          "New Game Nomal",
+          "single",
+          "PlayStation 2",
+          "蝶番",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT1H20M",
+        "length_t": 4800,
+        "scheduled": "2025-08-12T10:58:00+09:00",
+        "scheduled_t": 1754963880,
+        "data": [
+          "noita",
+          "All Bosses(Random Seed)",
+          "single",
+          "PC",
+          "daa130",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT2H",
+        "length_t": 7200,
+        "scheduled": "2025-08-12T12:26:00+09:00",
+        "scheduled_t": 1754969160,
+        "data": [
+          "松方弘樹のスーパートローリング",
+          "100% GLITCHLESS",
+          "race",
+          "SFC",
+          "らぐな, りコりス",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT32M",
+        "length_t": 1920,
+        "scheduled": "2025-08-12T14:34:00+09:00",
+        "scheduled_t": 1754976840,
+        "data": [
+          "Radical Relocation",
+          "NG Car%",
+          "single",
+          "PC",
+          "カゲタロ",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT1H10M",
+        "length_t": 4200,
+        "scheduled": "2025-08-12T15:14:00+09:00",
+        "scheduled_t": 1754979240,
+        "data": [
+          "パウ・パトロール ザ・ムービー：アドベンチャーシティがよんでいる",
+          "Any%",
+          "single",
+          "PC",
+          "absolute_latte",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT1H",
+        "length_t": 3600,
+        "scheduled": "2025-08-12T16:32:00+09:00",
+        "scheduled_t": 1754983920,
+        "data": [
+          "カンパニーマン 社畜の下剋上",
+          "New Game",
+          "single",
+          "Switch",
+          "だぶちっく",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT47M",
+        "length_t": 2820,
+        "scheduled": "2025-08-12T17:40:00+09:00",
+        "scheduled_t": 1754988000,
+        "data": [
+          "アリス・エスケイプト！",
+          "All Endings HardCore",
+          "single",
+          "PC",
+          "のっつ",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT2H40M",
+        "length_t": 9600,
+        "scheduled": "2025-08-12T18:35:00+09:00",
+        "scheduled_t": 1754991300,
+        "data": [
+          "ドラゴンクエストIV 導かれし者たち",
+          "Any% (Save glitch)",
+          "single",
+          "FC",
+          "ピロ彦",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT4H15M",
+        "length_t": 15300,
+        "scheduled": "2025-08-12T21:23:00+09:00",
+        "scheduled_t": 1755001380,
+        "data": [
+          "ドラゴンクエストモンスターズ キャラバンハート",
+          "Defeat Magarugi",
+          "single",
+          "GBA",
+          "マガじい",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT2H20M",
+        "length_t": 8400,
+        "scheduled": "2025-08-13T01:46:00+09:00",
+        "scheduled_t": 1755017160,
+        "data": [
+          "真・女神転生if...",
+          "Bid war",
+          "single",
+          "SFC",
+          "R-0109",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT1H30M",
+        "length_t": 5400,
+        "scheduled": "2025-08-13T04:14:00+09:00",
+        "scheduled_t": 1755026040,
+        "data": [
+          "クロノアーク",
+          "ハード血霧４赤い荒野",
+          "single",
+          "PC",
+          "むくむく",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT4H",
+        "length_t": 14400,
+        "scheduled": "2025-08-13T05:52:00+09:00",
+        "scheduled_t": 1755031920,
+        "data": [
+          "ZWEI2(ツヴァイ2)",
+          "Any%,New Game",
+          "single",
+          "PC",
+          "海苔",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT45M",
+        "length_t": 2700,
+        "scheduled": "2025-08-13T10:00:00+09:00",
+        "scheduled_t": 1755046800,
+        "data": [
+          "イースⅠクロニクルズ",
+          "Any％",
+          "single",
+          "PC",
+          "Xipha",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT1H30M",
+        "length_t": 5400,
+        "scheduled": "2025-08-13T10:53:00+09:00",
+        "scheduled_t": 1755049980,
+        "data": [
+          "機動戦士ガンダム 一年戦争",
+          "Story Mode",
+          "single",
+          "PlayStation 2",
+          "ひさほ",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT1H20M",
+        "length_t": 4800,
+        "scheduled": "2025-08-13T12:31:00+09:00",
+        "scheduled_t": 1755055860,
+        "data": [
+          "SCHiM - スキム -",
+          "Any%",
+          "race",
+          "PC",
+          "鍵盤狐, Snafful, ちょろ",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT1H10M",
+        "length_t": 4200,
+        "scheduled": "2025-08-13T13:59:00+09:00",
+        "scheduled_t": 1755061140,
+        "data": [
+          "Rhythm Doctor",
+          "Any%,r30+,Blindfolded,No Samurai,Normal",
+          "single",
+          "PC",
+          "緑蛙",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT45M",
+        "length_t": 2700,
+        "scheduled": "2025-08-13T15:17:00+09:00",
+        "scheduled_t": 1755065820,
+        "data": [
+          "vivid/stasis",
+          "リズムゲームショーケース",
+          "single",
+          "PC",
+          "さわよし",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT1H20M",
+        "length_t": 4800,
+        "scheduled": "2025-08-13T16:10:00+09:00",
+        "scheduled_t": 1755069000,
+        "data": [
+          "XI[sái]シリーズトリロジーリレー",
+          "Puzzle Mode 100-Puzzles, Trial Mode Norma Attack, Quest Mode: Night",
+          "relay",
+          "PlayStation、PlayStation 2",
+          "桜葵月*owqi, Aquarius, あびい",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT3H35M",
+        "length_t": 12900,
+        "scheduled": "2025-08-13T17:38:00+09:00",
+        "scheduled_t": 1755074280,
+        "data": [
+          "ロックマンエグゼ5",
+          "Any% No ASE (Colonel)",
+          "single",
+          "GBA",
+          "ｸﾘﾎﾞｰ",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT4H45M",
+        "length_t": 17100,
+        "scheduled": "2025-08-13T21:21:00+09:00",
+        "scheduled_t": 1755087660,
+        "data": [
+          "聖剣伝説3",
+          "Any%",
+          "single",
+          "SFC",
+          "stone_clive",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT5H20M",
+        "length_t": 19200,
+        "scheduled": "2025-08-14T02:14:00+09:00",
+        "scheduled_t": 1755105240,
+        "data": [
+          "アーマード・コア ナインブレイカー",
+          "All Training Gold",
+          "race",
+          "PlayStation 2",
+          "Heide, べ～た",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT1H42M",
+        "length_t": 6120,
+        "scheduled": "2025-08-14T07:42:00+09:00",
+        "scheduled_t": 1755124920,
+        "data": [
+          "wattam",
+          "Any%",
+          "single",
+          "PC",
+          "がぶ",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT45M",
+        "length_t": 2700,
+        "scheduled": "2025-08-14T09:32:00+09:00",
+        "scheduled_t": 1755131520,
+        "data": [
+          "ふしぎの城のヘレン+",
+          "Any% Good Ending",
+          "single",
+          "PC",
+          "sasasa",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT45M",
+        "length_t": 2700,
+        "scheduled": "2025-08-14T10:25:00+09:00",
+        "scheduled_t": 1755134700,
+        "data": [
+          "レスキューショット ブービーぼー",
+          "Easy Mode",
+          "single",
+          "PlayStation",
+          "ゆるふわようじょ",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT1H10M",
+        "length_t": 4200,
+        "scheduled": "2025-08-14T11:18:00+09:00",
+        "scheduled_t": 1755137880,
+        "data": [
+          "TOEM",
+          "Combined 99%",
+          "single",
+          "PC",
+          "ユキカ",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT2H10M",
+        "length_t": 7800,
+        "scheduled": "2025-08-14T12:36:00+09:00",
+        "scheduled_t": 1755142560,
+        "data": [
+          "悠遠物語 ～空の大陸とアイテム屋さん～",
+          "Ver0.76.06 ED1",
+          "single",
+          "PC",
+          "vandal",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT2H05M",
+        "length_t": 7500,
+        "scheduled": "2025-08-14T14:54:00+09:00",
+        "scheduled_t": 1755150840,
+        "data": [
+          "スーパーワギャンランド",
+          "KAMISAMA Any%",
+          "single",
+          "SFC",
+          "かいとうプリン",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT45M",
+        "length_t": 2700,
+        "scheduled": "2025-08-14T17:07:00+09:00",
+        "scheduled_t": 1755158820,
+        "data": [
+          "TETRIS THE GRAND MASTER 4 -ABSOLUTE EYE-",
+          "MASTER-mode Rank \"Master\" Challenge",
+          "race",
+          "PC",
+          "アガラナイの滝, はるく, コーリャン",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT15M",
+        "length_t": 900,
+        "scheduled": "2025-08-14T18:00:00+09:00",
+        "scheduled_t": 1755162000,
+        "data": [
+          "Death and Taxes",
+          "Utopia%",
+          "single",
+          "PC",
+          "Blackwaterimp",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT2H25M",
+        "length_t": 8700,
+        "scheduled": "2025-08-14T18:23:00+09:00",
+        "scheduled_t": 1755163380,
+        "data": [
+          "フィリスのアトリエ ～不思議な旅の錬金術士～ DX",
+          "Master vs Apprentice! (Hard)",
+          "single",
+          "PC",
+          "がら(たま)",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT30M",
+        "length_t": 1800,
+        "scheduled": "2025-08-14T20:56:00+09:00",
+        "scheduled_t": 1755172560,
+        "data": [
+          "アーケードアーカイブス トリオ・ザ・パンチ",
+          "Any% Race",
+          "race",
+          "Switch",
+          "0xwas, SAS, YT",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT2H05M",
+        "length_t": 7500,
+        "scheduled": "2025-08-14T21:34:00+09:00",
+        "scheduled_t": 1755174840,
+        "data": [
+          "Wizardry: Proving Grounds of the Mad Overlord",
+          "Any%",
+          "single",
+          "Switch",
+          "ゆーじさん",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT25M",
+        "length_t": 1500,
+        "scheduled": "2025-08-14T23:47:00+09:00",
+        "scheduled_t": 1755182820,
+        "data": [
+          "スゴイツヨイトウフ",
+          "Koya Tofu Any%",
+          "race",
+          "PC",
+          "だんごむし, Nore139",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT2H25M",
+        "length_t": 8700,
+        "scheduled": "2025-08-15T00:20:00+09:00",
+        "scheduled_t": 1755184800,
+        "data": [
+          "ゲームセンターCX 有野の挑戦状 1+2 REPLAY",
+          "有野の挑戦状 Any%",
+          "single",
+          "Switch",
+          "カジック。",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT2H",
+        "length_t": 7200,
+        "scheduled": "2025-08-15T02:53:00+09:00",
+        "scheduled_t": 1755193980,
+        "data": [
+          "ドラゴンファングZ",
+          "竜の深淵",
+          "single",
+          "PC",
+          "yagamuu",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT2H10M",
+        "length_t": 7800,
+        "scheduled": "2025-08-15T05:01:00+09:00",
+        "scheduled_t": 1755201660,
+        "data": [
+          "DRAG-ON DRAGOON 3",
+          "[A] NG+",
+          "single",
+          "PlayStation 3",
+          "Kenu",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT57M",
+        "length_t": 3420,
+        "scheduled": "2025-08-15T07:19:00+09:00",
+        "scheduled_t": 1755209940,
+        "data": [
+          "世界樹の迷宮II 諸王の聖杯 HD REMASTER",
+          "Ur-Child",
+          "single",
+          "PC",
+          "明日とろろG",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT25M",
+        "length_t": 1500,
+        "scheduled": "2025-08-15T08:24:00+09:00",
+        "scheduled_t": 1755213840,
+        "data": [
+          "ブリーチ ヒート・ザ・ソウル7",
+          "Story",
+          "single",
+          "PSP",
+          "いの",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT22M",
+        "length_t": 1320,
+        "scheduled": "2025-08-15T08:57:00+09:00",
+        "scheduled_t": 1755215820,
+        "data": [
+          "ゴジラ怪獣大決戦",
+          "Expert",
+          "single",
+          "SFC",
+          "Xin_Chang",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT35M",
+        "length_t": 2100,
+        "scheduled": "2025-08-15T09:27:00+09:00",
+        "scheduled_t": 1755217620,
+        "data": [
+          "ケツバトラー",
+          "Beat 6 Characters with 6 Characters",
+          "race",
+          "Switch",
+          "KOH藻, てるる",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT1H05M",
+        "length_t": 3900,
+        "scheduled": "2025-08-15T10:10:00+09:00",
+        "scheduled_t": 1755220200,
+        "data": [
+          "電車でGO!",
+          "Whistlestop (All Lines 1cc)",
+          "single",
+          "PlayStation",
+          "まる",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT45M",
+        "length_t": 2700,
+        "scheduled": "2025-08-15T11:23:00+09:00",
+        "scheduled_t": 1755224580,
+        "data": [
+          "Minecraft Java Edition",
+          "HHH Any% Random Seed Glitchless",
+          "race",
+          "PC",
+          "はるさめ, まさ",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT1H32M",
+        "length_t": 5520,
+        "scheduled": "2025-08-15T12:16:00+09:00",
+        "scheduled_t": 1755227760,
+        "data": [
+          "サルゲッチュ",
+          "All Monkeys",
+          "single",
+          "PlayStation",
+          "El_Dorado",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT15M",
+        "length_t": 900,
+        "scheduled": "2025-08-15T13:56:00+09:00",
+        "scheduled_t": 1755233760,
+        "data": [
+          "迷宮組曲 ミロンの大冒険",
+          "Any%",
+          "single",
+          "FC",
+          "だらだらch",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT40M",
+        "length_t": 2400,
+        "scheduled": "2025-08-15T14:19:00+09:00",
+        "scheduled_t": 1755235140,
+        "data": [
+          "Cook,serve,Delicious!3?!",
+          "Buttermilk County% Standard Mode Only (single run)",
+          "single",
+          "PC",
+          "Noalga",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT1H20M",
+        "length_t": 4800,
+        "scheduled": "2025-08-15T15:07:00+09:00",
+        "scheduled_t": 1755238020,
+        "data": [
+          "The Elder Scrolls V: Skyrim",
+          "Glitchless Main Quest",
+          "single",
+          "PC",
+          "Lilu",
+          "0:08:00"
+        ]
+      },
+      {
+        "length": "PT3H20M",
+        "length_t": 12000,
+        "scheduled": "2025-08-15T16:35:00+09:00",
+        "scheduled_t": 1755243300,
+        "data": [
+          "Final Fantasy X-2 HD Remaster",
+          "Any% No Creature Creator",
+          "single",
+          "PC",
+          "ことんび",
+          "0:08:00"
+        ]
+      }
+    ],
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://horaro.org/-/api/v1/schedules/3211a1c9cbec3e7aae"
+      },
+      {
+        "rel": "event",
+        "uri": "https://horaro.org/-/api/v1/events/645002979s88wrb4d8"
+      },
+      {
+        "rel": "ticker",
+        "uri": "https://horaro.org/-/api/v1/schedules/3211a1c9cbec3e7aae/ticker"
+      }
+    ]
   }
-
-}
+};

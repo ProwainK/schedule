@@ -237,7 +237,7 @@
       // 已經抓好的 JS 檔，但會過期
       if (json == null) {
         try {
-          json = { results: window.gdqLocalSchedule.results };
+          json = { results: window.eventLocalSchedule.results };
           console.log("JS 檔 Success");
         } catch { }
       }
@@ -376,7 +376,7 @@
           <img class="game-boxart" src="${info.boxart || 'https://static-cdn.jtvnw.net/ttv-static/404_boxart-600x800.jpg' || ''}" alt="${item.game}" />
         </div>
         <div class="right-side">
-          <h2>${info.tw || info.en || item.game}</h2>
+          <h2>${info.tw || info.jp || info.en || item.game}</h2>
           <h3>${info.jp || ''}</h3>
           <h3>${info.en || ''}</h3>
           ${details[0] ? `<p class="category-tw">${details[0]}</p><p>${item.category}</p>` : `<p class="category-tw">${item.category}</p>`}
