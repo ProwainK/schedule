@@ -1306,10 +1306,10 @@ window.gameDB = {
       ]
     }
   },
-  "Chip 'n Dale: Rescue Rangers 2": {
+  "Chip 'n Dale Rescue Rangers 2": {
     "tw": "松鼠大作戰 2",
     "jp": "チップとデールの大作戦 2",
-    "en": "Chip 'n Dale: Rescue Rangers 2",
+    "en": "Chip 'n Dale Rescue Rangers 2",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/15209_IGDB.jpg",
     "sgdq2025": {
       "Beat the Game (1P2C)": [
