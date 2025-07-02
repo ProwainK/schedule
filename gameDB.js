@@ -4,6 +4,123 @@ window.gameDB = {
     "jp": null,
     "en": null
   },
+  "E.T. The Extra-Terrestrial": {
+    "tw": "E.T. 外星人",
+    "jp": null,
+    "en": "E.T. The Extra-Terrestrial",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/3631_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/et",
+    "rijs2025": {
+      "Any% No RNG Manipulation Hard": [
+        null,
+        null
+      ]
+    }
+  },
+  "Dead Cells": {
+    "tw": "死亡細胞",
+    "jp": null,
+    "en": "Dead Cells",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/495961_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/deadcells",
+    "rijs2025": {
+      "FreshFile": [
+        null,
+        null
+      ]
+    }
+  },
+  "Komeiji Satori no Jousou Kyouiku": {
+    "tw": "古明地覺的情操教育",
+    "jp": "古明地さとりの情操教育",
+    "en": "Komeiji Satori no Jousou Kyouiku",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/477411122_IGDB.jpg",
+    "leaderboard": null,
+    "rijs2025": {
+      "Defeat Hijiri - No Strong Koishi": [
+        null,
+        null
+      ]
+    }
+  },
+  "Bomberman 64": {
+    "tw": "爆轟炸超人",
+    "jp": "爆ボンバーマン",
+    "en": "Bomberman 64",
+    "boxart": "https://www.speedrun.com/static/game/4d799r17/cover.png",
+    "leaderboard": "https://www.speedrun.com/bm64",
+    "rijs2025": {
+      "120 Cards": [
+        null,
+        null
+      ]
+    }
+  },
+  "Radiant Silvergun": {
+    "tw": "閃亮銀槍",
+    "jp": null,
+    "en": "Radiant Silvergun",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/15540_IGDB.jpg",
+    "leaderboard": null,
+    "rijs2025": {
+      "Scoring , sword only": [
+        null,
+        null
+      ]
+    }
+  },
+  "Windowkill": {
+    "tw": null,
+    "jp": null,
+    "en": "Windowkill",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1175329714_IGDB.jpg",
+    "leaderboard": null,
+    "rijs2025": {
+      "Any% v.4.0.0 Standardized レース": [
+        null,
+        null
+      ]
+    }
+  },
+  "Dynasty Warriors 8: Xtreme Legends Complete Edition": {
+    "tw": "真・三國無雙 7 with 猛將傳",
+    "jp": "真・三國無双 7 with 猛将伝",
+    "en": "Dynasty Warriors 8: Xtreme Legends Complete Edition",
+    "boxart": "https://www.speedrun.com/static/game/j1npky6p/cover.png",
+    "leaderboard": "https://www.speedrun.com/dw8xlce",
+    "rijs2025": {
+      "呉伝 No OoB - IFエンド": [
+        null,
+        null
+      ]
+    }
+  },
+  "Final Fight (Capcom Fighting Collection)": {
+    "tw": "街頭快打 (卡普空經典動作合輯)",
+    "jp": "ファイナルファイト (カプコンベルトアクションコレクション)",
+    "en": "Final Fight (Capcom Fighting Collection)",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/6147_IGDB.jpg",
+    "leaderboard": null,
+    "rijs2025": {
+      "1 CC Guy Turbo": [
+        null,
+        null
+      ]
+    }
+  },
+  "River City Girls Zero": {
+    "tw": "熱血硬派國夫君外傳 熱血少女 零",
+    "jp": "新・熱血硬派 くにおたちの挽歌 -with River City Girls Extra-",
+    "en": "River City Girls Zero",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/518673_IGDB.jpg",
+    "leaderboard": null,
+    "rijs2025": {
+      "1p Normal": [
+        null,
+        null
+      ]
+    }
+  },
   "Barbie: Super Model": {
     "tw": "芭比娃娃 超級模特兒",
     "jp": null,
@@ -69,19 +186,6 @@ window.gameDB = {
       ]
     }
   },
-  "Dead Cells": {
-    "tw": "死亡細胞",
-    "jp": null,
-    "en": "Dead Cells",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/495961_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/deadcells",
-    "rijs2025": {
-      "FreshFile": [
-        null,
-        null
-      ]
-    }
-  },
   "Death and Taxes": {
     "tw": "死亡與稅賦",
     "jp": null,
@@ -121,19 +225,6 @@ window.gameDB = {
       ]
     }
   },
-  "E.T. The Extra-Terrestrial": {
-    "tw": "E.T. 外星人",
-    "jp": null,
-    "en": "E.T. The Extra-Terrestrial",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/3631_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/et",
-    "rijs2025": {
-      "Any% No RNG Manipulation Hard": [
-        null,
-        null
-      ]
-    }
-  },
   "Final Fantasy X-2 HD Remaster": {
     "tw": null,
     "jp": null,
@@ -147,18 +238,6 @@ window.gameDB = {
       ]
     }
   },
-  "Final Fantasy IX": {
-    "tw": null,
-    "jp": null,
-    "en": "Final Fantasy IX",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/8090_IGDB.jpg",
-    "sgdq2025": {
-      "HD PC CutScene Remover": [
-        null,
-        null
-      ]
-    }
-  },
   "Inscryption": {
     "tw": "賭命牌卡",
     "jp": null,
@@ -167,19 +246,6 @@ window.gameDB = {
     "leaderboard": "https://www.speedrun.com/inscryption",
     "rijs2025": {
       "Kaycee’s mod All Challenges並走会 レース": [
-        null,
-        null
-      ]
-    }
-  },
-  "Looney Tunes ロードランナーvsワイリーコヨーテ": {
-    "tw": "嗶嗶鳥的死亡谷拉力賽",
-    "jp": "Looney Tunes ロードランナーvsワイリーコヨーテ",
-    "en": "Road Runner's Death Valley Rally",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/16863_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/deathvalleyrally",
-    "rijs2025": {
-      "Any%": [
         null,
         null
       ]
@@ -245,19 +311,6 @@ window.gameDB = {
     "leaderboard": "https://www.speedrun.com/nova_drift",
     "rijs2025": {
       "Phylogeny": [
-        null,
-        null
-      ]
-    }
-  },
-  "Radiant Silvergun": {
-    "tw": "閃亮銀槍",
-    "jp": null,
-    "en": "Radiant Silvergun",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/15540_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "Scoring , sword only": [
         null,
         null
       ]
@@ -419,19 +472,6 @@ window.gameDB = {
       ]
     }
   },
-  "Windowkill": {
-    "tw": null,
-    "jp": null,
-    "en": "Windowkill",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1175329714_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "Any% v.4.0.0 Standardized レース": [
-        null,
-        null
-      ]
-    }
-  },
   "Wizardry: Proving Grounds of the Mad Overlord": {
     "tw": "巫術：瘋狂領主的試驗場",
     "jp": null,
@@ -506,7 +546,7 @@ window.gameDB = {
     }
   },
   "アーネスト・エバンス": {
-    "tw": "叢林戰士 (狼組製作)",
+    "tw": "叢林戰士",
     "jp": "アーネスト・エバンス",
     "en": "Earnest Evans",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/16519_IGDB.jpg",
@@ -514,7 +554,7 @@ window.gameDB = {
     "rijs2025": {
       "Any%": [
         null,
-        null
+        "狼組製作"
       ]
     }
   },
@@ -598,7 +638,7 @@ window.gameDB = {
   },
   "いただきストリート　ゴージャスキング": {
     "tw": null,
-    "jp": "いただきストリート ゴージャスキング (人生街道系列)",
+    "jp": "いただきストリート ゴージャスキング",
     "en": "Itadaki Street: Gorgeous King",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/489227_IGDB.jpg",
     "leaderboard": null,
@@ -830,19 +870,6 @@ window.gameDB = {
       ]
     }
   },
-  "ファイナルファイト（カプコンベルトアクションコレクション）": {
-    "tw": "街頭快打 (卡普空經典動作合輯)",
-    "jp": "ファイナルファイト",
-    "en": "Final Fight",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/6147_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "1 CC Guy Turbo": [
-        null,
-        null
-      ]
-    }
-  },
   "フィリスのアトリエ ～不思議な旅の錬金術士～ DX": {
     "tw": "菲莉絲的鍊金工房 ～不可思議旅的鍊金術士～ DX",
     "jp": "フィリスのアトリエ ～不思議な旅の錬金術士～ DX",
@@ -973,32 +1000,6 @@ window.gameDB = {
       ]
     }
   },
-  "悪魔城ドラキュラXX": {
-    "tw": "惡魔城 XX",
-    "jp": "悪魔城ドラキュラ XX",
-    "en": "Castlevania: Dracula X",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/10071_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "Best Ending": [
-        null,
-        null
-      ]
-    }
-  },
-  "姐": {
-    "tw": "大姐頭",
-    "jp": "姐 (あねさん)",
-    "en": "ane-san",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/29932_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "Any%": [
-        null,
-        null
-      ]
-    }
-  },
   "機動戦士ガンダム 一年戦争": {
     "tw": "機動戰士鋼彈 一年戰爭",
     "jp": "機動戦士ガンダム 一年戦争",
@@ -1025,19 +1026,6 @@ window.gameDB = {
       ]
     }
   },
-  "古明地さとりの情操教育": {
-    "tw": "古明地覺的情操教育",
-    "jp": "古明地さとりの情操教育",
-    "en": "Komeiji Satori no Jousou Kyouiku",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/477411122_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "Defeat Hijiri - No Strong Koishi": [
-        null,
-        null
-      ]
-    }
-  },
   "松方弘樹のスーパートローリング": {
     "tw": "松方弘樹的超級釣魚",
     "jp": "松方弘樹のスーパートローリング",
@@ -1051,19 +1039,6 @@ window.gameDB = {
       ]
     }
   },
-  "新・熱血硬派 くにおたちの挽歌 -with River City Girls Extra-": {
-    "tw": "熱血硬派國夫君外傳 熱血少女 零",
-    "jp": "新・熱血硬派 くにおたちの挽歌 -with River City Girls Extra-",
-    "en": "River City Girls Zero",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/518673_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "1p Normal": [
-        null,
-        null
-      ]
-    }
-  },
   "新鬼武者": {
     "tw": "新鬼武者",
     "jp": "新 鬼武者 DAWN OF DREAMS",
@@ -1072,19 +1047,6 @@ window.gameDB = {
     "leaderboard": null,
     "rijs2025": {
       "New Game Nomal": [
-        null,
-        null
-      ]
-    }
-  },
-  "Dynasty Warriors 8: Xtreme Legends Complete Edition": {
-    "tw": "真・三國無雙 7 with 猛將傳",
-    "jp": "真・三國無双 7 with 猛将伝",
-    "en": "Dynasty Warriors 8: Xtreme Legends Complete Edition",
-    "boxart": "https://www.speedrun.com/static/game/j1npky6p/cover.png",
-    "leaderboard": "https://www.speedrun.com/dw8xlce",
-    "rijs2025": {
-      "呉伝 No OoB - IFエンド": [
         null,
         null
       ]
@@ -1129,25 +1091,6 @@ window.gameDB = {
       ]
     }
   },
-  "Ao Oni (2024)": {
-    "tw": null,
-    "jp": "最恐 -青鬼-",
-    "en": "Ao Oni (2024) / Absolute Fear -AOONI-",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1179914202_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/Ao_Oni_2024",
-    "rijs2025": {
-      "Any%": [
-        "雙人競速",
-        null
-      ]
-    },
-    "sgdq2025": {
-      "Any% RTA (15x Speed)": [
-        "青鬼 15 倍速挑戰",
-        "傳奇恐怖遊戲《青鬼》誕生 20 年後的 3D 化作品"
-      ]
-    }
-  },
   "Densha de Go!": {
     "tw": "電車 GO！",
     "jp": "電車で GO！",
@@ -1169,19 +1112,6 @@ window.gameDB = {
     "leaderboard": "https://www.speedrun.com/touhou_eiyashou_imperishable_night",
     "rijs2025": {
       "Lunatic スコアアタック": [
-        null,
-        null
-      ]
-    }
-  },
-  "Bomberman 64": {
-    "tw": "爆轟炸超人",
-    "jp": "爆ボンバーマン",
-    "en": "Bomberman 64",
-    "boxart": "https://www.speedrun.com/static/game/4d799r17/cover.png",
-    "leaderboard": "https://www.speedrun.com/bm64",
-    "rijs2025": {
-      "120 Cards": [
         null,
         null
       ]
@@ -1239,18 +1169,6 @@ window.gameDB = {
       ]
     }
   },
-  "Celeste": {
-    "tw": "蔚藍",
-    "jp": null,
-    "en": "Celeste",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/492535_IGDB.jpg",
-    "sgdq2025": {
-      "All Hearts Race": [
-        "水晶之心全收集、雙人競速",
-        "穩重與風險<br>兩種風格不同的路線競走表演"
-      ]
-    }
-  },
   "Racing Lagoon": {
     "tw": "【備選節目】陸地霸者",
     "jp": "レーシングラグーン",
@@ -1300,18 +1218,6 @@ window.gameDB = {
       "All Stages (Level 1, 2, & 3)": [
         null,
         "(Backup Run 6)"
-      ]
-    }
-  },
-  "We Love Katamari REROLL+ Royal Reverie": {
-    "tw": "人見人愛的塊魂 安可+ 國王大人的小小回憶",
-    "jp": "みんな大好き塊魂アンコール＋ 王様プチメモリー",
-    "en": "We Love Katamari REROLL+ Royal Reverie",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/899185268_IGDB.jpg",
-    "sgdq2025": {
-      "Roll Up the Sun": [
-        null,
-        null
       ]
     }
   },
@@ -1826,6 +1732,25 @@ window.gameDB = {
       ]
     }
   },
+  "Ao Oni (2024)": {
+    "tw": null,
+    "jp": "最恐 -青鬼-",
+    "en": "Ao Oni (2024) / Absolute Fear -AOONI-",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1179914202_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/Ao_Oni_2024",
+    "rijs2025": {
+      "Any%": [
+        "雙人競速",
+        null
+      ]
+    },
+    "sgdq2025": {
+      "Any% RTA (15x Speed)": [
+        "青鬼 15 倍速挑戰",
+        "傳奇恐怖遊戲《青鬼》誕生 20 年後的 3D 化作品"
+      ]
+    }
+  },
   "En Garde!": {
     "tw": "擊劍預備！",
     "jp": null,
@@ -1833,6 +1758,24 @@ window.gameDB = {
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/612019458_IGDB.jpg",
     "sgdq2025": {
       "Any% Easy": [
+        null,
+        null
+      ]
+    }
+  },
+  "We Love Katamari REROLL+ Royal Reverie": {
+    "tw": "人見人愛的塊魂 安可+ 國王大人的小小回憶",
+    "jp": "みんな大好き塊魂アンコール＋ 王様プチメモリー",
+    "en": "We Love Katamari REROLL+ Royal Reverie",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/899185268_IGDB.jpg",
+    "rijs2025": {
+      "Roll Up the Sun": [
+        null,
+        "(Backup Run 7)"
+      ]
+    },
+    "sgdq2025": {
+      "Roll Up the Sun": [
         null,
         null
       ]
@@ -2892,6 +2835,24 @@ window.gameDB = {
       ]
     }
   },
+  "Final Fantasy IX": {
+    "tw": null,
+    "jp": null,
+    "en": "Final Fantasy IX",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/8090_IGDB.jpg",
+    "rijs2025": {
+      "PSX Any% JP": [
+        null,
+        null
+      ]
+    },
+    "sgdq2025": {
+      "HD PC CutScene Remover": [
+        null,
+        null
+      ]
+    }
+  },
   "Super Mario Bros. 3": {
     "tw": "超級瑪利歐兄弟 3",
     "jp": "スーパーマリオブラザーズ 3",
@@ -2913,6 +2874,25 @@ window.gameDB = {
       "Any% TAS": [
         null,
         "POYO<br>人類無法企及的速度<br>極致暴力與機動性的粉紅惡魔 TAS"
+      ]
+    }
+  },
+  "Celeste": {
+    "tw": "蔚藍",
+    "jp": null,
+    "en": "Celeste",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/492535_IGDB.jpg",
+    "leaderboard": null,
+    "rijs2025": {
+      "Any% One Handed": [
+        null,
+        "(Backup Run 2)"
+      ]
+    },
+    "sgdq2025": {
+      "All Hearts Race": [
+        "水晶之心全收集、雙人競速",
+        "穩重與風險<br>兩種風格不同的路線競走表演"
       ]
     }
   },
@@ -3557,10 +3537,23 @@ window.gameDB = {
     "en": "BPM: Bullets Per Minute"
   },
   "Castlevania: Dracula X": {
-    "tw": "惡魔城XX",
-    "jp": "悪魔城ドラキュラXX",
+    "tw": "惡魔城 XX",
+    "jp": "悪魔城ドラキュラ XX",
     "en": "Castlevania: Dracula X",
-    "Bad Ending (Catacomb Shortcut)": "操作感最糟糕的的惡魔城<br>卻跑出最風騷的里希達"
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/10071_IGDB.jpg",
+    "leaderboard": null,
+    "rijs2025": {
+      "Best Ending": [
+        null,
+        null
+      ]
+    },
+    "agdq2025": {
+      "Bad Ending (Catacomb Shortcut)": [
+        null,
+        "操作感最糟糕的的惡魔城<br>卻跑出最風騷的里希達"
+      ]
+    }
   },
   "Gimmick! 2": {
     "tw": "吉米克2",
@@ -3584,7 +3577,20 @@ window.gameDB = {
     "tw": "大姐頭",
     "jp": "姐 (あねさん)",
     "en": "ane-san",
-    "All Characters": "-關 東 初 代 喧 嘩 上 等-"
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/29932_IGDB.jpg",
+    "leaderboard": null,
+    "rijs2025": {
+      "Any%": [
+        null,
+        null
+      ]
+    },
+    "agdq2025": {
+      "All Characters": [
+        null,
+        "-關 東 初 代 喧 嘩 上 等-"
+      ]
+    }
   },
   "10 Second Ninja X": {
     "tw": null,
@@ -3699,9 +3705,23 @@ window.gameDB = {
     "Any%": "サルサルサルサルサルゲッチ♬<br>うーんサルゲッチ♬ ゲッチュ！"
   },
   "Road Runner's Death Valley Rally": {
-    "tw": "威利狼與嗶嗶鳥",
-    "jp": "LOONEY TUNES ロードランナーVSワイリーコヨーテ",
-    "en": "Road Runner's Death Valley Rally"
+    "tw": "嗶嗶鳥的死亡谷拉力賽",
+    "jp": "Looney Tunes ロードランナー vs ワイリーコヨーテ",
+    "en": "Road Runner's Death Valley Rally",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/16863_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/deathvalleyrally",
+    "rijs2025": {
+      "Any%": [
+        null,
+        null
+      ]
+    },
+    "agdq2025": {
+      "Any%": [
+        null,
+        null
+      ]
+    }
   },
   "Ristar": {
     "tw": "星星王子",

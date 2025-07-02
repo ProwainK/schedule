@@ -2,18 +2,34 @@ window.renameDB = {
 
   "RiJ": {},
 
+  "悪魔城ドラキュラXX": "Castlevania: Dracula X",
+  "古明地さとりの情操教育": "Komeiji Satori no Jousou Kyouiku",
+  "爆ボンバーマン": "Bomberman 64",
+  "Looney Tunes ロードランナーvsワイリーコヨーテ": "Road Runner's Death Valley Rally",
+  "真・三國無双7 with 猛将伝": "Dynasty Warriors 8: Xtreme Legends Complete Edition",
+  "ファイナルファイト（カプコンベルトアクションコレクション）": "Final Fight (Capcom Fighting Collection)",
+  "新・熱血硬派 くにおたちの挽歌 -with River City Girls Extra-": "River City Girls Zero",
+  "姐": "ane-san",
+
+
+
+
+
+
+
+
+
+
   "Barbie Super Model": "Barbie: Super Model",
   "BIOHAZARD RE:2": "Resident Evil 2 (2019)",
   "Cook,serve,Delicious!3?!": "Cook, Serve, Delicious! 3?!",
 
 
-  "真・三國無双7 with 猛将伝": "Dynasty Warriors 8: Xtreme Legends Complete Edition",
   "真・女神転生if...": "Shin Megami Tensei if...",
   "世界樹の迷宮II 諸王の聖杯 HD REMASTER": "Etrian Odyssey II HD",
   "聖剣伝説3": "Trials of Mana (2020)",
   "電車でGO!": "Densha de Go!",
   "青鬼(2024)": "Ao Oni (2024)",
-  "爆ボンバーマン": "Bomberman 64",
   "北海道4,000km 道内全市町村踏破": "Visit all municipalities in Hokkaido",
 
   "みんな大好き塊魂アンコール＋王様プチメモリー": "We Love Katamari REROLL+ Royal Reverie",
