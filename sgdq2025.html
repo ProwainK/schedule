@@ -2,7 +2,7 @@
 <html lang="zh-TW">
 <head>
 <meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 <title>Summer Games Done Quick 2025 時程表翻譯 ლ(╹◡╹ლ)</title>
 
  <link href="https://fonts.googleapis.com/css2?family=Klee+One&display=swap" rel="stylesheet">
@@ -198,7 +198,8 @@ bottom: 0;
 /* 直立手機 */
 @media (orientation: portrait) {
   #embla {
-    zoom: 0.8; /* 相當於 100% 對應原本的 125% */
+    /* zoom: 0.8; 相當於 100% 對應原本的 125% */
+    /* transform: scale(0.8); */
   }
 
   .game-boxart {
@@ -213,6 +214,30 @@ bottom: 0;
     width: 100%;
     white-space: normal; /* 絕對不換行 */
   }
+
+
+
+  .right-side h2 {
+    font-size: 2rem;
+  }
+
+  .right-side h3 {
+    font-size: 1.25rem;
+  }
+
+  .category-tw {
+    font-size: 1.25rem;
+  }
+
+  .details {
+    font-size: 1.1rem;
+  }
+
+  p {
+    font-size: 0.95rem;
+  }
+
+
 }
 
 </style>
