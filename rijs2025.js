@@ -12,7 +12,7 @@ window.eventLocalSchedule = {
     "description": null,
     "setup": "PT08M",
     "setup_t": 480,
-    "updated": "2025-07-02T11:55:04Z",
+    "updated": "2025-07-05T10:48:56Z",
     "hidden_columns": [
       "setup"
     ],
@@ -75,7 +75,7 @@ window.eventLocalSchedule = {
         "scheduled_t": 1754726700,
         "data": [
           "Dead Cells",
-          "FreshFile",
+          "Fresh File",
           "single",
           "PC",
           "ギけとマト",
@@ -228,7 +228,7 @@ window.eventLocalSchedule = {
         "scheduled": "2025-08-10T01:34:00+09:00",
         "scheduled_t": 1754757240,
         "data": [
-          "いただきストリート　ゴージャスキング",
+          "いただきストリート ゴージャスキング",
           "いたスト王決定戦",
           "single",
           "PlayStation",
@@ -467,7 +467,7 @@ window.eventLocalSchedule = {
         "scheduled_t": 1754879940,
         "data": [
           "ルミネス リマスター",
-          "Basic any% 4columns",
+          "Basic Any% 4columns",
           "single",
           "PC",
           "MlNTlA",
@@ -606,7 +606,7 @@ window.eventLocalSchedule = {
         "scheduled": "2025-08-11T21:27:00+09:00",
         "scheduled_t": 1754915220,
         "data": [
-          "Barbie Super Model",
+          "Barbie: Super Model",
           "Any% Super Model",
           "single",
           "SNES",
@@ -705,7 +705,7 @@ window.eventLocalSchedule = {
         "scheduled_t": 1754956200,
         "data": [
           "新鬼武者",
-          "New Game Nomal",
+          "New Game Normal",
           "single",
           "PlayStation 2",
           "蝶番",
@@ -718,7 +718,7 @@ window.eventLocalSchedule = {
         "scheduled": "2025-08-12T10:58:00+09:00",
         "scheduled_t": 1754963880,
         "data": [
-          "noita",
+          "Noita",
           "All Bosses(Random Seed)",
           "single",
           "PC",
@@ -760,7 +760,7 @@ window.eventLocalSchedule = {
         "scheduled": "2025-08-12T15:14:00+09:00",
         "scheduled_t": 1754979240,
         "data": [
-          "パウ・パトロール ザ・ムービー：アドベンチャーシティがよんでいる",
+          "パウ・パトロール：ザ・ムービー アドベンチャーシティがよんでいる",
           "Any%",
           "single",
           "PC",
@@ -998,7 +998,7 @@ window.eventLocalSchedule = {
         "scheduled": "2025-08-14T07:42:00+09:00",
         "scheduled_t": 1755124920,
         "data": [
-          "wattam",
+          "Wattam",
           "Any%",
           "single",
           "PC",
@@ -1320,7 +1320,7 @@ window.eventLocalSchedule = {
         "scheduled": "2025-08-15T14:19:00+09:00",
         "scheduled_t": 1755235140,
         "data": [
-          "Cook,serve,Delicious!3?!",
+          "Cook, Serve, Delicious! 3?!",
           "Buttermilk County% Standard Mode Only (single run)",
           "single",
           "PC",

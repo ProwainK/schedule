@@ -12,7 +12,7 @@ window.renameDB = {
   "姐": "ane-san",
 
   "アーネスト・エバンス": "Earnest Evans",
-  "いただきストリート　ゴージャスキング": "Itadaki Street: Gorgeous King",
+  "いただきストリート ゴージャスキング": "Itadaki Street: Gorgeous King",
   "METAL MAX2": "METAL MAX 2",
   "北海道4,000km 道内全市町村踏破": "Visit all municipalities in Hokkaido",
   "アメリカンバトルドーム": "American Battle Dome",
@@ -39,7 +39,7 @@ window.renameDB = {
   "新鬼武者": "Onimusha: Dawn of Dreams",
   "noita": "Noita",
   "松方弘樹のスーパートローリング": "Matsukata Hiroki no Super Trawling",
-  "パウ・パトロール ザ・ムービー：アドベンチャーシティがよんでいる": "PAW Patrol The Movie: Adventure City Calls",
+  "パウ・パトロール：ザ・ムービー アドベンチャーシティがよんでいる": "PAW Patrol The Movie: Adventure City Calls",
   "カンパニーマン 社畜の下剋上": "The Company Man",
   "アリス・エスケイプト！": "Alice Escaped!",
   "ドラゴンクエストIV 導かれし者たち": "Dragon Quest IV: Chapters of the Chosen",

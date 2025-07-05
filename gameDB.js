@@ -13,7 +13,7 @@ window.gameDB = {
     "rijs2025": {
       "Any% No RNG Manipulation Hard": [
         null,
-        null
+        "遊戲史上評價最糟糕遊戲，後來慘遭掩埋<br>1983 年美國遊戲業大蕭條的文化象徵代表"
       ]
     }
   },
@@ -128,9 +128,9 @@ window.gameDB = {
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/16519_IGDB.jpg",
     "leaderboard": null,
     "rijs2025": {
-      "Any%": [
+      "MegaCD Any%": [
         null,
-        "Mega-CD 高音質版<br>狼組 & Sega 製作的技術力呈現"
+        "Mega-CD 高音質版<br>狼組 & Sega 製作技術力的經典作品"
       ]
     }
   },
@@ -325,7 +325,7 @@ window.gameDB = {
     "rijs2025": {
       "Ryota% 通常告白ED": [
         null,
-        null
+        "RiJ 熱門話題之一的戀愛模擬遊戲環節<br>這次要跑的是乙女向的純愛手札"
       ]
     }
   },
@@ -349,9 +349,9 @@ window.gameDB = {
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1936591288_IGDB.jpg",
     "leaderboard": null,
     "rijs2025": {
-      "Basic any% 4columns": [
+      "Basic Any% 4columns": [
         null,
-        null
+        "強調視覺與聽覺<br>電音與方塊益智的完美結合"
       ]
     }
   },
@@ -362,9 +362,9 @@ window.gameDB = {
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/284633032_IGDB.jpg",
     "leaderboard": null,
     "rijs2025": {
-      "Any% Hard EC レース": [
+      "Any%Hard-EC": [
         null,
-        null
+        "《熔鐵少女》續作<br>懷著各自的苦衷、少女們提起槍枝投身前線..."
       ]
     }
   },
@@ -376,8 +376,8 @@ window.gameDB = {
     "leaderboard": "https://www.speedrun.com/shadow_corridor",
     "rijs2025": {
       "Path of Asuras Full": [
-        null,
-        null
+        "修羅模式、本篇破關",
+        "古老的和風迴廊，迷宮結構每次遊玩時都會隨機生成"
       ]
     }
   },
@@ -401,9 +401,9 @@ window.gameDB = {
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/7240_IGDB.jpg",
     "leaderboard": null,
     "rijs2025": {
-      "難易度：ふつう": [
-        null,
-        null
+      "Any% 難易度：ふつう": [
+        "Normal 難度破關",
+        "首次挑戰 3D 動作遊戲、洛克人的第三個主題系列"
       ]
     }
   },
@@ -415,8 +415,8 @@ window.gameDB = {
     "leaderboard": "https://www.speedrun.com/touhou_eiyashou_imperishable_night",
     "rijs2025": {
       "Lunatic スコアアタック": [
-        null,
-        null
+        "Lunatic 模式 + 刷分挑戰 Score Attack",
+        "「擦彈 (Grazing)」<br>在滿屏彈幕、高速移動狀態下靠近子彈來極限求分"
       ]
     }
   },
@@ -429,7 +429,7 @@ window.gameDB = {
     "rijs2025": {
       "Phylogeny": [
         null,
-        null
+        "老派的太空射擊遊戲也要肉鴿一下<br>構築搭配豐富，玩出各種截然不同的戰鬥風格"
       ]
     }
   },
@@ -455,7 +455,7 @@ window.gameDB = {
     "rijs2025": {
       "[A] Normal": [
         "A 結局、普通難度破關",
-        null
+        "全ての存在は滅びるようにデザインされている。<br>所有的存在都是為了被毀滅而被設計出來的。"
       ]
     }
   },
