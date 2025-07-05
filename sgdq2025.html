@@ -28,7 +28,7 @@
 
   display: flex;
   flex-direction: column;
-  height: 100vh; /* 視窗高度 */
+  height: calc(var(--vh, 1vh) * 100); /* 視窗高度 */
   }
   .day-selector {
     display: flex;
@@ -557,6 +557,14 @@ window.addEventListener('resize', () => {
   }
 
 });
+
+
+function setRealVH() {
+  const vh = window.innerHeight * 0.01;
+  document.documentElement.style.setProperty('--vh', `${vh}px`);
+}
+setRealVH();
+window.addEventListener('resize', setRealVH);
 
 </script>
 
