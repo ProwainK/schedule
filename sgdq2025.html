@@ -25,14 +25,18 @@
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
+
+  display: flex;
+  flex-direction: column;
+  height: 100vh; /* 視窗高度 */
   }
   .day-selector {
     display: flex;
     background: rgba(0, 0, 0, 0.2);
-    overflow-x: auto;
+    overflow: hidden;
   }
   .day-button {
-    flex: 1 0 auto;
+    flex: 1 1 auto; /* 平均分配寬度，自動壓縮 */
     background: rgba(0, 0, 0, 0.2);
     border: none;
     color: white;
@@ -43,6 +47,8 @@
     transition: background-color 0.3s;
 
     text-shadow: black 0.2em 0.2em 0.3em;
+
+    min-width: 0; /* 允許縮小，不超出容器 */
   }
   .day-button.active {
     /* background: #6441a5; */
@@ -53,7 +59,8 @@
   #embla {
     overflow: hidden;
     width: 100%;
-    height: 80vh;
+    flex-grow: 1; /* 撐滿剩餘空間 */
+    height: auto; /* 取消 height: 80vh; 改成由 flex 控制 */
   }
   #embla .embla__container {
     display: flex;
@@ -66,6 +73,8 @@
     padding: 1rem;
     gap: 1rem;
     border-radius: 20px;
+
+margin-right: 20rem;
   }
   .left-side {
     width: 35%;
@@ -131,6 +140,9 @@
     overflow: hidden;
     /* margin-top: 0.5rem; */
     background: rgba(0, 0, 0, 0.3);
+
+
+bottom: 0;
   }
   #thumbnailList .embla__container {
     display: flex;
@@ -175,12 +187,34 @@
 
 .fade-out {
   opacity: 0;
-  transition: opacity 0.5s ease;
+  transition: opacity 0.6s ease;
 }
 .fade-in {
   opacity: 1;
-  transition: opacity 0.5s ease;
+  transition: opacity 0.6s ease;
 }
+
+
+/* 直立手機 */
+@media (orientation: portrait) {
+  #embla {
+    zoom: 0.8; /* 相當於 100% 對應原本的 125% */
+  }
+
+  .game-boxart {
+    display: none !important;
+  }
+
+  .left-side {
+    display: none !important;
+  }
+
+  .right-side {
+    width: 100%;
+    white-space: normal; /* 絕對不換行 */
+  }
+}
+
 </style>
 </head>
 <body>
@@ -300,7 +334,16 @@
       const btn = document.createElement('button');
       btn.className = 'day-button';
       // btn.textContent = labelFmt.format(localDate);
-      let text = labelFmt.format(localDate).replace(/[（）]/g, ' ').trim(); // "07/07 週一"
+      // let text = labelFmt.format(localDate).replace(/[（）]/g, ' ').trim(); // "07/07 週一"
+
+if (window.innerHeight > window.innerWidth) {
+  // 直式：07/07
+  text = `${m}/${d}`;
+} else {
+  // 橫式：07/07 週一
+  text = labelFmt.format(localDate).replace(/[（）]/g, ' ').trim();
+}
+
       btn.textContent = text;
       btn.onclick = () => {
         document.querySelectorAll('.day-button').forEach(b => b.classList.remove('active'));
@@ -465,6 +508,28 @@
   }
 
   init();
+
+
+window.addEventListener('resize', () => {
+  const currentActive = document.querySelector('.day-button.active');
+  const selectedDateStr = currentActive?.textContent?.replace(/\D/g, '');
+
+  createDayButtons();
+
+  // 保留使用者目前選擇的日期按鈕
+  const buttons = document.querySelectorAll('.day-button');
+  const firstButton = buttons[0];
+  if (selectedDateStr && buttons.length > 0) {
+    const match = [...buttons].find(btn => btn.textContent.replace(/\D/g, '') === selectedDateStr);
+    if (match) {
+      match.classList.add('active');
+    } else {
+      firstButton?.classList.add('active');
+    }
+  }
+
+});
+
 </script>
 
 </body>
