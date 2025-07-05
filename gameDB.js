@@ -1147,7 +1147,7 @@ window.gameDB = {
     "tw": "悠遠物語",
     "jp": "悠遠物語 ～空の大陸とアイテム屋さん～",
     "en": "Faraway Story",
-    "boxart": "https://pbs.twimg.com/card_img/1934570572358303744/46Fj0lY2?format=jpg&name=small",
+    "boxart": "https://fafa.iinaa.net/opg2.png",
     "leaderboard": null,
     "rijs2025": {
       "Ver0.76.06 ED1": [

@@ -1,5 +1,5 @@
 window.eventLocalSchedule = {
-  "count": 146,
+  "count": 153,
   "next": null,
   "previous": null,
   "results": [
@@ -29,8 +29,8 @@ window.eventLocalSchedule = {
       ],
       "hosts": [],
       "commentators": [],
-      "starttime": "2025-07-06T16:30:00Z",
-      "endtime": "2025-07-06T17:00:00Z",
+      "starttime": "2025-07-06T11:30:00-05:00",
+      "endtime": "2025-07-06T12:00:00-05:00",
       "order": 1,
       "run_time": "0:30:00",
       "setup_time": "0",
@@ -110,8 +110,8 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-06T17:00:00Z",
-      "endtime": "2025-07-06T18:03:00Z",
+      "starttime": "2025-07-06T12:00:00-05:00",
+      "endtime": "2025-07-06T13:03:00-05:00",
       "order": 2,
       "run_time": "0:45:00",
       "setup_time": "0:18:00",
@@ -171,8 +171,8 @@ window.eventLocalSchedule = {
           "pronouns": "any/all"
         }
       ],
-      "starttime": "2025-07-06T18:03:00Z",
-      "endtime": "2025-07-06T19:21:00Z",
+      "starttime": "2025-07-06T13:03:00-05:00",
+      "endtime": "2025-07-06T14:21:00-05:00",
       "order": 3,
       "run_time": "1:10:00",
       "setup_time": "0:08:00",
@@ -240,13 +240,13 @@ window.eventLocalSchedule = {
           "pronouns": "he/him"
         }
       ],
-      "starttime": "2025-07-06T19:21:00Z",
-      "endtime": "2025-07-06T21:16:00Z",
+      "starttime": "2025-07-06T14:21:00-05:00",
+      "endtime": "2025-07-06T16:16:00-05:00",
       "order": 4,
       "run_time": "1:12:00",
       "setup_time": "0:43:00",
       "anchor_time": null,
-      "layout": "Existing Layouts Not In This List",
+      "layout": "Standard 1 or Widescreen 1",
       "video_links": [],
       "priority_tag": null,
       "tags": []
@@ -309,8 +309,8 @@ window.eventLocalSchedule = {
           "pronouns": "he/him/his"
         }
       ],
-      "starttime": "2025-07-06T21:16:00Z",
-      "endtime": "2025-07-06T22:41:00Z",
+      "starttime": "2025-07-06T16:16:00-05:00",
+      "endtime": "2025-07-06T17:41:00-05:00",
       "order": 5,
       "run_time": "1:25:00",
       "setup_time": "0",
@@ -357,8 +357,8 @@ window.eventLocalSchedule = {
         }
       ],
       "commentators": [],
-      "starttime": "2025-07-06T22:41:00Z",
-      "endtime": "2025-07-06T23:20:00Z",
+      "starttime": "2025-07-06T17:41:00-05:00",
+      "endtime": "2025-07-06T18:20:00-05:00",
       "order": 6,
       "run_time": "0",
       "setup_time": "0:39:00",
@@ -406,9 +406,30 @@ window.eventLocalSchedule = {
           "pronouns": "she/her"
         }
       ],
-      "commentators": [],
-      "starttime": "2025-07-06T23:20:00Z",
-      "endtime": "2025-07-07T00:28:00Z",
+      "commentators": [
+        {
+          "type": "talent",
+          "id": 1465,
+          "name": "CaptainEzekiel",
+          "stream": "https://twitch.tv/captainezekiel",
+          "twitter": "CaptainEzekiel",
+          "youtube": "",
+          "platform": "TWITCH",
+          "pronouns": "He/Him"
+        },
+        {
+          "type": "talent",
+          "id": 2162,
+          "name": "Ashley93oBTW",
+          "stream": "https://twitch.tv/ashley93obtw",
+          "twitter": "",
+          "youtube": "",
+          "platform": "TWITCH",
+          "pronouns": ""
+        }
+      ],
+      "starttime": "2025-07-06T18:20:00-05:00",
+      "endtime": "2025-07-06T19:28:00-05:00",
       "order": 7,
       "run_time": "0:50:00",
       "setup_time": "0:18:00",
@@ -476,8 +497,8 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-07T00:28:00Z",
-      "endtime": "2025-07-07T01:36:00Z",
+      "starttime": "2025-07-06T19:28:00-05:00",
+      "endtime": "2025-07-06T20:36:00-05:00",
       "order": 8,
       "run_time": "0:40:00",
       "setup_time": "0:28:00",
@@ -557,8 +578,8 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-07T01:36:00Z",
-      "endtime": "2025-07-07T03:29:00Z",
+      "starttime": "2025-07-06T20:36:00-05:00",
+      "endtime": "2025-07-06T22:29:00-05:00",
       "order": 9,
       "run_time": "1:30:00",
       "setup_time": "0:23:00",
@@ -636,8 +657,8 @@ window.eventLocalSchedule = {
           "pronouns": "he/him"
         }
       ],
-      "starttime": "2025-07-07T03:29:00Z",
-      "endtime": "2025-07-07T04:15:00Z",
+      "starttime": "2025-07-06T22:29:00-05:00",
+      "endtime": "2025-07-06T23:15:00-05:00",
       "order": 10,
       "run_time": "0:22:00",
       "setup_time": "0:24:00",
@@ -684,8 +705,8 @@ window.eventLocalSchedule = {
         }
       ],
       "commentators": [],
-      "starttime": "2025-07-07T04:15:00Z",
-      "endtime": "2025-07-07T05:23:00Z",
+      "starttime": "2025-07-06T23:15:00-05:00",
+      "endtime": "2025-07-07T00:23:00-05:00",
       "order": 11,
       "run_time": "1:00:00",
       "setup_time": "0:08:00",
@@ -763,8 +784,8 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-07T05:23:00Z",
-      "endtime": "2025-07-07T06:25:00Z",
+      "starttime": "2025-07-07T00:23:00-05:00",
+      "endtime": "2025-07-07T01:25:00-05:00",
       "order": 12,
       "run_time": "0:50:00",
       "setup_time": "0:12:00",
@@ -844,8 +865,8 @@ window.eventLocalSchedule = {
           "pronouns": "he/him"
         }
       ],
-      "starttime": "2025-07-07T06:25:00Z",
-      "endtime": "2025-07-07T06:59:00Z",
+      "starttime": "2025-07-07T01:25:00-05:00",
+      "endtime": "2025-07-07T01:59:00-05:00",
       "order": 13,
       "run_time": "0:27:00",
       "setup_time": "0:07:00",
@@ -913,8 +934,8 @@ window.eventLocalSchedule = {
           "pronouns": "he/him"
         }
       ],
-      "starttime": "2025-07-07T06:59:00Z",
-      "endtime": "2025-07-07T07:36:00Z",
+      "starttime": "2025-07-07T01:59:00-05:00",
+      "endtime": "2025-07-07T02:36:00-05:00",
       "order": 14,
       "run_time": "0:30:00",
       "setup_time": "0:07:00",
@@ -982,8 +1003,8 @@ window.eventLocalSchedule = {
           "pronouns": "They/She"
         }
       ],
-      "starttime": "2025-07-07T07:36:00Z",
-      "endtime": "2025-07-07T08:28:00Z",
+      "starttime": "2025-07-07T02:36:00-05:00",
+      "endtime": "2025-07-07T03:28:00-05:00",
       "order": 15,
       "run_time": "0:45:00",
       "setup_time": "0:07:00",
@@ -1051,8 +1072,8 @@ window.eventLocalSchedule = {
           "pronouns": "any"
         }
       ],
-      "starttime": "2025-07-07T08:28:00Z",
-      "endtime": "2025-07-07T08:56:00Z",
+      "starttime": "2025-07-07T03:28:00-05:00",
+      "endtime": "2025-07-07T03:56:00-05:00",
       "order": 16,
       "run_time": "0:21:00",
       "setup_time": "0:07:00",
@@ -1112,7 +1133,7 @@ window.eventLocalSchedule = {
         {
           "type": "talent",
           "id": 4020,
-          "name": "Hybrid Drive",
+          "name": "Hybrid Divide",
           "stream": "",
           "twitter": "",
           "youtube": "",
@@ -1130,8 +1151,8 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-07T08:56:00Z",
-      "endtime": "2025-07-07T09:28:00Z",
+      "starttime": "2025-07-07T03:56:00-05:00",
+      "endtime": "2025-07-07T04:28:00-05:00",
       "order": 17,
       "run_time": "0:25:00",
       "setup_time": "0:07:00",
@@ -1199,8 +1220,8 @@ window.eventLocalSchedule = {
           "pronouns": "she/they"
         }
       ],
-      "starttime": "2025-07-07T09:28:00Z",
-      "endtime": "2025-07-07T10:12:00Z",
+      "starttime": "2025-07-07T04:28:00-05:00",
+      "endtime": "2025-07-07T05:12:00-05:00",
       "order": 18,
       "run_time": "0:37:00",
       "setup_time": "0:07:00",
@@ -1258,8 +1279,8 @@ window.eventLocalSchedule = {
           "pronouns": "she/her"
         }
       ],
-      "starttime": "2025-07-07T10:12:00Z",
-      "endtime": "2025-07-07T10:38:00Z",
+      "starttime": "2025-07-07T05:12:00-05:00",
+      "endtime": "2025-07-07T05:38:00-05:00",
       "order": 19,
       "run_time": "0:15:00",
       "setup_time": "0:11:00",
@@ -1273,13 +1294,13 @@ window.eventLocalSchedule = {
       "type": "speedrun",
       "id": 6954,
       "name": "LEGO Star Wars: The Video Game (GBA)",
-      "display_name": "LEGO Star Wars: The Video Game",
+      "display_name": "LEGO Star Wars: The Video Game (GBA)",
       "twitch_name": "LEGO Star Wars: The Video Game",
       "description": "",
       "category": "All Episodes",
       "coop": false,
       "onsite": "ONSITE",
-      "console": "DS",
+      "console": "GBA",
       "release_year": 2005,
       "runners": [
         {
@@ -1337,8 +1358,8 @@ window.eventLocalSchedule = {
           "pronouns": "they/them"
         }
       ],
-      "starttime": "2025-07-07T10:38:00Z",
-      "endtime": "2025-07-07T11:33:00Z",
+      "starttime": "2025-07-07T05:38:00-05:00",
+      "endtime": "2025-07-07T06:33:00-05:00",
       "order": 20,
       "run_time": "0:48:00",
       "setup_time": "0:07:00",
@@ -1416,8 +1437,8 @@ window.eventLocalSchedule = {
           "pronouns": "He/They"
         }
       ],
-      "starttime": "2025-07-07T11:33:00Z",
-      "endtime": "2025-07-07T12:10:00Z",
+      "starttime": "2025-07-07T06:33:00-05:00",
+      "endtime": "2025-07-07T07:10:00-05:00",
       "order": 21,
       "run_time": "0:30:00",
       "setup_time": "0:07:00",
@@ -1475,8 +1496,8 @@ window.eventLocalSchedule = {
           "pronouns": "Any/All"
         }
       ],
-      "starttime": "2025-07-07T12:10:00Z",
-      "endtime": "2025-07-07T12:56:00Z",
+      "starttime": "2025-07-07T07:10:00-05:00",
+      "endtime": "2025-07-07T07:56:00-05:00",
       "order": 22,
       "run_time": "0:32:00",
       "setup_time": "0:14:00",
@@ -1544,8 +1565,8 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-07T12:56:00Z",
-      "endtime": "2025-07-07T13:33:00Z",
+      "starttime": "2025-07-07T07:56:00-05:00",
+      "endtime": "2025-07-07T08:33:00-05:00",
       "order": 23,
       "run_time": "0:30:00",
       "setup_time": "0:07:00",
@@ -1598,11 +1619,11 @@ window.eventLocalSchedule = {
           "type": "talent",
           "id": 4025,
           "name": "coeur_de_liqueur",
-          "stream": "",
+          "stream": "https://twitch.tv/coeur_de_liqueur",
           "twitter": "",
           "youtube": "",
           "platform": "TWITCH",
-          "pronouns": ""
+          "pronouns": "he/him"
         },
         {
           "type": "talent",
@@ -1615,8 +1636,8 @@ window.eventLocalSchedule = {
           "pronouns": "she/her"
         }
       ],
-      "starttime": "2025-07-07T13:33:00Z",
-      "endtime": "2025-07-07T14:09:00Z",
+      "starttime": "2025-07-07T08:33:00-05:00",
+      "endtime": "2025-07-07T09:09:00-05:00",
       "order": 24,
       "run_time": "0:28:00",
       "setup_time": "0:08:00",
@@ -1686,8 +1707,8 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-07T14:09:00Z",
-      "endtime": "2025-07-07T15:19:00Z",
+      "starttime": "2025-07-07T09:09:00-05:00",
+      "endtime": "2025-07-07T10:19:00-05:00",
       "order": 25,
       "run_time": "0:45:00",
       "setup_time": "0:25:00",
@@ -1755,16 +1776,76 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-07T15:19:00Z",
-      "endtime": "2025-07-07T17:02:00Z",
+      "starttime": "2025-07-07T10:19:00-05:00",
+      "endtime": "2025-07-07T11:47:00-05:00",
       "order": 26,
       "run_time": "1:25:00",
-      "setup_time": "0:18:00",
+      "setup_time": "0:03:00",
       "anchor_time": null,
       "layout": "Standard 1",
       "video_links": [],
       "priority_tag": null,
       "tags": []
+    },
+    {
+      "type": "speedrun",
+      "id": 7156,
+      "name": "The Daily Recap",
+      "display_name": "The Daily Recap",
+      "twitch_name": "Just Chatting",
+      "description": "",
+      "category": "Monday",
+      "coop": false,
+      "onsite": "ONSITE",
+      "console": "GDQ",
+      "release_year": 2025,
+      "runners": [
+        {
+          "type": "talent",
+          "id": 1377,
+          "name": "BobbyBurm",
+          "stream": "https://twitch.tv/bobbyburm",
+          "twitter": "BobbyBurm",
+          "youtube": "",
+          "platform": "TWITCH",
+          "pronouns": "he/him"
+        },
+        {
+          "type": "talent",
+          "id": 60,
+          "name": "spikevegeta",
+          "stream": "https://twitch.tv/spikevegeta",
+          "twitter": "spikevegeta",
+          "youtube": "",
+          "platform": "TWITCH",
+          "pronouns": "He/Him"
+        },
+        {
+          "type": "talent",
+          "id": 2758,
+          "name": "Melo Acevedo",
+          "stream": "https://www.twitch.tv/brutal_melo",
+          "twitter": "",
+          "youtube": "",
+          "platform": "TWITCH",
+          "pronouns": "he/him"
+        }
+      ],
+      "hosts": [],
+      "commentators": [],
+      "starttime": "2025-07-07T11:47:00-05:00",
+      "endtime": "2025-07-07T12:02:00-05:00",
+      "order": 27,
+      "run_time": "0:15:00",
+      "setup_time": "0",
+      "anchor_time": null,
+      "layout": "",
+      "video_links": [],
+      "priority_tag": "daily_recap",
+      "tags": [
+        "daily_recap",
+        "recap"
+      ]
     },
     {
       "type": "speedrun",
@@ -1814,9 +1895,9 @@ window.eventLocalSchedule = {
           "pronouns": "He/Him"
         }
       ],
-      "starttime": "2025-07-07T17:02:00Z",
-      "endtime": "2025-07-07T18:50:00Z",
-      "order": 27,
+      "starttime": "2025-07-07T12:02:00-05:00",
+      "endtime": "2025-07-07T13:50:00-05:00",
+      "order": 28,
       "run_time": "1:30:00",
       "setup_time": "0:18:00",
       "anchor_time": null,
@@ -1893,9 +1974,9 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-07T18:50:00Z",
-      "endtime": "2025-07-07T20:18:00Z",
-      "order": 28,
+      "starttime": "2025-07-07T13:50:00-05:00",
+      "endtime": "2025-07-07T15:18:00-05:00",
+      "order": 29,
       "run_time": "1:05:00",
       "setup_time": "0:23:00",
       "anchor_time": null,
@@ -1952,9 +2033,9 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-07T20:18:00Z",
-      "endtime": "2025-07-07T21:24:00Z",
-      "order": 29,
+      "starttime": "2025-07-07T15:18:00-05:00",
+      "endtime": "2025-07-07T16:24:00-05:00",
+      "order": 30,
       "run_time": "0:40:00",
       "setup_time": "0:26:00",
       "anchor_time": null,
@@ -2009,21 +2090,11 @@ window.eventLocalSchedule = {
           "youtube": "",
           "platform": "TWITCH",
           "pronouns": "he/him/his"
-        },
-        {
-          "type": "talent",
-          "id": 4028,
-          "name": "lonelysr_",
-          "stream": "",
-          "twitter": "",
-          "youtube": "",
-          "platform": "TWITCH",
-          "pronouns": ""
         }
       ],
-      "starttime": "2025-07-07T21:24:00Z",
-      "endtime": "2025-07-07T21:59:00Z",
-      "order": 30,
+      "starttime": "2025-07-07T16:24:00-05:00",
+      "endtime": "2025-07-07T16:59:00-05:00",
+      "order": 31,
       "run_time": "0:35:00",
       "setup_time": "0",
       "anchor_time": null,
@@ -2069,9 +2140,9 @@ window.eventLocalSchedule = {
         }
       ],
       "commentators": [],
-      "starttime": "2025-07-07T21:59:00Z",
-      "endtime": "2025-07-07T22:40:00Z",
-      "order": 31,
+      "starttime": "2025-07-07T16:59:00-05:00",
+      "endtime": "2025-07-07T17:40:00-05:00",
+      "order": 32,
       "run_time": "0",
       "setup_time": "0:41:00",
       "anchor_time": null,
@@ -2119,9 +2190,9 @@ window.eventLocalSchedule = {
         }
       ],
       "commentators": [],
-      "starttime": "2025-07-07T22:40:00Z",
-      "endtime": "2025-07-07T23:43:00Z",
-      "order": 32,
+      "starttime": "2025-07-07T17:40:00-05:00",
+      "endtime": "2025-07-07T18:43:00-05:00",
+      "order": 33,
       "run_time": "0:45:00",
       "setup_time": "0:18:00",
       "anchor_time": null,
@@ -2190,13 +2261,13 @@ window.eventLocalSchedule = {
           "pronouns": "any"
         }
       ],
-      "starttime": "2025-07-07T23:43:00Z",
-      "endtime": "2025-07-08T00:53:00Z",
-      "order": 33,
+      "starttime": "2025-07-07T18:43:00-05:00",
+      "endtime": "2025-07-07T19:53:00-05:00",
+      "order": 34,
       "run_time": "1:02:00",
       "setup_time": "0:08:00",
       "anchor_time": null,
-      "layout": "CUSTOM",
+      "layout": "Standard 1 - Vertical Camera",
       "video_links": [],
       "priority_tag": null,
       "tags": [
@@ -2268,12 +2339,12 @@ window.eventLocalSchedule = {
           "twitter": "xIceblue",
           "youtube": "",
           "platform": "TWITCH",
-          "pronouns": "They/He"
+          "pronouns": "they/them"
         }
       ],
-      "starttime": "2025-07-08T00:53:00Z",
-      "endtime": "2025-07-08T02:11:00Z",
-      "order": 34,
+      "starttime": "2025-07-07T19:53:00-05:00",
+      "endtime": "2025-07-07T21:11:00-05:00",
+      "order": 35,
       "run_time": "0:57:00",
       "setup_time": "0:21:00",
       "anchor_time": null,
@@ -2340,9 +2411,9 @@ window.eventLocalSchedule = {
           "pronouns": "she/they"
         }
       ],
-      "starttime": "2025-07-08T02:11:00Z",
-      "endtime": "2025-07-08T03:29:00Z",
-      "order": 35,
+      "starttime": "2025-07-07T21:11:00-05:00",
+      "endtime": "2025-07-07T22:29:00-05:00",
+      "order": 36,
       "run_time": "1:00:00",
       "setup_time": "0:18:00",
       "anchor_time": null,
@@ -2419,18 +2490,19 @@ window.eventLocalSchedule = {
           "pronouns": "he/him"
         }
       ],
-      "starttime": "2025-07-08T03:29:00Z",
-      "endtime": "2025-07-08T05:17:00Z",
-      "order": 36,
+      "starttime": "2025-07-07T22:29:00-05:00",
+      "endtime": "2025-07-08T00:17:00-05:00",
+      "order": 37,
       "run_time": "1:35:00",
       "setup_time": "0:13:00",
       "anchor_time": null,
-      "layout": "CUSTOM",
+      "layout": "Blue Prince",
       "video_links": [],
       "priority_tag": "new_addition",
       "tags": [
         "new_addition",
-        "race"
+        "race",
+        "bingo"
       ]
     },
     {
@@ -2501,9 +2573,9 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-08T05:17:00Z",
-      "endtime": "2025-07-08T06:46:00Z",
-      "order": 37,
+      "starttime": "2025-07-08T00:17:00-05:00",
+      "endtime": "2025-07-08T01:46:00-05:00",
+      "order": 38,
       "run_time": "1:15:00",
       "setup_time": "0:14:00",
       "anchor_time": null,
@@ -2560,9 +2632,9 @@ window.eventLocalSchedule = {
           "pronouns": "he/him"
         }
       ],
-      "starttime": "2025-07-08T06:46:00Z",
-      "endtime": "2025-07-08T08:43:00Z",
-      "order": 38,
+      "starttime": "2025-07-08T01:46:00-05:00",
+      "endtime": "2025-07-08T03:43:00-05:00",
+      "order": 39,
       "run_time": "1:50:00",
       "setup_time": "0:07:00",
       "anchor_time": null,
@@ -2629,9 +2701,9 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-08T08:43:00Z",
-      "endtime": "2025-07-08T09:13:00Z",
-      "order": 39,
+      "starttime": "2025-07-08T03:43:00-05:00",
+      "endtime": "2025-07-08T04:13:00-05:00",
+      "order": 40,
       "run_time": "0:20:00",
       "setup_time": "0:10:00",
       "anchor_time": null,
@@ -2677,9 +2749,9 @@ window.eventLocalSchedule = {
         }
       ],
       "commentators": [],
-      "starttime": "2025-07-08T09:13:00Z",
-      "endtime": "2025-07-08T09:50:00Z",
-      "order": 40,
+      "starttime": "2025-07-08T04:13:00-05:00",
+      "endtime": "2025-07-08T04:50:00-05:00",
+      "order": 41,
       "run_time": "0:30:00",
       "setup_time": "0:07:00",
       "anchor_time": null,
@@ -2746,9 +2818,9 @@ window.eventLocalSchedule = {
           "pronouns": "He/Him"
         }
       ],
-      "starttime": "2025-07-08T09:50:00Z",
-      "endtime": "2025-07-08T10:15:00Z",
-      "order": 41,
+      "starttime": "2025-07-08T04:50:00-05:00",
+      "endtime": "2025-07-08T05:15:00-05:00",
+      "order": 42,
       "run_time": "0:16:00",
       "setup_time": "0:09:00",
       "anchor_time": null,
@@ -2807,9 +2879,9 @@ window.eventLocalSchedule = {
           "pronouns": "He/They"
         }
       ],
-      "starttime": "2025-07-08T10:15:00Z",
-      "endtime": "2025-07-08T10:47:00Z",
-      "order": 42,
+      "starttime": "2025-07-08T05:15:00-05:00",
+      "endtime": "2025-07-08T05:47:00-05:00",
+      "order": 43,
       "run_time": "0:25:00",
       "setup_time": "0:07:00",
       "anchor_time": null,
@@ -2857,9 +2929,9 @@ window.eventLocalSchedule = {
         }
       ],
       "commentators": [],
-      "starttime": "2025-07-08T10:47:00Z",
-      "endtime": "2025-07-08T11:16:00Z",
-      "order": 43,
+      "starttime": "2025-07-08T05:47:00-05:00",
+      "endtime": "2025-07-08T06:16:00-05:00",
+      "order": 44,
       "run_time": "0:20:00",
       "setup_time": "0:09:00",
       "anchor_time": null,
@@ -2929,9 +3001,9 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-08T11:16:00Z",
-      "endtime": "2025-07-08T11:51:00Z",
-      "order": 44,
+      "starttime": "2025-07-08T06:16:00-05:00",
+      "endtime": "2025-07-08T06:51:00-05:00",
+      "order": 45,
       "run_time": "0:25:00",
       "setup_time": "0:10:00",
       "anchor_time": null,
@@ -2990,9 +3062,9 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-08T11:51:00Z",
-      "endtime": "2025-07-08T12:46:00Z",
-      "order": 45,
+      "starttime": "2025-07-08T06:51:00-05:00",
+      "endtime": "2025-07-08T07:46:00-05:00",
+      "order": 46,
       "run_time": "0:48:00",
       "setup_time": "0:07:00",
       "anchor_time": null,
@@ -3071,9 +3143,9 @@ window.eventLocalSchedule = {
           "pronouns": "she/her"
         }
       ],
-      "starttime": "2025-07-08T12:46:00Z",
-      "endtime": "2025-07-08T13:17:00Z",
-      "order": 46,
+      "starttime": "2025-07-08T07:46:00-05:00",
+      "endtime": "2025-07-08T08:17:00-05:00",
+      "order": 47,
       "run_time": "0:24:00",
       "setup_time": "0:07:00",
       "anchor_time": null,
@@ -3119,9 +3191,9 @@ window.eventLocalSchedule = {
         }
       ],
       "commentators": [],
-      "starttime": "2025-07-08T13:17:00Z",
-      "endtime": "2025-07-08T13:39:00Z",
-      "order": 47,
+      "starttime": "2025-07-08T08:17:00-05:00",
+      "endtime": "2025-07-08T08:39:00-05:00",
+      "order": 48,
       "run_time": "0:15:00",
       "setup_time": "0:07:00",
       "anchor_time": null,
@@ -3188,9 +3260,9 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-08T13:39:00Z",
-      "endtime": "2025-07-08T14:23:00Z",
-      "order": 48,
+      "starttime": "2025-07-08T08:39:00-05:00",
+      "endtime": "2025-07-08T09:23:00-05:00",
+      "order": 49,
       "run_time": "0:37:00",
       "setup_time": "0:07:00",
       "anchor_time": null,
@@ -3247,9 +3319,9 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-08T14:23:00Z",
-      "endtime": "2025-07-08T15:21:00Z",
-      "order": 49,
+      "starttime": "2025-07-08T09:23:00-05:00",
+      "endtime": "2025-07-08T10:21:00-05:00",
+      "order": 50,
       "run_time": "0:40:00",
       "setup_time": "0:18:00",
       "anchor_time": null,
@@ -3326,9 +3398,9 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-08T15:21:00Z",
-      "endtime": "2025-07-08T16:10:00Z",
-      "order": 50,
+      "starttime": "2025-07-08T10:21:00-05:00",
+      "endtime": "2025-07-08T11:10:00-05:00",
+      "order": 51,
       "run_time": "0:35:00",
       "setup_time": "0:14:00",
       "anchor_time": null,
@@ -3398,16 +3470,87 @@ window.eventLocalSchedule = {
           "pronouns": "he/him"
         }
       ],
-      "starttime": "2025-07-08T16:10:00Z",
-      "endtime": "2025-07-08T16:50:00Z",
-      "order": 51,
+      "starttime": "2025-07-08T11:10:00-05:00",
+      "endtime": "2025-07-08T11:35:00-05:00",
+      "order": 52,
       "run_time": "0:15:00",
-      "setup_time": "0:25:00",
+      "setup_time": "0:10:00",
       "anchor_time": null,
       "layout": "3DS 1",
       "video_links": [],
       "priority_tag": null,
       "tags": []
+    },
+    {
+      "type": "speedrun",
+      "id": 7157,
+      "name": "The Daily Recap",
+      "display_name": "The Daily Recap",
+      "twitch_name": "Just Chatting",
+      "description": "",
+      "category": "Tuesday",
+      "coop": false,
+      "onsite": "ONSITE",
+      "console": "GDQ",
+      "release_year": 2025,
+      "runners": [
+        {
+          "type": "talent",
+          "id": 884,
+          "name": "Kungfufruitcup",
+          "stream": "https://twitch.tv/kungfufruitcup",
+          "twitter": "Kungfufruitcup",
+          "youtube": "kungfufruitcup",
+          "platform": "TWITCH",
+          "pronouns": "she/her"
+        },
+        {
+          "type": "talent",
+          "id": 2758,
+          "name": "Melo Acevedo",
+          "stream": "https://www.twitch.tv/brutal_melo",
+          "twitter": "",
+          "youtube": "",
+          "platform": "TWITCH",
+          "pronouns": "he/him"
+        }
+      ],
+      "hosts": [],
+      "commentators": [
+        {
+          "type": "talent",
+          "id": 2305,
+          "name": "Emerldd",
+          "stream": "https://twitch.tv/emerldd",
+          "twitter": "Emerldd",
+          "youtube": "",
+          "platform": "TWITCH",
+          "pronouns": "He/Him"
+        },
+        {
+          "type": "talent",
+          "id": 2173,
+          "name": "DawnSR",
+          "stream": "https://twitch.tv/dawnsr",
+          "twitter": "DawnSR_",
+          "youtube": "",
+          "platform": "TWITCH",
+          "pronouns": "he/they"
+        }
+      ],
+      "starttime": "2025-07-08T11:35:00-05:00",
+      "endtime": "2025-07-08T11:50:00-05:00",
+      "order": 53,
+      "run_time": "0:15:00",
+      "setup_time": "0",
+      "anchor_time": null,
+      "layout": "",
+      "video_links": [],
+      "priority_tag": "daily_recap",
+      "tags": [
+        "daily_recap",
+        "recap"
+      ]
     },
     {
       "type": "speedrun",
@@ -3477,9 +3620,9 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-08T16:50:00Z",
-      "endtime": "2025-07-08T19:28:00Z",
-      "order": 52,
+      "starttime": "2025-07-08T11:50:00-05:00",
+      "endtime": "2025-07-08T14:28:00-05:00",
+      "order": 54,
       "run_time": "2:30:00",
       "setup_time": "0:08:00",
       "anchor_time": null,
@@ -3556,9 +3699,9 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-08T19:28:00Z",
-      "endtime": "2025-07-08T20:26:00Z",
-      "order": 53,
+      "starttime": "2025-07-08T14:28:00-05:00",
+      "endtime": "2025-07-08T15:26:00-05:00",
+      "order": 55,
       "run_time": "0:50:00",
       "setup_time": "0:08:00",
       "anchor_time": null,
@@ -3635,9 +3778,9 @@ window.eventLocalSchedule = {
           "pronouns": "she/her"
         }
       ],
-      "starttime": "2025-07-08T20:26:00Z",
-      "endtime": "2025-07-08T21:14:00Z",
-      "order": 54,
+      "starttime": "2025-07-08T15:26:00-05:00",
+      "endtime": "2025-07-08T16:14:00-05:00",
+      "order": 56,
       "run_time": "0:30:00",
       "setup_time": "0:18:00",
       "anchor_time": null,
@@ -3706,21 +3849,21 @@ window.eventLocalSchedule = {
         {
           "type": "talent",
           "id": 2342,
-          "name": "Hexspeedruns",
-          "stream": "",
+          "name": "HexSpeedruns",
+          "stream": "https://twitch.tv/hexspeedruns",
           "twitter": "",
           "youtube": "",
           "platform": "TWITCH",
-          "pronouns": ""
+          "pronouns": "he/they"
         }
       ],
-      "starttime": "2025-07-08T21:14:00Z",
-      "endtime": "2025-07-08T23:04:00Z",
-      "order": 55,
+      "starttime": "2025-07-08T16:14:00-05:00",
+      "endtime": "2025-07-08T18:04:00-05:00",
+      "order": 57,
       "run_time": "1:30:00",
       "setup_time": "0:20:00",
       "anchor_time": null,
-      "layout": "CUSTOM",
+      "layout": "Sonic Adventure 2",
       "video_links": [],
       "priority_tag": null,
       "tags": [
@@ -3765,9 +3908,9 @@ window.eventLocalSchedule = {
         }
       ],
       "commentators": [],
-      "starttime": "2025-07-08T23:04:00Z",
-      "endtime": "2025-07-08T23:50:00Z",
-      "order": 56,
+      "starttime": "2025-07-08T18:04:00-05:00",
+      "endtime": "2025-07-08T18:50:00-05:00",
+      "order": 58,
       "run_time": "0",
       "setup_time": "0:46:00",
       "anchor_time": null,
@@ -3846,9 +3989,9 @@ window.eventLocalSchedule = {
           "pronouns": "he/him"
         }
       ],
-      "starttime": "2025-07-08T23:50:00Z",
-      "endtime": "2025-07-09T01:08:00Z",
-      "order": 57,
+      "starttime": "2025-07-08T18:50:00-05:00",
+      "endtime": "2025-07-08T20:08:00-05:00",
+      "order": 59,
       "run_time": "0:57:00",
       "setup_time": "0:21:00",
       "anchor_time": null,
@@ -3925,9 +4068,9 @@ window.eventLocalSchedule = {
           "pronouns": "He/Him"
         }
       ],
-      "starttime": "2025-07-09T01:08:00Z",
-      "endtime": "2025-07-09T02:18:00Z",
-      "order": 58,
+      "starttime": "2025-07-08T20:08:00-05:00",
+      "endtime": "2025-07-08T21:18:00-05:00",
+      "order": 60,
       "run_time": "1:00:00",
       "setup_time": "0:10:00",
       "anchor_time": null,
@@ -3975,9 +4118,9 @@ window.eventLocalSchedule = {
         }
       ],
       "commentators": [],
-      "starttime": "2025-07-09T02:18:00Z",
-      "endtime": "2025-07-09T02:56:00Z",
-      "order": 59,
+      "starttime": "2025-07-08T21:18:00-05:00",
+      "endtime": "2025-07-08T21:56:00-05:00",
+      "order": 61,
       "run_time": "0:18:00",
       "setup_time": "0:20:00",
       "anchor_time": null,
@@ -4044,9 +4187,9 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-09T02:56:00Z",
-      "endtime": "2025-07-09T03:39:00Z",
-      "order": 60,
+      "starttime": "2025-07-08T21:56:00-05:00",
+      "endtime": "2025-07-08T22:39:00-05:00",
+      "order": 62,
       "run_time": "0:35:00",
       "setup_time": "0:08:00",
       "anchor_time": null,
@@ -4125,9 +4268,9 @@ window.eventLocalSchedule = {
           "pronouns": "He/Him"
         }
       ],
-      "starttime": "2025-07-09T03:39:00Z",
-      "endtime": "2025-07-09T05:42:00Z",
-      "order": 61,
+      "starttime": "2025-07-08T22:39:00-05:00",
+      "endtime": "2025-07-09T00:42:00-05:00",
+      "order": 63,
       "run_time": "1:33:00",
       "setup_time": "0:30:00",
       "anchor_time": null,
@@ -4199,16 +4342,16 @@ window.eventLocalSchedule = {
           "type": "talent",
           "id": 1943,
           "name": "texan_red_wolf",
-          "stream": "",
+          "stream": "https://twitch.tv/texan_red_wolf",
           "twitter": "texan_red_wolf",
           "youtube": "",
           "platform": "TWITCH",
           "pronouns": "He/Him"
         }
       ],
-      "starttime": "2025-07-09T05:42:00Z",
-      "endtime": "2025-07-09T06:55:00Z",
-      "order": 62,
+      "starttime": "2025-07-09T00:42:00-05:00",
+      "endtime": "2025-07-09T01:55:00-05:00",
+      "order": 64,
       "run_time": "1:05:00",
       "setup_time": "0:08:00",
       "anchor_time": null,
@@ -4287,9 +4430,9 @@ window.eventLocalSchedule = {
           "pronouns": "He/Him"
         }
       ],
-      "starttime": "2025-07-09T06:55:00Z",
-      "endtime": "2025-07-09T08:02:00Z",
-      "order": 63,
+      "starttime": "2025-07-09T01:55:00-05:00",
+      "endtime": "2025-07-09T03:02:00-05:00",
+      "order": 65,
       "run_time": "0:55:00",
       "setup_time": "0:12:00",
       "anchor_time": null,
@@ -4358,9 +4501,9 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-09T08:02:00Z",
-      "endtime": "2025-07-09T09:19:00Z",
-      "order": 64,
+      "starttime": "2025-07-09T03:02:00-05:00",
+      "endtime": "2025-07-09T04:19:00-05:00",
+      "order": 66,
       "run_time": "1:10:00",
       "setup_time": "0:07:00",
       "anchor_time": null,
@@ -4439,9 +4582,9 @@ window.eventLocalSchedule = {
           "pronouns": "he/him"
         }
       ],
-      "starttime": "2025-07-09T09:19:00Z",
-      "endtime": "2025-07-09T10:21:00Z",
-      "order": 65,
+      "starttime": "2025-07-09T04:19:00-05:00",
+      "endtime": "2025-07-09T05:21:00-05:00",
+      "order": 67,
       "run_time": "0:50:00",
       "setup_time": "0:12:00",
       "anchor_time": null,
@@ -4491,16 +4634,6 @@ window.eventLocalSchedule = {
       "commentators": [
         {
           "type": "talent",
-          "id": 1729,
-          "name": "juh0rse",
-          "stream": "http://www.twitch.tv/juh0rse",
-          "twitter": "TheJuh0rse",
-          "youtube": "",
-          "platform": "TWITCH",
-          "pronouns": "He/Him"
-        },
-        {
-          "type": "talent",
           "id": 259,
           "name": "Maxylobes",
           "stream": "https://twitch.tv/maxylobes",
@@ -4511,18 +4644,28 @@ window.eventLocalSchedule = {
         },
         {
           "type": "talent",
-          "id": 2297,
-          "name": "Ecdysis",
-          "stream": "",
-          "twitter": "",
+          "id": 796,
+          "name": "Ecdycis",
+          "stream": "https://twitch.tv/ecdycis",
+          "twitter": "Ecdycis",
           "youtube": "",
           "platform": "TWITCH",
           "pronouns": ""
+        },
+        {
+          "type": "talent",
+          "id": 2104,
+          "name": "juh0",
+          "stream": "https://www.twitch.tv/juh0rse",
+          "twitter": "TheJuh0rse",
+          "youtube": "",
+          "platform": "TWITCH",
+          "pronouns": "He/Him"
         }
       ],
-      "starttime": "2025-07-09T10:21:00Z",
-      "endtime": "2025-07-09T11:21:00Z",
-      "order": 66,
+      "starttime": "2025-07-09T05:21:00-05:00",
+      "endtime": "2025-07-09T06:21:00-05:00",
+      "order": 68,
       "run_time": "0:53:00",
       "setup_time": "0:07:00",
       "anchor_time": null,
@@ -4579,11 +4722,21 @@ window.eventLocalSchedule = {
           "youtube": "",
           "platform": "TWITCH",
           "pronouns": "she/her"
+        },
+        {
+          "type": "talent",
+          "id": 1291,
+          "name": "carrarium",
+          "stream": "https://twitch.tv/carrarium",
+          "twitter": "carrarium",
+          "youtube": "",
+          "platform": "TWITCH",
+          "pronouns": "they/she"
         }
       ],
-      "starttime": "2025-07-09T11:21:00Z",
-      "endtime": "2025-07-09T11:47:00Z",
-      "order": 67,
+      "starttime": "2025-07-09T06:21:00-05:00",
+      "endtime": "2025-07-09T06:47:00-05:00",
+      "order": 69,
       "run_time": "0:15:00",
       "setup_time": "0:11:00",
       "anchor_time": null,
@@ -4650,9 +4803,9 @@ window.eventLocalSchedule = {
           "pronouns": "It/Its"
         }
       ],
-      "starttime": "2025-07-09T11:47:00Z",
-      "endtime": "2025-07-09T12:15:00Z",
-      "order": 68,
+      "starttime": "2025-07-09T06:47:00-05:00",
+      "endtime": "2025-07-09T07:15:00-05:00",
+      "order": 70,
       "run_time": "0:21:00",
       "setup_time": "0:07:00",
       "anchor_time": null,
@@ -4709,9 +4862,9 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-09T12:15:00Z",
-      "endtime": "2025-07-09T12:57:00Z",
-      "order": 69,
+      "starttime": "2025-07-09T07:15:00-05:00",
+      "endtime": "2025-07-09T07:57:00-05:00",
+      "order": 71,
       "run_time": "0:27:00",
       "setup_time": "0:15:00",
       "anchor_time": null,
@@ -4778,9 +4931,9 @@ window.eventLocalSchedule = {
           "pronouns": "He/Him"
         }
       ],
-      "starttime": "2025-07-09T12:57:00Z",
-      "endtime": "2025-07-09T13:42:00Z",
-      "order": 70,
+      "starttime": "2025-07-09T07:57:00-05:00",
+      "endtime": "2025-07-09T08:42:00-05:00",
+      "order": 72,
       "run_time": "0:38:00",
       "setup_time": "0:07:00",
       "anchor_time": null,
@@ -4847,9 +5000,9 @@ window.eventLocalSchedule = {
           "pronouns": "he/him/his"
         }
       ],
-      "starttime": "2025-07-09T13:42:00Z",
-      "endtime": "2025-07-09T14:31:00Z",
-      "order": 71,
+      "starttime": "2025-07-09T08:42:00-05:00",
+      "endtime": "2025-07-09T09:31:00-05:00",
+      "order": 73,
       "run_time": "0:42:00",
       "setup_time": "0:07:00",
       "anchor_time": null,
@@ -4919,16 +5072,16 @@ window.eventLocalSchedule = {
           "type": "talent",
           "id": 4044,
           "name": "PheynixIgnition",
-          "stream": "",
+          "stream": "https://twitch.tv/pheynix_ignition",
           "twitter": "",
           "youtube": "",
           "platform": "TWITCH",
-          "pronouns": ""
+          "pronouns": "he/him"
         }
       ],
-      "starttime": "2025-07-09T14:31:00Z",
-      "endtime": "2025-07-09T15:11:00Z",
-      "order": 72,
+      "starttime": "2025-07-09T09:31:00-05:00",
+      "endtime": "2025-07-09T10:11:00-05:00",
+      "order": 74,
       "run_time": "0:33:00",
       "setup_time": "0:07:00",
       "anchor_time": null,
@@ -4985,9 +5138,9 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-09T15:11:00Z",
-      "endtime": "2025-07-09T15:44:00Z",
-      "order": 73,
+      "starttime": "2025-07-09T10:11:00-05:00",
+      "endtime": "2025-07-09T10:44:00-05:00",
+      "order": 75,
       "run_time": "0:25:00",
       "setup_time": "0:08:00",
       "anchor_time": null,
@@ -5054,16 +5207,86 @@ window.eventLocalSchedule = {
           "pronouns": "they/them"
         }
       ],
-      "starttime": "2025-07-09T15:44:00Z",
-      "endtime": "2025-07-09T16:32:00Z",
-      "order": 74,
+      "starttime": "2025-07-09T10:44:00-05:00",
+      "endtime": "2025-07-09T11:17:00-05:00",
+      "order": 76,
       "run_time": "0:22:00",
-      "setup_time": "0:26:00",
+      "setup_time": "0:11:00",
       "anchor_time": null,
       "layout": "Standard 1",
       "video_links": [],
       "priority_tag": null,
       "tags": []
+    },
+    {
+      "type": "speedrun",
+      "id": 7158,
+      "name": "The Daily Recap",
+      "display_name": "The Daily Recap",
+      "twitch_name": "Just Chatting",
+      "description": "",
+      "category": "Wednesday",
+      "coop": false,
+      "onsite": "ONSITE",
+      "console": "GDQ",
+      "release_year": 2025,
+      "runners": [
+        {
+          "type": "talent",
+          "id": 2360,
+          "name": "Jaidlyn",
+          "stream": "https://twitch.tv/jaidlyngaming",
+          "twitter": "Jaidlyngaming",
+          "youtube": "",
+          "platform": "TWITCH",
+          "pronouns": "She/Her"
+        },
+        {
+          "type": "talent",
+          "id": 1377,
+          "name": "BobbyBurm",
+          "stream": "https://twitch.tv/bobbyburm",
+          "twitter": "BobbyBurm",
+          "youtube": "",
+          "platform": "TWITCH",
+          "pronouns": "he/him"
+        },
+        {
+          "type": "talent",
+          "id": 60,
+          "name": "spikevegeta",
+          "stream": "https://twitch.tv/spikevegeta",
+          "twitter": "spikevegeta",
+          "youtube": "",
+          "platform": "TWITCH",
+          "pronouns": "He/Him"
+        },
+        {
+          "type": "talent",
+          "id": 1029,
+          "name": "adef",
+          "stream": "https://twitch.tv/adef",
+          "twitter": "adefgames",
+          "youtube": "",
+          "platform": "TWITCH",
+          "pronouns": "he/him"
+        }
+      ],
+      "hosts": [],
+      "commentators": [],
+      "starttime": "2025-07-09T11:17:00-05:00",
+      "endtime": "2025-07-09T11:32:00-05:00",
+      "order": 77,
+      "run_time": "0:15:00",
+      "setup_time": "0",
+      "anchor_time": null,
+      "layout": "",
+      "video_links": [],
+      "priority_tag": "daily_recap",
+      "tags": [
+        "daily_recap",
+        "recap"
+      ]
     },
     {
       "type": "speedrun",
@@ -5125,7 +5348,7 @@ window.eventLocalSchedule = {
         {
           "type": "talent",
           "id": 4046,
-          "name": "Yogcavey",
+          "name": "Izzy/Yogcavey",
           "stream": "https://twitch.tv/yogcavey",
           "twitter": "yogcavey",
           "youtube": "",
@@ -5133,9 +5356,9 @@ window.eventLocalSchedule = {
           "pronouns": "she/they"
         }
       ],
-      "starttime": "2025-07-09T16:32:00Z",
-      "endtime": "2025-07-09T21:10:00Z",
-      "order": 75,
+      "starttime": "2025-07-09T11:32:00-05:00",
+      "endtime": "2025-07-09T16:10:00-05:00",
+      "order": 78,
       "run_time": "4:15:00",
       "setup_time": "0:23:00",
       "anchor_time": null,
@@ -5214,9 +5437,9 @@ window.eventLocalSchedule = {
           "pronouns": "He/They"
         }
       ],
-      "starttime": "2025-07-09T21:10:00Z",
-      "endtime": "2025-07-09T22:08:00Z",
-      "order": 76,
+      "starttime": "2025-07-09T16:10:00-05:00",
+      "endtime": "2025-07-09T17:08:00-05:00",
+      "order": 79,
       "run_time": "0:35:00",
       "setup_time": "0:23:00",
       "anchor_time": null,
@@ -5293,9 +5516,9 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-09T22:08:00Z",
-      "endtime": "2025-07-09T22:38:00Z",
-      "order": 77,
+      "starttime": "2025-07-09T17:08:00-05:00",
+      "endtime": "2025-07-09T17:38:00-05:00",
+      "order": 80,
       "run_time": "0:30:00",
       "setup_time": "0",
       "anchor_time": null,
@@ -5330,11 +5553,11 @@ window.eventLocalSchedule = {
       ],
       "hosts": [],
       "commentators": [],
-      "starttime": "2025-07-09T22:38:00Z",
-      "endtime": "2025-07-09T23:35:00Z",
-      "order": 78,
+      "starttime": "2025-07-09T17:38:00-05:00",
+      "endtime": "2025-07-09T18:30:00-05:00",
+      "order": 81,
       "run_time": "0",
-      "setup_time": "0:57:00",
+      "setup_time": "0:52:00",
       "anchor_time": null,
       "layout": "",
       "video_links": [],
@@ -5411,9 +5634,9 @@ window.eventLocalSchedule = {
           "pronouns": "He/Him"
         }
       ],
-      "starttime": "2025-07-09T23:35:00Z",
-      "endtime": "2025-07-10T01:24:00Z",
-      "order": 79,
+      "starttime": "2025-07-09T18:30:00-05:00",
+      "endtime": "2025-07-09T20:19:00-05:00",
+      "order": 82,
       "run_time": "1:30:00",
       "setup_time": "0:19:00",
       "anchor_time": null,
@@ -5482,9 +5705,9 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-10T01:24:00Z",
-      "endtime": "2025-07-10T02:52:00Z",
-      "order": 80,
+      "starttime": "2025-07-09T20:19:00-05:00",
+      "endtime": "2025-07-09T21:47:00-05:00",
+      "order": 83,
       "run_time": "1:05:00",
       "setup_time": "0:23:00",
       "anchor_time": null,
@@ -5563,9 +5786,9 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-10T02:52:00Z",
-      "endtime": "2025-07-10T04:13:00Z",
-      "order": 81,
+      "starttime": "2025-07-09T21:47:00-05:00",
+      "endtime": "2025-07-09T23:08:00-05:00",
+      "order": 84,
       "run_time": "1:00:00",
       "setup_time": "0:21:00",
       "anchor_time": null,
@@ -5635,9 +5858,9 @@ window.eventLocalSchedule = {
           "pronouns": "he/him"
         }
       ],
-      "starttime": "2025-07-10T04:13:00Z",
-      "endtime": "2025-07-10T05:29:00Z",
-      "order": 82,
+      "starttime": "2025-07-09T23:08:00-05:00",
+      "endtime": "2025-07-10T00:24:00-05:00",
+      "order": 85,
       "run_time": "1:00:00",
       "setup_time": "0:16:00",
       "anchor_time": null,
@@ -5706,9 +5929,9 @@ window.eventLocalSchedule = {
           "pronouns": "They/Them"
         }
       ],
-      "starttime": "2025-07-10T05:29:00Z",
-      "endtime": "2025-07-10T06:19:00Z",
-      "order": 83,
+      "starttime": "2025-07-10T00:24:00-05:00",
+      "endtime": "2025-07-10T01:14:00-05:00",
+      "order": 86,
       "run_time": "0:38:00",
       "setup_time": "0:12:00",
       "anchor_time": null,
@@ -5785,9 +6008,9 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-10T06:19:00Z",
-      "endtime": "2025-07-10T06:58:00Z",
-      "order": 84,
+      "starttime": "2025-07-10T01:14:00-05:00",
+      "endtime": "2025-07-10T01:53:00-05:00",
+      "order": 87,
       "run_time": "0:32:00",
       "setup_time": "0:07:00",
       "anchor_time": null,
@@ -5849,7 +6072,7 @@ window.eventLocalSchedule = {
           "type": "talent",
           "id": 321,
           "name": "eBloodyCandy",
-          "stream": "http://www.twitch.tv/ebloodycandy",
+          "stream": "https://www.twitch.tv/ebloodycandy",
           "twitter": "eBloodyCandy",
           "youtube": "",
           "platform": "TWITCH",
@@ -5863,12 +6086,12 @@ window.eventLocalSchedule = {
           "twitter": "",
           "youtube": "",
           "platform": "TWITCH",
-          "pronouns": ""
+          "pronouns": "he/him"
         }
       ],
-      "starttime": "2025-07-10T06:58:00Z",
-      "endtime": "2025-07-10T07:30:00Z",
-      "order": 85,
+      "starttime": "2025-07-10T01:53:00-05:00",
+      "endtime": "2025-07-10T02:25:00-05:00",
+      "order": 88,
       "run_time": "0:10:00",
       "setup_time": "0:22:00",
       "anchor_time": null,
@@ -5927,9 +6150,9 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-10T07:30:00Z",
-      "endtime": "2025-07-10T08:05:00Z",
-      "order": 86,
+      "starttime": "2025-07-10T02:25:00-05:00",
+      "endtime": "2025-07-10T03:00:00-05:00",
+      "order": 89,
       "run_time": "0:25:00",
       "setup_time": "0:10:00",
       "anchor_time": null,
@@ -5998,9 +6221,9 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-10T08:05:00Z",
-      "endtime": "2025-07-10T08:25:00Z",
-      "order": 87,
+      "starttime": "2025-07-10T03:00:00-05:00",
+      "endtime": "2025-07-10T03:20:00-05:00",
+      "order": 90,
       "run_time": "0:09:00",
       "setup_time": "0:11:00",
       "anchor_time": null,
@@ -6062,11 +6285,11 @@ window.eventLocalSchedule = {
           "type": "talent",
           "id": 4084,
           "name": "Spock",
-          "stream": "",
+          "stream": "https://twitch.tv/sp0ck1",
           "twitter": "",
           "youtube": "",
           "platform": "TWITCH",
-          "pronouns": ""
+          "pronouns": "he/they"
         },
         {
           "type": "talent",
@@ -6079,9 +6302,9 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-10T08:25:00Z",
-      "endtime": "2025-07-10T09:47:00Z",
-      "order": 88,
+      "starttime": "2025-07-10T03:20:00-05:00",
+      "endtime": "2025-07-10T04:42:00-05:00",
+      "order": 91,
       "run_time": "1:15:00",
       "setup_time": "0:07:00",
       "anchor_time": null,
@@ -6160,9 +6383,9 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-10T09:47:00Z",
-      "endtime": "2025-07-10T10:12:00Z",
-      "order": 89,
+      "starttime": "2025-07-10T04:42:00-05:00",
+      "endtime": "2025-07-10T05:07:00-05:00",
+      "order": 92,
       "run_time": "0:16:00",
       "setup_time": "0:09:00",
       "anchor_time": null,
@@ -6241,9 +6464,9 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-10T10:12:00Z",
-      "endtime": "2025-07-10T10:49:00Z",
-      "order": 90,
+      "starttime": "2025-07-10T05:07:00-05:00",
+      "endtime": "2025-07-10T05:44:00-05:00",
+      "order": 93,
       "run_time": "0:30:00",
       "setup_time": "0:07:00",
       "anchor_time": null,
@@ -6291,10 +6514,31 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "commentators": [],
-      "starttime": "2025-07-10T10:49:00Z",
-      "endtime": "2025-07-10T11:12:00Z",
-      "order": 91,
+      "commentators": [
+        {
+          "type": "talent",
+          "id": 3986,
+          "name": "Porkchop44",
+          "stream": "https://twitch.tv/porkchop_44",
+          "twitter": "Porkchop44_",
+          "youtube": "",
+          "platform": "TWITCH",
+          "pronouns": "He/Him"
+        },
+        {
+          "type": "talent",
+          "id": 1503,
+          "name": "BystanderTim",
+          "stream": "https://twitch.tv/bystandertim_",
+          "twitter": "BystanderTim",
+          "youtube": "",
+          "platform": "TWITCH",
+          "pronouns": "He/Him"
+        }
+      ],
+      "starttime": "2025-07-10T05:44:00-05:00",
+      "endtime": "2025-07-10T06:07:00-05:00",
+      "order": 94,
       "run_time": "0:12:00",
       "setup_time": "0:11:00",
       "anchor_time": null,
@@ -6363,9 +6607,9 @@ window.eventLocalSchedule = {
           "pronouns": "they/she"
         }
       ],
-      "starttime": "2025-07-10T11:12:00Z",
-      "endtime": "2025-07-10T11:37:00Z",
-      "order": 92,
+      "starttime": "2025-07-10T06:07:00-05:00",
+      "endtime": "2025-07-10T06:32:00-05:00",
+      "order": 95,
       "run_time": "0:10:00",
       "setup_time": "0:15:00",
       "anchor_time": null,
@@ -6435,18 +6679,18 @@ window.eventLocalSchedule = {
         },
         {
           "type": "talent",
-          "id": 1264,
-          "name": "Kingj0444",
-          "stream": "https://www.twitch.tv/kingjo444",
+          "id": 2163,
+          "name": "KingJO444",
+          "stream": "https://twitch.tv/kingjo444",
           "twitter": "Kingj0444",
           "youtube": "",
           "platform": "TWITCH",
-          "pronouns": ""
+          "pronouns": "He/Him"
         }
       ],
-      "starttime": "2025-07-10T11:37:00Z",
-      "endtime": "2025-07-10T12:09:00Z",
-      "order": 93,
+      "starttime": "2025-07-10T06:32:00-05:00",
+      "endtime": "2025-07-10T07:04:00-05:00",
+      "order": 96,
       "run_time": "0:25:00",
       "setup_time": "0:07:00",
       "anchor_time": null,
@@ -6518,7 +6762,7 @@ window.eventLocalSchedule = {
         {
           "type": "talent",
           "id": 415,
-          "name": "brossentia",
+          "name": "Brossentia",
           "stream": "https://twitch.tv/brossentia",
           "twitter": "brossentia",
           "youtube": "",
@@ -6526,9 +6770,9 @@ window.eventLocalSchedule = {
           "pronouns": "he/him"
         }
       ],
-      "starttime": "2025-07-10T12:09:00Z",
-      "endtime": "2025-07-10T12:51:00Z",
-      "order": 94,
+      "starttime": "2025-07-10T07:04:00-05:00",
+      "endtime": "2025-07-10T07:46:00-05:00",
+      "order": 97,
       "run_time": "0:35:00",
       "setup_time": "0:07:00",
       "anchor_time": null,
@@ -6607,9 +6851,9 @@ window.eventLocalSchedule = {
           "pronouns": "He/They"
         }
       ],
-      "starttime": "2025-07-10T12:51:00Z",
-      "endtime": "2025-07-10T13:20:00Z",
-      "order": 95,
+      "starttime": "2025-07-10T07:46:00-05:00",
+      "endtime": "2025-07-10T08:15:00-05:00",
+      "order": 98,
       "run_time": "0:20:00",
       "setup_time": "0:09:00",
       "anchor_time": null,
@@ -6688,9 +6932,9 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-10T13:20:00Z",
-      "endtime": "2025-07-10T13:39:00Z",
-      "order": 96,
+      "starttime": "2025-07-10T08:15:00-05:00",
+      "endtime": "2025-07-10T08:34:00-05:00",
+      "order": 99,
       "run_time": "0:08:00",
       "setup_time": "0:11:00",
       "anchor_time": null,
@@ -6759,9 +7003,9 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-10T13:39:00Z",
-      "endtime": "2025-07-10T14:11:00Z",
-      "order": 97,
+      "starttime": "2025-07-10T08:34:00-05:00",
+      "endtime": "2025-07-10T09:06:00-05:00",
+      "order": 100,
       "run_time": "0:25:00",
       "setup_time": "0:07:00",
       "anchor_time": null,
@@ -6829,9 +7073,9 @@ window.eventLocalSchedule = {
         }
       ],
       "commentators": [],
-      "starttime": "2025-07-10T14:11:00Z",
-      "endtime": "2025-07-10T14:49:00Z",
-      "order": 98,
+      "starttime": "2025-07-10T09:06:00-05:00",
+      "endtime": "2025-07-10T09:44:00-05:00",
+      "order": 101,
       "run_time": "0:31:00",
       "setup_time": "0:07:00",
       "anchor_time": null,
@@ -6910,16 +7154,87 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-10T14:49:00Z",
-      "endtime": "2025-07-10T18:28:00Z",
-      "order": 99,
+      "starttime": "2025-07-10T09:44:00-05:00",
+      "endtime": "2025-07-10T13:08:00-05:00",
+      "order": 102,
       "run_time": "3:15:00",
-      "setup_time": "0:24:00",
+      "setup_time": "0:09:00",
       "anchor_time": null,
       "layout": "DS 1",
       "video_links": [],
       "priority_tag": null,
       "tags": []
+    },
+    {
+      "type": "speedrun",
+      "id": 7159,
+      "name": "The Daily Recap",
+      "display_name": "The Daily Recap",
+      "twitch_name": "Just Chatting",
+      "description": "",
+      "category": "Thursday",
+      "coop": false,
+      "onsite": "ONSITE",
+      "console": "GDQ",
+      "release_year": 2025,
+      "runners": [
+        {
+          "type": "talent",
+          "id": 1377,
+          "name": "BobbyBurm",
+          "stream": "https://twitch.tv/bobbyburm",
+          "twitter": "BobbyBurm",
+          "youtube": "",
+          "platform": "TWITCH",
+          "pronouns": "he/him"
+        },
+        {
+          "type": "talent",
+          "id": 884,
+          "name": "Kungfufruitcup",
+          "stream": "https://twitch.tv/kungfufruitcup",
+          "twitter": "Kungfufruitcup",
+          "youtube": "kungfufruitcup",
+          "platform": "TWITCH",
+          "pronouns": "she/her"
+        },
+        {
+          "type": "talent",
+          "id": 2758,
+          "name": "Melo Acevedo",
+          "stream": "https://www.twitch.tv/brutal_melo",
+          "twitter": "",
+          "youtube": "",
+          "platform": "TWITCH",
+          "pronouns": "he/him"
+        }
+      ],
+      "hosts": [],
+      "commentators": [
+        {
+          "type": "talent",
+          "id": 3963,
+          "name": "Ben Albert",
+          "stream": "https://twitch.tv/leeroysbro",
+          "twitter": "leeroysbro",
+          "youtube": "",
+          "platform": "TWITCH",
+          "pronouns": "He/Him"
+        }
+      ],
+      "starttime": "2025-07-10T13:08:00-05:00",
+      "endtime": "2025-07-10T13:23:00-05:00",
+      "order": 103,
+      "run_time": "0:15:00",
+      "setup_time": "0",
+      "anchor_time": null,
+      "layout": "",
+      "video_links": [],
+      "priority_tag": "daily_recap",
+      "tags": [
+        "daily_recap",
+        "recap"
+      ]
     },
     {
       "type": "speedrun",
@@ -7029,9 +7344,9 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-10T18:28:00Z",
-      "endtime": "2025-07-10T19:28:00Z",
-      "order": 100,
+      "starttime": "2025-07-10T13:23:00-05:00",
+      "endtime": "2025-07-10T14:23:00-05:00",
+      "order": 104,
       "run_time": "0:40:00",
       "setup_time": "0:20:00",
       "anchor_time": null,
@@ -7088,7 +7403,7 @@ window.eventLocalSchedule = {
           "twitter": "",
           "youtube": "",
           "platform": "TWITCH",
-          "pronouns": ""
+          "pronouns": "he/him"
         },
         {
           "type": "talent",
@@ -7111,9 +7426,9 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-10T19:28:00Z",
-      "endtime": "2025-07-10T21:26:00Z",
-      "order": 101,
+      "starttime": "2025-07-10T14:23:00-05:00",
+      "endtime": "2025-07-10T16:21:00-05:00",
+      "order": 105,
       "run_time": "1:40:00",
       "setup_time": "0:18:00",
       "anchor_time": null,
@@ -7169,9 +7484,9 @@ window.eventLocalSchedule = {
         }
       ],
       "commentators": [],
-      "starttime": "2025-07-10T21:26:00Z",
-      "endtime": "2025-07-10T22:36:00Z",
-      "order": 102,
+      "starttime": "2025-07-10T16:21:00-05:00",
+      "endtime": "2025-07-10T17:31:00-05:00",
+      "order": 106,
       "run_time": "1:00:00",
       "setup_time": "0:10:00",
       "anchor_time": null,
@@ -7208,9 +7523,9 @@ window.eventLocalSchedule = {
       ],
       "hosts": [],
       "commentators": [],
-      "starttime": "2025-07-10T22:36:00Z",
-      "endtime": "2025-07-10T23:30:00Z",
-      "order": 103,
+      "starttime": "2025-07-10T17:31:00-05:00",
+      "endtime": "2025-07-10T18:25:00-05:00",
+      "order": 107,
       "run_time": "0",
       "setup_time": "0:54:00",
       "anchor_time": null,
@@ -7289,9 +7604,9 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-10T23:30:00Z",
-      "endtime": "2025-07-11T00:53:00Z",
-      "order": 104,
+      "starttime": "2025-07-10T18:25:00-05:00",
+      "endtime": "2025-07-10T19:48:00-05:00",
+      "order": 108,
       "run_time": "0:45:00",
       "setup_time": "0:38:00",
       "anchor_time": null,
@@ -7360,9 +7675,9 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-11T00:53:00Z",
-      "endtime": "2025-07-11T02:26:00Z",
-      "order": 105,
+      "starttime": "2025-07-10T19:48:00-05:00",
+      "endtime": "2025-07-10T21:21:00-05:00",
+      "order": 109,
       "run_time": "1:15:00",
       "setup_time": "0:18:00",
       "anchor_time": null,
@@ -7431,17 +7746,18 @@ window.eventLocalSchedule = {
           "pronouns": "Any/All"
         }
       ],
-      "starttime": "2025-07-11T02:26:00Z",
-      "endtime": "2025-07-11T04:04:00Z",
-      "order": 106,
+      "starttime": "2025-07-10T21:21:00-05:00",
+      "endtime": "2025-07-10T22:59:00-05:00",
+      "order": 110,
       "run_time": "0:55:00",
       "setup_time": "0:43:00",
       "anchor_time": null,
       "layout": "Widescreen 1",
       "video_links": [],
-      "priority_tag": null,
+      "priority_tag": "new_highlighted",
       "tags": [
-        "new_addition"
+        "new_addition",
+        "new_highlighted"
       ]
     },
     {
@@ -7511,9 +7827,9 @@ window.eventLocalSchedule = {
         }
       ],
       "commentators": [],
-      "starttime": "2025-07-11T04:04:00Z",
-      "endtime": "2025-07-11T05:32:00Z",
-      "order": 107,
+      "starttime": "2025-07-10T22:59:00-05:00",
+      "endtime": "2025-07-11T00:27:00-05:00",
+      "order": 111,
       "run_time": "1:15:00",
       "setup_time": "0:13:00",
       "anchor_time": null,
@@ -7605,16 +7921,16 @@ window.eventLocalSchedule = {
           "type": "talent",
           "id": 4085,
           "name": "Cone",
-          "stream": "",
+          "stream": "https://twitch.tv/conedle",
           "twitter": "",
           "youtube": "",
           "platform": "TWITCH",
-          "pronouns": ""
+          "pronouns": "any"
         }
       ],
-      "starttime": "2025-07-11T05:32:00Z",
-      "endtime": "2025-07-11T06:45:00Z",
-      "order": 108,
+      "starttime": "2025-07-11T00:27:00-05:00",
+      "endtime": "2025-07-11T01:40:00-05:00",
+      "order": 112,
       "run_time": "0:40:00",
       "setup_time": "0:33:00",
       "anchor_time": null,
@@ -7673,9 +7989,9 @@ window.eventLocalSchedule = {
           "pronouns": "He/They"
         }
       ],
-      "starttime": "2025-07-11T06:45:00Z",
-      "endtime": "2025-07-11T07:28:00Z",
-      "order": 109,
+      "starttime": "2025-07-11T01:40:00-05:00",
+      "endtime": "2025-07-11T02:23:00-05:00",
+      "order": 113,
       "run_time": "0:36:00",
       "setup_time": "0:07:00",
       "anchor_time": null,
@@ -7725,11 +8041,11 @@ window.eventLocalSchedule = {
           "type": "talent",
           "id": 4058,
           "name": "NickPixels",
-          "stream": "",
+          "stream": "https://twitch.tv/nickpixels",
           "twitter": "",
           "youtube": "",
           "platform": "TWITCH",
-          "pronouns": ""
+          "pronouns": "he/him"
         },
         {
           "type": "talent",
@@ -7742,9 +8058,9 @@ window.eventLocalSchedule = {
           "pronouns": "She/They"
         }
       ],
-      "starttime": "2025-07-11T07:28:00Z",
-      "endtime": "2025-07-11T08:15:00Z",
-      "order": 110,
+      "starttime": "2025-07-11T02:23:00-05:00",
+      "endtime": "2025-07-11T03:10:00-05:00",
+      "order": 114,
       "run_time": "0:40:00",
       "setup_time": "0:07:00",
       "anchor_time": null,
@@ -7801,13 +8117,13 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-11T08:15:00Z",
-      "endtime": "2025-07-11T08:41:00Z",
-      "order": 111,
+      "starttime": "2025-07-11T03:10:00-05:00",
+      "endtime": "2025-07-11T03:36:00-05:00",
+      "order": 115,
       "run_time": "0:15:00",
       "setup_time": "0:11:00",
       "anchor_time": null,
-      "layout": "Standard 1 w/ Handcam",
+      "layout": "Standard 1 - Vertical Camera",
       "video_links": [],
       "priority_tag": null,
       "tags": []
@@ -7880,9 +8196,9 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-11T08:41:00Z",
-      "endtime": "2025-07-11T09:15:00Z",
-      "order": 112,
+      "starttime": "2025-07-11T03:36:00-05:00",
+      "endtime": "2025-07-11T04:10:00-05:00",
+      "order": 116,
       "run_time": "0:20:00",
       "setup_time": "0:14:00",
       "anchor_time": null,
@@ -7949,9 +8265,9 @@ window.eventLocalSchedule = {
           "pronouns": "He/Him"
         }
       ],
-      "starttime": "2025-07-11T09:15:00Z",
-      "endtime": "2025-07-11T09:47:00Z",
-      "order": 113,
+      "starttime": "2025-07-11T04:10:00-05:00",
+      "endtime": "2025-07-11T04:42:00-05:00",
+      "order": 117,
       "run_time": "0:20:00",
       "setup_time": "0:12:00",
       "anchor_time": null,
@@ -8028,9 +8344,9 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-11T09:47:00Z",
-      "endtime": "2025-07-11T10:29:00Z",
-      "order": 114,
+      "starttime": "2025-07-11T04:42:00-05:00",
+      "endtime": "2025-07-11T05:24:00-05:00",
+      "order": 118,
       "run_time": "0:35:00",
       "setup_time": "0:07:00",
       "anchor_time": null,
@@ -8107,9 +8423,9 @@ window.eventLocalSchedule = {
           "pronouns": "he/him"
         }
       ],
-      "starttime": "2025-07-11T10:29:00Z",
-      "endtime": "2025-07-11T10:58:00Z",
-      "order": 115,
+      "starttime": "2025-07-11T05:24:00-05:00",
+      "endtime": "2025-07-11T05:53:00-05:00",
+      "order": 119,
       "run_time": "0:20:00",
       "setup_time": "0:09:00",
       "anchor_time": null,
@@ -8198,13 +8514,13 @@ window.eventLocalSchedule = {
           "pronouns": "He/Him"
         }
       ],
-      "starttime": "2025-07-11T10:58:00Z",
-      "endtime": "2025-07-11T11:42:00Z",
-      "order": 116,
+      "starttime": "2025-07-11T05:53:00-05:00",
+      "endtime": "2025-07-11T06:37:00-05:00",
+      "order": 120,
       "run_time": "0:37:00",
       "setup_time": "0:07:00",
       "anchor_time": null,
-      "layout": "Standard 1 - 2 Nameplate",
+      "layout": "Standard 1 - 2 Nameplates",
       "video_links": [],
       "priority_tag": null,
       "tags": [
@@ -8248,9 +8564,9 @@ window.eventLocalSchedule = {
         }
       ],
       "commentators": [],
-      "starttime": "2025-07-11T11:42:00Z",
-      "endtime": "2025-07-11T12:19:00Z",
-      "order": 117,
+      "starttime": "2025-07-11T06:37:00-05:00",
+      "endtime": "2025-07-11T07:14:00-05:00",
+      "order": 121,
       "run_time": "0:30:00",
       "setup_time": "0:07:00",
       "anchor_time": null,
@@ -8327,9 +8643,9 @@ window.eventLocalSchedule = {
           "pronouns": "he/him"
         }
       ],
-      "starttime": "2025-07-11T12:19:00Z",
-      "endtime": "2025-07-11T13:19:00Z",
-      "order": 118,
+      "starttime": "2025-07-11T07:14:00-05:00",
+      "endtime": "2025-07-11T08:14:00-05:00",
+      "order": 122,
       "run_time": "0:53:00",
       "setup_time": "0:07:00",
       "anchor_time": null,
@@ -8406,9 +8722,9 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-11T13:19:00Z",
-      "endtime": "2025-07-11T13:48:00Z",
-      "order": 119,
+      "starttime": "2025-07-11T08:14:00-05:00",
+      "endtime": "2025-07-11T08:43:00-05:00",
+      "order": 123,
       "run_time": "0:20:00",
       "setup_time": "0:09:00",
       "anchor_time": null,
@@ -8485,16 +8801,86 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-11T13:48:00Z",
-      "endtime": "2025-07-11T18:01:00Z",
-      "order": 120,
+      "starttime": "2025-07-11T08:43:00-05:00",
+      "endtime": "2025-07-11T12:47:00-05:00",
+      "order": 124,
       "run_time": "3:55:00",
-      "setup_time": "0:18:00",
+      "setup_time": "0:09:00",
       "anchor_time": null,
       "layout": "3DS 1",
       "video_links": [],
       "priority_tag": null,
       "tags": []
+    },
+    {
+      "type": "speedrun",
+      "id": 7160,
+      "name": "The Daily Recap",
+      "display_name": "The Daily Recap",
+      "twitch_name": "Just Chatting",
+      "description": "",
+      "category": "Friday",
+      "coop": false,
+      "onsite": "ONSITE",
+      "console": "GDQ",
+      "release_year": 2025,
+      "runners": [
+        {
+          "type": "talent",
+          "id": 2360,
+          "name": "Jaidlyn",
+          "stream": "https://twitch.tv/jaidlyngaming",
+          "twitter": "Jaidlyngaming",
+          "youtube": "",
+          "platform": "TWITCH",
+          "pronouns": "She/Her"
+        },
+        {
+          "type": "talent",
+          "id": 1377,
+          "name": "BobbyBurm",
+          "stream": "https://twitch.tv/bobbyburm",
+          "twitter": "BobbyBurm",
+          "youtube": "",
+          "platform": "TWITCH",
+          "pronouns": "he/him"
+        },
+        {
+          "type": "talent",
+          "id": 60,
+          "name": "spikevegeta",
+          "stream": "https://twitch.tv/spikevegeta",
+          "twitter": "spikevegeta",
+          "youtube": "",
+          "platform": "TWITCH",
+          "pronouns": "He/Him"
+        },
+        {
+          "type": "talent",
+          "id": 1029,
+          "name": "adef",
+          "stream": "https://twitch.tv/adef",
+          "twitter": "adefgames",
+          "youtube": "",
+          "platform": "TWITCH",
+          "pronouns": "he/him"
+        }
+      ],
+      "hosts": [],
+      "commentators": [],
+      "starttime": "2025-07-11T12:47:00-05:00",
+      "endtime": "2025-07-11T13:02:00-05:00",
+      "order": 125,
+      "run_time": "0:15:00",
+      "setup_time": "0",
+      "anchor_time": null,
+      "layout": "",
+      "video_links": [],
+      "priority_tag": "daily_recap",
+      "tags": [
+        "daily_recap",
+        "recap"
+      ]
     },
     {
       "type": "speedrun",
@@ -8554,9 +8940,9 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-11T18:01:00Z",
-      "endtime": "2025-07-11T19:31:00Z",
-      "order": 121,
+      "starttime": "2025-07-11T13:02:00-05:00",
+      "endtime": "2025-07-11T14:32:00-05:00",
+      "order": 126,
       "run_time": "1:12:00",
       "setup_time": "0:18:00",
       "anchor_time": null,
@@ -8635,9 +9021,9 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-11T19:31:00Z",
-      "endtime": "2025-07-11T21:04:00Z",
-      "order": 122,
+      "starttime": "2025-07-11T14:32:00-05:00",
+      "endtime": "2025-07-11T16:05:00-05:00",
+      "order": 127,
       "run_time": "1:10:00",
       "setup_time": "0:23:00",
       "anchor_time": null,
@@ -8761,13 +9147,13 @@ window.eventLocalSchedule = {
           "twitter": "",
           "youtube": "",
           "platform": "TWITCH",
-          "pronouns": ""
+          "pronouns": "he/him"
         },
         {
           "type": "talent",
           "id": 4067,
-          "name": "CheesePopps",
-          "stream": "",
+          "name": "Cheesepopps",
+          "stream": "https://twitch.tv/cheesepopps",
           "twitter": "",
           "youtube": "",
           "platform": "TWITCH",
@@ -8784,13 +9170,13 @@ window.eventLocalSchedule = {
           "pronouns": "he/him"
         }
       ],
-      "starttime": "2025-07-11T21:04:00Z",
-      "endtime": "2025-07-11T22:49:00Z",
-      "order": 123,
+      "starttime": "2025-07-11T16:05:00-05:00",
+      "endtime": "2025-07-11T17:50:00-05:00",
+      "order": 128,
       "run_time": "1:45:00",
       "setup_time": "0",
       "anchor_time": null,
-      "layout": "CUSTOM",
+      "layout": "Widescreen 2 - Relay",
       "video_links": [],
       "priority_tag": null,
       "tags": [
@@ -8824,9 +9210,9 @@ window.eventLocalSchedule = {
       ],
       "hosts": [],
       "commentators": [],
-      "starttime": "2025-07-11T22:49:00Z",
-      "endtime": "2025-07-12T00:05:00Z",
-      "order": 124,
+      "starttime": "2025-07-11T17:50:00-05:00",
+      "endtime": "2025-07-11T19:06:00-05:00",
+      "order": 129,
       "run_time": "0",
       "setup_time": "1:16:00",
       "anchor_time": null,
@@ -8878,11 +9264,11 @@ window.eventLocalSchedule = {
           "type": "talent",
           "id": 2648,
           "name": "Haru-kaze",
-          "stream": "",
+          "stream": "https://twitch.tv/harukazepiu",
           "twitter": "",
           "youtube": "",
           "platform": "TWITCH",
-          "pronouns": ""
+          "pronouns": "she/her"
         },
         {
           "type": "talent",
@@ -8905,9 +9291,9 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-12T00:05:00Z",
-      "endtime": "2025-07-12T01:28:00Z",
-      "order": 125,
+      "starttime": "2025-07-11T19:06:00-05:00",
+      "endtime": "2025-07-11T20:29:00-05:00",
+      "order": 130,
       "run_time": "1:00:00",
       "setup_time": "0:23:00",
       "anchor_time": null,
@@ -8977,9 +9363,9 @@ window.eventLocalSchedule = {
           "pronouns": "he/him"
         }
       ],
-      "starttime": "2025-07-12T01:28:00Z",
-      "endtime": "2025-07-12T02:46:00Z",
-      "order": 126,
+      "starttime": "2025-07-11T20:29:00-05:00",
+      "endtime": "2025-07-11T21:47:00-05:00",
+      "order": 131,
       "run_time": "0:50:00",
       "setup_time": "0:28:00",
       "anchor_time": null,
@@ -9027,9 +9413,9 @@ window.eventLocalSchedule = {
         }
       ],
       "commentators": [],
-      "starttime": "2025-07-12T02:46:00Z",
-      "endtime": "2025-07-12T04:09:00Z",
-      "order": 127,
+      "starttime": "2025-07-11T21:47:00-05:00",
+      "endtime": "2025-07-11T23:10:00-05:00",
+      "order": 132,
       "run_time": "1:15:00",
       "setup_time": "0:08:00",
       "anchor_time": null,
@@ -9108,13 +9494,13 @@ window.eventLocalSchedule = {
           "pronouns": "He/him"
         }
       ],
-      "starttime": "2025-07-12T04:09:00Z",
-      "endtime": "2025-07-12T06:02:00Z",
-      "order": 128,
+      "starttime": "2025-07-11T23:10:00-05:00",
+      "endtime": "2025-07-12T01:03:00-05:00",
+      "order": 133,
       "run_time": "1:30:00",
       "setup_time": "0:23:00",
       "anchor_time": null,
-      "layout": "CUSTOM",
+      "layout": "Widescreen 2 - Bingo",
       "video_links": [],
       "priority_tag": "new_addition",
       "tags": [
@@ -9189,13 +9575,13 @@ window.eventLocalSchedule = {
         }
       ],
       "commentators": [],
-      "starttime": "2025-07-12T06:02:00Z",
-      "endtime": "2025-07-12T07:00:00Z",
-      "order": 129,
+      "starttime": "2025-07-12T01:03:00-05:00",
+      "endtime": "2025-07-12T02:01:00-05:00",
+      "order": 134,
       "run_time": "0:35:00",
       "setup_time": "0:23:00",
       "anchor_time": null,
-      "layout": "Widescreen 2 - 4 Nameplate",
+      "layout": "Widescreen 2 - 4 Nameplates",
       "video_links": [],
       "priority_tag": "new_addition",
       "tags": [
@@ -9271,9 +9657,9 @@ window.eventLocalSchedule = {
           "pronouns": "She/Her"
         }
       ],
-      "starttime": "2025-07-12T07:00:00Z",
-      "endtime": "2025-07-12T08:38:00Z",
-      "order": 130,
+      "starttime": "2025-07-12T02:01:00-05:00",
+      "endtime": "2025-07-12T03:39:00-05:00",
+      "order": 135,
       "run_time": "1:20:00",
       "setup_time": "0:18:00",
       "anchor_time": null,
@@ -9332,9 +9718,9 @@ window.eventLocalSchedule = {
           "pronouns": "he/him"
         }
       ],
-      "starttime": "2025-07-12T08:38:00Z",
-      "endtime": "2025-07-12T09:17:00Z",
-      "order": 131,
+      "starttime": "2025-07-12T03:39:00-05:00",
+      "endtime": "2025-07-12T04:18:00-05:00",
+      "order": 136,
       "run_time": "0:20:00",
       "setup_time": "0:19:00",
       "anchor_time": null,
@@ -9380,9 +9766,9 @@ window.eventLocalSchedule = {
         }
       ],
       "commentators": [],
-      "starttime": "2025-07-12T09:17:00Z",
-      "endtime": "2025-07-12T09:59:00Z",
-      "order": 132,
+      "starttime": "2025-07-12T04:18:00-05:00",
+      "endtime": "2025-07-12T05:00:00-05:00",
+      "order": 137,
       "run_time": "0:35:00",
       "setup_time": "0:07:00",
       "anchor_time": null,
@@ -9432,26 +9818,26 @@ window.eventLocalSchedule = {
           "type": "talent",
           "id": 4070,
           "name": "fragmented_humanity",
-          "stream": "",
+          "stream": "https://twitch.tv/fragmented_humanity",
           "twitter": "",
           "youtube": "",
           "platform": "TWITCH",
-          "pronouns": ""
+          "pronouns": "he/him"
         },
         {
           "type": "talent",
           "id": 4071,
-          "name": "amegpie",
+          "name": "AMegPie",
           "stream": "",
           "twitter": "",
           "youtube": "",
           "platform": "TWITCH",
-          "pronouns": ""
+          "pronouns": "she/her"
         }
       ],
-      "starttime": "2025-07-12T09:59:00Z",
-      "endtime": "2025-07-12T11:01:00Z",
-      "order": 133,
+      "starttime": "2025-07-12T05:00:00-05:00",
+      "endtime": "2025-07-12T06:02:00-05:00",
+      "order": 138,
       "run_time": "0:55:00",
       "setup_time": "0:07:00",
       "anchor_time": null,
@@ -9518,9 +9904,9 @@ window.eventLocalSchedule = {
           "pronouns": "He/Him"
         }
       ],
-      "starttime": "2025-07-12T11:01:00Z",
-      "endtime": "2025-07-12T11:26:00Z",
-      "order": 134,
+      "starttime": "2025-07-12T06:02:00-05:00",
+      "endtime": "2025-07-12T06:27:00-05:00",
+      "order": 139,
       "run_time": "0:16:00",
       "setup_time": "0:09:00",
       "anchor_time": null,
@@ -9566,9 +9952,9 @@ window.eventLocalSchedule = {
         }
       ],
       "commentators": [],
-      "starttime": "2025-07-12T11:26:00Z",
-      "endtime": "2025-07-12T11:55:00Z",
-      "order": 135,
+      "starttime": "2025-07-12T06:27:00-05:00",
+      "endtime": "2025-07-12T06:56:00-05:00",
+      "order": 140,
       "run_time": "0:12:00",
       "setup_time": "0:17:00",
       "anchor_time": null,
@@ -9635,9 +10021,9 @@ window.eventLocalSchedule = {
           "pronouns": "they/she/he"
         }
       ],
-      "starttime": "2025-07-12T11:55:00Z",
-      "endtime": "2025-07-12T12:18:00Z",
-      "order": 136,
+      "starttime": "2025-07-12T06:56:00-05:00",
+      "endtime": "2025-07-12T07:19:00-05:00",
+      "order": 141,
       "run_time": "0:12:00",
       "setup_time": "0:11:00",
       "anchor_time": null,
@@ -9701,12 +10087,12 @@ window.eventLocalSchedule = {
           "twitter": "",
           "youtube": "",
           "platform": "TWITCH",
-          "pronouns": ""
+          "pronouns": "he/him"
         }
       ],
-      "starttime": "2025-07-12T12:18:00Z",
-      "endtime": "2025-07-12T13:42:00Z",
-      "order": 137,
+      "starttime": "2025-07-12T07:19:00-05:00",
+      "endtime": "2025-07-12T08:43:00-05:00",
+      "order": 142,
       "run_time": "1:12:00",
       "setup_time": "0:12:00",
       "anchor_time": null,
@@ -9755,12 +10141,12 @@ window.eventLocalSchedule = {
         {
           "type": "talent",
           "id": 4072,
-          "name": "Tyslata",
-          "stream": "",
+          "name": "Tysla",
+          "stream": "https://twitch.tv/tyslata",
           "twitter": "",
           "youtube": "",
           "platform": "TWITCH",
-          "pronouns": ""
+          "pronouns": "he/him"
         },
         {
           "type": "talent",
@@ -9783,16 +10169,76 @@ window.eventLocalSchedule = {
           "pronouns": "he/they"
         }
       ],
-      "starttime": "2025-07-12T13:42:00Z",
-      "endtime": "2025-07-12T17:56:00Z",
-      "order": 138,
+      "starttime": "2025-07-12T08:43:00-05:00",
+      "endtime": "2025-07-12T12:42:00-05:00",
+      "order": 143,
       "run_time": "3:45:00",
-      "setup_time": "0:29:00",
+      "setup_time": "0:14:00",
       "anchor_time": null,
       "layout": "Standard 1",
       "video_links": [],
       "priority_tag": null,
       "tags": []
+    },
+    {
+      "type": "speedrun",
+      "id": 7161,
+      "name": "The Daily Recap",
+      "display_name": "The Daily Recap",
+      "twitch_name": "Just Chatting",
+      "description": "",
+      "category": "Saturday",
+      "coop": false,
+      "onsite": "ONSITE",
+      "console": "GDQ",
+      "release_year": 2025,
+      "runners": [
+        {
+          "type": "talent",
+          "id": 884,
+          "name": "Kungfufruitcup",
+          "stream": "https://twitch.tv/kungfufruitcup",
+          "twitter": "Kungfufruitcup",
+          "youtube": "kungfufruitcup",
+          "platform": "TWITCH",
+          "pronouns": "she/her"
+        },
+        {
+          "type": "talent",
+          "id": 2360,
+          "name": "Jaidlyn",
+          "stream": "https://twitch.tv/jaidlyngaming",
+          "twitter": "Jaidlyngaming",
+          "youtube": "",
+          "platform": "TWITCH",
+          "pronouns": "She/Her"
+        },
+        {
+          "type": "talent",
+          "id": 60,
+          "name": "spikevegeta",
+          "stream": "https://twitch.tv/spikevegeta",
+          "twitter": "spikevegeta",
+          "youtube": "",
+          "platform": "TWITCH",
+          "pronouns": "He/Him"
+        }
+      ],
+      "hosts": [],
+      "commentators": [],
+      "starttime": "2025-07-12T12:42:00-05:00",
+      "endtime": "2025-07-12T12:57:00-05:00",
+      "order": 144,
+      "run_time": "0:15:00",
+      "setup_time": "0",
+      "anchor_time": null,
+      "layout": "",
+      "video_links": [],
+      "priority_tag": "daily_recap",
+      "tags": [
+        "daily_recap",
+        "recap"
+      ]
     },
     {
       "type": "speedrun",
@@ -9852,9 +10298,9 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-12T17:56:00Z",
-      "endtime": "2025-07-12T19:01:00Z",
-      "order": 139,
+      "starttime": "2025-07-12T12:57:00-05:00",
+      "endtime": "2025-07-12T14:02:00-05:00",
+      "order": 145,
       "run_time": "0:47:00",
       "setup_time": "0:18:00",
       "anchor_time": null,
@@ -9911,9 +10357,9 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-12T19:01:00Z",
-      "endtime": "2025-07-12T20:04:00Z",
-      "order": 140,
+      "starttime": "2025-07-12T14:02:00-05:00",
+      "endtime": "2025-07-12T15:05:00-05:00",
+      "order": 146,
       "run_time": "0:45:00",
       "setup_time": "0:18:00",
       "anchor_time": null,
@@ -9992,9 +10438,9 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-12T20:04:00Z",
-      "endtime": "2025-07-12T21:48:00Z",
-      "order": 141,
+      "starttime": "2025-07-12T15:05:00-05:00",
+      "endtime": "2025-07-12T16:49:00-05:00",
+      "order": 147,
       "run_time": "1:10:00",
       "setup_time": "0:34:00",
       "anchor_time": null,
@@ -10046,11 +10492,11 @@ window.eventLocalSchedule = {
           "type": "talent",
           "id": 4076,
           "name": "Badroenis",
-          "stream": "",
+          "stream": "https://twitch.tv/badroenis",
           "twitter": "",
           "youtube": "",
           "platform": "TWITCH",
-          "pronouns": ""
+          "pronouns": "he/him"
         },
         {
           "type": "talent",
@@ -10073,9 +10519,9 @@ window.eventLocalSchedule = {
           "pronouns": "she/her"
         }
       ],
-      "starttime": "2025-07-12T21:48:00Z",
-      "endtime": "2025-07-12T23:38:00Z",
-      "order": 142,
+      "starttime": "2025-07-12T16:49:00-05:00",
+      "endtime": "2025-07-12T18:39:00-05:00",
+      "order": 148,
       "run_time": "1:50:00",
       "setup_time": "0",
       "anchor_time": null,
@@ -10110,9 +10556,9 @@ window.eventLocalSchedule = {
       ],
       "hosts": [],
       "commentators": [],
-      "starttime": "2025-07-12T23:38:00Z",
-      "endtime": "2025-07-13T00:55:00Z",
-      "order": 143,
+      "starttime": "2025-07-12T18:39:00-05:00",
+      "endtime": "2025-07-12T19:56:00-05:00",
+      "order": 149,
       "run_time": "0",
       "setup_time": "1:17:00",
       "anchor_time": null,
@@ -10191,18 +10637,79 @@ window.eventLocalSchedule = {
           "pronouns": "He/Him"
         }
       ],
-      "starttime": "2025-07-13T00:55:00Z",
-      "endtime": "2025-07-13T02:50:00Z",
-      "order": 144,
+      "starttime": "2025-07-12T19:56:00-05:00",
+      "endtime": "2025-07-12T21:21:00-05:00",
+      "order": 150,
       "run_time": "1:20:00",
-      "setup_time": "0:35:00",
+      "setup_time": "0:05:00",
       "anchor_time": null,
       "layout": "Widescreen 1",
       "video_links": [],
-      "priority_tag": null,
+      "priority_tag": "new_highlighted",
       "tags": [
         "bonus",
-        "new_addition"
+        "new_addition",
+        "new_highlighted"
+      ]
+    },
+    {
+      "type": "speedrun",
+      "id": 7162,
+      "name": "Event Recap",
+      "display_name": "Event Recap",
+      "twitch_name": "Just Chatting",
+      "description": "",
+      "category": "SGDQ 2025",
+      "coop": false,
+      "onsite": "ONSITE",
+      "console": "GDQ",
+      "release_year": 2025,
+      "runners": [
+        {
+          "type": "talent",
+          "id": 884,
+          "name": "Kungfufruitcup",
+          "stream": "https://twitch.tv/kungfufruitcup",
+          "twitter": "Kungfufruitcup",
+          "youtube": "kungfufruitcup",
+          "platform": "TWITCH",
+          "pronouns": "she/her"
+        },
+        {
+          "type": "talent",
+          "id": 1029,
+          "name": "adef",
+          "stream": "https://twitch.tv/adef",
+          "twitter": "adefgames",
+          "youtube": "",
+          "platform": "TWITCH",
+          "pronouns": "he/him"
+        }
+      ],
+      "hosts": [],
+      "commentators": [
+        {
+          "type": "talent",
+          "id": 351,
+          "name": "Sent",
+          "stream": "https://twitch.tv/DragonSentinal",
+          "twitter": "DragonSentinal",
+          "youtube": "",
+          "platform": "TWITCH",
+          "pronouns": ""
+        }
+      ],
+      "starttime": "2025-07-12T21:21:00-05:00",
+      "endtime": "2025-07-12T21:51:00-05:00",
+      "order": 151,
+      "run_time": "0:30:00",
+      "setup_time": "0",
+      "anchor_time": null,
+      "layout": "",
+      "video_links": [],
+      "priority_tag": "recap",
+      "tags": [
+        "recap"
       ]
     },
     {
@@ -10263,9 +10770,9 @@ window.eventLocalSchedule = {
           "pronouns": "she/her"
         }
       ],
-      "starttime": "2025-07-13T02:50:00Z",
-      "endtime": "2025-07-13T05:55:00Z",
-      "order": 145,
+      "starttime": "2025-07-12T21:51:00-05:00",
+      "endtime": "2025-07-13T00:56:00-05:00",
+      "order": 152,
       "run_time": "1:35:00",
       "setup_time": "1:30:00",
       "anchor_time": null,
@@ -10300,9 +10807,9 @@ window.eventLocalSchedule = {
       ],
       "hosts": [],
       "commentators": [],
-      "starttime": "2025-07-13T05:55:00Z",
-      "endtime": "2025-07-13T06:10:00Z",
-      "order": 146,
+      "starttime": "2025-07-13T00:56:00-05:00",
+      "endtime": "2025-07-13T01:11:00-05:00",
+      "order": 153,
       "run_time": "0:15:00",
       "setup_time": "0",
       "anchor_time": null,

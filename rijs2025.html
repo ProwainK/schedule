@@ -2,8 +2,8 @@
 <html lang="zh-TW">
 <head>
 <meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Summer Games Done Quick 2025 時程表翻譯 ლ(╹◡╹ლ)</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+<title>RTA in Japan Summer 2025 時程表翻譯 ლ(╹◡╹ლ)</title>
 
  <link href="https://fonts.googleapis.com/css2?family=Klee+One&display=swap" rel="stylesheet">
 <link href="https://unpkg.com/embla-carousel/embla-carousel.css" rel="stylesheet" />
@@ -25,14 +25,18 @@
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
+
+  display: flex;
+  flex-direction: column;
+  height: calc(var(--vh, 1vh) * 100); /* 視窗高度 */
   }
   .day-selector {
     display: flex;
     background: rgba(0, 0, 0, 0.2);
-    overflow-x: auto;
+    overflow: hidden;
   }
   .day-button {
-    flex: 1 0 auto;
+    flex: 1 1 auto; /* 平均分配寬度，自動壓縮 */
     background: rgba(0, 0, 0, 0.2);
     border: none;
     color: white;
@@ -43,6 +47,8 @@
     transition: background-color 0.3s;
 
     text-shadow: black 0.2em 0.2em 0.3em;
+
+    min-width: 0; /* 允許縮小，不超出容器 */
   }
   .day-button.active {
     /* background: #6441a5; */
@@ -53,7 +59,8 @@
   #embla {
     overflow: hidden;
     width: 100%;
-    height: 80vh;
+    flex-grow: 1; /* 撐滿剩餘空間 */
+    height: auto; /* 取消 height: 80vh; 改成由 flex 控制 */
   }
   #embla .embla__container {
     display: flex;
@@ -131,6 +138,9 @@
     overflow: hidden;
     /* margin-top: 0.5rem; */
     background: rgba(0, 0, 0, 0.3);
+
+
+bottom: 0;
   }
   #thumbnailList .embla__container {
     display: flex;
@@ -175,12 +185,61 @@
 
 .fade-out {
   opacity: 0;
-  transition: opacity 0.5s ease;
+  transition: opacity 0.6s ease;
 }
 .fade-in {
   opacity: 1;
-  transition: opacity 0.5s ease;
+  transition: opacity 0.6s ease;
 }
+
+
+/* 直立手機 */
+@media (orientation: portrait) {
+  #embla {
+    /* zoom: 0.8; 相當於 100% 對應原本的 125% */
+    /* transform: scale(0.8); */
+  }
+
+  .game-boxart {
+    display: none !important;
+  }
+
+  .left-side {
+    display: none !important;
+  }
+
+  .right-side {
+    width: 100%;
+    white-space: normal; /* 絕對不換行 */
+  }
+
+
+  .right-side h2 {
+    font-size: 2rem;
+  }
+
+  .right-side h3 {
+    font-size: 0.8rem;
+  }
+
+  .category-tw {
+    font-size: 1.25rem;
+  }
+
+  .details {
+    font-size: 1.1rem;
+  }
+
+  p {
+    font-size: 0.8rem;
+  }
+
+  .day-button {
+    font-size: 0.6rem;
+  }
+
+}
+
 </style>
 </head>
 <body>
@@ -217,15 +276,8 @@
 
       let json = null;
 
-      // 舊版 API
+      // 抓 API
       /*
-      try {
-        const res = await fetch(`https://gamesdonequick.com/api/schedule/${EVENT_ID}`);
-        json = await res.json();
-      } catch { }
-      */
-
-      // 新版 API
       if (json == null) {
         try {
           const res = await fetch(`https://horaro.org/-/api/v1/events/rtaij/schedules/rtaijs2025`);
@@ -233,6 +285,7 @@
           console.log("新版 API Success");
         } catch { }
       }
+      */
 
       // 已經抓好的 JS 檔，但會過期
       if (json == null) {
@@ -313,7 +366,16 @@ json = {
       const btn = document.createElement('button');
       btn.className = 'day-button';
       // btn.textContent = labelFmt.format(localDate);
-      let text = labelFmt.format(localDate).replace(/[（）]/g, ' ').trim(); // "07/07 週一"
+      // let text = labelFmt.format(localDate).replace(/[（）]/g, ' ').trim(); // "07/07 週一"
+
+if (window.innerHeight > window.innerWidth) {
+  // 直式：07/07
+  text = `${m}/${d}`;
+} else {
+  // 橫式：07/07 週一
+  text = labelFmt.format(localDate).replace(/[（）]/g, ' ').trim();
+}
+
       btn.textContent = text;
       btn.onclick = () => {
         document.querySelectorAll('.day-button').forEach(b => b.classList.remove('active'));
@@ -478,6 +540,36 @@ json = {
   }
 
   init();
+
+
+window.addEventListener('resize', () => {
+  const currentActive = document.querySelector('.day-button.active');
+  const selectedDateStr = currentActive?.textContent?.replace(/\D/g, '');
+
+  createDayButtons();
+
+  // 保留使用者目前選擇的日期按鈕
+  const buttons = document.querySelectorAll('.day-button');
+  const firstButton = buttons[0];
+  if (selectedDateStr && buttons.length > 0) {
+    const match = [...buttons].find(btn => btn.textContent.replace(/\D/g, '') === selectedDateStr);
+    if (match) {
+      match.classList.add('active');
+    } else {
+      firstButton?.classList.add('active');
+    }
+  }
+
+});
+
+
+function setRealVH() {
+  const vh = window.innerHeight * 0.01;
+  document.documentElement.style.setProperty('--vh', `${vh}px`);
+}
+setRealVH();
+window.addEventListener('resize', setRealVH);
+
 </script>
 
 </body>
