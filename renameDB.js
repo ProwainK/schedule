@@ -79,13 +79,13 @@ window.renameDB = {
 
   "魔界戦記ディスガイア6": "Disgaea 6: Defiance of Destiny",
 
-  "GDQ": {},
+
+  "Summer Games Done Quick 2025": {},
 
   "BONUS GAME 1 - Donkey Kong Jungle Beat": "Donkey Kong Jungle Beat",
   "BONUS GAME 2 - Super Mario Odyssey": "Super Mario Odyssey",
   "BONUS GAME 3 - Bloodborne": "Bloodborne",
   "BONUS GAME 4 - Mario Kart World": "Mario Kart World",
-  "Synchronica (シンクロニカ)": "Synchronica",
 
 
   "BONUS GAME": {}

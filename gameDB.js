@@ -1270,7 +1270,7 @@ window.gameDB = {
     "en": "Sonic the Hedgehog 2",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1524_IGDB.jpg",
     "sgdq2025": {
-      "All Emeralds Glitched - Sonic & Tails": [
+      "All Emeralds Glitched Sonic/Tails": [
         "全翡翠收集、允許使用 BUG 巫術<br>Sonic & Tails 搭檔出發",
         "MD 三部曲～備受讚譽的續作<br>新技巧「Spin Dash」引入、穿牆跳關樣樣來<br>小尾巴、你害我好丟臉！"
       ]
@@ -1534,7 +1534,7 @@ window.gameDB = {
     "en": "RollerCoaster Tycoon",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/509653_IGDB.jpg",
     "sgdq2025": {
-      "Looopy Landscapes FF%": [
+      "Loopy Landscapes FF%": [
         "「Looopy Landscapes」<br>RCT1 資料片～全地圖 RTA<br>可以使用 OpenRCT2 提早過關功能",
         "今天一定不會把遊客往水裡丟了<br>對吧？"
       ]
@@ -1919,7 +1919,7 @@ window.gameDB = {
     "en": "Kingdom Hearts Birth by Sleep Final Mix HD",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1853454333_IGDB.jpg",
     "sgdq2025": {
-      "Critical Lvl 1 Character Choice Any% Race": [
+      "Crit Lvl 1 Character Choice Any% Race": [
         "Critical 最高難度 Lv1 不升級挑戰<br>斗內決定使用角色、雙人競速",
         "すべては眠りから生まれる。そう、君さえもな。<br>一切都從沉睡中誕生，沒錯，你也是如此。"
       ]
@@ -2123,7 +2123,7 @@ window.gameDB = {
     "en": "Pokémon Sword/Shield",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/497451.jpg",
     "sgdq2025": {
-      "Eeveelution Trade Alt Main Showdown": [
+      "Eeveelution Trade Alt Race": [
         "伊布家族一筋挑戰<br>雙人競速",
         "Pokémon HOME 空降一隻伊布<br>整場遊戲只用這隻打傷害 <img src='https://cdn.7tv.app/emote/01GJZ20HH80000ZMF3EKMPJH9A/1x.avif' />"
       ]
@@ -2177,7 +2177,7 @@ window.gameDB = {
     "en": "Synchronica",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/511148_IGDB.jpg",
     "sgdq2025": {
-      "Multiplayer Rhythm Games Showcase": [
+      "Multiplayer Showcase": [
         "音樂節奏遊戲表演、多人同樂",
         "「1人で超気持ちいい、2人ならもっと楽しい!」<br>由 BANDAI NAMCO 推出、2015 年稼働<br>2019 年終止連線服務轉離線單機"
       ]
