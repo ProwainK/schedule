@@ -86,6 +86,7 @@ window.renameDB = {
   "BONUS GAME 2 - Super Mario Odyssey": "Super Mario Odyssey",
   "BONUS GAME 3 - Bloodborne": "Bloodborne",
   "BONUS GAME 4 - Mario Kart World": "Mario Kart World",
+  "Synchronica (シンクロニカ)": "Synchronica",
 
 
   "BONUS GAME": {}
