@@ -330,25 +330,27 @@ async function init() {
 
     // =============== ✅ 自動偵測目前時間的節目 ===============
 
-    // 找出目前正在直播的節目
-    const currentRun = allRuns.find(run => {
-      if (!run.start || !run.estimate) return false;
+    const taipeiOffset = 8 * 60 * 60 * 1000; // 台北時區偏移（毫秒），目前沒用到但保留
+    const now = Date.now(); // 取得當前時間的 UTC 毫秒數
 
-      // 將 run.start UTC 時間 -> 台北時間 (UTC+8)
-      const startUTC = run.start.getTime();
-      const taipeiOffset = 8 * 60; // 台北為 UTC+8
-      const startInTaipei = new Date(startUTC + taipeiOffset * 60 * 1000);
+    const currentRun = (() => {
+      if (!allRuns.length) return null; // 沒有節目直接回 null
 
-      // 將現在時間也轉成台北時間
-      const nowUTC = Date.now();
-      const nowInTaipei = new Date(nowUTC + taipeiOffset * 60 * 1000);
+      // 先過濾出有開始時間的節目，並以開始時間正序排序
+      const sorted = allRuns
+        .filter(r => r.start)
+        .sort((a, b) => a.start - b.start);
 
-      // 計算結束時間
-      const [h = 0, m = 0, s = 0] = run.estimate.split(':').map(Number);
-      const endInTaipei = new Date(startInTaipei.getTime() + ((h * 3600 + m * 60 + s) * 1000));
+      // 取最後一個節目的開始時間（毫秒）
+      const lastRunStart = sorted[sorted.length - 1].start.getTime();
 
-      return nowInTaipei >= startInTaipei && nowInTaipei < endInTaipei;
-    });
+      // 如果現在時間已超過最後節目開始時間一小時(3600000毫秒)，表示沒節目進行中
+      if (now > lastRunStart + 3600000) return null;
+
+      // 從最新的節目開始往前找，找到第一個開始時間小於等於現在的節目
+      // 找不到的話回傳 null
+      return [...sorted].reverse().find(r => now >= r.start.getTime()) || null;
+    })();
 
     console.log("正在直播:");
     console.log(currentRun);
