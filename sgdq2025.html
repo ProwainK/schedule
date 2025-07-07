@@ -329,16 +329,29 @@ async function init() {
     createDayButtons(); // 建立上方的日期選單
 
     // =============== ✅ 自動偵測目前時間的節目 ===============
-    const now = new Date().toLocaleString('en-US', { timeZone: 'Asia/Taipei' });
-    const nowDate = new Date(now);
 
     // 找出目前正在直播的節目
     const currentRun = allRuns.find(run => {
-      const start = run.start;
-      const [h, m, s] = run.estimate.split(':').map(Number);
-      const end = new Date(start.getTime() + ((h * 3600 + m * 60 + s) * 1000));
-      return nowDate >= start && nowDate < end;
+      if (!run.start || !run.estimate) return false;
+
+      // 將 run.start UTC 時間 -> 台北時間 (UTC+8)
+      const startUTC = run.start.getTime();
+      const taipeiOffset = 8 * 60; // 台北為 UTC+8
+      const startInTaipei = new Date(startUTC + taipeiOffset * 60 * 1000);
+
+      // 將現在時間也轉成台北時間
+      const nowUTC = Date.now();
+      const nowInTaipei = new Date(nowUTC + taipeiOffset * 60 * 1000);
+
+      // 計算結束時間
+      const [h = 0, m = 0, s = 0] = run.estimate.split(':').map(Number);
+      const endInTaipei = new Date(startInTaipei.getTime() + ((h * 3600 + m * 60 + s) * 1000));
+
+      return nowInTaipei >= startInTaipei && nowInTaipei < endInTaipei;
     });
+
+    console.log("正在直播:");
+    console.log(currentRun);
 
     // 預設顯示第一天（若沒有節目進行中）
     let dateStrToShow = getUniqueDates()[0];
