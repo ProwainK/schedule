@@ -272,39 +272,38 @@ bottom: 0;
   let allRuns = [];
   let embla, thumbEmbla;
 
-  async function init() {
 
+async function init() {
+
+  const loadingEl = document.getElementById('loadingOverlay');
+  if (loadingEl) loadingEl.style.display = 'flex'; // 顯示載入畫面
+
+  const EVENT_ID = 56;
+  let json = null;
+
+  try {
+    // 嘗試取得新版 API 資料
     try {
+      const res = await fetch(`https://tracker.gamesdonequick.com/tracker/api/v2/events/${EVENT_ID}/runs`);
+      json = await res.json();
+      console.log("✅ 新版 API 成功載入");
+    } catch (err) {
+      console.warn("❌ 新版 API 失敗，嘗試使用本地備援資料", err);
+    }
 
-      let json = null;
-
-      // 舊版 API
-      /*
+    // 如果上面抓不到，就使用 local JS 備援（如 sgdq2025.js 中的 eventLocalSchedule）
+    if (json == null) {
       try {
-        const res = await fetch(`https://gamesdonequick.com/api/schedule/${EVENT_ID}`);
-        json = await res.json();
-      } catch { }
-      */
-
-      // 新版 API
-      if (json == null) {
-        try {
-          const res = await fetch(`https://tracker.gamesdonequick.com/tracker/api/v2/events/${EVENT_ID}/runs`);
-          json = await res.json();
-          console.log("新版 API Success");
-        } catch { }
+        json = { results: window.eventLocalSchedule.results };
+        console.log("✅ 使用本地備援資料成功");
+      } catch (err) {
+        console.error("❌ 備援資料也失敗", err);
       }
+    }
 
-      // 已經抓好的 JS 檔，但會過期
-      if (json == null) {
-        try {
-          json = { results: window.eventLocalSchedule.results };
-          console.log("JS 檔 Success");
-        } catch { }
-      }
-
+    // 資料轉換：統一成你要用的格式
     allRuns = json.results
-      .filter(r => r.type === 'speedrun' || r.name) // local fallback 沒有 type 時也允許
+      .filter(r => r.type === 'speedrun' || r.name) // local JS 沒有 type 也接受
       .map(r => ({
         game: r.name,
         category: r.category,
@@ -314,21 +313,77 @@ bottom: 0;
         console: r.console,
       }));
 
-    createDayButtons();
-    const firstDate = getUniqueDates()[0];
-    if (firstDate) {
-      filterAndRender(firstDate);
-      document.querySelector('.day-button').classList.add('active');
+    createDayButtons(); // 建立上方的日期選單
+
+    // =============== ✅ 自動偵測目前時間的節目 ===============
+    const now = new Date().toLocaleString('en-US', { timeZone: 'Asia/Taipei' });
+    const nowDate = new Date(now);
+
+    // 找出目前正在直播的節目
+    const currentRun = allRuns.find(run => {
+      const start = run.start;
+      const [h, m, s] = run.estimate.split(':').map(Number);
+      const end = new Date(start.getTime() + ((h * 3600 + m * 60 + s) * 1000));
+      return nowDate >= start && nowDate < end;
+    });
+
+    // 預設顯示第一天（若沒有節目進行中）
+    let dateStrToShow = getUniqueDates()[0];
+
+    // 若有節目正在進行，顯示該節目的日期
+    if (currentRun) {
+      const fmt = new Intl.DateTimeFormat("sv-SE", {
+        timeZone: 'Asia/Taipei',
+        year: 'numeric',
+        month: '2-digit',
+        day: '2-digit',
+      });
+      dateStrToShow = fmt.format(currentRun.start).replace(/-/g, '');
     }
+
+    // 執行顯示指定日期的節目清單
+    if (dateStrToShow) {
+      await filterAndRender(dateStrToShow);
+
+      // 自動將對應的日期按鈕標記為 active
+      const dayButtons = document.querySelectorAll('.day-button');
+      [...dayButtons].forEach(btn => {
+        if (btn.textContent.replace(/\D/g, '') === dateStrToShow.slice(4)) {
+          btn.classList.add('active');
+        }
+      });
+
+      // 如果有進行中的項目，自動切換到對應的主輪播 slide
+      if (currentRun) {
+        const fmt = new Intl.DateTimeFormat("sv-SE", {
+          timeZone: 'Asia/Taipei',
+          year: 'numeric',
+          month: '2-digit',
+          day: '2-digit',
+        });
+        const targetDay = fmt.format(currentRun.start).replace(/-/g, '');
+        const filteredRuns = allRuns.filter(run =>
+          fmt.format(run.start).replace(/-/g, '') === targetDay
+        );
+        const targetIndex = filteredRuns.findIndex(r => r === currentRun);
+        if (typeof embla?.scrollTo === 'function') {
+          setTimeout(() => {
+            embla.scrollTo(targetIndex); // 自動切到那一場節目的頁面
+          }, 300); // 稍微等 Embla 初始化
+        }
+      }
+    }
+    // =========================================================
+
   } catch (e) {
+    // 整體流程錯誤，顯示錯誤訊息
     document.body.innerHTML = '<p style="color:red; text-align:center; margin-top:2rem;">賽程載入失敗</p>';
     console.error(e);
   } finally {
-    const loadingEl = document.getElementById('loadingOverlay');
+    // 不論成功與否，都移除 loading 畫面
     if (loadingEl) loadingEl.style.display = 'none';
   }
-
-  }
+}
 
 
   function getUniqueDates() {
