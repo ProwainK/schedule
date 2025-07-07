@@ -282,13 +282,26 @@ async function init() {
   let json = null;
 
   try {
-    // 嘗試取得新版 API 資料
+
+    // 嘗試取得舊版 API 資料
     try {
-      const res = await fetch(`https://tracker.gamesdonequick.com/tracker/api/v2/events/${EVENT_ID}/runs`);
+      const res = await fetch(`https://gamesdonequick.com/api/schedule/${EVENT_ID}`);
       json = await res.json();
-      console.log("✅ 新版 API 成功載入");
+      console.log("✅ 舊版 API 成功載入");
+      json = { results: json.schedule || json.results }; // 修正舊版 API 資料來源
     } catch (err) {
-      console.warn("❌ 新版 API 失敗，嘗試使用本地備援資料", err);
+      console.warn("❌ 舊版 API 失敗，嘗試使用新版 API", err);
+    }
+
+    // 嘗試取得新版 API 資料
+    if (json == null) {
+      try {
+        const res = await fetch(`https://tracker.gamesdonequick.com/tracker/api/v2/events/${EVENT_ID}/runs`);
+        json = await res.json();
+        console.log("✅ 新版 API 成功載入");
+      } catch (err) {
+        console.warn("❌ 新版 API 失敗，嘗試使用本地備援資料", err);
+      }
     }
 
     // 如果上面抓不到，就使用 local JS 備援（如 sgdq2025.js 中的 eventLocalSchedule）
