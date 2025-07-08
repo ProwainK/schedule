@@ -1735,7 +1735,7 @@ window.gameDB = {
   "Ao Oni (2024)": {
     "tw": null,
     "jp": "青鬼 (2024)",
-    "en": "Ao Oni (2024) / Absolute Fear -AOONI-",
+    "en": "Ao Oni (2024)",
     "boxart": "https://www.speedrun.com/static/game/pdv9vmo1/cover.png?v=86e4fb3",
     "leaderboard": "https://www.speedrun.com/Ao_Oni_2024",
     "rijs2025": {
