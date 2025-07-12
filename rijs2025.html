@@ -196,6 +196,7 @@ bottom: 0;
 
 /* 直立手機 */
 @media (orientation: portrait) {
+
   #embla {
     /* zoom: 0.8; 相當於 100% 對應原本的 125% */
     /* transform: scale(0.8); */
@@ -271,14 +272,22 @@ bottom: 0;
   let allRuns = [];
   let embla, thumbEmbla;
 
-  async function init() {
+
+async function init() {
+
+  const loadingEl = document.getElementById('loadingOverlay');
+  if (loadingEl) loadingEl.style.display = 'flex'; // 顯示載入畫面
+
+  const EVENT_ID = 56;
+  let json = null;
 
     try {
 
       let json = null;
 
       // 抓 API
-      /*
+
+/*
       if (json == null) {
         try {
           const res = await fetch(`https://horaro.org/-/api/v1/events/rtaij/schedules/rtaijs2025`);
@@ -286,9 +295,10 @@ bottom: 0;
           console.log("新版 API Success");
         } catch { }
       }
-      */
+*/
 
       // 已經抓好的 JS 檔，但會過期
+      // https://horaro.org/rtaij/rtaijs2025
       if (json == null) {
         try {
           // json = { results: window.eventLocalSchedule.results };
@@ -309,8 +319,9 @@ json = {
         } catch { }
       }
 
+    // 資料轉換：統一成你要用的格式
     allRuns = json.results
-      .filter(r => r.type === 'speedrun' || r.name) // local fallback 沒有 type 時也允許
+      .filter(r => r.type === 'speedrun' || r.name) // local JS 沒有 type 也接受
       .map(r => ({
         game: r.name,
         category: r.category,
@@ -320,21 +331,92 @@ json = {
         console: r.console,
       }));
 
-    createDayButtons();
-    const firstDate = getUniqueDates()[0];
-    if (firstDate) {
-      filterAndRender(firstDate);
-      document.querySelector('.day-button').classList.add('active');
+    createDayButtons(); // 建立上方的日期選單
+
+    // =============== ✅ 自動偵測目前時間的節目 ===============
+
+    const taipeiOffset = 8 * 60 * 60 * 1000; // 台北時區偏移（毫秒），目前沒用到但保留
+    const now = Date.now(); // 取得當前時間的 UTC 毫秒數
+
+    const currentRun = (() => {
+      if (!allRuns.length) return null; // 沒有節目直接回 null
+
+      // 先過濾出有開始時間的節目，並以開始時間正序排序
+      const sorted = allRuns
+        .filter(r => r.start)
+        .sort((a, b) => a.start - b.start);
+
+      // 取最後一個節目的開始時間（毫秒）
+      const lastRunStart = sorted[sorted.length - 1].start.getTime();
+
+      // 如果現在時間已超過最後節目開始時間一小時(3600000毫秒)，表示沒節目進行中
+      if (now > lastRunStart + 3600000) return null;
+
+      // 從最新的節目開始往前找，找到第一個開始時間小於等於現在的節目
+      // 找不到的話回傳 null
+      return [...sorted].reverse().find(r => now >= r.start.getTime()) || null;
+    })();
+
+    console.log("正在直播:");
+    console.log(currentRun);
+
+    // 預設顯示第一天（若沒有節目進行中）
+    let dateStrToShow = getUniqueDates()[0];
+
+    // 若有節目正在進行，顯示該節目的日期
+    if (currentRun) {
+      const fmt = new Intl.DateTimeFormat("sv-SE", {
+        timeZone: 'Asia/Taipei',
+        year: 'numeric',
+        month: '2-digit',
+        day: '2-digit',
+      });
+      dateStrToShow = fmt.format(currentRun.start).replace(/-/g, '');
     }
+
+    // 執行顯示指定日期的節目清單
+    if (dateStrToShow) {
+      await filterAndRender(dateStrToShow);
+
+      // 自動將對應的日期按鈕標記為 active
+      const dayButtons = document.querySelectorAll('.day-button');
+      [...dayButtons].forEach(btn => {
+        if (btn.textContent.replace(/\D/g, '') === dateStrToShow.slice(4)) {
+          btn.classList.add('active');
+        }
+      });
+
+      // 如果有進行中的項目，自動切換到對應的主輪播 slide
+      if (currentRun) {
+        const fmt = new Intl.DateTimeFormat("sv-SE", {
+          timeZone: 'Asia/Taipei',
+          year: 'numeric',
+          month: '2-digit',
+          day: '2-digit',
+        });
+        const targetDay = fmt.format(currentRun.start).replace(/-/g, '');
+        const filteredRuns = allRuns.filter(run =>
+          fmt.format(run.start).replace(/-/g, '') === targetDay
+        );
+        const targetIndex = filteredRuns.findIndex(r => r === currentRun);
+        if (typeof embla?.scrollTo === 'function') {
+          setTimeout(() => {
+            embla.scrollTo(targetIndex); // 自動切到那一場節目的頁面
+          }, 300); // 稍微等 Embla 初始化
+        }
+      }
+    }
+    // =========================================================
+
   } catch (e) {
+    // 整體流程錯誤，顯示錯誤訊息
     document.body.innerHTML = '<p style="color:red; text-align:center; margin-top:2rem;">賽程載入失敗</p>';
     console.error(e);
   } finally {
-    const loadingEl = document.getElementById('loadingOverlay');
+    // 不論成功與否，都移除 loading 畫面
     if (loadingEl) loadingEl.style.display = 'none';
   }
-
-  }
+}
 
 
   function getUniqueDates() {
