@@ -6259,7 +6259,7 @@ window.eventLocalSchedule = {
           "type": "talent",
           "id": 3993,
           "name": "sorobannist",
-          "stream": "https://twitch.tv/none",
+          "stream": "https://twitch.tv/sorobannist",
           "twitter": "sorobannica",
           "youtube": "",
           "platform": "TWITCH",
@@ -8538,7 +8538,13 @@ window.eventLocalSchedule = {
       "setup_time": "1:21:51",
       "anchor_time": null,
       "layout": "Widescreen 1",
-      "video_links": [],
+      "video_links": [
+        {
+          "id": 3523,
+          "link_type": "youtube",
+          "url": "https://youtu.be/OO81dO9R4mA"
+        }
+      ],
       "priority_tag": "new_highlighted",
       "tags": [
         "new_addition",
@@ -8619,7 +8625,13 @@ window.eventLocalSchedule = {
       "setup_time": "0:40:45",
       "anchor_time": null,
       "layout": "Widescreen 4",
-      "video_links": [],
+      "video_links": [
+        {
+          "id": 3524,
+          "link_type": "youtube",
+          "url": "https://youtu.be/Dbvwn6zRuTI"
+        }
+      ],
       "priority_tag": null,
       "tags": [
         "coop"
@@ -8720,7 +8732,13 @@ window.eventLocalSchedule = {
       "setup_time": "0:47:03",
       "anchor_time": null,
       "layout": "Widescreen 4",
-      "video_links": [],
+      "video_links": [
+        {
+          "id": 3525,
+          "link_type": "youtube",
+          "url": "https://youtu.be/5pnH7wyJNOo"
+        }
+      ],
       "priority_tag": null,
       "tags": [
         "race"
@@ -8781,7 +8799,13 @@ window.eventLocalSchedule = {
       "setup_time": "0:08:18",
       "anchor_time": null,
       "layout": "Standard 1",
-      "video_links": [],
+      "video_links": [
+        {
+          "id": 3526,
+          "link_type": "youtube",
+          "url": "https://youtu.be/2s3rH3IScIc"
+        }
+      ],
       "priority_tag": null,
       "tags": []
     },
@@ -8850,7 +8874,13 @@ window.eventLocalSchedule = {
       "setup_time": "0:06:59",
       "anchor_time": null,
       "layout": "Widescreen 1",
-      "video_links": [],
+      "video_links": [
+        {
+          "id": 3527,
+          "link_type": "youtube",
+          "url": "https://youtu.be/zAZmUckIYjY"
+        }
+      ],
       "priority_tag": null,
       "tags": []
     },
@@ -8909,7 +8939,13 @@ window.eventLocalSchedule = {
       "setup_time": "0:05:01",
       "anchor_time": null,
       "layout": "Standard 1 - Vertical Camera",
-      "video_links": [],
+      "video_links": [
+        {
+          "id": 3528,
+          "link_type": "youtube",
+          "url": "https://youtu.be/efkoLEBzlmg"
+        }
+      ],
       "priority_tag": null,
       "tags": []
     },
@@ -8988,7 +9024,13 @@ window.eventLocalSchedule = {
       "setup_time": "0:12:47",
       "anchor_time": null,
       "layout": "Standard 1",
-      "video_links": [],
+      "video_links": [
+        {
+          "id": 3529,
+          "link_type": "youtube",
+          "url": "https://youtu.be/5WuS2RJcTJE"
+        }
+      ],
       "priority_tag": null,
       "tags": []
     },
@@ -9067,7 +9109,13 @@ window.eventLocalSchedule = {
       "setup_time": "0:10:35",
       "anchor_time": null,
       "layout": "Standard 1",
-      "video_links": [],
+      "video_links": [
+        {
+          "id": 3530,
+          "link_type": "youtube",
+          "url": "https://youtu.be/QV8KKgDftr0"
+        }
+      ],
       "priority_tag": null,
       "tags": []
     },
@@ -9146,7 +9194,13 @@ window.eventLocalSchedule = {
       "setup_time": "0:08:50",
       "anchor_time": null,
       "layout": "Standard 1",
-      "video_links": [],
+      "video_links": [
+        {
+          "id": 3531,
+          "link_type": "youtube",
+          "url": "https://youtu.be/XzLucJPPDB4"
+        }
+      ],
       "priority_tag": null,
       "tags": []
     },
@@ -9225,7 +9279,13 @@ window.eventLocalSchedule = {
       "setup_time": "0:06:47",
       "anchor_time": null,
       "layout": "Standard 1 - 2 Nameplates - Handcam",
-      "video_links": [],
+      "video_links": [
+        {
+          "id": 3532,
+          "link_type": "youtube",
+          "url": "https://youtu.be/hwZ5VV8rG0o"
+        }
+      ],
       "priority_tag": null,
       "tags": [
         "coop"
@@ -9316,7 +9376,13 @@ window.eventLocalSchedule = {
       "setup_time": "0:09:24",
       "anchor_time": null,
       "layout": "Standard 1 - 2 Nameplates",
-      "video_links": [],
+      "video_links": [
+        {
+          "id": 3533,
+          "link_type": "youtube",
+          "url": "https://youtu.be/ULA57icJ5ow"
+        }
+      ],
       "priority_tag": null,
       "tags": [
         "coop"
@@ -9366,7 +9432,13 @@ window.eventLocalSchedule = {
       "setup_time": "0:08:15",
       "anchor_time": null,
       "layout": "Widescreen 1",
-      "video_links": [],
+      "video_links": [
+        {
+          "id": 3534,
+          "link_type": "youtube",
+          "url": "https://youtu.be/ppSjXIuOVgY"
+        }
+      ],
       "priority_tag": null,
       "tags": []
     },
@@ -9439,13 +9511,19 @@ window.eventLocalSchedule = {
         }
       ],
       "starttime": "2025-07-11T07:56:00-05:00",
-      "endtime": "2025-07-11T08:56:00-05:00",
+      "endtime": "2025-07-11T08:57:00-05:00",
       "order": 123,
-      "run_time": "0:53:00",
-      "setup_time": "0:07:00",
+      "run_time": "0:50:01",
+      "setup_time": "0:10:59",
       "anchor_time": null,
       "layout": "Standard 1",
-      "video_links": [],
+      "video_links": [
+        {
+          "id": 3535,
+          "link_type": "youtube",
+          "url": "https://youtu.be/G993BA0oqAw"
+        }
+      ],
       "priority_tag": null,
       "tags": []
     },
@@ -9517,11 +9595,11 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-11T08:56:00-05:00",
-      "endtime": "2025-07-11T09:30:00-05:00",
+      "starttime": "2025-07-11T08:57:00-05:00",
+      "endtime": "2025-07-11T09:39:00-05:00",
       "order": 124,
-      "run_time": "0:25:00",
-      "setup_time": "0:09:00",
+      "run_time": "0:27:19",
+      "setup_time": "0:14:41",
       "anchor_time": null,
       "layout": "Standard 1 -> Widescreen 1",
       "video_links": [],
@@ -9596,14 +9674,20 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-11T09:30:00-05:00",
-      "endtime": "2025-07-11T13:34:00-05:00",
+      "starttime": "2025-07-11T09:39:00-05:00",
+      "endtime": "2025-07-11T13:43:00-05:00",
       "order": 125,
-      "run_time": "3:55:00",
-      "setup_time": "0:09:00",
+      "run_time": "3:55:13",
+      "setup_time": "0:08:47",
       "anchor_time": null,
       "layout": "3DS 1",
-      "video_links": [],
+      "video_links": [
+        {
+          "id": 3536,
+          "link_type": "youtube",
+          "url": "https://youtu.be/5xjT6zGi1Nw"
+        }
+      ],
       "priority_tag": null,
       "tags": []
     },
@@ -9663,11 +9747,11 @@ window.eventLocalSchedule = {
       ],
       "hosts": [],
       "commentators": [],
-      "starttime": "2025-07-11T13:34:00-05:00",
-      "endtime": "2025-07-11T13:49:00-05:00",
+      "starttime": "2025-07-11T13:43:00-05:00",
+      "endtime": "2025-07-11T13:50:00-05:00",
       "order": 126,
-      "run_time": "0:15:00",
-      "setup_time": "0",
+      "run_time": "0:05:00",
+      "setup_time": "0:02:00",
       "anchor_time": null,
       "layout": "",
       "video_links": [],
@@ -9735,18 +9819,16 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-11T13:49:00-05:00",
-      "endtime": "2025-07-11T15:26:00-05:00",
+      "starttime": "2025-07-11T13:50:00-05:00",
+      "endtime": "2025-07-11T15:25:00-05:00",
       "order": 127,
-      "run_time": "1:12:00",
-      "setup_time": "0:25:00",
+      "run_time": "1:08:33",
+      "setup_time": "0:26:27",
       "anchor_time": null,
       "layout": "GBA 1",
       "video_links": [],
       "priority_tag": null,
-      "tags": [
-        "race"
-      ]
+      "tags": []
     },
     {
       "type": "speedrun",
@@ -9886,11 +9968,11 @@ window.eventLocalSchedule = {
           "pronouns": "he/him"
         }
       ],
-      "starttime": "2025-07-11T15:26:00-05:00",
-      "endtime": "2025-07-11T17:29:00-05:00",
+      "starttime": "2025-07-11T15:25:00-05:00",
+      "endtime": "2025-07-11T17:09:00-05:00",
       "order": 128,
-      "run_time": "1:45:00",
-      "setup_time": "0:18:00",
+      "run_time": "1:24:00",
+      "setup_time": "0:20:00",
       "anchor_time": null,
       "layout": "Widescreen 2 - Relay",
       "video_links": [],
@@ -9927,9 +10009,9 @@ window.eventLocalSchedule = {
       "hosts": [
         {
           "type": "talent",
-          "id": 4012,
-          "name": "KuritasKRT",
-          "stream": "https://www.twitch.tv/kuritaskrt",
+          "id": 2249,
+          "name": "cartridgeblowers",
+          "stream": "https://www.twitch.tv/cartridgeblowers",
           "twitter": "",
           "youtube": "",
           "platform": "TWITCH",
@@ -9968,14 +10050,20 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-11T17:29:00-05:00",
-      "endtime": "2025-07-11T18:39:00-05:00",
+      "starttime": "2025-07-11T17:09:00-05:00",
+      "endtime": "2025-07-11T18:13:00-05:00",
       "order": 129,
-      "run_time": "1:10:00",
-      "setup_time": "0",
+      "run_time": "0:57:00",
+      "setup_time": "0:07:00",
       "anchor_time": null,
       "layout": "Widescreen 1",
-      "video_links": [],
+      "video_links": [
+        {
+          "id": 3537,
+          "link_type": "youtube",
+          "url": "https://youtu.be/c_-IbbM_alA"
+        }
+      ],
       "priority_tag": null,
       "tags": []
     },
@@ -10005,11 +10093,11 @@ window.eventLocalSchedule = {
       ],
       "hosts": [],
       "commentators": [],
-      "starttime": "2025-07-11T18:39:00-05:00",
-      "endtime": "2025-07-11T19:15:00-05:00",
+      "starttime": "2025-07-11T18:13:00-05:00",
+      "endtime": "2025-07-11T19:04:00-05:00",
       "order": 130,
       "run_time": "0",
-      "setup_time": "0:36:00",
+      "setup_time": "0:51:00",
       "anchor_time": null,
       "layout": "",
       "video_links": [],
@@ -10086,14 +10174,20 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-11T19:15:00-05:00",
-      "endtime": "2025-07-11T20:38:00-05:00",
+      "starttime": "2025-07-11T19:04:00-05:00",
+      "endtime": "2025-07-11T20:32:00-05:00",
       "order": 131,
-      "run_time": "1:00:00",
-      "setup_time": "0:23:00",
-      "anchor_time": "2025-07-11T19:15:00-05:00",
+      "run_time": "1:00:55",
+      "setup_time": "0:27:05",
+      "anchor_time": "2025-07-11T19:04:00-05:00",
       "layout": "Widescreen 1 - 2 Cameras",
-      "video_links": [],
+      "video_links": [
+        {
+          "id": 3538,
+          "link_type": "youtube",
+          "url": "https://youtu.be/vSgTFNqTObU"
+        }
+      ],
       "priority_tag": null,
       "tags": [
         "rhythm",
@@ -10168,14 +10262,20 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-11T20:38:00-05:00",
-      "endtime": "2025-07-11T21:46:00-05:00",
+      "starttime": "2025-07-11T20:32:00-05:00",
+      "endtime": "2025-07-11T21:28:00-05:00",
       "order": 132,
-      "run_time": "0:50:00",
-      "setup_time": "0:18:00",
+      "run_time": "0:39:10",
+      "setup_time": "0:16:50",
       "anchor_time": null,
       "layout": "Widescreen 1",
-      "video_links": [],
+      "video_links": [
+        {
+          "id": 3539,
+          "link_type": "youtube",
+          "url": "https://youtu.be/ipCOnf7lvAY"
+        }
+      ],
       "priority_tag": null,
       "tags": [
         "bonus"
@@ -10218,11 +10318,11 @@ window.eventLocalSchedule = {
         }
       ],
       "commentators": [],
-      "starttime": "2025-07-11T21:46:00-05:00",
-      "endtime": "2025-07-11T23:09:00-05:00",
+      "starttime": "2025-07-11T21:28:00-05:00",
+      "endtime": "2025-07-11T23:15:00-05:00",
       "order": 133,
       "run_time": "1:15:00",
-      "setup_time": "0:08:00",
+      "setup_time": "0:32:00",
       "anchor_time": null,
       "layout": "Existing Layouts Not In This List",
       "video_links": [],
@@ -10299,8 +10399,8 @@ window.eventLocalSchedule = {
           "pronouns": "He/him"
         }
       ],
-      "starttime": "2025-07-11T23:09:00-05:00",
-      "endtime": "2025-07-12T01:02:00-05:00",
+      "starttime": "2025-07-11T23:15:00-05:00",
+      "endtime": "2025-07-12T01:08:00-05:00",
       "order": 134,
       "run_time": "1:30:00",
       "setup_time": "0:23:00",
@@ -10316,11 +10416,11 @@ window.eventLocalSchedule = {
     {
       "type": "speedrun",
       "id": 7061,
-      "name": "Monster Hunter Wilds",
-      "display_name": "Monster Hunter Wilds",
-      "twitch_name": "",
+      "name": "Monster Hunter Wilds Hunt Showcase",
+      "display_name": "Monster Hunter Wilds Hunt Showcase",
+      "twitch_name": "Monster Hunter Wilds",
       "description": "",
-      "category": "4-Player Apex Showcase",
+      "category": "4-Player Apex Hunts",
       "coop": true,
       "onsite": "ONSITE",
       "console": "PC",
@@ -10380,8 +10480,8 @@ window.eventLocalSchedule = {
         }
       ],
       "commentators": [],
-      "starttime": "2025-07-12T01:02:00-05:00",
-      "endtime": "2025-07-12T02:02:00-05:00",
+      "starttime": "2025-07-12T01:08:00-05:00",
+      "endtime": "2025-07-12T02:08:00-05:00",
       "order": 135,
       "run_time": "0:35:00",
       "setup_time": "0:25:00",
@@ -10462,8 +10562,8 @@ window.eventLocalSchedule = {
           "pronouns": "She/Her"
         }
       ],
-      "starttime": "2025-07-12T02:02:00-05:00",
-      "endtime": "2025-07-12T03:40:00-05:00",
+      "starttime": "2025-07-12T02:08:00-05:00",
+      "endtime": "2025-07-12T03:46:00-05:00",
       "order": 136,
       "run_time": "1:20:00",
       "setup_time": "0:18:00",
@@ -10523,8 +10623,8 @@ window.eventLocalSchedule = {
           "pronouns": "he/him"
         }
       ],
-      "starttime": "2025-07-12T03:40:00-05:00",
-      "endtime": "2025-07-12T04:19:00-05:00",
+      "starttime": "2025-07-12T03:46:00-05:00",
+      "endtime": "2025-07-12T04:25:00-05:00",
       "order": 137,
       "run_time": "0:20:00",
       "setup_time": "0:19:00",
@@ -10571,8 +10671,8 @@ window.eventLocalSchedule = {
         }
       ],
       "commentators": [],
-      "starttime": "2025-07-12T04:19:00-05:00",
-      "endtime": "2025-07-12T05:01:00-05:00",
+      "starttime": "2025-07-12T04:25:00-05:00",
+      "endtime": "2025-07-12T05:07:00-05:00",
       "order": 138,
       "run_time": "0:35:00",
       "setup_time": "0:07:00",
@@ -10640,8 +10740,8 @@ window.eventLocalSchedule = {
           "pronouns": "she/her"
         }
       ],
-      "starttime": "2025-07-12T05:01:00-05:00",
-      "endtime": "2025-07-12T06:03:00-05:00",
+      "starttime": "2025-07-12T05:07:00-05:00",
+      "endtime": "2025-07-12T06:09:00-05:00",
       "order": 139,
       "run_time": "0:55:00",
       "setup_time": "0:07:00",
@@ -10709,8 +10809,8 @@ window.eventLocalSchedule = {
           "pronouns": "He/Him"
         }
       ],
-      "starttime": "2025-07-12T06:03:00-05:00",
-      "endtime": "2025-07-12T06:28:00-05:00",
+      "starttime": "2025-07-12T06:09:00-05:00",
+      "endtime": "2025-07-12T06:34:00-05:00",
       "order": 140,
       "run_time": "0:16:00",
       "setup_time": "0:09:00",
@@ -10768,8 +10868,8 @@ window.eventLocalSchedule = {
           "pronouns": "It/Its"
         }
       ],
-      "starttime": "2025-07-12T06:28:00-05:00",
-      "endtime": "2025-07-12T06:57:00-05:00",
+      "starttime": "2025-07-12T06:34:00-05:00",
+      "endtime": "2025-07-12T07:03:00-05:00",
       "order": 141,
       "run_time": "0:12:00",
       "setup_time": "0:17:00",
@@ -10837,8 +10937,8 @@ window.eventLocalSchedule = {
           "pronouns": "they/she/he"
         }
       ],
-      "starttime": "2025-07-12T06:57:00-05:00",
-      "endtime": "2025-07-12T07:20:00-05:00",
+      "starttime": "2025-07-12T07:03:00-05:00",
+      "endtime": "2025-07-12T07:26:00-05:00",
       "order": 142,
       "run_time": "0:12:00",
       "setup_time": "0:11:00",
@@ -10906,8 +11006,8 @@ window.eventLocalSchedule = {
           "pronouns": "he/him"
         }
       ],
-      "starttime": "2025-07-12T07:20:00-05:00",
-      "endtime": "2025-07-12T08:44:00-05:00",
+      "starttime": "2025-07-12T07:26:00-05:00",
+      "endtime": "2025-07-12T08:50:00-05:00",
       "order": 143,
       "run_time": "1:12:00",
       "setup_time": "0:12:00",
@@ -10985,8 +11085,8 @@ window.eventLocalSchedule = {
           "pronouns": "he/they"
         }
       ],
-      "starttime": "2025-07-12T08:44:00-05:00",
-      "endtime": "2025-07-12T12:43:00-05:00",
+      "starttime": "2025-07-12T08:50:00-05:00",
+      "endtime": "2025-07-12T12:49:00-05:00",
       "order": 144,
       "run_time": "3:45:00",
       "setup_time": "0:14:00",
@@ -11042,8 +11142,8 @@ window.eventLocalSchedule = {
       ],
       "hosts": [],
       "commentators": [],
-      "starttime": "2025-07-12T12:43:00-05:00",
-      "endtime": "2025-07-12T12:58:00-05:00",
+      "starttime": "2025-07-12T12:49:00-05:00",
+      "endtime": "2025-07-12T13:04:00-05:00",
       "order": 145,
       "run_time": "0:15:00",
       "setup_time": "0",
@@ -11114,8 +11214,8 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-12T12:58:00-05:00",
-      "endtime": "2025-07-12T14:03:00-05:00",
+      "starttime": "2025-07-12T13:04:00-05:00",
+      "endtime": "2025-07-12T14:09:00-05:00",
       "order": 146,
       "run_time": "0:47:00",
       "setup_time": "0:18:00",
@@ -11183,8 +11283,8 @@ window.eventLocalSchedule = {
           "pronouns": "he/him"
         }
       ],
-      "starttime": "2025-07-12T14:03:00-05:00",
-      "endtime": "2025-07-12T15:06:00-05:00",
+      "starttime": "2025-07-12T14:09:00-05:00",
+      "endtime": "2025-07-12T15:12:00-05:00",
       "order": 147,
       "run_time": "0:45:00",
       "setup_time": "0:18:00",
@@ -11264,8 +11364,8 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-12T15:06:00-05:00",
-      "endtime": "2025-07-12T16:50:00-05:00",
+      "starttime": "2025-07-12T15:12:00-05:00",
+      "endtime": "2025-07-12T16:56:00-05:00",
       "order": 148,
       "run_time": "1:10:00",
       "setup_time": "0:34:00",
@@ -11345,8 +11445,8 @@ window.eventLocalSchedule = {
           "pronouns": "she/her"
         }
       ],
-      "starttime": "2025-07-12T16:50:00-05:00",
-      "endtime": "2025-07-12T18:40:00-05:00",
+      "starttime": "2025-07-12T16:56:00-05:00",
+      "endtime": "2025-07-12T18:46:00-05:00",
       "order": 149,
       "run_time": "1:50:00",
       "setup_time": "0",
@@ -11382,11 +11482,11 @@ window.eventLocalSchedule = {
       ],
       "hosts": [],
       "commentators": [],
-      "starttime": "2025-07-12T18:40:00-05:00",
+      "starttime": "2025-07-12T18:46:00-05:00",
       "endtime": "2025-07-12T19:10:00-05:00",
       "order": 150,
       "run_time": "0",
-      "setup_time": "0:30:00",
+      "setup_time": "0:24:00",
       "anchor_time": null,
       "layout": "",
       "video_links": [],
