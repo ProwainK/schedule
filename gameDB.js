@@ -2945,7 +2945,7 @@ window.gameDB = {
     }
   },
   "Super Monkey Ball: Touch & Roll": {
-    "tw": "超級猴子球 觸摸滾動",
+    "tw": "超級猴子球 DS",
     "jp": "スーパーモンキーボール DS",
     "en": "Super Monkey Ball: Touch & Roll",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/14693_IGDB.jpg",
