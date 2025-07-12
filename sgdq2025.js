@@ -1,5 +1,5 @@
 window.eventLocalSchedule = {
-  "count": 154,
+  "count": 155,
   "next": null,
   "previous": null,
   "results": [
@@ -10400,13 +10400,19 @@ window.eventLocalSchedule = {
         }
       ],
       "starttime": "2025-07-11T23:15:00-05:00",
-      "endtime": "2025-07-12T01:08:00-05:00",
+      "endtime": "2025-07-12T01:13:00-05:00",
       "order": 134,
-      "run_time": "1:30:00",
-      "setup_time": "0:23:00",
+      "run_time": "1:26:03",
+      "setup_time": "0:31:57",
       "anchor_time": null,
       "layout": "Widescreen 2 - Bingo",
-      "video_links": [],
+      "video_links": [
+        {
+          "id": 3540,
+          "link_type": "youtube",
+          "url": "https://youtu.be/dyhGhd4n03Q"
+        }
+      ],
       "priority_tag": "new_addition",
       "tags": [
         "bingo",
@@ -10480,14 +10486,20 @@ window.eventLocalSchedule = {
         }
       ],
       "commentators": [],
-      "starttime": "2025-07-12T01:08:00-05:00",
-      "endtime": "2025-07-12T02:08:00-05:00",
+      "starttime": "2025-07-12T01:13:00-05:00",
+      "endtime": "2025-07-12T02:18:00-05:00",
       "order": 135,
-      "run_time": "0:35:00",
-      "setup_time": "0:25:00",
+      "run_time": "0:24:16",
+      "setup_time": "0:40:44",
       "anchor_time": null,
       "layout": "Widescreen 2 - 4 Nameplates",
-      "video_links": [],
+      "video_links": [
+        {
+          "id": 3541,
+          "link_type": "youtube",
+          "url": "https://youtu.be/MHF_p8zfq40"
+        }
+      ],
       "priority_tag": "new_addition",
       "tags": [
         "coop",
@@ -10562,14 +10574,20 @@ window.eventLocalSchedule = {
           "pronouns": "She/Her"
         }
       ],
-      "starttime": "2025-07-12T02:08:00-05:00",
-      "endtime": "2025-07-12T03:46:00-05:00",
+      "starttime": "2025-07-12T02:18:00-05:00",
+      "endtime": "2025-07-12T03:48:00-05:00",
       "order": 136,
-      "run_time": "1:20:00",
-      "setup_time": "0:18:00",
+      "run_time": "1:20:55",
+      "setup_time": "0:09:05",
       "anchor_time": null,
       "layout": "Widescreen 1",
-      "video_links": [],
+      "video_links": [
+        {
+          "id": 3542,
+          "link_type": "youtube",
+          "url": "https://youtu.be/n4knd4iafos"
+        }
+      ],
       "priority_tag": null,
       "tags": [
         "coop"
@@ -10623,14 +10641,20 @@ window.eventLocalSchedule = {
           "pronouns": "he/him"
         }
       ],
-      "starttime": "2025-07-12T03:46:00-05:00",
-      "endtime": "2025-07-12T04:25:00-05:00",
+      "starttime": "2025-07-12T03:48:00-05:00",
+      "endtime": "2025-07-12T04:13:00-05:00",
       "order": 137,
-      "run_time": "0:20:00",
-      "setup_time": "0:19:00",
+      "run_time": "0:16:53",
+      "setup_time": "0:08:07",
       "anchor_time": null,
       "layout": "Widescreen 1",
-      "video_links": [],
+      "video_links": [
+        {
+          "id": 3543,
+          "link_type": "youtube",
+          "url": "https://youtu.be/6H_8zWfw7pA"
+        }
+      ],
       "priority_tag": null,
       "tags": []
     },
@@ -10671,14 +10695,20 @@ window.eventLocalSchedule = {
         }
       ],
       "commentators": [],
-      "starttime": "2025-07-12T04:25:00-05:00",
-      "endtime": "2025-07-12T05:07:00-05:00",
+      "starttime": "2025-07-12T04:13:00-05:00",
+      "endtime": "2025-07-12T04:52:00-05:00",
       "order": 138,
-      "run_time": "0:35:00",
-      "setup_time": "0:07:00",
+      "run_time": "0:30:32",
+      "setup_time": "0:08:28",
       "anchor_time": null,
       "layout": "Standard 1",
-      "video_links": [],
+      "video_links": [
+        {
+          "id": 3544,
+          "link_type": "youtube",
+          "url": "https://youtu.be/kcRkriimOd4"
+        }
+      ],
       "priority_tag": null,
       "tags": []
     },
@@ -10740,14 +10770,20 @@ window.eventLocalSchedule = {
           "pronouns": "she/her"
         }
       ],
-      "starttime": "2025-07-12T05:07:00-05:00",
-      "endtime": "2025-07-12T06:09:00-05:00",
+      "starttime": "2025-07-12T04:52:00-05:00",
+      "endtime": "2025-07-12T05:48:00-05:00",
       "order": 139,
-      "run_time": "0:55:00",
-      "setup_time": "0:07:00",
+      "run_time": "0:46:15",
+      "setup_time": "0:09:45",
       "anchor_time": null,
       "layout": "Standard 1",
-      "video_links": [],
+      "video_links": [
+        {
+          "id": 3545,
+          "link_type": "youtube",
+          "url": "https://youtu.be/FaI-JaOlMFE"
+        }
+      ],
       "priority_tag": null,
       "tags": []
     },
@@ -10809,14 +10845,20 @@ window.eventLocalSchedule = {
           "pronouns": "He/Him"
         }
       ],
-      "starttime": "2025-07-12T06:09:00-05:00",
-      "endtime": "2025-07-12T06:34:00-05:00",
+      "starttime": "2025-07-12T05:48:00-05:00",
+      "endtime": "2025-07-12T06:15:00-05:00",
       "order": 140,
-      "run_time": "0:16:00",
-      "setup_time": "0:09:00",
+      "run_time": "0:15:19",
+      "setup_time": "0:11:41",
       "anchor_time": null,
       "layout": "Widescreen 1",
-      "video_links": [],
+      "video_links": [
+        {
+          "id": 3546,
+          "link_type": "youtube",
+          "url": "https://youtu.be/pf56PtdRt4M"
+        }
+      ],
       "priority_tag": null,
       "tags": []
     },
@@ -10868,14 +10910,20 @@ window.eventLocalSchedule = {
           "pronouns": "It/Its"
         }
       ],
-      "starttime": "2025-07-12T06:34:00-05:00",
-      "endtime": "2025-07-12T07:03:00-05:00",
+      "starttime": "2025-07-12T06:15:00-05:00",
+      "endtime": "2025-07-12T06:46:00-05:00",
       "order": 141,
-      "run_time": "0:12:00",
-      "setup_time": "0:17:00",
+      "run_time": "0:16:57",
+      "setup_time": "0:14:03",
       "anchor_time": null,
       "layout": "Standard 1",
-      "video_links": [],
+      "video_links": [
+        {
+          "id": 3547,
+          "link_type": "youtube",
+          "url": "https://youtu.be/jIf7XGrV4E8"
+        }
+      ],
       "priority_tag": null,
       "tags": []
     },
@@ -10937,14 +10985,20 @@ window.eventLocalSchedule = {
           "pronouns": "they/she/he"
         }
       ],
-      "starttime": "2025-07-12T07:03:00-05:00",
-      "endtime": "2025-07-12T07:26:00-05:00",
+      "starttime": "2025-07-12T06:46:00-05:00",
+      "endtime": "2025-07-12T07:03:00-05:00",
       "order": 142,
-      "run_time": "0:12:00",
-      "setup_time": "0:11:00",
+      "run_time": "0:08:53",
+      "setup_time": "0:08:07",
       "anchor_time": null,
       "layout": "Standard 1",
-      "video_links": [],
+      "video_links": [
+        {
+          "id": 3548,
+          "link_type": "youtube",
+          "url": "https://youtu.be/JO_P7vewgvQ"
+        }
+      ],
       "priority_tag": null,
       "tags": []
     },
@@ -11006,14 +11060,20 @@ window.eventLocalSchedule = {
           "pronouns": "he/him"
         }
       ],
-      "starttime": "2025-07-12T07:26:00-05:00",
-      "endtime": "2025-07-12T08:50:00-05:00",
+      "starttime": "2025-07-12T07:03:00-05:00",
+      "endtime": "2025-07-12T08:34:00-05:00",
       "order": 143,
-      "run_time": "1:12:00",
-      "setup_time": "0:12:00",
+      "run_time": "1:12:48",
+      "setup_time": "0:18:12",
       "anchor_time": null,
       "layout": "Widescreen 1",
-      "video_links": [],
+      "video_links": [
+        {
+          "id": 3549,
+          "link_type": "youtube",
+          "url": "https://youtu.be/0gngIeZ3H6Q"
+        }
+      ],
       "priority_tag": null,
       "tags": []
     },
@@ -11085,14 +11145,20 @@ window.eventLocalSchedule = {
           "pronouns": "he/they"
         }
       ],
-      "starttime": "2025-07-12T08:50:00-05:00",
-      "endtime": "2025-07-12T12:49:00-05:00",
+      "starttime": "2025-07-12T08:34:00-05:00",
+      "endtime": "2025-07-12T12:45:00-05:00",
       "order": 144,
-      "run_time": "3:45:00",
-      "setup_time": "0:14:00",
+      "run_time": "3:54:14",
+      "setup_time": "0:16:46",
       "anchor_time": null,
       "layout": "Standard 1",
-      "video_links": [],
+      "video_links": [
+        {
+          "id": 3552,
+          "link_type": "youtube",
+          "url": "https://youtu.be/4uOtaWRQfRs"
+        }
+      ],
       "priority_tag": null,
       "tags": []
     },
@@ -11142,11 +11208,11 @@ window.eventLocalSchedule = {
       ],
       "hosts": [],
       "commentators": [],
-      "starttime": "2025-07-12T12:49:00-05:00",
-      "endtime": "2025-07-12T13:04:00-05:00",
+      "starttime": "2025-07-12T12:45:00-05:00",
+      "endtime": "2025-07-12T13:09:00-05:00",
       "order": 145,
       "run_time": "0:15:00",
-      "setup_time": "0",
+      "setup_time": "0:09:00",
       "anchor_time": null,
       "layout": "",
       "video_links": [],
@@ -11205,23 +11271,39 @@ window.eventLocalSchedule = {
         },
         {
           "type": "talent",
-          "id": 37,
-          "name": "mitchflowerpower",
-          "stream": "https://www.twitch.tv/mitchflowerpower",
-          "twitter": "mitchflowerpwer",
+          "id": 4117,
+          "name": "Tooma",
+          "stream": "https://www.twitch.tv/toomakh7",
+          "twitter": "",
+          "youtube": "",
+          "platform": "TWITCH",
+          "pronouns": ""
+        },
+        {
+          "type": "talent",
+          "id": 4118,
+          "name": "OddLoop",
+          "stream": "",
+          "twitter": "",
           "youtube": "",
           "platform": "TWITCH",
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-12T13:04:00-05:00",
-      "endtime": "2025-07-12T14:09:00-05:00",
+      "starttime": "2025-07-12T13:09:00-05:00",
+      "endtime": "2025-07-12T14:35:00-05:00",
       "order": 146,
-      "run_time": "0:47:00",
-      "setup_time": "0:18:00",
+      "run_time": "0:46:21",
+      "setup_time": "0:39:39",
       "anchor_time": null,
       "layout": "Standard 1",
-      "video_links": [],
+      "video_links": [
+        {
+          "id": 3553,
+          "link_type": "youtube",
+          "url": "https://youtu.be/S8DNZBhJGTU"
+        }
+      ],
       "priority_tag": null,
       "tags": []
     },
@@ -11283,14 +11365,20 @@ window.eventLocalSchedule = {
           "pronouns": "he/him"
         }
       ],
-      "starttime": "2025-07-12T14:09:00-05:00",
-      "endtime": "2025-07-12T15:12:00-05:00",
+      "starttime": "2025-07-12T14:35:00-05:00",
+      "endtime": "2025-07-12T15:40:00-05:00",
       "order": 147,
-      "run_time": "0:45:00",
-      "setup_time": "0:18:00",
+      "run_time": "0:42:26",
+      "setup_time": "0:22:34",
       "anchor_time": null,
       "layout": "DS 1",
-      "video_links": [],
+      "video_links": [
+        {
+          "id": 3554,
+          "link_type": "youtube",
+          "url": "https://youtu.be/J7stukTieT4"
+        }
+      ],
       "priority_tag": null,
       "tags": [
         "tas"
@@ -11364,8 +11452,8 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-12T15:12:00-05:00",
-      "endtime": "2025-07-12T16:56:00-05:00",
+      "starttime": "2025-07-12T15:40:00-05:00",
+      "endtime": "2025-07-12T17:24:00-05:00",
       "order": 148,
       "run_time": "1:10:00",
       "setup_time": "0:34:00",
@@ -11445,8 +11533,8 @@ window.eventLocalSchedule = {
           "pronouns": "she/her"
         }
       ],
-      "starttime": "2025-07-12T16:56:00-05:00",
-      "endtime": "2025-07-12T18:46:00-05:00",
+      "starttime": "2025-07-12T17:24:00-05:00",
+      "endtime": "2025-07-12T19:14:00-05:00",
       "order": 149,
       "run_time": "1:50:00",
       "setup_time": "0",
@@ -11482,11 +11570,11 @@ window.eventLocalSchedule = {
       ],
       "hosts": [],
       "commentators": [],
-      "starttime": "2025-07-12T18:46:00-05:00",
-      "endtime": "2025-07-12T19:10:00-05:00",
+      "starttime": "2025-07-12T19:14:00-05:00",
+      "endtime": "2025-07-12T19:30:00-05:00",
       "order": 150,
       "run_time": "0",
-      "setup_time": "0:24:00",
+      "setup_time": "0:16:00",
       "anchor_time": null,
       "layout": "",
       "video_links": [],
@@ -11494,6 +11582,85 @@ window.eventLocalSchedule = {
       "tags": [
         "checkpoint"
       ]
+    },
+    {
+      "type": "speedrun",
+      "id": 7164,
+      "name": "Super Monkey Ball: Touch & Roll",
+      "display_name": "Super Monkey Ball: Touch & Roll",
+      "twitch_name": "Super Monkey Ball Touch & Roll",
+      "description": "",
+      "category": "Main Worlds",
+      "coop": false,
+      "onsite": "ONSITE",
+      "console": "DS",
+      "release_year": 2005,
+      "runners": [
+        {
+          "type": "talent",
+          "id": 1939,
+          "name": "limy",
+          "stream": "https://twitch.tv/limy_sr",
+          "twitter": "limy_sr",
+          "youtube": "",
+          "platform": "TWITCH",
+          "pronouns": "any"
+        }
+      ],
+      "hosts": [
+        {
+          "type": "talent",
+          "id": 2465,
+          "name": "OhHeyItsKara",
+          "stream": "https://www.twitch.tv/ohheyitskara",
+          "twitter": "",
+          "youtube": "",
+          "platform": "TWITCH",
+          "pronouns": "she"
+        }
+      ],
+      "commentators": [
+        {
+          "type": "talent",
+          "id": 1795,
+          "name": "Peas",
+          "stream": "https://twitch.tv/peassmb",
+          "twitter": "peassmb",
+          "youtube": "",
+          "platform": "TWITCH",
+          "pronouns": "He/him"
+        },
+        {
+          "type": "talent",
+          "id": 1390,
+          "name": "Jaxler",
+          "stream": "https://twitch.tv/jaxler1",
+          "twitter": "jaxlerSR",
+          "youtube": "",
+          "platform": "TWITCH",
+          "pronouns": "he/him"
+        },
+        {
+          "type": "talent",
+          "id": 1143,
+          "name": "LaurieDBunnykins",
+          "stream": "https://twitch.tv/lauriedbunnykins",
+          "twitter": "",
+          "youtube": "",
+          "platform": "TWITCH",
+          "pronouns": "she/her"
+        }
+      ],
+      "starttime": "2025-07-12T19:30:00-05:00",
+      "endtime": "2025-07-12T20:13:00-05:00",
+      "order": 151,
+      "run_time": "0:32:00",
+      "setup_time": "0:11:00",
+      "anchor_time": null,
+      "layout": "DS 1",
+      "video_links": [],
+      "priority_tag": null,
+      "tags": []
     },
     {
       "type": "speedrun",
@@ -11563,12 +11730,12 @@ window.eventLocalSchedule = {
           "pronouns": "He/Him"
         }
       ],
-      "starttime": "2025-07-12T19:10:00-05:00",
-      "endtime": "2025-07-12T20:35:00-05:00",
-      "order": 151,
+      "starttime": "2025-07-12T20:13:00-05:00",
+      "endtime": "2025-07-12T21:38:00-05:00",
+      "order": 152,
       "run_time": "1:20:00",
       "setup_time": "0:05:00",
-      "anchor_time": "2025-07-12T19:10:00-05:00",
+      "anchor_time": null,
       "layout": "Widescreen 1",
       "video_links": [],
       "priority_tag": "new_highlighted",
@@ -11625,10 +11792,10 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-12T20:35:00-05:00",
-      "endtime": "2025-07-12T21:05:00-05:00",
-      "order": 152,
-      "run_time": "0:30:00",
+      "starttime": "2025-07-12T21:38:00-05:00",
+      "endtime": "2025-07-12T21:53:00-05:00",
+      "order": 153,
+      "run_time": "0:15:00",
       "setup_time": "0",
       "anchor_time": null,
       "layout": "",
@@ -11696,9 +11863,9 @@ window.eventLocalSchedule = {
           "pronouns": "she/her"
         }
       ],
-      "starttime": "2025-07-12T21:05:00-05:00",
-      "endtime": "2025-07-13T00:10:00-05:00",
-      "order": 153,
+      "starttime": "2025-07-12T21:53:00-05:00",
+      "endtime": "2025-07-13T00:58:00-05:00",
+      "order": 154,
       "run_time": "1:35:00",
       "setup_time": "1:30:00",
       "anchor_time": null,
@@ -11733,9 +11900,9 @@ window.eventLocalSchedule = {
       ],
       "hosts": [],
       "commentators": [],
-      "starttime": "2025-07-13T00:10:00-05:00",
-      "endtime": "2025-07-13T00:25:00-05:00",
-      "order": 154,
+      "starttime": "2025-07-13T00:58:00-05:00",
+      "endtime": "2025-07-13T01:13:00-05:00",
+      "order": 155,
       "run_time": "0:15:00",
       "setup_time": "0",
       "anchor_time": null,

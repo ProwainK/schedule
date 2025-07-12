@@ -2944,6 +2944,18 @@ window.gameDB = {
       ]
     }
   },
+  "Super Monkey Ball: Touch & Roll": {
+    "tw": "超級猴子球 觸摸滾動",
+    "jp": "スーパーモンキーボール DS",
+    "en": "Super Monkey Ball: Touch & Roll",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/14693_IGDB.jpg",
+    "sgdq2025": {
+      "Main Worlds": [
+        null,
+        null
+      ]
+    }
+  },
   "The Daily Recap": {
     "tw": "每日回顧",
     "jp": null,

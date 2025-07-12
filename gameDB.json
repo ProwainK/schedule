@@ -2960,6 +2960,7 @@
     }
   },
 
+
   "Wii Music": {
     "tw": null,
     "jp": null,
@@ -2969,6 +2970,18 @@
         "Pitch Perfect": [
           "完成迷你遊戲「Pitch Perfect」",
           "「音感マッサージキキミミ」<br>考驗玩家音感、分辨不同聲音的問答遊戲<br>根據題目需求移動 Mii 到正解位置上"
+        ]
+    }
+  },
+  "Super Monkey Ball: Touch & Roll": {
+    "tw": "超級猴子球 觸摸滾動",
+    "jp": "スーパーモンキーボール DS",
+    "en": "Super Monkey Ball: Touch & Roll",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/14693_IGDB.jpg",
+    "sgdq2025": {
+        "Main Worlds": [
+          null,
+          null
         ]
     }
   },
