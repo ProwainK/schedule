@@ -29,8 +29,8 @@ window.eventLocalSchedule = {
       ],
       "hosts": [],
       "commentators": [],
-      "starttime": "2025-07-06T11:30:00-05:00",
-      "endtime": "2025-07-06T12:06:00-05:00",
+      "starttime": "2025-07-06T12:30:00-04:00",
+      "endtime": "2025-07-06T13:06:00-04:00",
       "order": 1,
       "run_time": "0:30:00",
       "setup_time": "0:06:00",
@@ -116,8 +116,8 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-06T12:06:00-05:00",
-      "endtime": "2025-07-06T13:06:00-05:00",
+      "starttime": "2025-07-06T13:06:00-04:00",
+      "endtime": "2025-07-06T14:06:00-04:00",
       "order": 2,
       "run_time": "0:37:57",
       "setup_time": "0:22:03",
@@ -183,8 +183,8 @@ window.eventLocalSchedule = {
           "pronouns": "any/all"
         }
       ],
-      "starttime": "2025-07-06T13:06:00-05:00",
-      "endtime": "2025-07-06T14:25:00-05:00",
+      "starttime": "2025-07-06T14:06:00-04:00",
+      "endtime": "2025-07-06T15:25:00-04:00",
       "order": 3,
       "run_time": "1:11:08",
       "setup_time": "0:07:52",
@@ -258,8 +258,8 @@ window.eventLocalSchedule = {
           "pronouns": "he/him"
         }
       ],
-      "starttime": "2025-07-06T14:25:00-05:00",
-      "endtime": "2025-07-06T16:12:00-05:00",
+      "starttime": "2025-07-06T15:25:00-04:00",
+      "endtime": "2025-07-06T17:12:00-04:00",
       "order": 4,
       "run_time": "1:11:50",
       "setup_time": "0:35:10",
@@ -333,8 +333,8 @@ window.eventLocalSchedule = {
           "pronouns": "he/him/his"
         }
       ],
-      "starttime": "2025-07-06T16:12:00-05:00",
-      "endtime": "2025-07-06T17:41:00-05:00",
+      "starttime": "2025-07-06T17:12:00-04:00",
+      "endtime": "2025-07-06T18:41:00-04:00",
       "order": 5,
       "run_time": "1:25:51",
       "setup_time": "0:03:09",
@@ -387,8 +387,8 @@ window.eventLocalSchedule = {
         }
       ],
       "commentators": [],
-      "starttime": "2025-07-06T17:41:00-05:00",
-      "endtime": "2025-07-06T18:11:00-05:00",
+      "starttime": "2025-07-06T18:41:00-04:00",
+      "endtime": "2025-07-06T19:11:00-04:00",
       "order": 6,
       "run_time": "0",
       "setup_time": "0:30:00",
@@ -458,12 +458,12 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-06T18:11:00-05:00",
-      "endtime": "2025-07-06T19:17:00-05:00",
+      "starttime": "2025-07-06T19:11:00-04:00",
+      "endtime": "2025-07-06T20:17:00-04:00",
       "order": 7,
       "run_time": "0:39:12",
       "setup_time": "0:26:48",
-      "anchor_time": "2025-07-06T18:11:00-05:00",
+      "anchor_time": "2025-07-06T19:11:00-04:00",
       "layout": "Widescreen 1",
       "video_links": [
         {
@@ -533,8 +533,8 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-06T19:17:00-05:00",
-      "endtime": "2025-07-06T20:43:00-05:00",
+      "starttime": "2025-07-06T20:17:00-04:00",
+      "endtime": "2025-07-06T21:43:00-04:00",
       "order": 8,
       "run_time": "0:43:02",
       "setup_time": "0:42:58",
@@ -620,8 +620,8 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-06T20:43:00-05:00",
-      "endtime": "2025-07-06T22:44:00-05:00",
+      "starttime": "2025-07-06T21:43:00-04:00",
+      "endtime": "2025-07-06T23:44:00-04:00",
       "order": 9,
       "run_time": "1:26:44",
       "setup_time": "0:34:16",
@@ -705,8 +705,8 @@ window.eventLocalSchedule = {
           "pronouns": "he/him"
         }
       ],
-      "starttime": "2025-07-06T22:44:00-05:00",
-      "endtime": "2025-07-06T23:39:00-05:00",
+      "starttime": "2025-07-06T23:44:00-04:00",
+      "endtime": "2025-07-07T00:39:00-04:00",
       "order": 10,
       "run_time": "0:42:08",
       "setup_time": "0:12:52",
@@ -759,8 +759,8 @@ window.eventLocalSchedule = {
         }
       ],
       "commentators": [],
-      "starttime": "2025-07-06T23:39:00-05:00",
-      "endtime": "2025-07-07T00:46:00-05:00",
+      "starttime": "2025-07-07T00:39:00-04:00",
+      "endtime": "2025-07-07T01:46:00-04:00",
       "order": 11,
       "run_time": "0:57:57",
       "setup_time": "0:09:03",
@@ -844,8 +844,8 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-07T00:46:00-05:00",
-      "endtime": "2025-07-07T01:51:00-05:00",
+      "starttime": "2025-07-07T01:46:00-04:00",
+      "endtime": "2025-07-07T02:51:00-04:00",
       "order": 12,
       "run_time": "0:51:50",
       "setup_time": "0:13:10",
@@ -931,8 +931,8 @@ window.eventLocalSchedule = {
           "pronouns": "he/him"
         }
       ],
-      "starttime": "2025-07-07T01:51:00-05:00",
-      "endtime": "2025-07-07T02:26:00-05:00",
+      "starttime": "2025-07-07T02:51:00-04:00",
+      "endtime": "2025-07-07T03:26:00-04:00",
       "order": 13,
       "run_time": "0:24:07",
       "setup_time": "0:10:53",
@@ -1006,8 +1006,8 @@ window.eventLocalSchedule = {
           "pronouns": "he/him"
         }
       ],
-      "starttime": "2025-07-07T02:26:00-05:00",
-      "endtime": "2025-07-07T03:02:00-05:00",
+      "starttime": "2025-07-07T03:26:00-04:00",
+      "endtime": "2025-07-07T04:02:00-04:00",
       "order": 14,
       "run_time": "0:27:32",
       "setup_time": "0:08:28",
@@ -1081,8 +1081,8 @@ window.eventLocalSchedule = {
           "pronouns": "They/She"
         }
       ],
-      "starttime": "2025-07-07T03:02:00-05:00",
-      "endtime": "2025-07-07T03:57:00-05:00",
+      "starttime": "2025-07-07T04:02:00-04:00",
+      "endtime": "2025-07-07T04:57:00-04:00",
       "order": 15,
       "run_time": "0:47:09",
       "setup_time": "0:07:51",
@@ -1156,8 +1156,8 @@ window.eventLocalSchedule = {
           "pronouns": "any"
         }
       ],
-      "starttime": "2025-07-07T03:57:00-05:00",
-      "endtime": "2025-07-07T04:43:00-05:00",
+      "starttime": "2025-07-07T04:57:00-04:00",
+      "endtime": "2025-07-07T05:43:00-04:00",
       "order": 16,
       "run_time": "0:21:01",
       "setup_time": "0:24:59",
@@ -1241,8 +1241,8 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-07T04:43:00-05:00",
-      "endtime": "2025-07-07T05:17:00-05:00",
+      "starttime": "2025-07-07T05:43:00-04:00",
+      "endtime": "2025-07-07T06:17:00-04:00",
       "order": 17,
       "run_time": "0:20:41",
       "setup_time": "0:13:19",
@@ -1326,8 +1326,8 @@ window.eventLocalSchedule = {
           "pronouns": "he/him"
         }
       ],
-      "starttime": "2025-07-07T05:17:00-05:00",
-      "endtime": "2025-07-07T05:59:00-05:00",
+      "starttime": "2025-07-07T06:17:00-04:00",
+      "endtime": "2025-07-07T06:59:00-04:00",
       "order": 18,
       "run_time": "0:33:50",
       "setup_time": "0:08:10",
@@ -1391,8 +1391,8 @@ window.eventLocalSchedule = {
           "pronouns": "she/her"
         }
       ],
-      "starttime": "2025-07-07T05:59:00-05:00",
-      "endtime": "2025-07-07T06:22:00-05:00",
+      "starttime": "2025-07-07T06:59:00-04:00",
+      "endtime": "2025-07-07T07:22:00-04:00",
       "order": 19,
       "run_time": "0:10:31",
       "setup_time": "0:12:29",
@@ -1476,8 +1476,8 @@ window.eventLocalSchedule = {
           "pronouns": "they/them"
         }
       ],
-      "starttime": "2025-07-07T06:22:00-05:00",
-      "endtime": "2025-07-07T07:22:00-05:00",
+      "starttime": "2025-07-07T07:22:00-04:00",
+      "endtime": "2025-07-07T08:22:00-04:00",
       "order": 20,
       "run_time": "0:43:54",
       "setup_time": "0:16:06",
@@ -1561,8 +1561,8 @@ window.eventLocalSchedule = {
           "pronouns": "He/They"
         }
       ],
-      "starttime": "2025-07-07T07:22:00-05:00",
-      "endtime": "2025-07-07T08:01:00-05:00",
+      "starttime": "2025-07-07T08:22:00-04:00",
+      "endtime": "2025-07-07T09:01:00-04:00",
       "order": 21,
       "run_time": "0:27:38",
       "setup_time": "0:11:22",
@@ -1636,8 +1636,8 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-07T08:01:00-05:00",
-      "endtime": "2025-07-07T08:43:00-05:00",
+      "starttime": "2025-07-07T09:01:00-04:00",
+      "endtime": "2025-07-07T09:43:00-04:00",
       "order": 22,
       "run_time": "0:32:09",
       "setup_time": "0:09:51",
@@ -1711,8 +1711,8 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-07T08:43:00-05:00",
-      "endtime": "2025-07-07T09:19:00-05:00",
+      "starttime": "2025-07-07T09:43:00-04:00",
+      "endtime": "2025-07-07T10:19:00-04:00",
       "order": 23,
       "run_time": "0:23:12",
       "setup_time": "0:12:48",
@@ -1788,8 +1788,8 @@ window.eventLocalSchedule = {
           "pronouns": "she/her"
         }
       ],
-      "starttime": "2025-07-07T09:19:00-05:00",
-      "endtime": "2025-07-07T09:55:00-05:00",
+      "starttime": "2025-07-07T10:19:00-04:00",
+      "endtime": "2025-07-07T10:55:00-04:00",
       "order": 24,
       "run_time": "0:24:39",
       "setup_time": "0:11:21",
@@ -1865,8 +1865,8 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-07T09:55:00-05:00",
-      "endtime": "2025-07-07T11:01:00-05:00",
+      "starttime": "2025-07-07T10:55:00-04:00",
+      "endtime": "2025-07-07T12:01:00-04:00",
       "order": 25,
       "run_time": "0:34:36",
       "setup_time": "0:31:24",
@@ -1940,8 +1940,8 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-07T11:01:00-05:00",
-      "endtime": "2025-07-07T12:29:00-05:00",
+      "starttime": "2025-07-07T12:01:00-04:00",
+      "endtime": "2025-07-07T13:29:00-04:00",
       "order": 26,
       "run_time": "1:22:07",
       "setup_time": "0:05:53",
@@ -2003,8 +2003,8 @@ window.eventLocalSchedule = {
       ],
       "hosts": [],
       "commentators": [],
-      "starttime": "2025-07-07T12:29:00-05:00",
-      "endtime": "2025-07-07T12:50:00-05:00",
+      "starttime": "2025-07-07T13:29:00-04:00",
+      "endtime": "2025-07-07T13:50:00-04:00",
       "order": 27,
       "run_time": "0:15:00",
       "setup_time": "0:06:00",
@@ -2075,8 +2075,8 @@ window.eventLocalSchedule = {
           "pronouns": "he/him"
         }
       ],
-      "starttime": "2025-07-07T12:50:00-05:00",
-      "endtime": "2025-07-07T14:28:00-05:00",
+      "starttime": "2025-07-07T13:50:00-04:00",
+      "endtime": "2025-07-07T15:28:00-04:00",
       "order": 28,
       "run_time": "1:20:20",
       "setup_time": "0:17:40",
@@ -2160,8 +2160,8 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-07T14:28:00-05:00",
-      "endtime": "2025-07-07T15:52:00-05:00",
+      "starttime": "2025-07-07T15:28:00-04:00",
+      "endtime": "2025-07-07T16:52:00-04:00",
       "order": 29,
       "run_time": "1:15:38",
       "setup_time": "0:08:22",
@@ -2225,8 +2225,8 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-07T15:52:00-05:00",
-      "endtime": "2025-07-07T16:57:00-05:00",
+      "starttime": "2025-07-07T16:52:00-04:00",
+      "endtime": "2025-07-07T17:57:00-04:00",
       "order": 30,
       "run_time": "0:36:01",
       "setup_time": "0:28:59",
@@ -2290,8 +2290,8 @@ window.eventLocalSchedule = {
           "pronouns": "he/him/his"
         }
       ],
-      "starttime": "2025-07-07T16:57:00-05:00",
-      "endtime": "2025-07-07T17:36:00-05:00",
+      "starttime": "2025-07-07T17:57:00-04:00",
+      "endtime": "2025-07-07T18:36:00-04:00",
       "order": 31,
       "run_time": "0:31:36",
       "setup_time": "0:07:24",
@@ -2344,8 +2344,8 @@ window.eventLocalSchedule = {
         }
       ],
       "commentators": [],
-      "starttime": "2025-07-07T17:36:00-05:00",
-      "endtime": "2025-07-07T17:59:00-05:00",
+      "starttime": "2025-07-07T18:36:00-04:00",
+      "endtime": "2025-07-07T18:59:00-04:00",
       "order": 32,
       "run_time": "0",
       "setup_time": "0:23:00",
@@ -2394,12 +2394,12 @@ window.eventLocalSchedule = {
         }
       ],
       "commentators": [],
-      "starttime": "2025-07-07T17:59:00-05:00",
-      "endtime": "2025-07-07T19:07:00-05:00",
+      "starttime": "2025-07-07T18:59:00-04:00",
+      "endtime": "2025-07-07T20:07:00-04:00",
       "order": 33,
       "run_time": "0:39:36",
       "setup_time": "0:28:24",
-      "anchor_time": "2025-07-07T17:59:00-05:00",
+      "anchor_time": "2025-07-07T18:59:00-04:00",
       "layout": "GameBoy 1",
       "video_links": [],
       "priority_tag": null,
@@ -2465,8 +2465,8 @@ window.eventLocalSchedule = {
           "pronouns": "any"
         }
       ],
-      "starttime": "2025-07-07T19:07:00-05:00",
-      "endtime": "2025-07-07T20:16:00-05:00",
+      "starttime": "2025-07-07T20:07:00-04:00",
+      "endtime": "2025-07-07T21:16:00-04:00",
       "order": 34,
       "run_time": "0:56:07",
       "setup_time": "0:12:53",
@@ -2552,8 +2552,8 @@ window.eventLocalSchedule = {
           "pronouns": "they/them"
         }
       ],
-      "starttime": "2025-07-07T20:16:00-05:00",
-      "endtime": "2025-07-07T21:40:00-05:00",
+      "starttime": "2025-07-07T21:16:00-04:00",
+      "endtime": "2025-07-07T22:40:00-04:00",
       "order": 35,
       "run_time": "0:54:18",
       "setup_time": "0:29:42",
@@ -2627,8 +2627,8 @@ window.eventLocalSchedule = {
           "pronouns": "she/they"
         }
       ],
-      "starttime": "2025-07-07T21:40:00-05:00",
-      "endtime": "2025-07-07T22:58:00-05:00",
+      "starttime": "2025-07-07T22:40:00-04:00",
+      "endtime": "2025-07-07T23:58:00-04:00",
       "order": 36,
       "run_time": "0:51:17",
       "setup_time": "0:26:43",
@@ -2712,8 +2712,8 @@ window.eventLocalSchedule = {
           "pronouns": "he/him"
         }
       ],
-      "starttime": "2025-07-07T22:58:00-05:00",
-      "endtime": "2025-07-08T00:37:00-05:00",
+      "starttime": "2025-07-07T23:58:00-04:00",
+      "endtime": "2025-07-08T01:37:00-04:00",
       "order": 37,
       "run_time": "1:14:30",
       "setup_time": "0:24:30",
@@ -2801,8 +2801,8 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-08T00:37:00-05:00",
-      "endtime": "2025-07-08T02:18:00-05:00",
+      "starttime": "2025-07-08T01:37:00-04:00",
+      "endtime": "2025-07-08T03:18:00-04:00",
       "order": 38,
       "run_time": "1:12:51",
       "setup_time": "0:28:09",
@@ -2866,8 +2866,8 @@ window.eventLocalSchedule = {
           "pronouns": "he/him"
         }
       ],
-      "starttime": "2025-07-08T02:18:00-05:00",
-      "endtime": "2025-07-08T04:11:00-05:00",
+      "starttime": "2025-07-08T03:18:00-04:00",
+      "endtime": "2025-07-08T05:11:00-04:00",
       "order": 39,
       "run_time": "1:41:08",
       "setup_time": "0:11:52",
@@ -2941,8 +2941,8 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-08T04:11:00-05:00",
-      "endtime": "2025-07-08T04:33:00-05:00",
+      "starttime": "2025-07-08T05:11:00-04:00",
+      "endtime": "2025-07-08T05:33:00-04:00",
       "order": 40,
       "run_time": "0:14:58",
       "setup_time": "0:07:02",
@@ -3006,8 +3006,8 @@ window.eventLocalSchedule = {
           "pronouns": "he/him"
         }
       ],
-      "starttime": "2025-07-08T04:33:00-05:00",
-      "endtime": "2025-07-08T05:20:00-05:00",
+      "starttime": "2025-07-08T05:33:00-04:00",
+      "endtime": "2025-07-08T06:20:00-04:00",
       "order": 41,
       "run_time": "0:32:04",
       "setup_time": "0:14:56",
@@ -3081,8 +3081,8 @@ window.eventLocalSchedule = {
           "pronouns": "He/Him"
         }
       ],
-      "starttime": "2025-07-08T05:20:00-05:00",
-      "endtime": "2025-07-08T05:44:00-05:00",
+      "starttime": "2025-07-08T06:20:00-04:00",
+      "endtime": "2025-07-08T06:44:00-04:00",
       "order": 42,
       "run_time": "0:14:46",
       "setup_time": "0:09:14",
@@ -3148,8 +3148,8 @@ window.eventLocalSchedule = {
           "pronouns": "He/They"
         }
       ],
-      "starttime": "2025-07-08T05:44:00-05:00",
-      "endtime": "2025-07-08T06:22:00-05:00",
+      "starttime": "2025-07-08T06:44:00-04:00",
+      "endtime": "2025-07-08T07:22:00-04:00",
       "order": 43,
       "run_time": "0:22:47",
       "setup_time": "0:15:13",
@@ -3204,8 +3204,8 @@ window.eventLocalSchedule = {
         }
       ],
       "commentators": [],
-      "starttime": "2025-07-08T06:22:00-05:00",
-      "endtime": "2025-07-08T06:41:00-05:00",
+      "starttime": "2025-07-08T07:22:00-04:00",
+      "endtime": "2025-07-08T07:41:00-04:00",
       "order": 44,
       "run_time": "0:08:06",
       "setup_time": "0:10:54",
@@ -3282,8 +3282,8 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-08T06:41:00-05:00",
-      "endtime": "2025-07-08T07:20:00-05:00",
+      "starttime": "2025-07-08T07:41:00-04:00",
+      "endtime": "2025-07-08T08:20:00-04:00",
       "order": 45,
       "run_time": "0:27:33",
       "setup_time": "0:11:27",
@@ -3349,8 +3349,8 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-08T07:20:00-05:00",
-      "endtime": "2025-07-08T08:17:00-05:00",
+      "starttime": "2025-07-08T08:20:00-04:00",
+      "endtime": "2025-07-08T09:17:00-04:00",
       "order": 46,
       "run_time": "0:46:08",
       "setup_time": "0:10:52",
@@ -3436,8 +3436,8 @@ window.eventLocalSchedule = {
           "pronouns": "she/her"
         }
       ],
-      "starttime": "2025-07-08T08:17:00-05:00",
-      "endtime": "2025-07-08T08:53:00-05:00",
+      "starttime": "2025-07-08T09:17:00-04:00",
+      "endtime": "2025-07-08T09:53:00-04:00",
       "order": 47,
       "run_time": "0:23:41",
       "setup_time": "0:12:19",
@@ -3490,8 +3490,8 @@ window.eventLocalSchedule = {
         }
       ],
       "commentators": [],
-      "starttime": "2025-07-08T08:53:00-05:00",
-      "endtime": "2025-07-08T09:16:00-05:00",
+      "starttime": "2025-07-08T09:53:00-04:00",
+      "endtime": "2025-07-08T10:16:00-04:00",
       "order": 48,
       "run_time": "0:13:30",
       "setup_time": "0:09:30",
@@ -3559,8 +3559,8 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-08T09:16:00-05:00",
-      "endtime": "2025-07-08T09:59:00-05:00",
+      "starttime": "2025-07-08T10:16:00-04:00",
+      "endtime": "2025-07-08T10:59:00-04:00",
       "order": 49,
       "run_time": "0:33:45",
       "setup_time": "0:09:15",
@@ -3624,8 +3624,8 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-08T09:59:00-05:00",
-      "endtime": "2025-07-08T10:52:00-05:00",
+      "starttime": "2025-07-08T10:59:00-04:00",
+      "endtime": "2025-07-08T11:52:00-04:00",
       "order": 50,
       "run_time": "0:33:37",
       "setup_time": "0:19:23",
@@ -3709,8 +3709,8 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-08T10:52:00-05:00",
-      "endtime": "2025-07-08T11:42:00-05:00",
+      "starttime": "2025-07-08T11:52:00-04:00",
+      "endtime": "2025-07-08T12:42:00-04:00",
       "order": 51,
       "run_time": "0:23:30",
       "setup_time": "0:26:30",
@@ -3787,8 +3787,8 @@ window.eventLocalSchedule = {
           "pronouns": "he/him"
         }
       ],
-      "starttime": "2025-07-08T11:42:00-05:00",
-      "endtime": "2025-07-08T12:07:00-05:00",
+      "starttime": "2025-07-08T12:42:00-04:00",
+      "endtime": "2025-07-08T13:07:00-04:00",
       "order": 52,
       "run_time": "0:20:19",
       "setup_time": "0:04:41",
@@ -3861,8 +3861,8 @@ window.eventLocalSchedule = {
           "pronouns": "he/they"
         }
       ],
-      "starttime": "2025-07-08T12:07:00-05:00",
-      "endtime": "2025-07-08T12:25:00-05:00",
+      "starttime": "2025-07-08T13:07:00-04:00",
+      "endtime": "2025-07-08T13:25:00-04:00",
       "order": 53,
       "run_time": "0:15:00",
       "setup_time": "0:03:00",
@@ -3943,8 +3943,8 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-08T12:25:00-05:00",
-      "endtime": "2025-07-08T14:59:00-05:00",
+      "starttime": "2025-07-08T13:25:00-04:00",
+      "endtime": "2025-07-08T15:59:00-04:00",
       "order": 54,
       "run_time": "2:23:15",
       "setup_time": "0:10:45",
@@ -4028,8 +4028,8 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-08T14:59:00-05:00",
-      "endtime": "2025-07-08T15:53:00-05:00",
+      "starttime": "2025-07-08T15:59:00-04:00",
+      "endtime": "2025-07-08T16:53:00-04:00",
       "order": 55,
       "run_time": "0:42:27",
       "setup_time": "0:11:33",
@@ -4113,8 +4113,8 @@ window.eventLocalSchedule = {
           "pronouns": "she/her"
         }
       ],
-      "starttime": "2025-07-08T15:53:00-05:00",
-      "endtime": "2025-07-08T16:49:00-05:00",
+      "starttime": "2025-07-08T16:53:00-04:00",
+      "endtime": "2025-07-08T17:49:00-04:00",
       "order": 56,
       "run_time": "0:29:19",
       "setup_time": "0:26:41",
@@ -4198,8 +4198,8 @@ window.eventLocalSchedule = {
           "pronouns": "he/they"
         }
       ],
-      "starttime": "2025-07-08T16:49:00-05:00",
-      "endtime": "2025-07-08T18:48:00-05:00",
+      "starttime": "2025-07-08T17:49:00-04:00",
+      "endtime": "2025-07-08T19:48:00-04:00",
       "order": 57,
       "run_time": "1:57:42",
       "setup_time": "0:01:18",
@@ -4255,8 +4255,8 @@ window.eventLocalSchedule = {
         }
       ],
       "commentators": [],
-      "starttime": "2025-07-08T18:48:00-05:00",
-      "endtime": "2025-07-08T19:10:00-05:00",
+      "starttime": "2025-07-08T19:48:00-04:00",
+      "endtime": "2025-07-08T20:10:00-04:00",
       "order": 58,
       "run_time": "0",
       "setup_time": "0:22:00",
@@ -4336,12 +4336,12 @@ window.eventLocalSchedule = {
           "pronouns": "he/him"
         }
       ],
-      "starttime": "2025-07-08T19:10:00-05:00",
-      "endtime": "2025-07-08T20:31:00-05:00",
+      "starttime": "2025-07-08T20:10:00-04:00",
+      "endtime": "2025-07-08T21:31:00-04:00",
       "order": 59,
       "run_time": "0:56:30",
       "setup_time": "0:24:30",
-      "anchor_time": "2025-07-08T19:10:00-05:00",
+      "anchor_time": "2025-07-08T20:10:00-04:00",
       "layout": "Widescreen 1",
       "video_links": [
         {
@@ -4421,8 +4421,8 @@ window.eventLocalSchedule = {
           "pronouns": "He/Him"
         }
       ],
-      "starttime": "2025-07-08T20:31:00-05:00",
-      "endtime": "2025-07-08T21:36:00-05:00",
+      "starttime": "2025-07-08T21:31:00-04:00",
+      "endtime": "2025-07-08T22:36:00-04:00",
       "order": 60,
       "run_time": "0:45:42",
       "setup_time": "0:19:18",
@@ -4508,8 +4508,8 @@ window.eventLocalSchedule = {
           "pronouns": "he/him"
         }
       ],
-      "starttime": "2025-07-08T21:36:00-05:00",
-      "endtime": "2025-07-08T22:11:00-05:00",
+      "starttime": "2025-07-08T22:36:00-04:00",
+      "endtime": "2025-07-08T23:11:00-04:00",
       "order": 61,
       "run_time": "0:14:38",
       "setup_time": "0:20:22",
@@ -4583,8 +4583,8 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-08T22:11:00-05:00",
-      "endtime": "2025-07-08T22:59:00-05:00",
+      "starttime": "2025-07-08T23:11:00-04:00",
+      "endtime": "2025-07-08T23:59:00-04:00",
       "order": 62,
       "run_time": "0:33:20",
       "setup_time": "0:14:40",
@@ -4670,8 +4670,8 @@ window.eventLocalSchedule = {
           "pronouns": "He/Him"
         }
       ],
-      "starttime": "2025-07-08T22:59:00-05:00",
-      "endtime": "2025-07-09T00:59:00-05:00",
+      "starttime": "2025-07-08T23:59:00-04:00",
+      "endtime": "2025-07-09T01:59:00-04:00",
       "order": 63,
       "run_time": "1:38:10",
       "setup_time": "0:21:50",
@@ -4757,8 +4757,8 @@ window.eventLocalSchedule = {
           "pronouns": "He/Him"
         }
       ],
-      "starttime": "2025-07-09T00:59:00-05:00",
-      "endtime": "2025-07-09T02:06:00-05:00",
+      "starttime": "2025-07-09T01:59:00-04:00",
+      "endtime": "2025-07-09T03:06:00-04:00",
       "order": 64,
       "run_time": "0:57:20",
       "setup_time": "0:09:40",
@@ -4844,8 +4844,8 @@ window.eventLocalSchedule = {
           "pronouns": "He/Him"
         }
       ],
-      "starttime": "2025-07-09T02:06:00-05:00",
-      "endtime": "2025-07-09T03:12:00-05:00",
+      "starttime": "2025-07-09T03:06:00-04:00",
+      "endtime": "2025-07-09T04:12:00-04:00",
       "order": 65,
       "run_time": "0:56:52",
       "setup_time": "0:09:08",
@@ -4921,8 +4921,8 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-09T03:12:00-05:00",
-      "endtime": "2025-07-09T04:23:00-05:00",
+      "starttime": "2025-07-09T04:12:00-04:00",
+      "endtime": "2025-07-09T05:23:00-04:00",
       "order": 66,
       "run_time": "1:01:21",
       "setup_time": "0:09:39",
@@ -5008,8 +5008,8 @@ window.eventLocalSchedule = {
           "pronouns": "he/him"
         }
       ],
-      "starttime": "2025-07-09T04:23:00-05:00",
-      "endtime": "2025-07-09T05:25:00-05:00",
+      "starttime": "2025-07-09T05:23:00-04:00",
+      "endtime": "2025-07-09T06:25:00-04:00",
       "order": 67,
       "run_time": "0:51:19",
       "setup_time": "0:10:41",
@@ -5095,8 +5095,8 @@ window.eventLocalSchedule = {
           "pronouns": "He/Him"
         }
       ],
-      "starttime": "2025-07-09T05:25:00-05:00",
-      "endtime": "2025-07-09T06:31:00-05:00",
+      "starttime": "2025-07-09T06:25:00-04:00",
+      "endtime": "2025-07-09T07:31:00-04:00",
       "order": 68,
       "run_time": "0:56:47",
       "setup_time": "0:09:13",
@@ -5172,8 +5172,8 @@ window.eventLocalSchedule = {
           "pronouns": "they/she"
         }
       ],
-      "starttime": "2025-07-09T06:31:00-05:00",
-      "endtime": "2025-07-09T06:54:00-05:00",
+      "starttime": "2025-07-09T07:31:00-04:00",
+      "endtime": "2025-07-09T07:54:00-04:00",
       "order": 69,
       "run_time": "0:13:46",
       "setup_time": "0:09:14",
@@ -5247,8 +5247,8 @@ window.eventLocalSchedule = {
           "pronouns": "It/Its"
         }
       ],
-      "starttime": "2025-07-09T06:54:00-05:00",
-      "endtime": "2025-07-09T07:27:00-05:00",
+      "starttime": "2025-07-09T07:54:00-04:00",
+      "endtime": "2025-07-09T08:27:00-04:00",
       "order": 70,
       "run_time": "0:20:09",
       "setup_time": "0:12:51",
@@ -5312,8 +5312,8 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-09T07:27:00-05:00",
-      "endtime": "2025-07-09T08:11:00-05:00",
+      "starttime": "2025-07-09T08:27:00-04:00",
+      "endtime": "2025-07-09T09:11:00-04:00",
       "order": 71,
       "run_time": "0:33:24",
       "setup_time": "0:10:36",
@@ -5387,8 +5387,8 @@ window.eventLocalSchedule = {
           "pronouns": "He/Him"
         }
       ],
-      "starttime": "2025-07-09T08:11:00-05:00",
-      "endtime": "2025-07-09T08:54:00-05:00",
+      "starttime": "2025-07-09T09:11:00-04:00",
+      "endtime": "2025-07-09T09:54:00-04:00",
       "order": 72,
       "run_time": "0:32:27",
       "setup_time": "0:10:33",
@@ -5462,8 +5462,8 @@ window.eventLocalSchedule = {
           "pronouns": "she/her"
         }
       ],
-      "starttime": "2025-07-09T08:54:00-05:00",
-      "endtime": "2025-07-09T09:46:00-05:00",
+      "starttime": "2025-07-09T09:54:00-04:00",
+      "endtime": "2025-07-09T10:46:00-04:00",
       "order": 73,
       "run_time": "0:42:21",
       "setup_time": "0:09:39",
@@ -5547,8 +5547,8 @@ window.eventLocalSchedule = {
           "pronouns": "he/him"
         }
       ],
-      "starttime": "2025-07-09T09:46:00-05:00",
-      "endtime": "2025-07-09T10:24:00-05:00",
+      "starttime": "2025-07-09T10:46:00-04:00",
+      "endtime": "2025-07-09T11:24:00-04:00",
       "order": 74,
       "run_time": "0:26:00",
       "setup_time": "0:12:00",
@@ -5612,8 +5612,8 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-09T10:24:00-05:00",
-      "endtime": "2025-07-09T10:59:00-05:00",
+      "starttime": "2025-07-09T11:24:00-04:00",
+      "endtime": "2025-07-09T11:59:00-04:00",
       "order": 75,
       "run_time": "0:23:14",
       "setup_time": "0:11:46",
@@ -5687,8 +5687,8 @@ window.eventLocalSchedule = {
           "pronouns": "they/them"
         }
       ],
-      "starttime": "2025-07-09T10:59:00-05:00",
-      "endtime": "2025-07-09T11:32:00-05:00",
+      "starttime": "2025-07-09T11:59:00-04:00",
+      "endtime": "2025-07-09T12:32:00-04:00",
       "order": 76,
       "run_time": "0:22:00",
       "setup_time": "0:11:00",
@@ -5760,8 +5760,8 @@ window.eventLocalSchedule = {
       ],
       "hosts": [],
       "commentators": [],
-      "starttime": "2025-07-09T11:32:00-05:00",
-      "endtime": "2025-07-09T11:47:00-05:00",
+      "starttime": "2025-07-09T12:32:00-04:00",
+      "endtime": "2025-07-09T12:47:00-04:00",
       "order": 77,
       "run_time": "0:15:00",
       "setup_time": "0",
@@ -5842,8 +5842,8 @@ window.eventLocalSchedule = {
           "pronouns": "she/they"
         }
       ],
-      "starttime": "2025-07-09T11:47:00-05:00",
-      "endtime": "2025-07-09T16:20:00-05:00",
+      "starttime": "2025-07-09T12:47:00-04:00",
+      "endtime": "2025-07-09T17:20:00-04:00",
       "order": 78,
       "run_time": "3:56:45",
       "setup_time": "0:36:15",
@@ -5929,8 +5929,8 @@ window.eventLocalSchedule = {
           "pronouns": "He/They"
         }
       ],
-      "starttime": "2025-07-09T16:20:00-05:00",
-      "endtime": "2025-07-09T17:20:00-05:00",
+      "starttime": "2025-07-09T17:20:00-04:00",
+      "endtime": "2025-07-09T18:20:00-04:00",
       "order": 79,
       "run_time": "0:30:56",
       "setup_time": "0:29:04",
@@ -6014,8 +6014,8 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-09T17:20:00-05:00",
-      "endtime": "2025-07-09T17:58:00-05:00",
+      "starttime": "2025-07-09T18:20:00-04:00",
+      "endtime": "2025-07-09T18:58:00-04:00",
       "order": 80,
       "run_time": "0:35:00",
       "setup_time": "0:03:00",
@@ -6057,8 +6057,8 @@ window.eventLocalSchedule = {
       ],
       "hosts": [],
       "commentators": [],
-      "starttime": "2025-07-09T17:58:00-05:00",
-      "endtime": "2025-07-09T18:14:00-05:00",
+      "starttime": "2025-07-09T18:58:00-04:00",
+      "endtime": "2025-07-09T19:14:00-04:00",
       "order": 81,
       "run_time": "0",
       "setup_time": "0:16:00",
@@ -6138,12 +6138,12 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-09T18:14:00-05:00",
-      "endtime": "2025-07-09T18:53:00-05:00",
+      "starttime": "2025-07-09T19:14:00-04:00",
+      "endtime": "2025-07-09T19:53:00-04:00",
       "order": 82,
       "run_time": "0:18:56",
       "setup_time": "0:20:04",
-      "anchor_time": "2025-07-09T18:14:00-05:00",
+      "anchor_time": "2025-07-09T19:14:00-04:00",
       "layout": "Standard 1",
       "video_links": [
         {
@@ -6223,8 +6223,8 @@ window.eventLocalSchedule = {
           "pronouns": "He/Him"
         }
       ],
-      "starttime": "2025-07-09T18:53:00-05:00",
-      "endtime": "2025-07-09T20:48:00-05:00",
+      "starttime": "2025-07-09T19:53:00-04:00",
+      "endtime": "2025-07-09T21:48:00-04:00",
       "order": 83,
       "run_time": "1:30:44",
       "setup_time": "0:24:16",
@@ -6300,8 +6300,8 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-09T20:48:00-05:00",
-      "endtime": "2025-07-09T22:29:00-05:00",
+      "starttime": "2025-07-09T21:48:00-04:00",
+      "endtime": "2025-07-09T23:29:00-04:00",
       "order": 84,
       "run_time": "1:08:50",
       "setup_time": "0:32:10",
@@ -6387,8 +6387,8 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-09T22:29:00-05:00",
-      "endtime": "2025-07-09T23:47:00-05:00",
+      "starttime": "2025-07-09T23:29:00-04:00",
+      "endtime": "2025-07-10T00:47:00-04:00",
       "order": 85,
       "run_time": "0:55:59",
       "setup_time": "0:22:01",
@@ -6475,8 +6475,8 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-09T23:47:00-05:00",
-      "endtime": "2025-07-10T01:04:00-05:00",
+      "starttime": "2025-07-10T00:47:00-04:00",
+      "endtime": "2025-07-10T02:04:00-04:00",
       "order": 86,
       "run_time": "0:56:31",
       "setup_time": "0:20:29",
@@ -6562,8 +6562,8 @@ window.eventLocalSchedule = {
           "pronouns": "She/Her"
         }
       ],
-      "starttime": "2025-07-10T01:04:00-05:00",
-      "endtime": "2025-07-10T02:21:00-05:00",
+      "starttime": "2025-07-10T02:04:00-04:00",
+      "endtime": "2025-07-10T03:21:00-04:00",
       "order": 87,
       "run_time": "0:40:33",
       "setup_time": "0:36:27",
@@ -6647,8 +6647,8 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-10T02:21:00-05:00",
-      "endtime": "2025-07-10T02:57:00-05:00",
+      "starttime": "2025-07-10T03:21:00-04:00",
+      "endtime": "2025-07-10T03:57:00-04:00",
       "order": 88,
       "run_time": "0:25:07",
       "setup_time": "0:10:53",
@@ -6734,8 +6734,8 @@ window.eventLocalSchedule = {
           "pronouns": "he/him"
         }
       ],
-      "starttime": "2025-07-10T02:57:00-05:00",
-      "endtime": "2025-07-10T03:15:00-05:00",
+      "starttime": "2025-07-10T03:57:00-04:00",
+      "endtime": "2025-07-10T04:15:00-04:00",
       "order": 89,
       "run_time": "0:08:08",
       "setup_time": "0:09:52",
@@ -6801,8 +6801,8 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-10T03:15:00-05:00",
-      "endtime": "2025-07-10T03:53:00-05:00",
+      "starttime": "2025-07-10T04:15:00-04:00",
+      "endtime": "2025-07-10T04:53:00-04:00",
       "order": 90,
       "run_time": "0:27:33",
       "setup_time": "0:10:27",
@@ -6878,8 +6878,8 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-10T03:53:00-05:00",
-      "endtime": "2025-07-10T04:12:00-05:00",
+      "starttime": "2025-07-10T04:53:00-04:00",
+      "endtime": "2025-07-10T05:12:00-04:00",
       "order": 91,
       "run_time": "0:06:35",
       "setup_time": "0:12:25",
@@ -6965,8 +6965,8 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-10T04:12:00-05:00",
-      "endtime": "2025-07-10T05:35:00-05:00",
+      "starttime": "2025-07-10T05:12:00-04:00",
+      "endtime": "2025-07-10T06:35:00-04:00",
       "order": 92,
       "run_time": "1:12:47",
       "setup_time": "0:10:13",
@@ -7052,8 +7052,8 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-10T05:35:00-05:00",
-      "endtime": "2025-07-10T06:00:00-05:00",
+      "starttime": "2025-07-10T06:35:00-04:00",
+      "endtime": "2025-07-10T07:00:00-04:00",
       "order": 93,
       "run_time": "0:14:34",
       "setup_time": "0:10:26",
@@ -7139,8 +7139,8 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-10T06:00:00-05:00",
-      "endtime": "2025-07-10T06:44:00-05:00",
+      "starttime": "2025-07-10T07:00:00-04:00",
+      "endtime": "2025-07-10T07:44:00-04:00",
       "order": 94,
       "run_time": "0:22:43",
       "setup_time": "0:21:17",
@@ -7217,8 +7217,8 @@ window.eventLocalSchedule = {
           "pronouns": "He/Him"
         }
       ],
-      "starttime": "2025-07-10T06:44:00-05:00",
-      "endtime": "2025-07-10T07:04:00-05:00",
+      "starttime": "2025-07-10T07:44:00-04:00",
+      "endtime": "2025-07-10T08:04:00-04:00",
       "order": 95,
       "run_time": "0:09:00",
       "setup_time": "0:11:00",
@@ -7294,8 +7294,8 @@ window.eventLocalSchedule = {
           "pronouns": "they/she"
         }
       ],
-      "starttime": "2025-07-10T07:04:00-05:00",
-      "endtime": "2025-07-10T07:23:00-05:00",
+      "starttime": "2025-07-10T08:04:00-04:00",
+      "endtime": "2025-07-10T08:23:00-04:00",
       "order": 96,
       "run_time": "0:07:57",
       "setup_time": "0:11:03",
@@ -7381,8 +7381,8 @@ window.eventLocalSchedule = {
           "pronouns": "He/Him"
         }
       ],
-      "starttime": "2025-07-10T07:23:00-05:00",
-      "endtime": "2025-07-10T07:56:00-05:00",
+      "starttime": "2025-07-10T08:23:00-04:00",
+      "endtime": "2025-07-10T08:56:00-04:00",
       "order": 97,
       "run_time": "0:19:40",
       "setup_time": "0:13:20",
@@ -7469,8 +7469,8 @@ window.eventLocalSchedule = {
           "pronouns": "he/him"
         }
       ],
-      "starttime": "2025-07-10T07:56:00-05:00",
-      "endtime": "2025-07-10T08:36:00-05:00",
+      "starttime": "2025-07-10T08:56:00-04:00",
+      "endtime": "2025-07-10T09:36:00-04:00",
       "order": 98,
       "run_time": "0:31:32",
       "setup_time": "0:08:28",
@@ -7556,8 +7556,8 @@ window.eventLocalSchedule = {
           "pronouns": "He/They"
         }
       ],
-      "starttime": "2025-07-10T08:36:00-05:00",
-      "endtime": "2025-07-10T09:08:00-05:00",
+      "starttime": "2025-07-10T09:36:00-04:00",
+      "endtime": "2025-07-10T10:08:00-04:00",
       "order": 99,
       "run_time": "0:18:18",
       "setup_time": "0:13:42",
@@ -7643,8 +7643,8 @@ window.eventLocalSchedule = {
           "pronouns": "he/him"
         }
       ],
-      "starttime": "2025-07-10T09:08:00-05:00",
-      "endtime": "2025-07-10T09:28:00-05:00",
+      "starttime": "2025-07-10T10:08:00-04:00",
+      "endtime": "2025-07-10T10:28:00-04:00",
       "order": 100,
       "run_time": "0:08:32",
       "setup_time": "0:11:28",
@@ -7730,8 +7730,8 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-10T09:28:00-05:00",
-      "endtime": "2025-07-10T09:58:00-05:00",
+      "starttime": "2025-07-10T10:28:00-04:00",
+      "endtime": "2025-07-10T10:58:00-04:00",
       "order": 101,
       "run_time": "0:20:39",
       "setup_time": "0:09:21",
@@ -7806,8 +7806,8 @@ window.eventLocalSchedule = {
         }
       ],
       "commentators": [],
-      "starttime": "2025-07-10T09:58:00-05:00",
-      "endtime": "2025-07-10T11:01:00-05:00",
+      "starttime": "2025-07-10T10:58:00-04:00",
+      "endtime": "2025-07-10T12:01:00-04:00",
       "order": 102,
       "run_time": "0:34:49",
       "setup_time": "0:28:11",
@@ -7893,8 +7893,8 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-10T11:01:00-05:00",
-      "endtime": "2025-07-10T14:25:00-05:00",
+      "starttime": "2025-07-10T12:01:00-04:00",
+      "endtime": "2025-07-10T15:25:00-04:00",
       "order": 103,
       "run_time": "3:06:50",
       "setup_time": "0:17:10",
@@ -7967,8 +7967,8 @@ window.eventLocalSchedule = {
           "pronouns": "He/Him"
         }
       ],
-      "starttime": "2025-07-10T14:25:00-05:00",
-      "endtime": "2025-07-10T14:42:00-05:00",
+      "starttime": "2025-07-10T15:25:00-04:00",
+      "endtime": "2025-07-10T15:42:00-04:00",
       "order": 104,
       "run_time": "0:15:00",
       "setup_time": "0:02:00",
@@ -8089,8 +8089,8 @@ window.eventLocalSchedule = {
           "pronouns": "he/him"
         }
       ],
-      "starttime": "2025-07-10T14:42:00-05:00",
-      "endtime": "2025-07-10T15:34:00-05:00",
+      "starttime": "2025-07-10T15:42:00-04:00",
+      "endtime": "2025-07-10T16:34:00-04:00",
       "order": 105,
       "run_time": "0:33:13",
       "setup_time": "0:18:47",
@@ -8177,8 +8177,8 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-10T15:34:00-05:00",
-      "endtime": "2025-07-10T17:48:00-05:00",
+      "starttime": "2025-07-10T16:34:00-04:00",
+      "endtime": "2025-07-10T18:48:00-04:00",
       "order": 106,
       "run_time": "1:35:56",
       "setup_time": "0:38:04",
@@ -8241,8 +8241,8 @@ window.eventLocalSchedule = {
         }
       ],
       "commentators": [],
-      "starttime": "2025-07-10T17:48:00-05:00",
-      "endtime": "2025-07-10T18:40:00-05:00",
+      "starttime": "2025-07-10T18:48:00-04:00",
+      "endtime": "2025-07-10T19:40:00-04:00",
       "order": 107,
       "run_time": "0:45:58",
       "setup_time": "0:06:02",
@@ -8286,8 +8286,8 @@ window.eventLocalSchedule = {
       ],
       "hosts": [],
       "commentators": [],
-      "starttime": "2025-07-10T18:40:00-05:00",
-      "endtime": "2025-07-10T19:01:00-05:00",
+      "starttime": "2025-07-10T19:40:00-04:00",
+      "endtime": "2025-07-10T20:01:00-04:00",
       "order": 108,
       "run_time": "0",
       "setup_time": "0:21:00",
@@ -8367,12 +8367,12 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-10T19:01:00-05:00",
-      "endtime": "2025-07-10T20:10:00-05:00",
+      "starttime": "2025-07-10T20:01:00-04:00",
+      "endtime": "2025-07-10T21:10:00-04:00",
       "order": 109,
       "run_time": "0:43:11",
       "setup_time": "0:25:49",
-      "anchor_time": "2025-07-10T19:01:00-05:00",
+      "anchor_time": "2025-07-10T20:01:00-04:00",
       "layout": "Standard 1",
       "video_links": [
         {
@@ -8454,8 +8454,8 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-10T20:10:00-05:00",
-      "endtime": "2025-07-10T21:24:00-05:00",
+      "starttime": "2025-07-10T21:10:00-04:00",
+      "endtime": "2025-07-10T22:24:00-04:00",
       "order": 110,
       "run_time": "0:50:16",
       "setup_time": "0:23:44",
@@ -8531,8 +8531,8 @@ window.eventLocalSchedule = {
           "pronouns": "Any/All"
         }
       ],
-      "starttime": "2025-07-10T21:24:00-05:00",
-      "endtime": "2025-07-10T23:39:00-05:00",
+      "starttime": "2025-07-10T22:24:00-04:00",
+      "endtime": "2025-07-11T00:39:00-04:00",
       "order": 111,
       "run_time": "0:53:09",
       "setup_time": "1:21:51",
@@ -8618,8 +8618,8 @@ window.eventLocalSchedule = {
         }
       ],
       "commentators": [],
-      "starttime": "2025-07-10T23:39:00-05:00",
-      "endtime": "2025-07-11T01:28:00-05:00",
+      "starttime": "2025-07-11T00:39:00-04:00",
+      "endtime": "2025-07-11T02:28:00-04:00",
       "order": 112,
       "run_time": "1:08:15",
       "setup_time": "0:40:45",
@@ -8725,8 +8725,8 @@ window.eventLocalSchedule = {
           "pronouns": "any"
         }
       ],
-      "starttime": "2025-07-11T01:28:00-05:00",
-      "endtime": "2025-07-11T02:52:00-05:00",
+      "starttime": "2025-07-11T02:28:00-04:00",
+      "endtime": "2025-07-11T03:52:00-04:00",
       "order": 113,
       "run_time": "0:36:57",
       "setup_time": "0:47:03",
@@ -8792,8 +8792,8 @@ window.eventLocalSchedule = {
           "pronouns": "He/They"
         }
       ],
-      "starttime": "2025-07-11T02:52:00-05:00",
-      "endtime": "2025-07-11T03:37:00-05:00",
+      "starttime": "2025-07-11T03:52:00-04:00",
+      "endtime": "2025-07-11T04:37:00-04:00",
       "order": 114,
       "run_time": "0:36:42",
       "setup_time": "0:08:18",
@@ -8867,8 +8867,8 @@ window.eventLocalSchedule = {
           "pronouns": "She/They"
         }
       ],
-      "starttime": "2025-07-11T03:37:00-05:00",
-      "endtime": "2025-07-11T04:18:00-05:00",
+      "starttime": "2025-07-11T04:37:00-04:00",
+      "endtime": "2025-07-11T05:18:00-04:00",
       "order": 115,
       "run_time": "0:34:01",
       "setup_time": "0:06:59",
@@ -8932,8 +8932,8 @@ window.eventLocalSchedule = {
           "pronouns": "he/him"
         }
       ],
-      "starttime": "2025-07-11T04:18:00-05:00",
-      "endtime": "2025-07-11T04:35:00-05:00",
+      "starttime": "2025-07-11T05:18:00-04:00",
+      "endtime": "2025-07-11T05:35:00-04:00",
       "order": 116,
       "run_time": "0:11:59",
       "setup_time": "0:05:01",
@@ -9017,8 +9017,8 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-11T04:35:00-05:00",
-      "endtime": "2025-07-11T05:07:00-05:00",
+      "starttime": "2025-07-11T05:35:00-04:00",
+      "endtime": "2025-07-11T06:07:00-04:00",
       "order": 117,
       "run_time": "0:19:13",
       "setup_time": "0:12:47",
@@ -9102,8 +9102,8 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-11T05:07:00-05:00",
-      "endtime": "2025-07-11T05:37:00-05:00",
+      "starttime": "2025-07-11T06:07:00-04:00",
+      "endtime": "2025-07-11T06:37:00-04:00",
       "order": 118,
       "run_time": "0:19:25",
       "setup_time": "0:10:35",
@@ -9187,8 +9187,8 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-11T05:37:00-05:00",
-      "endtime": "2025-07-11T06:17:00-05:00",
+      "starttime": "2025-07-11T06:37:00-04:00",
+      "endtime": "2025-07-11T07:17:00-04:00",
       "order": 119,
       "run_time": "0:31:10",
       "setup_time": "0:08:50",
@@ -9272,8 +9272,8 @@ window.eventLocalSchedule = {
           "pronouns": "he/him"
         }
       ],
-      "starttime": "2025-07-11T06:17:00-05:00",
-      "endtime": "2025-07-11T06:36:00-05:00",
+      "starttime": "2025-07-11T07:17:00-04:00",
+      "endtime": "2025-07-11T07:36:00-04:00",
       "order": 120,
       "run_time": "0:12:13",
       "setup_time": "0:06:47",
@@ -9369,8 +9369,8 @@ window.eventLocalSchedule = {
           "pronouns": "He/Him"
         }
       ],
-      "starttime": "2025-07-11T06:36:00-05:00",
-      "endtime": "2025-07-11T07:21:00-05:00",
+      "starttime": "2025-07-11T07:36:00-04:00",
+      "endtime": "2025-07-11T08:21:00-04:00",
       "order": 121,
       "run_time": "0:35:36",
       "setup_time": "0:09:24",
@@ -9425,8 +9425,8 @@ window.eventLocalSchedule = {
         }
       ],
       "commentators": [],
-      "starttime": "2025-07-11T07:21:00-05:00",
-      "endtime": "2025-07-11T07:56:00-05:00",
+      "starttime": "2025-07-11T08:21:00-04:00",
+      "endtime": "2025-07-11T08:56:00-04:00",
       "order": 122,
       "run_time": "0:26:45",
       "setup_time": "0:08:15",
@@ -9510,8 +9510,8 @@ window.eventLocalSchedule = {
           "pronouns": "They/She"
         }
       ],
-      "starttime": "2025-07-11T07:56:00-05:00",
-      "endtime": "2025-07-11T08:57:00-05:00",
+      "starttime": "2025-07-11T08:56:00-04:00",
+      "endtime": "2025-07-11T09:57:00-04:00",
       "order": 123,
       "run_time": "0:50:01",
       "setup_time": "0:10:59",
@@ -9595,8 +9595,8 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-11T08:57:00-05:00",
-      "endtime": "2025-07-11T09:39:00-05:00",
+      "starttime": "2025-07-11T09:57:00-04:00",
+      "endtime": "2025-07-11T10:39:00-04:00",
       "order": 124,
       "run_time": "0:27:19",
       "setup_time": "0:14:41",
@@ -9674,8 +9674,8 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-11T09:39:00-05:00",
-      "endtime": "2025-07-11T13:43:00-05:00",
+      "starttime": "2025-07-11T10:39:00-04:00",
+      "endtime": "2025-07-11T14:43:00-04:00",
       "order": 125,
       "run_time": "3:55:13",
       "setup_time": "0:08:47",
@@ -9747,8 +9747,8 @@ window.eventLocalSchedule = {
       ],
       "hosts": [],
       "commentators": [],
-      "starttime": "2025-07-11T13:43:00-05:00",
-      "endtime": "2025-07-11T13:50:00-05:00",
+      "starttime": "2025-07-11T14:43:00-04:00",
+      "endtime": "2025-07-11T14:50:00-04:00",
       "order": 126,
       "run_time": "0:05:00",
       "setup_time": "0:02:00",
@@ -9819,8 +9819,8 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-11T13:50:00-05:00",
-      "endtime": "2025-07-11T15:25:00-05:00",
+      "starttime": "2025-07-11T14:50:00-04:00",
+      "endtime": "2025-07-11T16:25:00-04:00",
       "order": 127,
       "run_time": "1:08:33",
       "setup_time": "0:26:27",
@@ -9968,8 +9968,8 @@ window.eventLocalSchedule = {
           "pronouns": "he/him"
         }
       ],
-      "starttime": "2025-07-11T15:25:00-05:00",
-      "endtime": "2025-07-11T17:09:00-05:00",
+      "starttime": "2025-07-11T16:25:00-04:00",
+      "endtime": "2025-07-11T18:09:00-04:00",
       "order": 128,
       "run_time": "1:24:00",
       "setup_time": "0:20:00",
@@ -10050,8 +10050,8 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-11T17:09:00-05:00",
-      "endtime": "2025-07-11T18:13:00-05:00",
+      "starttime": "2025-07-11T18:09:00-04:00",
+      "endtime": "2025-07-11T19:13:00-04:00",
       "order": 129,
       "run_time": "0:57:00",
       "setup_time": "0:07:00",
@@ -10093,8 +10093,8 @@ window.eventLocalSchedule = {
       ],
       "hosts": [],
       "commentators": [],
-      "starttime": "2025-07-11T18:13:00-05:00",
-      "endtime": "2025-07-11T19:04:00-05:00",
+      "starttime": "2025-07-11T19:13:00-04:00",
+      "endtime": "2025-07-11T20:04:00-04:00",
       "order": 130,
       "run_time": "0",
       "setup_time": "0:51:00",
@@ -10174,12 +10174,12 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-11T19:04:00-05:00",
-      "endtime": "2025-07-11T20:32:00-05:00",
+      "starttime": "2025-07-11T20:04:00-04:00",
+      "endtime": "2025-07-11T21:32:00-04:00",
       "order": 131,
       "run_time": "1:00:55",
       "setup_time": "0:27:05",
-      "anchor_time": "2025-07-11T19:04:00-05:00",
+      "anchor_time": "2025-07-11T20:04:00-04:00",
       "layout": "Widescreen 1 - 2 Cameras",
       "video_links": [
         {
@@ -10262,8 +10262,8 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-11T20:32:00-05:00",
-      "endtime": "2025-07-11T21:28:00-05:00",
+      "starttime": "2025-07-11T21:32:00-04:00",
+      "endtime": "2025-07-11T22:28:00-04:00",
       "order": 132,
       "run_time": "0:39:10",
       "setup_time": "0:16:50",
@@ -10318,8 +10318,8 @@ window.eventLocalSchedule = {
         }
       ],
       "commentators": [],
-      "starttime": "2025-07-11T21:28:00-05:00",
-      "endtime": "2025-07-11T23:15:00-05:00",
+      "starttime": "2025-07-11T22:28:00-04:00",
+      "endtime": "2025-07-12T00:15:00-04:00",
       "order": 133,
       "run_time": "1:15:00",
       "setup_time": "0:32:00",
@@ -10399,8 +10399,8 @@ window.eventLocalSchedule = {
           "pronouns": "He/him"
         }
       ],
-      "starttime": "2025-07-11T23:15:00-05:00",
-      "endtime": "2025-07-12T01:13:00-05:00",
+      "starttime": "2025-07-12T00:15:00-04:00",
+      "endtime": "2025-07-12T02:13:00-04:00",
       "order": 134,
       "run_time": "1:26:03",
       "setup_time": "0:31:57",
@@ -10486,8 +10486,8 @@ window.eventLocalSchedule = {
         }
       ],
       "commentators": [],
-      "starttime": "2025-07-12T01:13:00-05:00",
-      "endtime": "2025-07-12T02:18:00-05:00",
+      "starttime": "2025-07-12T02:13:00-04:00",
+      "endtime": "2025-07-12T03:18:00-04:00",
       "order": 135,
       "run_time": "0:24:16",
       "setup_time": "0:40:44",
@@ -10574,8 +10574,8 @@ window.eventLocalSchedule = {
           "pronouns": "She/Her"
         }
       ],
-      "starttime": "2025-07-12T02:18:00-05:00",
-      "endtime": "2025-07-12T03:48:00-05:00",
+      "starttime": "2025-07-12T03:18:00-04:00",
+      "endtime": "2025-07-12T04:48:00-04:00",
       "order": 136,
       "run_time": "1:20:55",
       "setup_time": "0:09:05",
@@ -10641,8 +10641,8 @@ window.eventLocalSchedule = {
           "pronouns": "he/him"
         }
       ],
-      "starttime": "2025-07-12T03:48:00-05:00",
-      "endtime": "2025-07-12T04:13:00-05:00",
+      "starttime": "2025-07-12T04:48:00-04:00",
+      "endtime": "2025-07-12T05:13:00-04:00",
       "order": 137,
       "run_time": "0:16:53",
       "setup_time": "0:08:07",
@@ -10695,8 +10695,8 @@ window.eventLocalSchedule = {
         }
       ],
       "commentators": [],
-      "starttime": "2025-07-12T04:13:00-05:00",
-      "endtime": "2025-07-12T04:52:00-05:00",
+      "starttime": "2025-07-12T05:13:00-04:00",
+      "endtime": "2025-07-12T05:52:00-04:00",
       "order": 138,
       "run_time": "0:30:32",
       "setup_time": "0:08:28",
@@ -10770,8 +10770,8 @@ window.eventLocalSchedule = {
           "pronouns": "she/her"
         }
       ],
-      "starttime": "2025-07-12T04:52:00-05:00",
-      "endtime": "2025-07-12T05:48:00-05:00",
+      "starttime": "2025-07-12T05:52:00-04:00",
+      "endtime": "2025-07-12T06:48:00-04:00",
       "order": 139,
       "run_time": "0:46:15",
       "setup_time": "0:09:45",
@@ -10845,8 +10845,8 @@ window.eventLocalSchedule = {
           "pronouns": "He/Him"
         }
       ],
-      "starttime": "2025-07-12T05:48:00-05:00",
-      "endtime": "2025-07-12T06:15:00-05:00",
+      "starttime": "2025-07-12T06:48:00-04:00",
+      "endtime": "2025-07-12T07:15:00-04:00",
       "order": 140,
       "run_time": "0:15:19",
       "setup_time": "0:11:41",
@@ -10910,8 +10910,8 @@ window.eventLocalSchedule = {
           "pronouns": "It/Its"
         }
       ],
-      "starttime": "2025-07-12T06:15:00-05:00",
-      "endtime": "2025-07-12T06:46:00-05:00",
+      "starttime": "2025-07-12T07:15:00-04:00",
+      "endtime": "2025-07-12T07:46:00-04:00",
       "order": 141,
       "run_time": "0:16:57",
       "setup_time": "0:14:03",
@@ -10985,8 +10985,8 @@ window.eventLocalSchedule = {
           "pronouns": "they/she/he"
         }
       ],
-      "starttime": "2025-07-12T06:46:00-05:00",
-      "endtime": "2025-07-12T07:03:00-05:00",
+      "starttime": "2025-07-12T07:46:00-04:00",
+      "endtime": "2025-07-12T08:03:00-04:00",
       "order": 142,
       "run_time": "0:08:53",
       "setup_time": "0:08:07",
@@ -11060,8 +11060,8 @@ window.eventLocalSchedule = {
           "pronouns": "he/him"
         }
       ],
-      "starttime": "2025-07-12T07:03:00-05:00",
-      "endtime": "2025-07-12T08:34:00-05:00",
+      "starttime": "2025-07-12T08:03:00-04:00",
+      "endtime": "2025-07-12T09:34:00-04:00",
       "order": 143,
       "run_time": "1:12:48",
       "setup_time": "0:18:12",
@@ -11145,8 +11145,8 @@ window.eventLocalSchedule = {
           "pronouns": "he/they"
         }
       ],
-      "starttime": "2025-07-12T08:34:00-05:00",
-      "endtime": "2025-07-12T12:45:00-05:00",
+      "starttime": "2025-07-12T09:34:00-04:00",
+      "endtime": "2025-07-12T13:45:00-04:00",
       "order": 144,
       "run_time": "3:54:14",
       "setup_time": "0:16:46",
@@ -11208,8 +11208,8 @@ window.eventLocalSchedule = {
       ],
       "hosts": [],
       "commentators": [],
-      "starttime": "2025-07-12T12:45:00-05:00",
-      "endtime": "2025-07-12T13:09:00-05:00",
+      "starttime": "2025-07-12T13:45:00-04:00",
+      "endtime": "2025-07-12T14:09:00-04:00",
       "order": 145,
       "run_time": "0:15:00",
       "setup_time": "0:09:00",
@@ -11290,8 +11290,8 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-12T13:09:00-05:00",
-      "endtime": "2025-07-12T14:35:00-05:00",
+      "starttime": "2025-07-12T14:09:00-04:00",
+      "endtime": "2025-07-12T15:35:00-04:00",
       "order": 146,
       "run_time": "0:46:21",
       "setup_time": "0:39:39",
@@ -11365,8 +11365,8 @@ window.eventLocalSchedule = {
           "pronouns": "he/him"
         }
       ],
-      "starttime": "2025-07-12T14:35:00-05:00",
-      "endtime": "2025-07-12T15:40:00-05:00",
+      "starttime": "2025-07-12T15:35:00-04:00",
+      "endtime": "2025-07-12T16:40:00-04:00",
       "order": 147,
       "run_time": "0:42:26",
       "setup_time": "0:22:34",
@@ -11452,14 +11452,20 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-12T15:40:00-05:00",
-      "endtime": "2025-07-12T17:12:00-05:00",
+      "starttime": "2025-07-12T16:40:00-04:00",
+      "endtime": "2025-07-12T18:12:00-04:00",
       "order": 148,
       "run_time": "1:01:15",
       "setup_time": "0:30:45",
       "anchor_time": null,
       "layout": "Widescreen 2",
-      "video_links": [],
+      "video_links": [
+        {
+          "id": 3555,
+          "link_type": "youtube",
+          "url": "https://youtu.be/dMn6YJ-0fPs"
+        }
+      ],
       "priority_tag": null,
       "tags": [
         "race"
@@ -11533,14 +11539,20 @@ window.eventLocalSchedule = {
           "pronouns": "she/her"
         }
       ],
-      "starttime": "2025-07-12T17:12:00-05:00",
-      "endtime": "2025-07-12T19:02:00-05:00",
+      "starttime": "2025-07-12T18:12:00-04:00",
+      "endtime": "2025-07-12T20:00:00-04:00",
       "order": 149,
-      "run_time": "1:50:00",
-      "setup_time": "0",
+      "run_time": "1:42:03",
+      "setup_time": "0:05:57",
       "anchor_time": null,
       "layout": "Standard 1",
-      "video_links": [],
+      "video_links": [
+        {
+          "id": 3557,
+          "link_type": "youtube",
+          "url": "https://youtu.be/eSoWyPvjIfc"
+        }
+      ],
       "priority_tag": null,
       "tags": []
     },
@@ -11570,11 +11582,11 @@ window.eventLocalSchedule = {
       ],
       "hosts": [],
       "commentators": [],
-      "starttime": "2025-07-12T19:02:00-05:00",
-      "endtime": "2025-07-12T19:18:00-05:00",
+      "starttime": "2025-07-12T20:00:00-04:00",
+      "endtime": "2025-07-12T20:12:00-04:00",
       "order": 150,
       "run_time": "0",
-      "setup_time": "0:16:00",
+      "setup_time": "0:12:00",
       "anchor_time": null,
       "layout": "",
       "video_links": [],
@@ -11651,14 +11663,20 @@ window.eventLocalSchedule = {
           "pronouns": "she/her"
         }
       ],
-      "starttime": "2025-07-12T19:18:00-05:00",
-      "endtime": "2025-07-12T20:01:00-05:00",
+      "starttime": "2025-07-12T20:12:00-04:00",
+      "endtime": "2025-07-12T21:15:00-04:00",
       "order": 151,
-      "run_time": "0:32:00",
-      "setup_time": "0:11:00",
+      "run_time": "0:27:11",
+      "setup_time": "0:35:49",
       "anchor_time": null,
       "layout": "DS 1",
-      "video_links": [],
+      "video_links": [
+        {
+          "id": 3558,
+          "link_type": "youtube",
+          "url": "https://youtu.be/a0T3S0Ij-ig"
+        }
+      ],
       "priority_tag": null,
       "tags": []
     },
@@ -11730,14 +11748,20 @@ window.eventLocalSchedule = {
           "pronouns": "He/Him"
         }
       ],
-      "starttime": "2025-07-12T20:01:00-05:00",
-      "endtime": "2025-07-12T21:26:00-05:00",
+      "starttime": "2025-07-12T21:15:00-04:00",
+      "endtime": "2025-07-12T22:40:00-04:00",
       "order": 152,
       "run_time": "1:20:00",
       "setup_time": "0:05:00",
       "anchor_time": null,
       "layout": "Widescreen 1",
-      "video_links": [],
+      "video_links": [
+        {
+          "id": 3559,
+          "link_type": "youtube",
+          "url": "https://youtu.be/PDTswaVrKZ8"
+        }
+      ],
       "priority_tag": "new_highlighted",
       "tags": [
         "bonus",
@@ -11792,11 +11816,11 @@ window.eventLocalSchedule = {
           "pronouns": ""
         }
       ],
-      "starttime": "2025-07-12T21:26:00-05:00",
-      "endtime": "2025-07-12T21:41:00-05:00",
+      "starttime": "2025-07-12T22:40:00-04:00",
+      "endtime": "2025-07-12T23:04:00-04:00",
       "order": 153,
       "run_time": "0:15:00",
-      "setup_time": "0",
+      "setup_time": "0:09:00",
       "anchor_time": null,
       "layout": "",
       "video_links": [],
@@ -11863,14 +11887,20 @@ window.eventLocalSchedule = {
           "pronouns": "she/her"
         }
       ],
-      "starttime": "2025-07-12T21:41:00-05:00",
-      "endtime": "2025-07-13T01:26:00-05:00",
+      "starttime": "2025-07-12T23:04:00-04:00",
+      "endtime": "2025-07-13T03:06:00-04:00",
       "order": 154,
-      "run_time": "1:35:00",
-      "setup_time": "2:10:00",
+      "run_time": "3:45:33",
+      "setup_time": "0:16:27",
       "anchor_time": null,
       "layout": "Widescreen 1",
-      "video_links": [],
+      "video_links": [
+        {
+          "id": 3560,
+          "link_type": "youtube",
+          "url": "https://youtu.be/IoQICkewfCo"
+        }
+      ],
       "priority_tag": null,
       "tags": []
     },
@@ -11900,8 +11930,8 @@ window.eventLocalSchedule = {
       ],
       "hosts": [],
       "commentators": [],
-      "starttime": "2025-07-13T01:26:00-05:00",
-      "endtime": "2025-07-13T01:41:00-05:00",
+      "starttime": "2025-07-13T03:06:00-04:00",
+      "endtime": "2025-07-13T03:21:00-04:00",
       "order": 155,
       "run_time": "0:15:00",
       "setup_time": "0",
