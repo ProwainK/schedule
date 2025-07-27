@@ -3,11 +3,11 @@
 
 ## RTA in Japan
 
-RTA in Japan Summer 2025 時程表翻譯 ლ(╹◡╹ლ)
+RTA in Japan Summer 2025 時程表翻譯 ლ(╹◡╹ლ)  
 https://prowaink.github.io/schedule/rijs2025
 
 
 ## GDQ
 
-Summer Games Done Quick 2025 時程表翻譯 ლ(╹◡╹ლ)
+Summer Games Done Quick 2025 時程表翻譯 ლ(╹◡╹ლ)  
 https://prowaink.github.io/schedule/sgdq2025
