@@ -1,4 +1,4 @@
-# Speedrun 中文時程表翻譯整理
+# Speedrun 時程表翻譯整理
 
 
 ## RTA in Japan
