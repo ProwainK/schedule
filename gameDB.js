@@ -24,9 +24,9 @@ window.gameDB = {
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/495961_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/deadcells",
     "rijs2025": {
-      "FreshFile": [
+      "Fresh File": [
         null,
-        null
+        "「死」は終わりではなく、始まりに過ぎない…<br>プレイするごとに変化する世界で、己の力を示せ！"
       ]
     }
   },
@@ -35,11 +35,11 @@ window.gameDB = {
     "jp": "古明地さとりの情操教育",
     "en": "Komeiji Satori no Jousou Kyouiku",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/477411122_IGDB.jpg",
-    "leaderboard": null,
+    "leaderboard": "https://www.speedrun.com/komeiji_satori_no_jousou_kyouiku",
     "rijs2025": {
       "Defeat Hijiri - No Strong Koishi": [
         null,
-        null
+        "黄昏フロンティア製作<br>「さとりおねえちゃんを操作して、こいしちゃんを正しい道に導いてあげよう！」<br>「操作覺姐姐，給戀妹妹指引出正確的道路吧！」"
       ]
     }
   },
@@ -52,7 +52,7 @@ window.gameDB = {
     "rijs2025": {
       "120 Cards": [
         null,
-        null
+        "轟炸超人系列中困難到泯滅人性的一部作品<br>([∩∩]) < 死にたいらしいな"
       ]
     }
   },
@@ -61,11 +61,11 @@ window.gameDB = {
     "jp": null,
     "en": "Radiant Silvergun",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/15540_IGDB.jpg",
-    "leaderboard": null,
+    "leaderboard": "https://www.speedrun.com/radiant_silvergun",
     "rijs2025": {
       "Scoring , sword only": [
-        null,
-        null
+        "限制只能用劍的刷分挑戰",
+        "Treasure 製作、跳脫當時 STG 框架<br>悲壯劇情、豐富武器玩法成為不朽名作"
       ]
     }
   },
@@ -74,11 +74,11 @@ window.gameDB = {
     "jp": null,
     "en": "Windowkill",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1175329714_IGDB.jpg",
-    "leaderboard": null,
+    "leaderboard": "https://www.speedrun.com/Windowkill",
     "rijs2025": {
-      "Any% v.4.0.0 Standardized レース": [
+      "Any% v.4.0.0 Standardized": [
         null,
-        null
+        "視窗好像出了什麼問題…"
       ]
     }
   },
@@ -90,8 +90,8 @@ window.gameDB = {
     "leaderboard": "https://www.speedrun.com/dw8xlce",
     "rijs2025": {
       "呉伝 No OoB - IFエンド": [
-        null,
-        null
+        "吳傳 IF 結局，禁止穿牆",
+        "太刀玩家的移動方式是這樣的"
       ]
     }
   },
@@ -103,7 +103,7 @@ window.gameDB = {
     "leaderboard": null,
     "rijs2025": {
       "1 CC Guy Turbo": [
-        null,
+        "使用角色「凱」一幣破關，允許使用連發功能",
         null
       ]
     }
@@ -117,7 +117,7 @@ window.gameDB = {
     "rijs2025": {
       "1p Normal": [
         null,
-        null
+        "1994 年 SFC《國夫們的輓歌》的移植版<br>戰鬥誇張演出與時代懷舊情感結合<br>熱血系列中非常罕見地，允許玩家使用女性角色進行戰鬥"
       ]
     }
   },
@@ -2134,10 +2134,11 @@ window.gameDB = {
     "jp": null,
     "en": "Cuphead",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/459064_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/cuphead",
     "rijs2025": {
       "DLC+BaseGame, All S+P Grades": [
-        "本篇 + DLC 全關卡 S+P 評價",
-        null
+        "全關卡 S+P 評價 (本篇 + DLC)",
+        "「Pacifist」佛心挑戰！<br>不殺限制下取得最高評價"
       ]
     },
     "sgdq2025": {
@@ -3588,8 +3589,8 @@ window.gameDB = {
     "leaderboard": null,
     "rijs2025": {
       "Best Ending": [
-        null,
-        null
+        "真結局破關",
+        "不會正常好好走路日常系"
       ]
     },
     "agdq2025": {
@@ -3626,7 +3627,7 @@ window.gameDB = {
     "rijs2025": {
       "Any%": [
         null,
-        null
+        "女性版《超兄貴》<br>按鍵連打、瞪眼對決面露凶相！<br>傳說中的小遊戲「怖い顔グランプリ」"
       ]
     },
     "agdq2025": {
@@ -3757,7 +3758,7 @@ window.gameDB = {
     "rijs2025": {
       "Any%": [
         null,
-        null
+        "類似音速小子的關卡風格<br>但是卻有災難級的笨拙手感"
       ]
     },
     "agdq2025": {
