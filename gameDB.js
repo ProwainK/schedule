@@ -113,7 +113,7 @@ window.gameDB = {
     "jp": "新・熱血硬派 くにおたちの挽歌 -with River City Girls Extra-",
     "en": "River City Girls Zero",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/518673_IGDB.jpg",
-    "leaderboard": null,
+    "leaderboard": "https://www.speedrun.com/river_city_girls_zero",
     "rijs2025": {
       "1p Normal": [
         null,
@@ -386,11 +386,11 @@ window.gameDB = {
     "jp": "ロックマン 9 野望の復活！！",
     "en": "Mega Man 9 / Rockman 9",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/19151_IGDB.jpg",
-    "leaderboard": null,
+    "leaderboard": "https://www.speedrun.com/mm9",
     "rijs2025": {
       "Any%": [
         null,
-        null
+        "即使在現代，復古畫面風格依然能打動玩家<br>輕快的操作手感與強力武器所帶來的「不間斷奔馳快感」<br>仍表現出相當高水準的一部 2D 動作遊戲"
       ]
     }
   },
@@ -438,11 +438,11 @@ window.gameDB = {
     "jp": "アフターイメージ",
     "en": "Afterimage",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/197234813_IGDB.jpg",
-    "leaderboard": null,
+    "leaderboard": "https://www.speedrun.com/afterimage",
     "rijs2025": {
       "Any%（Unrestricted）": [
         null,
-        null
+        "推翻地圖龐大的坐牢感體驗<br>擁有極速跑圖與回天劍舞的銀河城 RTA 表演"
       ]
     }
   },
