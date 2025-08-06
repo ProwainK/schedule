@@ -2401,7 +2401,13 @@ window.eventLocalSchedule = {
       "setup_time": "0:28:24",
       "anchor_time": "2025-07-07T18:59:00-04:00",
       "layout": "GameBoy 1",
-      "video_links": [],
+      "video_links": [
+        {
+          "id": 3561,
+          "link_type": "youtube",
+          "url": "https://www.youtube.com/watch?v=2Buuk4RVnns"
+        }
+      ],
       "priority_tag": null,
       "tags": [
         "kaizo"
@@ -3497,7 +3503,13 @@ window.eventLocalSchedule = {
       "setup_time": "0:09:30",
       "anchor_time": null,
       "layout": "GBA 1",
-      "video_links": [],
+      "video_links": [
+        {
+          "id": 3562,
+          "link_type": "youtube",
+          "url": "https://www.youtube.com/watch?v=Q45zcoQT-JU"
+        }
+      ],
       "priority_tag": null,
       "tags": []
     },
@@ -9602,7 +9614,13 @@ window.eventLocalSchedule = {
       "setup_time": "0:14:41",
       "anchor_time": null,
       "layout": "Standard 1 -> Widescreen 1",
-      "video_links": [],
+      "video_links": [
+        {
+          "id": 3563,
+          "link_type": "youtube",
+          "url": "https://www.youtube.com/watch?v=dXtHw3EidmE"
+        }
+      ],
       "priority_tag": null,
       "tags": []
     },
@@ -9826,7 +9844,13 @@ window.eventLocalSchedule = {
       "setup_time": "0:26:27",
       "anchor_time": null,
       "layout": "GBA 1",
-      "video_links": [],
+      "video_links": [
+        {
+          "id": 3564,
+          "link_type": "youtube",
+          "url": "https://www.youtube.com/watch?v=aFOzd5AswkY"
+        }
+      ],
       "priority_tag": null,
       "tags": []
     },
@@ -9975,7 +9999,13 @@ window.eventLocalSchedule = {
       "setup_time": "0:20:00",
       "anchor_time": null,
       "layout": "Widescreen 2 - Relay",
-      "video_links": [],
+      "video_links": [
+        {
+          "id": 3565,
+          "link_type": "youtube",
+          "url": "https://www.youtube.com/watch?v=MbFYhl5S9yU"
+        }
+      ],
       "priority_tag": null,
       "tags": [
         "showcase",
