@@ -26,7 +26,7 @@ window.gameDB = {
     "rijs2025": {
       "Fresh File": [
         null,
-        "「死」は終わりではなく、始まりに過ぎない…<br>プレイするごとに変化する世界で、己の力を示せ！"
+        "「死亡」不是終點，而是全新的起點…<br>在每次遊玩都會變化的世界中，展現你的力量吧！"
       ]
     }
   },
@@ -39,7 +39,7 @@ window.gameDB = {
     "rijs2025": {
       "Defeat Hijiri - No Strong Koishi": [
         null,
-        "黄昏フロンティア製作<br>「さとりおねえちゃんを操作して、こいしちゃんを正しい道に導いてあげよう！」<br>「操作覺姐姐，給戀妹妹指引出正確的道路吧！」"
+        "「さとりおねえちゃんを操作して、<br>こいしちゃんを正しい道に導いてあげよう！」<br>「操作覺姐姐，給戀妹妹指引出正確的道路吧！」"
       ]
     }
   },
@@ -52,7 +52,7 @@ window.gameDB = {
     "rijs2025": {
       "120 Cards": [
         null,
-        "轟炸超人系列中困難到泯滅人性的一部作品<br>([∩∩]) < 死にたいらしいな"
+        "([∩∩]) < 死にたいらしいな<br>轟炸超人系列中困難到泯滅人性的一部作品"
       ]
     }
   },
@@ -78,7 +78,7 @@ window.gameDB = {
     "rijs2025": {
       "Any% v.4.0.0 Standardized": [
         null,
-        "視窗好像出了什麼問題…"
+        "視窗好像出了億點點問題…"
       ]
     }
   },
@@ -91,7 +91,7 @@ window.gameDB = {
     "rijs2025": {
       "呉伝 No OoB - IFエンド": [
         "吳傳 IF 結局，禁止穿牆",
-        "太刀玩家的移動方式是這樣的"
+        "弧刀玩家的移動方式是這樣的"
       ]
     }
   },
@@ -117,7 +117,7 @@ window.gameDB = {
     "rijs2025": {
       "1p Normal": [
         null,
-        "1994 年 SFC《國夫們的輓歌》的移植版<br>戰鬥誇張演出與時代懷舊情感結合<br>熱血系列中非常罕見地，允許玩家使用女性角色進行戰鬥"
+        "「開什麼玩笑！因為誤認逮捕就被送進少觀所什麼的…」<br>「我們一定要找出真正的犯人！」"
       ]
     }
   },
@@ -167,7 +167,7 @@ window.gameDB = {
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1346851276_IGDB.jpg",
     "leaderboard": null,
     "rijs2025": {
-      "Any% F-6000 レース": [
+      "Any% F-6000": [
         null,
         null
       ]
@@ -206,7 +206,7 @@ window.gameDB = {
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/508107_IGDB.jpg",
     "leaderboard": null,
     "rijs2025": {
-      "All Stages レース": [
+      "All Stages": [
         null,
         null
       ]
@@ -245,7 +245,7 @@ window.gameDB = {
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1147745783_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/inscryption",
     "rijs2025": {
-      "Kaycee’s mod All Challenges並走会 レース": [
+      "Kaycee’s mod All Challenges並走会": [
         null,
         null
       ]
@@ -258,7 +258,7 @@ window.gameDB = {
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/591032671_IGDB.jpg",
     "leaderboard": null,
     "rijs2025": {
-      "6 emblem レース": [
+      "6 emblem": [
         null,
         null
       ]
@@ -390,7 +390,7 @@ window.gameDB = {
     "rijs2025": {
       "Any%": [
         null,
-        "在追求 3D 寫實的全盛時期獨樹一幟<br>推出罕見的高水準 2D 像素風格動作遊戲"
+        null
       ]
     }
   },
@@ -403,7 +403,7 @@ window.gameDB = {
     "rijs2025": {
       "Any% 難易度：ふつう": [
         "Normal 難度破關",
-        "首次挑戰 3D 動作遊戲、洛克人的第三個主題系列"
+        null
       ]
     }
   },
@@ -481,7 +481,7 @@ window.gameDB = {
     "rijs2025": {
       "Any% Super Model": [
         null,
-        null
+        "「某種模擬模特兒的體驗」…？？？"
       ]
     }
   },
@@ -505,9 +505,9 @@ window.gameDB = {
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/2607_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/hauntingground",
     "rijs2025": {
-      "NewGame+ A Ending レース": [
+      "NewGame+ A Ending": [
         null,
-        null
+        "「無論程度多寡，每個人在人生的某個時刻，或多或少都有點瘋狂。」<br>- 魯德亞德·吉卜林《叢林奇談》"
       ]
     }
   },
@@ -739,7 +739,7 @@ window.gameDB = {
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/791503107_IGDB.jpg",
     "leaderboard": null,
     "rijs2025": {
-      "Any% レース": [
+      "Any%": [
         null,
         null
       ]
@@ -754,7 +754,7 @@ window.gameDB = {
     "rijs2025": {
       "Any%,r30+,Blindfolded,No Samurai,Normal": [
         null,
-        null
+        "本屆 Blindfolded 蒙眼挑戰環節"
       ]
     }
   },
@@ -766,8 +766,8 @@ window.gameDB = {
     "leaderboard": null,
     "rijs2025": {
       "リズムゲームショーケース": [
-        null,
-        null
+        "音樂節奏遊戲表演",
+        "And so, you find yourself here, at the apex of what we sought to achieve.<br>實打實的落下式 4K 音遊 + Bumper Notes 側鍵"
       ]
     }
   },
@@ -778,17 +778,9 @@ window.gameDB = {
     "boxart": "https://www.speedrun.com/static/game/3dx2yy51/cover.png",
     "leaderboard": null,
     "rijs2025": {
-      "XI[sái] / Puzzle Mode 100-Puzzles リレー": [
+      "XI[sái] / XI JUMBO / XIゴ": [
         null,
-        null
-      ],
-      "XI JUMBO / Trial Mode Norma Attack リレー": [
-        null,
-        null
-      ],
-      "XIゴ / Quest Mode: Night リレー": [
-        null,
-        null
+        "三人三款、不間斷的益智解謎接力 RTA"
       ]
     }
   },
@@ -799,9 +791,9 @@ window.gameDB = {
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/324568485_IGDB.jpg",
     "leaderboard": null,
     "rijs2025": {
-      "Any% No ASE (Colonel) / 卡尼爾小隊": [
-        null,
-        null
+      "Any% No ASE (Colonel)": [
+        "卡尼爾小隊版，禁止使用 ASE",
+        "「解放任務」<br>與夥伴一同解放面板、突破封鎖<br>擊敗潛藏在區域深處的黑暗領航員吧！"
       ]
     }
   },
@@ -825,7 +817,7 @@ window.gameDB = {
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/20615_IGDB.jpg",
     "leaderboard": null,
     "rijs2025": {
-      "All Training Gold レース": [
+      "All Training Gold": [
         null,
         null
       ]
@@ -916,7 +908,7 @@ window.gameDB = {
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/253599228_IGDB.jpg",
     "leaderboard": null,
     "rijs2025": {
-      "MASTER-mode Rank \"Master\" Challenge レース": [
+      "MASTER-mode Rank \"Master\" Challenge": [
         null,
         null
       ]
@@ -955,7 +947,7 @@ window.gameDB = {
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/33266_IGDB.jpg",
     "leaderboard": null,
     "rijs2025": {
-      "Any% Race レース": [
+      "Any% Race": [
         null,
         null
       ]
@@ -981,9 +973,9 @@ window.gameDB = {
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1115015222_IGDB.jpg",
     "leaderboard": null,
     "rijs2025": {
-      "Koya Tofu Any% レース": [
+      "Koya Tofu Any%": [
         null,
-        null
+        "「這是一款由真正的豆腐大師製作的獨一無二的豆腐動作遊戲。」"
       ]
     }
   },
@@ -996,7 +988,7 @@ window.gameDB = {
     "rijs2025": {
       "有野の挑戦状 Any%": [
         null,
-        null
+        "與年幼時期的有野少年攜手合作<br>挑戰接連而來的魔王有野所設下的各種關卡一一突破它們吧！"
       ]
     }
   },
@@ -1072,9 +1064,9 @@ window.gameDB = {
     "boxart": "https://www.speedrun.com/static/game/m1mep0xd/cover.jpg",
     "leaderboard": null,
     "rijs2025": {
-      "Beat 6 Characters with 6 Characters レース": [
+      "Beat 6 Characters with 6 Characters": [
         null,
-        null
+        "爆笑必至！お尻を振って2人で戦う対ケツアクション！"
       ]
     }
   },
@@ -1098,7 +1090,7 @@ window.gameDB = {
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/27471_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/mc",
     "rijs2025": {
-      "HHH Any% Random Seed Glitchless レース": [
+      "HHH Any% Random Seed Glitchless": [
         null,
         null
       ]
@@ -1124,7 +1116,7 @@ window.gameDB = {
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/7593_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/milons_secret_castle",
     "rijs2025": {
-      "Any% レース": [
+      "Any%": [
         null,
         null
       ]
@@ -1152,7 +1144,7 @@ window.gameDB = {
     "rijs2025": {
       "Any% No Creature Creator": [
         null,
-        null
+        "RTA in Japan Summer 2025 壓軸節目"
       ]
     }
   },
@@ -2138,7 +2130,7 @@ window.gameDB = {
     "rijs2025": {
       "DLC+BaseGame, All S+P Grades": [
         "全關卡 S+P 評價 (本篇 + DLC)",
-        "「Pacifist」佛心挑戰！<br>不殺限制下取得最高評價"
+        "「Pacifist」<br>佛心挑戰！不殺限制下取得最高評價"
       ]
     },
     "sgdq2025": {
@@ -3627,7 +3619,7 @@ window.gameDB = {
     "rijs2025": {
       "Any%": [
         null,
-        "女性版《超兄貴》<br>按鍵連打、瞪眼對決面露凶相！<br>傳說中的小遊戲「怖い顔グランプリ」"
+        "女性版《超兄貴》<br>傳說中的小遊戲「怖い顔グランプリ」<br>按鍵連打、瞪眼對決面露凶相！"
       ]
     },
     "agdq2025": {
