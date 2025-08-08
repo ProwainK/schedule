@@ -12,7 +12,7 @@ window.eventLocalSchedule = {
     "description": null,
     "setup": "PT08M",
     "setup_t": 480,
-    "updated": "2025-07-05T10:48:56Z",
+    "updated": "2025-08-07T15:51:43Z",
     "hidden_columns": [
       "setup"
     ],
@@ -943,7 +943,7 @@ window.eventLocalSchedule = {
         "scheduled_t": 1755069000,
         "data": [
           "XI[sái]シリーズトリロジーリレー",
-          "Puzzle Mode 100-Puzzles, Trial Mode Norma Attack, Quest Mode: Night",
+          "XI[sái] / XI JUMBO / XIゴ",
           "relay",
           "PlayStation、PlayStation 2",
           "桜葵月*owqi, Aquarius, あびい",
