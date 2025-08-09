@@ -1200,8 +1200,8 @@ window.gameDB = {
       ]
     }
   },
-  "ミスタードリラーアンコール": {
-    "tw": "【備選節目】爆鑽小英雄 鑽頭樂園",
+  "Mr. DRILLER DrillLand": {
+    "tw": "爆鑽小英雄 鑽頭樂園",
     "jp": "ミスタードリラーアンコール",
     "en": "Mr. DRILLER DrillLand",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/922417542_IGDB.jpg",
@@ -1209,7 +1209,7 @@ window.gameDB = {
     "rijs2025": {
       "All Stages (Level 1, 2, & 3)": [
         null,
-        "(Backup Run 6)"
+        "候選節目 #1"
       ]
     }
   },
