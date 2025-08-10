@@ -28,7 +28,7 @@
     "カラスのおしごと": "Just Crow Things",
     "サカつく2002 J.LEAGUEプロサッカークラブをつくろう!": "Sakatsuku 2002: J.League Pro Soccer Club wo Tsukurou!",
     "ウルトラ怪獣モンスターファーム": "Ultra Kaiju Monster Rancher",
-    "アメリカ横断ウルトラクイズ": "America Oudan Ultra Quiz: Shijou Saidai no Tatakai",
+    "アメリカ横断ウルトラクイズ": "America Oudan Ultra Quiz",
     "メタルギアソリッド インテグラル": "Metal Gear Solid: Integral",
 
     "ときめきメモリアル Girl's Side 4th Heart": "Tokimeki Memorial Girl's Side 4th Heart",
