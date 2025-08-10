@@ -222,7 +222,7 @@ window.gameDB = {
     "rijs2025": {
       "All Stages": [
         null,
-        "「超！エキサイティング！！」<br>當年四人彈珠對戰桌遊引進日本的的廣告名言",
+        "超！エキサイティング！！<br>超！EXCITING！！",
         null
       ]
     }
@@ -236,6 +236,7 @@ window.gameDB = {
     "rijs2025": {
       "All Levels NG": [
         null,
+        "忙著飛來飛去、便便還會從天而降，看起來真的很像是在惡作劇…<br>不不不，其實是在認真工作喔 :)",
         null
       ]
     }
@@ -249,6 +250,7 @@ window.gameDB = {
     "rijs2025": {
       "J1 Champion": [
         null,
+        "新隊伍成立才兩年就要奪冠 RTA",
         null
       ]
     }
