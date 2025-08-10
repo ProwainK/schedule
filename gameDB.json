@@ -292,21 +292,21 @@
     "rijs2025": {
       "Any%": [
         null,
-        "可愛的貓貓要靈活運用道具，喵喵地飛起來囉～！",
+        "可愛的貓貓要靈活運用道具，喵喵地飛起來囉！<br>にゃにゃにゃ～にゃにゃにゃ～",
         null
       ]
     }
   },
-  "America Oudan Ultra Quiz: Shijou Saidai no Tatakai": {
-    "tw": "橫貫美國大猜謎",
+  "America Oudan Ultra Quiz": {
+    "tw": "美國橫斷大猜謎",
     "jp": "アメリカ横断ウルトラクイズ",
-    "en": "America Oudan Ultra Quiz: Shijou Saidai no Tatakai",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/11761_IGDB.jpg",
-    "leaderboard": null,
+    "en": "America Oudan Ultra Quiz",
+    "boxart": "https://www.speedrun.com/static/game/9d3wr5w1/cover.jpg",
+    "leaderboard": "https://www.speedrun.com/America_Oudan_Ultra_QuizPS2",
     "rijs2025": {
       "Original Mode": [
         null,
-        null,
+        "「大家！想去紐約嗎—？」<br>在美國境內各地以野外定向答問方式進行遊戲<br>推進前往下一個地點的 QUIZ 類節目",
         null
       ]
     }
