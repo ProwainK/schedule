@@ -2906,8 +2906,9 @@ window.gameDB = {
     "leaderboard": null,
     "rijs2025": {
       "Any% One Handed": [
-        null,
-        "(Backup Run 2)"
+        "單手破關 Any%",
+        "【備選節目 #2】",
+        null
       ]
     },
     "sgdq2025": {

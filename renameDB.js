@@ -87,6 +87,7 @@
     "ロマンシング サガ3 HDリマスター": "Romancing SaGa 3 (HD Remaster)",
 
   "【バックアップ】ミスタードリラーアンコール": "Mr. DRILLER DrillLand",
+  "【バックアップ】Celeste": "Celeste",
 
     "魔界戦記ディスガイア6": "Disgaea 6: Defiance of Destiny",
 
