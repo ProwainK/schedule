@@ -101,10 +101,21 @@ function myFunction(item, index) {
 
   writeStream.write(' | ' + time_length_parse + '\r\n');
 
-  /*
-  writeStream.write('| ' + game_console + ' | ');
+  // VOD 連結
+  writeStream.write('| ');
+  try {
+    if (gamedb_data[game_name]["rijs2025"][game_rule][2] != null) {
+      writeStream.write('[VOD](' + gamedb_data[game_name]["rijs2025"][game_rule][2] + ') ');
+    }
+  } catch (error) {
+    console.log(error);
+  }
+  writeStream.write('| ');
+  //writeStream.write('| | ');
+
+
+  // 顯示多人競賽、合作等等
   if (game_type != null && game_type != 'single') {
-    // 顯示多人競賽、合作等等
     // writeStream.write('【' + game_type + '】');
     game_type_temp = '單人';
     if (game_type == 'race') {
@@ -118,20 +129,7 @@ function myFunction(item, index) {
     }
     writeStream.write('【' + game_type_temp + '】');
   }
-  */
 
-  // VOD YT 連結，待補
-  /*if (rij_data.schedule[index].video_links != null
-      && rij_data.schedule[index].video_links[0] != undefined
-      && rij_data.schedule[index].video_links[0].url != undefined) {
-    rij_vod_yt = rij_data.schedule[index].video_links;
-    //writeStream.write('| [YT](' + rij_vod_yt[0].url + ') | ');
-    writeStream.write('| [YT](' + rij_data.schedule[index].video_links[0].url + ') | ');
-  }
-  else {
-    writeStream.write('| | ');
-  }*/
-  writeStream.write('| | ');
 
   //writeStream.write(game_rule + '<br>');
   writeStream.write(game_rule);
