@@ -2863,6 +2863,7 @@ window.gameDB = {
     "rijs2025": {
       "PSX Any% JP": [
         null,
+        "深夜大長篇<br>長達 9 小時的 FF9 RTA",
         null
       ]
     },
