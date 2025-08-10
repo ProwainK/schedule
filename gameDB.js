@@ -264,7 +264,7 @@ window.gameDB = {
     "rijs2025": {
       "Kaycee’s mod All Challenges並走会": [
         null,
-        "【競賽 Race】",
+        "更黑暗的是刻在卡片上的秘密…<br>【競賽 Race】",
         null
       ]
     }
@@ -278,7 +278,7 @@ window.gameDB = {
     "rijs2025": {
       "6 emblem": [
         null,
-        "【競賽 Race】",
+        "ウルトラ怪獣、育ててみませんか<br>超人力霸王怪獸，想來培育看看嗎？<br>【競賽 Race】",
         null
       ]
     }
