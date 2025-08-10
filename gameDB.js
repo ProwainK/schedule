@@ -222,7 +222,7 @@ window.gameDB = {
     "rijs2025": {
       "All Stages": [
         null,
-        "超！エキサイティング！！<br>超！EXCITING！！",
+        "超！エキサイティング！！<br>超！EXCITING！！<br>【競賽 Race】",
         null
       ]
     }
@@ -236,7 +236,7 @@ window.gameDB = {
     "rijs2025": {
       "All Levels NG": [
         null,
-        "忙著飛來飛去、便便還會從天而降，看起來真的很像是在惡作劇…<br>不不不，其實是在認真工作喔 :)",
+        "忙著飛來飛去、便便還會從天而降<br>看起來真的很像是在惡作劇…<br>不不不，其實是在認真工作喔 :)",
         null
       ]
     }
@@ -250,7 +250,7 @@ window.gameDB = {
     "rijs2025": {
       "J1 Champion": [
         null,
-        "新隊伍成立才兩年就要奪冠 RTA",
+        "隊伍成立才兩年就要奪冠 RTA！？<br>節目長度三小時的足球話題五四三",
         null
       ]
     }
@@ -264,6 +264,7 @@ window.gameDB = {
     "rijs2025": {
       "Kaycee’s mod All Challenges並走会": [
         null,
+        "【競賽 Race】",
         null
       ]
     }
@@ -277,6 +278,7 @@ window.gameDB = {
     "rijs2025": {
       "6 emblem": [
         null,
+        "【競賽 Race】",
         null
       ]
     }
@@ -289,6 +291,7 @@ window.gameDB = {
     "leaderboard": null,
     "rijs2025": {
       "Any%": [
+        null,
         null,
         null
       ]
@@ -303,6 +306,7 @@ window.gameDB = {
     "rijs2025": {
       "Original Mode": [
         null,
+        null,
         null
       ]
     }
@@ -316,7 +320,8 @@ window.gameDB = {
     "rijs2025": {
       "Any%(EXTREME) - Glitchless": [
         null,
-        "讓小島秀夫之名響徹世界的名作<br>被譽為 20 世紀最傑出遊戲劇本 x 電影敘事 x 潛行玩法集一身"
+        "讓小島秀夫之名響徹世界的名作<br>被譽為 20 世紀最傑出遊戲劇本 x 電影敘事 x 潛行玩法集一身<br>【競賽 Race】",
+        null
       ]
     }
   },
@@ -381,7 +386,8 @@ window.gameDB = {
     "rijs2025": {
       "Any%Hard-EC": [
         null,
-        "《熔鐵少女》續作<br>懷著各自的苦衷、少女們提起槍枝投身前線..."
+        "《熔鐵少女》續作<br>懷著各自的苦衷、少女們提起槍枝投身前線...<br>【競賽 Race】",
+        null
       ]
     }
   },
@@ -524,7 +530,8 @@ window.gameDB = {
     "rijs2025": {
       "NewGame+ A Ending": [
         null,
-        "「無論程度多寡，每個人在人生的某個時刻，或多或少都有點瘋狂。」<br>- 魯德亞德·吉卜林《叢林奇談》"
+        "「無論程度多寡，每個人在人生的某個時刻，或多或少都有點瘋狂。」<br>- 魯德亞德·吉卜林《叢林奇談》<br>【競賽 Race】",
+        null
       ]
     }
   },
@@ -602,7 +609,8 @@ window.gameDB = {
     "rijs2025": {
       "100% GLITCHLESS": [
         null,
-        "以出演古裝劇和黑道硬派大哥而聞名的資深演員<br>同時也十分熱愛釣魚，被譽為「釣魚狂人」<br>因各種釣魚事蹟成為話題人物"
+        "以出演古裝劇和黑道硬派大哥而聞名的資深演員<br>因各種釣魚事蹟成為話題人物，被譽為「釣魚狂人」<br>【競賽 Race】",
+        null
       ]
     }
   },
@@ -1750,7 +1758,8 @@ window.gameDB = {
     "leaderboard": "https://www.speedrun.com/Ao_Oni_2024",
     "rijs2025": {
       "Any%": [
-        "雙人競速",
+        null,
+        "【競賽 Race】",
         null
       ]
     },
