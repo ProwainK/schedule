@@ -107,7 +107,7 @@ window.gameDB = {
     "jp": "ファイナルファイト (カプコンベルトアクションコレクション)",
     "en": "Final Fight (Capcom Fighting Collection)",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/6147_IGDB.jpg",
-    "leaderboard": null,
+    "leaderboard": "https://www.speedrun.com/final_fight_arcade",
     "rijs2025": {
       "1 CC Guy Turbo": [
         "使用角色「凱」一幣破關，允許使用連發功能",
@@ -135,7 +135,7 @@ window.gameDB = {
     "jp": "アーネスト・エバンス",
     "en": "Earnest Evans",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/16519_IGDB.jpg",
-    "leaderboard": null,
+    "leaderboard": "https://www.speedrun.com/earnest_evans",
     "rijs2025": {
       "MegaCD Any%": [
         null,
@@ -177,7 +177,7 @@ window.gameDB = {
     "jp": null,
     "en": "Xeno Runners",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1346851276_IGDB.jpg",
-    "leaderboard": null,
+    "leaderboard": "https://www.speedrun.com/Xeno_Runners",
     "rijs2025": {
       "Any% F-6000": [
         null,
@@ -335,7 +335,8 @@ window.gameDB = {
     "rijs2025": {
       "Any%": [
         null,
-        "木 桶 爬 山"
+        "木 桶 爬 山",
+        null
       ]
     }
   },
@@ -348,7 +349,8 @@ window.gameDB = {
     "rijs2025": {
       "Ryota% 通常告白ED": [
         null,
-        "RiJ 熱門話題之一的戀愛模擬遊戲環節<br>這次要跑的是乙女向的純愛手札"
+        "RiJ 熱門話題之一的戀愛模擬遊戲環節<br>這次要跑的是乙女向的純愛手札",
+        null
       ]
     }
   },
@@ -361,7 +363,8 @@ window.gameDB = {
     "rijs2025": {
       "100%": [
         "解讀所有語言、真結局破關",
-        "仔細觀察、聆聽、破譯的文字解謎遊戲<br>打破諸族之間的語言隔閡"
+        "仔細觀察、聆聽、破譯的文字解謎遊戲<br>打破諸族之間的語言隔閡",
+        null
       ]
     }
   },
@@ -370,11 +373,12 @@ window.gameDB = {
     "jp": "ルミネス リマスター",
     "en": "Lumines Remastered",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1936591288_IGDB.jpg",
-    "leaderboard": null,
+    "leaderboard": "https://www.speedrun.com/lumines_remastered",
     "rijs2025": {
       "Basic Any% 4columns": [
-        null,
-        "強調視覺與聽覺<br>電音與方塊益智的完美結合"
+        "限制只能在中間四列堆疊",
+        "強調視覺與聽覺<br>電音與方塊益智的完美結合",
+        null
       ]
     }
   },
@@ -558,6 +562,7 @@ window.gameDB = {
     "rijs2025": {
       "Restricted": [
         null,
+        null,
         null
       ]
     }
@@ -571,7 +576,8 @@ window.gameDB = {
     "rijs2025": {
       "Any%": [
         null,
-        "「まぁ、自然はきびしいってことで（笑）」<br>「嘛，自然界本來就很殘酷啊（笑）」"
+        "「まぁ、自然はきびしいってことで（笑）」<br>「嘛，自然界本來就很殘酷啊（笑）」",
+        null
       ]
     }
   },
@@ -583,6 +589,7 @@ window.gameDB = {
     "leaderboard": null,
     "rijs2025": {
       "New Game Nomal": [
+        null,
         null,
         null
       ]
@@ -596,6 +603,7 @@ window.gameDB = {
     "leaderboard": "https://www.speedrun.com/noita",
     "rijs2025": {
       "All Bosses(Random Seed)": [
+        null,
         null,
         null
       ]
@@ -3783,7 +3791,8 @@ window.gameDB = {
     "rijs2025": {
       "Any%": [
         null,
-        "類似音速小子的關卡風格<br>但是卻有災難級的笨拙手感"
+        "類似音速小子的關卡風格<br>但是卻有災難級的笨拙手感",
+        "https://www.youtube.com/watch?v=CXNqR3uPPL0"
       ]
     },
     "agdq2025": {
