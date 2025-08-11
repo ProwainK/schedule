@@ -82,8 +82,8 @@ window.gameDB = {
     "leaderboard": "https://www.speedrun.com/Windowkill",
     "rijs2025": {
       "Any% v.4.0.0 Standardized": [
-        null,
-        "視窗好像出了億點點問題…<br>【競賽 Race】",
+        "【競賽 Race】Any% v.4.0.0 Standardized",
+        "視窗好像出了億點點問題…",
         "https://www.youtube.com/watch?v=9N-_qqhLG4o"
       ]
     }
@@ -180,8 +180,8 @@ window.gameDB = {
     "leaderboard": "https://www.speedrun.com/Xeno_Runners",
     "rijs2025": {
       "Any% F-6000": [
-        null,
-        "在很遙遠、很遙遠的外太空行星上<br>奔馳的兩股疾風，你也感受到了嗎？<br>【競賽 Race】",
+        "【競賽 Race】Any% F-6000",
+        "在很遙遠、很遙遠的外太空行星上<br>奔馳的兩股疾風，你也感受到了嗎？",
         null
       ]
     }
@@ -222,8 +222,8 @@ window.gameDB = {
     "leaderboard": null,
     "rijs2025": {
       "All Stages": [
-        null,
-        "超！エキサイティング！！<br>超！EXCITING！！<br>【競賽 Race】",
+        "【競賽 Race】完成全關卡",
+        "超！エキサイティング！！<br>超！EXCITING！！",
         null
       ]
     }
@@ -264,8 +264,8 @@ window.gameDB = {
     "leaderboard": "https://www.speedrun.com/inscryption",
     "rijs2025": {
       "Kaycee’s mod All Challenges並走会": [
-        null,
-        "更黑暗的是刻在卡片上的秘密…<br>【競賽 Race】",
+        "【競賽 Race】Kaycee's mod All Challenges",
+        "更黑暗的是刻在卡片上的秘密…",
         null
       ]
     }
@@ -278,8 +278,8 @@ window.gameDB = {
     "leaderboard": null,
     "rijs2025": {
       "6 emblem": [
-        null,
-        "ウルトラ怪獣、育ててみませんか<br>超人力霸王怪獸，想來培育看看嗎？<br>【競賽 Race】",
+        "【競賽 Race】6 emblem",
+        "ウルトラ怪獣、育ててみませんか<br>超人力霸王怪獸，想來培育看看嗎？",
         null
       ]
     }
@@ -320,8 +320,8 @@ window.gameDB = {
     "leaderboard": null,
     "rijs2025": {
       "Any%(EXTREME) - Glitchless": [
-        null,
-        "讓小島秀夫之名響徹世界的名作<br>被譽為 20 世紀最傑出遊戲劇本 x 電影敘事 x 潛行玩法集一身<br>【競賽 Race】",
+        "【競賽 Race】Extreme 難度破關，禁止巫術",
+        "讓小島秀夫之名響徹世界的名作<br>被譽為 20 世紀最傑出遊戲劇本 x 電影敘事 x 潛行玩法集一身",
         null
       ]
     }
@@ -387,11 +387,11 @@ window.gameDB = {
     "jp": "救国のスネジンカ：Sentinel Girls 2",
     "en": "Snezhinka: Sentinel Girls 2",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/284633032_IGDB.jpg",
-    "leaderboard": null,
+    "leaderboard": "https://www.speedrun.com/Snezhinka",
     "rijs2025": {
       "Any%Hard-EC": [
-        null,
-        "《熔鐵少女》續作<br>懷著各自的苦衷、少女們提起槍枝投身前線...<br>【競賽 Race】",
+        "【競賽 Race】Hard 難度破關，EC 路線",
+        "《熔鐵少女》續作<br>懷著各自的苦衷、少女們提起槍枝投身前線...",
         null
       ]
     }
@@ -534,8 +534,8 @@ window.gameDB = {
     "leaderboard": "https://www.speedrun.com/hauntingground",
     "rijs2025": {
       "NewGame+ A Ending": [
-        null,
-        "「無論程度多寡，每個人在人生的某個時刻，或多或少都有點瘋狂。」<br>- 魯德亞德·吉卜林《叢林奇談》<br>【競賽 Race】",
+        "【競賽 Race】NG+ 使用繼承存檔，A 結局通關",
+        "「無論程度多寡，每個人在人生的某個時刻，或多或少都有點瘋狂。」<br>- 魯德亞德·吉卜林《叢林奇談》",
         null
       ]
     }
@@ -617,8 +617,8 @@ window.gameDB = {
     "leaderboard": null,
     "rijs2025": {
       "100% GLITCHLESS": [
-        null,
-        "以出演古裝劇和黑道硬派大哥而聞名的資深演員<br>因各種釣魚事蹟成為話題人物，被譽為「釣魚狂人」<br>【競賽 Race】",
+        "【競賽 Race】100% GLITCHLESS",
+        "以出演古裝劇和黑道硬派大哥而聞名的資深演員<br>因各種釣魚事蹟成為話題人物，被譽為「釣魚狂人」",
         null
       ]
     }
