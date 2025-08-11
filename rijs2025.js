@@ -12,7 +12,7 @@ window.eventLocalSchedule = {
     "description": null,
     "setup": "PT08M",
     "setup_t": 480,
-    "updated": "2025-08-11T17:13:50Z",
+    "updated": "2025-08-11T17:14:14Z",
     "hidden_columns": [
       "setup"
     ],
@@ -732,7 +732,7 @@ window.eventLocalSchedule = {
         "scheduled": "2025-08-12T06:48:00+09:00",
         "scheduled_t": 1754948880,
         "data": [
-          "ロマンシング サガ3 HDリマスター",
+          "【バックアップ】ロマンシング サガ3 HDリマスター",
           "分身技禁止%",
           "single",
           "PC",

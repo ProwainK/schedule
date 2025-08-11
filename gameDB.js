@@ -168,7 +168,7 @@ window.gameDB = {
       "Any%ALL BOUNTIES": [
         null,
         "「為了以最快速度打倒那些懸賞犯，我絕不擇手段」<br>「就算是讓遊戲出 Bug……也在所不惜」",
-        null
+        "https://www.youtube.com/watch?v=YhmM0pCEKSw"
       ]
     }
   },
@@ -182,7 +182,7 @@ window.gameDB = {
       "Any% F-6000": [
         "【競賽 Race】Any% F-6000",
         "在很遙遠、很遙遠的外太空行星上<br>奔馳的兩股疾風，你也感受到了嗎？",
-        null
+        "https://www.youtube.com/watch?v=Lnl_4txbu1A"
       ]
     }
   },
@@ -196,7 +196,7 @@ window.gameDB = {
       "Any% + 踏破判定：通過": [
         null,
         "繞行北海道全部 212 個市町村，目標是青森車站！",
-        null
+        "https://www.youtube.com/watch?v=9byTyHULTtk"
       ]
     }
   },
@@ -210,7 +210,7 @@ window.gameDB = {
       "All Hats": [
         null,
         "迷路的小主人公斯摩西<br>在可愛的森林夥伴們的幫助下，尋找回家的路<br>能順利回家嗎……",
-        null
+        "https://www.youtube.com/watch?v=QP10XWviTrI"
       ]
     }
   },
@@ -219,12 +219,12 @@ window.gameDB = {
     "jp": "アメリカンバトルドーム",
     "en": "American Battle Dome",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/508107_IGDB.jpg",
-    "leaderboard": null,
+    "leaderboard": "https://www.speedrun.com/American_Battle_Dome_Marble_Dome",
     "rijs2025": {
       "All Stages": [
         "【競賽 Race】完成全關卡",
         "超！エキサイティング！！<br>超！EXCITING！！",
-        null
+        "https://www.youtube.com/watch?v=kLG3KpnN7m0"
       ]
     }
   },
@@ -233,12 +233,12 @@ window.gameDB = {
     "jp": "カラスのおしごと",
     "en": "Just Crow Things",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1365842505_IGDB.jpg",
-    "leaderboard": null,
+    "leaderboard": "https://www.speedrun.com/Just_Crow_Things",
     "rijs2025": {
       "All Levels NG": [
         null,
         "忙著飛來飛去、便便還會從天而降<br>看起來真的很像是在惡作劇…<br>不不不，其實是在認真工作喔 :)",
-        null
+        "https://www.youtube.com/watch?v=Dd-m8GhdzSI"
       ]
     }
   },
@@ -247,12 +247,12 @@ window.gameDB = {
     "jp": "サカつく 2002 J.LEAGUE プロサッカークラブをつくろう！",
     "en": "Sakatsuku 2002: J.League Pro Soccer Club wo Tsukurou!",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/357871856_IGDB.jpg",
-    "leaderboard": null,
+    "leaderboard": "https://www.speedrun.com/sakatsuku_2002",
     "rijs2025": {
       "J1 Champion": [
         null,
         "隊伍成立才兩年就要奪冠 RTA！？<br>節目長度三小時的足球話題五四三",
-        null
+        "https://www.youtube.com/watch?v=MWnUENAu-Fk"
       ]
     }
   },
@@ -266,7 +266,7 @@ window.gameDB = {
       "Kaycee’s mod All Challenges並走会": [
         "【競賽 Race】Kaycee's mod All Challenges",
         "更黑暗的是刻在卡片上的秘密…",
-        null
+        "https://www.youtube.com/watch?v=pFcFIgmM09g"
       ]
     }
   },
@@ -275,7 +275,7 @@ window.gameDB = {
     "jp": "ウルトラ怪獣モンスターファーム",
     "en": "Ultra Kaiju Monster Rancher",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/591032671_IGDB.jpg",
-    "leaderboard": null,
+    "leaderboard": "https://www.speedrun.com/Ultra_Kaiju_Monster_Rancher",
     "rijs2025": {
       "6 emblem": [
         "【競賽 Race】6 emblem",
@@ -289,12 +289,12 @@ window.gameDB = {
     "jp": null,
     "en": "Super Puzzled Cat",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/998306791_IGDB.jpg",
-    "leaderboard": null,
+    "leaderboard": "https://www.speedrun.com/Super_Puzzled_Cat",
     "rijs2025": {
       "Any%": [
         null,
         "可愛的貓貓要靈活運用道具，喵喵地飛起來囉！<br>にゃにゃにゃ～にゃにゃにゃ～",
-        null
+        "https://www.youtube.com/watch?v=K2BQGUkcvnA"
       ]
     }
   },
@@ -308,7 +308,7 @@ window.gameDB = {
       "Original Mode": [
         null,
         "「大家！想去紐約嗎—？」<br>在美國境內各地以野外定向答問方式進行遊戲<br>推進前往下一個地點的 QUIZ 類節目",
-        null
+        "https://www.youtube.com/watch?v=g6_5R1heQ3E"
       ]
     }
   },
@@ -317,12 +317,12 @@ window.gameDB = {
     "jp": "メタルギアソリッド インテグラル",
     "en": "Metal Gear Solid: Integral",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/2044634980_IGDB.jpg",
-    "leaderboard": null,
+    "leaderboard": "https://www.speedrun.com/mgs1",
     "rijs2025": {
       "Any%(EXTREME) - Glitchless": [
         "【競賽 Race】Extreme 難度破關，禁止巫術",
         "讓小島秀夫之名響徹世界的名作<br>被譽為 20 世紀最傑出遊戲劇本 x 電影敘事 x 潛行玩法集一身",
-        null
+        "https://www.youtube.com/watch?v=vYZ2I1vTyI0"
       ]
     }
   },
@@ -336,7 +336,7 @@ window.gameDB = {
       "Any%": [
         null,
         "木 桶 爬 山",
-        null
+        "https://www.youtube.com/watch?v=sj9uUdd0GWk"
       ]
     }
   },
@@ -345,7 +345,7 @@ window.gameDB = {
     "jp": "ときめきメモリアル Girl's Side 4th Heart",
     "en": "Tokimeki Memorial Girl's Side 4th Heart",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/512241_IGDB.jpg",
-    "leaderboard": null,
+    "leaderboard": "https://www.speedrun.com/tokimeki_memorial_girls_side_4th_heart",
     "rijs2025": {
       "Ryota% 通常告白ED": [
         null,
@@ -447,7 +447,8 @@ window.gameDB = {
     "rijs2025": {
       "Lunatic スコアアタック": [
         "Lunatic 模式 + 刷分挑戰 Score Attack",
-        "「擦彈 (Grazing)」<br>在滿屏彈幕、高速移動狀態下靠近子彈來極限求分"
+        "「擦彈 (Grazing)」<br>在滿屏彈幕、高速移動狀態下靠近子彈來極限求分",
+        null
       ]
     }
   },
@@ -460,7 +461,8 @@ window.gameDB = {
     "rijs2025": {
       "Phylogeny": [
         null,
-        "老派的太空射擊遊戲也要肉鴿一下<br>構築搭配豐富，玩出各種截然不同的戰鬥風格"
+        "老派的太空射擊遊戲也要肉鴿一下<br>構築搭配豐富，玩出各種截然不同的戰鬥風格",
+        null
       ]
     }
   },
@@ -473,7 +475,8 @@ window.gameDB = {
     "rijs2025": {
       "Any%（Unrestricted）": [
         null,
-        "推翻地圖龐大的坐牢感體驗<br>擁有極速跑圖與回天劍舞的銀河城 RTA 表演"
+        "推翻地圖龐大的坐牢感體驗<br>擁有極速跑圖與回天劍舞的銀河城 RTA 表演",
+        null
       ]
     }
   },
@@ -486,7 +489,8 @@ window.gameDB = {
     "rijs2025": {
       "[A] Normal": [
         "A 結局、普通難度破關",
-        "全ての存在は滅びるようにデザインされている。<br>所有的存在都是為了被毀滅而被設計出來的。"
+        "全ての存在は滅びるようにデザインされている。<br>所有的存在都是為了被毀滅而被設計出來的。",
+        null
       ]
     }
   },
@@ -495,11 +499,12 @@ window.gameDB = {
     "jp": null,
     "en": "Salt and Sanctuary",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/476371_IGDB.jpg",
-    "leaderboard": null,
+    "leaderboard": "https://www.speedrun.com/salt_and_sanctuary",
     "rijs2025": {
       "All Bosses No Major Glitches": [
         "全頭目擊殺，禁止重大巫術",
-        "魂系風格的 2D 動作 RPG<br>不輸正統本家的世界觀文本與構築玩法"
+        "魂系風格的 2D 動作 RPG<br>不輸正統本家的世界觀文本與構築玩法",
+        null
       ]
     }
   },
@@ -522,7 +527,7 @@ window.gameDB = {
     "jp": "デジモンワールド",
     "en": "Digimon World",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/3564_IGDB.jpg",
-    "leaderboard": null,
+    "leaderboard": "https://www.speedrun.com/digimon_world",
     "rijs2025": {
       "Any% No Major Glitches": [
         null,
@@ -564,11 +569,11 @@ window.gameDB = {
     "jp": null,
     "en": "SILENT HILL 2 (2024)",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/2058570718_IGDB.jpg",
-    "leaderboard": null,
+    "leaderboard": "https://www.speedrun.com/sh2r",
     "rijs2025": {
       "Restricted": [
         null,
-        null,
+        "以華麗畫面呈現最恐怖驚悚之作",
         null
       ]
     }
@@ -578,7 +583,7 @@ window.gameDB = {
     "jp": "モンスターハンター 2 (ドス)",
     "en": "Monster Hunter 2",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/21407_IGDB.jpg",
-    "leaderboard": null,
+    "leaderboard": "https://www.speedrun.com/mh2",
     "rijs2025": {
       "Any%": [
         null,
@@ -1250,7 +1255,7 @@ window.gameDB = {
       "All Stages (Level 1, 2, & 3)": [
         "【備選節目 Backup】All Stages (Level 1, 2, & 3)",
         "最強的鑽地大師「爆鑽小英雄」要來挖挖挖啦～",
-        null
+        "https://www.youtube.com/watch?v=ViFCjBjWL_Q"
       ]
     }
   },
@@ -1259,11 +1264,12 @@ window.gameDB = {
     "jp": "ロマンシング サガ 3 (HD リマスター)",
     "en": "Romancing SaGa 3 (HD Remaster)",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/884146157_IGDB.jpg",
-    "leaderboard": null,
+    "leaderboard": "https://www.speedrun.com/romancing_saga_3",
     "rijs2025": {
       "分身技禁止%": [
+        "【備選節目 Backup】分身技禁止%",
         null,
-        "(Backup Run 8)"
+        null
       ]
     }
   },
