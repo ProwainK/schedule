@@ -1260,7 +1260,7 @@ window.gameDB = {
     }
   },
   "Romancing SaGa 3 (HD Remaster)": {
-    "tw": "【備選節目】復活邪神 3 高畫質復刻版",
+    "tw": "復活邪神 3 高畫質復刻版",
     "jp": "ロマンシング サガ 3 (HD リマスター)",
     "en": "Romancing SaGa 3 (HD Remaster)",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/884146157_IGDB.jpg",
