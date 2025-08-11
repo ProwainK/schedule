@@ -774,7 +774,7 @@ window.gameDB = {
     "leaderboard": null,
     "rijs2025": {
       "Any%": [
-        null,
+        "【競賽 Race】Any%",
         null
       ]
     }
@@ -806,14 +806,14 @@ window.gameDB = {
     }
   },
   "XI[sái]シリーズトリロジーリレー": {
-    "tw": "X1 (骰子大戰) 三部曲接力賽",
+    "tw": "XI (骰子大戰) 三部曲接力賽",
     "jp": "XI [sái] シリーズトリロジーリレー",
     "en": "Devil Dice series trilogy relay",
     "boxart": "https://www.speedrun.com/static/game/3dx2yy51/cover.png",
     "leaderboard": null,
     "rijs2025": {
       "XI[sái] / XI JUMBO / XIゴ": [
-        null,
+        "【接力 Relay】XI[sái] / XI JUMBO / XIゴ",
         "三人三款、不間斷的益智解謎接力 RTA"
       ]
     }
@@ -852,7 +852,7 @@ window.gameDB = {
     "leaderboard": null,
     "rijs2025": {
       "All Training Gold": [
-        null,
+        "【競賽 Race】All Training Gold",
         null
       ]
     }
@@ -943,7 +943,7 @@ window.gameDB = {
     "leaderboard": null,
     "rijs2025": {
       "MASTER-mode Rank \"Master\" Challenge": [
-        null,
+        "【競賽 Race】MASTER 模式取得「Master」評價挑戰",
         null
       ]
     }
@@ -982,7 +982,7 @@ window.gameDB = {
     "leaderboard": null,
     "rijs2025": {
       "Any% Race": [
-        null,
+        "【競賽 Race】Any%",
         null
       ]
     }
@@ -1008,7 +1008,7 @@ window.gameDB = {
     "leaderboard": null,
     "rijs2025": {
       "Koya Tofu Any%": [
-        null,
+        "【競賽 Race】Koya Tofu Any%",
         "「這是一款由真正的豆腐大師製作的獨一無二的豆腐動作遊戲。」"
       ]
     }
@@ -1099,7 +1099,7 @@ window.gameDB = {
     "leaderboard": null,
     "rijs2025": {
       "Beat 6 Characters with 6 Characters": [
-        null,
+        "【競賽 Race】Beat 6 Characters with 6 Characters",
         "爆笑必至！お尻を振って2人で戦う対ケツアクション！"
       ]
     }
@@ -1125,7 +1125,7 @@ window.gameDB = {
     "leaderboard": "https://www.speedrun.com/mc",
     "rijs2025": {
       "HHH Any% Random Seed Glitchless": [
-        null,
+        "【競賽 Race】HHH Any% Random Seed Glitchless",
         null
       ]
     }
@@ -1242,8 +1242,8 @@ window.gameDB = {
     "leaderboard": null,
     "rijs2025": {
       "All Stages (Level 1, 2, & 3)": [
-        null,
-        "最強的鑽地大師「爆鑽小英雄」要來挖挖挖啦～<br>【備選節目 #1】",
+        "【備選節目 Backup】All Stages (Level 1, 2, & 3)",
+        "最強的鑽地大師「爆鑽小英雄」要來挖挖挖啦～",
         null
       ]
     }
@@ -2873,7 +2873,7 @@ window.gameDB = {
     "rijs2025": {
       "PSX Any% JP": [
         null,
-        "深夜大長篇<br>長達 9 小時的 FF9 RTA",
+        "深夜大長篇！<br>長達 9 小時的 FF9 RTA",
         null
       ]
     },
@@ -2916,8 +2916,8 @@ window.gameDB = {
     "leaderboard": null,
     "rijs2025": {
       "Any% One Handed": [
-        "單手破關",
-        "「我將單手爬山。」<br>【備選節目 #2】",
+        "【備選節目 Backup】單手破關",
+        "「我將單手爬山。」",
         null
       ]
     },
