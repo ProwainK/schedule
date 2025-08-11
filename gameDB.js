@@ -405,7 +405,8 @@ window.gameDB = {
     "rijs2025": {
       "Path of Asuras Full": [
         "修羅模式、本篇破關",
-        "古老的和風迴廊，迷宮結構每次遊玩時都會隨機生成"
+        "古老的和風迴廊，迷宮結構每次遊玩時都會隨機生成",
+        null
       ]
     }
   },
@@ -418,6 +419,7 @@ window.gameDB = {
     "rijs2025": {
       "Any%": [
         null,
+        "延續元祖系列脈絡<br>於 2008 年推出的復古風 RM",
         null
       ]
     }
@@ -427,10 +429,12 @@ window.gameDB = {
     "jp": "ロックマンDASH 鋼の冒険心",
     "en": "Mega Man Legends",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/7240_IGDB.jpg",
-    "leaderboard": null,
+    "leaderboard": "https://www.speedrun.com/mml1",
     "rijs2025": {
       "Any% 難易度：ふつう": [
         "Normal 難度破關",
+        null,
+        "告別 2D，邁向 3D 世界！<br>全新的大冒險，即刻啟程",
         null
       ]
     }

@@ -12,7 +12,7 @@ window.eventLocalSchedule = {
     "description": null,
     "setup": "PT08M",
     "setup_t": 480,
-    "updated": "2025-08-11T02:56:10Z",
+    "updated": "2025-08-11T05:17:44Z",
     "hidden_columns": [
       "setup"
     ],
@@ -503,8 +503,8 @@ window.eventLocalSchedule = {
         ]
       },
       {
-        "length": "PT28M",
-        "length_t": 1680,
+        "length": "PT29M",
+        "length_t": 1740,
         "scheduled": "2025-08-11T11:55:00+09:00",
         "scheduled_t": 1754880900,
         "data": [
@@ -517,10 +517,10 @@ window.eventLocalSchedule = {
         ]
       },
       {
-        "length": "PT1H10M",
-        "length_t": 4200,
-        "scheduled": "2025-08-11T12:31:00+09:00",
-        "scheduled_t": 1754883060,
+        "length": "PT52M",
+        "length_t": 3120,
+        "scheduled": "2025-08-11T12:32:00+09:00",
+        "scheduled_t": 1754883120,
         "data": [
           "Shadow Corridor",
           "Path of Asuras Full",
@@ -531,10 +531,10 @@ window.eventLocalSchedule = {
         ]
       },
       {
-        "length": "PT35M",
-        "length_t": 2100,
-        "scheduled": "2025-08-11T13:49:00+09:00",
-        "scheduled_t": 1754887740,
+        "length": "PT37M",
+        "length_t": 2220,
+        "scheduled": "2025-08-11T13:32:00+09:00",
+        "scheduled_t": 1754886720,
         "data": [
           "ロックマン9 野望の復活!!",
           "Any%",
@@ -547,8 +547,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT1H05M",
         "length_t": 3900,
-        "scheduled": "2025-08-11T14:32:00+09:00",
-        "scheduled_t": 1754890320,
+        "scheduled": "2025-08-11T14:17:00+09:00",
+        "scheduled_t": 1754889420,
         "data": [
           "ロックマンDASH 鋼の冒険心",
           "Any% 難易度：ふつう",
@@ -561,8 +561,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT45M",
         "length_t": 2700,
-        "scheduled": "2025-08-11T15:45:00+09:00",
-        "scheduled_t": 1754894700,
+        "scheduled": "2025-08-11T15:30:00+09:00",
+        "scheduled_t": 1754893800,
         "data": [
           "東方永夜抄 〜 Imperishable Night.",
           "Lunatic スコアアタック",
@@ -575,8 +575,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT30M",
         "length_t": 1800,
-        "scheduled": "2025-08-11T16:38:00+09:00",
-        "scheduled_t": 1754897880,
+        "scheduled": "2025-08-11T16:23:00+09:00",
+        "scheduled_t": 1754896980,
         "data": [
           "Nova Drift",
           "Phylogeny",
@@ -589,8 +589,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT35M",
         "length_t": 2100,
-        "scheduled": "2025-08-11T17:16:00+09:00",
-        "scheduled_t": 1754900160,
+        "scheduled": "2025-08-11T17:01:00+09:00",
+        "scheduled_t": 1754899260,
         "data": [
           "アフターイメージ",
           "Any%（Unrestricted）",
@@ -603,8 +603,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT1H30M",
         "length_t": 5400,
-        "scheduled": "2025-08-11T17:59:00+09:00",
-        "scheduled_t": 1754902740,
+        "scheduled": "2025-08-11T17:44:00+09:00",
+        "scheduled_t": 1754901840,
         "data": [
           "NieR:Automata",
           "[A] Normal",
@@ -617,8 +617,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT50M",
         "length_t": 3000,
-        "scheduled": "2025-08-11T19:37:00+09:00",
-        "scheduled_t": 1754908620,
+        "scheduled": "2025-08-11T19:22:00+09:00",
+        "scheduled_t": 1754907720,
         "data": [
           "Salt and Sanctuary",
           "All Bosses No Major Glitches",
@@ -631,8 +631,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT04M",
         "length_t": 240,
-        "scheduled": "2025-08-11T20:35:00+09:00",
-        "scheduled_t": 1754912100,
+        "scheduled": "2025-08-11T20:20:00+09:00",
+        "scheduled_t": 1754911200,
         "data": [
           "Barbie: Super Model",
           "Any% Super Model",
@@ -645,8 +645,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT1H20M",
         "length_t": 4800,
-        "scheduled": "2025-08-11T20:47:00+09:00",
-        "scheduled_t": 1754912820,
+        "scheduled": "2025-08-11T20:32:00+09:00",
+        "scheduled_t": 1754911920,
         "data": [
           "デジモンワールド",
           "Any% No Major Glitches",
@@ -659,8 +659,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT1H20M",
         "length_t": 4800,
-        "scheduled": "2025-08-11T22:15:00+09:00",
-        "scheduled_t": 1754918100,
+        "scheduled": "2025-08-11T22:00:00+09:00",
+        "scheduled_t": 1754917200,
         "data": [
           "DEMENTO",
           "NewGame+ A Ending",
@@ -673,8 +673,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT20M",
         "length_t": 1200,
-        "scheduled": "2025-08-11T23:43:00+09:00",
-        "scheduled_t": 1754923380,
+        "scheduled": "2025-08-11T23:28:00+09:00",
+        "scheduled_t": 1754922480,
         "data": [
           "青鬼(2024)",
           "Any%",
@@ -687,8 +687,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT08M",
         "length_t": 480,
-        "scheduled": "2025-08-12T00:11:00+09:00",
-        "scheduled_t": 1754925060,
+        "scheduled": "2025-08-11T23:56:00+09:00",
+        "scheduled_t": 1754924160,
         "data": [
           "BIOHAZARD RE:2",
           "Hunk",
@@ -701,8 +701,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT2H45M",
         "length_t": 9900,
-        "scheduled": "2025-08-12T00:27:00+09:00",
-        "scheduled_t": 1754926020,
+        "scheduled": "2025-08-12T00:12:00+09:00",
+        "scheduled_t": 1754925120,
         "data": [
           "SILENT HILL 2 (2024)",
           "Restricted",
@@ -715,8 +715,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT4H30M",
         "length_t": 16200,
-        "scheduled": "2025-08-12T03:20:00+09:00",
-        "scheduled_t": 1754936400,
+        "scheduled": "2025-08-12T03:05:00+09:00",
+        "scheduled_t": 1754935500,
         "data": [
           "モンスターハンター2（ドス）",
           "Any%",
@@ -729,8 +729,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT2H",
         "length_t": 7200,
-        "scheduled": "2025-08-12T07:58:00+09:00",
-        "scheduled_t": 1754953080,
+        "scheduled": "2025-08-12T07:43:00+09:00",
+        "scheduled_t": 1754952180,
         "data": [
           "新鬼武者",
           "New Game Normal",
@@ -743,8 +743,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT1H20M",
         "length_t": 4800,
-        "scheduled": "2025-08-12T10:06:00+09:00",
-        "scheduled_t": 1754960760,
+        "scheduled": "2025-08-12T09:51:00+09:00",
+        "scheduled_t": 1754959860,
         "data": [
           "Noita",
           "All Bosses(Random Seed)",
@@ -757,8 +757,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT2H",
         "length_t": 7200,
-        "scheduled": "2025-08-12T11:34:00+09:00",
-        "scheduled_t": 1754966040,
+        "scheduled": "2025-08-12T11:19:00+09:00",
+        "scheduled_t": 1754965140,
         "data": [
           "松方弘樹のスーパートローリング",
           "100% GLITCHLESS",
@@ -771,8 +771,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT32M",
         "length_t": 1920,
-        "scheduled": "2025-08-12T13:42:00+09:00",
-        "scheduled_t": 1754973720,
+        "scheduled": "2025-08-12T13:27:00+09:00",
+        "scheduled_t": 1754972820,
         "data": [
           "Radical Relocation",
           "NG Car%",
@@ -785,8 +785,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT1H10M",
         "length_t": 4200,
-        "scheduled": "2025-08-12T14:22:00+09:00",
-        "scheduled_t": 1754976120,
+        "scheduled": "2025-08-12T14:07:00+09:00",
+        "scheduled_t": 1754975220,
         "data": [
           "パウ・パトロール：ザ・ムービー アドベンチャーシティがよんでいる",
           "Any%",
@@ -799,8 +799,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT1H",
         "length_t": 3600,
-        "scheduled": "2025-08-12T15:40:00+09:00",
-        "scheduled_t": 1754980800,
+        "scheduled": "2025-08-12T15:25:00+09:00",
+        "scheduled_t": 1754979900,
         "data": [
           "カンパニーマン 社畜の下剋上",
           "New Game",
@@ -813,8 +813,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT47M",
         "length_t": 2820,
-        "scheduled": "2025-08-12T16:48:00+09:00",
-        "scheduled_t": 1754984880,
+        "scheduled": "2025-08-12T16:33:00+09:00",
+        "scheduled_t": 1754983980,
         "data": [
           "アリス・エスケイプト！",
           "All Endings HardCore",
@@ -827,8 +827,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT2H40M",
         "length_t": 9600,
-        "scheduled": "2025-08-12T17:43:00+09:00",
-        "scheduled_t": 1754988180,
+        "scheduled": "2025-08-12T17:28:00+09:00",
+        "scheduled_t": 1754987280,
         "data": [
           "ドラゴンクエストIV 導かれし者たち",
           "Any% (Save glitch)",
@@ -841,8 +841,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT4H15M",
         "length_t": 15300,
-        "scheduled": "2025-08-12T20:31:00+09:00",
-        "scheduled_t": 1754998260,
+        "scheduled": "2025-08-12T20:16:00+09:00",
+        "scheduled_t": 1754997360,
         "data": [
           "ドラゴンクエストモンスターズ キャラバンハート",
           "Defeat Magarugi",
@@ -855,8 +855,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT2H20M",
         "length_t": 8400,
-        "scheduled": "2025-08-13T00:54:00+09:00",
-        "scheduled_t": 1755014040,
+        "scheduled": "2025-08-13T00:39:00+09:00",
+        "scheduled_t": 1755013140,
         "data": [
           "真・女神転生if...",
           "Bid war",
@@ -869,8 +869,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT1H30M",
         "length_t": 5400,
-        "scheduled": "2025-08-13T03:22:00+09:00",
-        "scheduled_t": 1755022920,
+        "scheduled": "2025-08-13T03:07:00+09:00",
+        "scheduled_t": 1755022020,
         "data": [
           "クロノアーク",
           "ハード血霧４赤い荒野",
@@ -883,8 +883,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT4H",
         "length_t": 14400,
-        "scheduled": "2025-08-13T05:00:00+09:00",
-        "scheduled_t": 1755028800,
+        "scheduled": "2025-08-13T04:45:00+09:00",
+        "scheduled_t": 1755027900,
         "data": [
           "ZWEI2(ツヴァイ2)",
           "Any%,New Game",
@@ -897,8 +897,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT45M",
         "length_t": 2700,
-        "scheduled": "2025-08-13T09:08:00+09:00",
-        "scheduled_t": 1755043680,
+        "scheduled": "2025-08-13T08:53:00+09:00",
+        "scheduled_t": 1755042780,
         "data": [
           "イースⅠクロニクルズ",
           "Any％",
@@ -911,8 +911,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT1H30M",
         "length_t": 5400,
-        "scheduled": "2025-08-13T10:01:00+09:00",
-        "scheduled_t": 1755046860,
+        "scheduled": "2025-08-13T09:46:00+09:00",
+        "scheduled_t": 1755045960,
         "data": [
           "機動戦士ガンダム 一年戦争",
           "Story Mode",
@@ -925,8 +925,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT1H20M",
         "length_t": 4800,
-        "scheduled": "2025-08-13T11:39:00+09:00",
-        "scheduled_t": 1755052740,
+        "scheduled": "2025-08-13T11:24:00+09:00",
+        "scheduled_t": 1755051840,
         "data": [
           "SCHiM - スキム -",
           "Any%",
@@ -939,8 +939,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT1H10M",
         "length_t": 4200,
-        "scheduled": "2025-08-13T13:07:00+09:00",
-        "scheduled_t": 1755058020,
+        "scheduled": "2025-08-13T12:52:00+09:00",
+        "scheduled_t": 1755057120,
         "data": [
           "Rhythm Doctor",
           "Any%,r30+,Blindfolded,No Samurai,Normal",
@@ -953,8 +953,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT45M",
         "length_t": 2700,
-        "scheduled": "2025-08-13T14:25:00+09:00",
-        "scheduled_t": 1755062700,
+        "scheduled": "2025-08-13T14:10:00+09:00",
+        "scheduled_t": 1755061800,
         "data": [
           "vivid/stasis",
           "リズムゲームショーケース",
@@ -967,8 +967,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT1H20M",
         "length_t": 4800,
-        "scheduled": "2025-08-13T15:18:00+09:00",
-        "scheduled_t": 1755065880,
+        "scheduled": "2025-08-13T15:03:00+09:00",
+        "scheduled_t": 1755064980,
         "data": [
           "XI[sái]シリーズトリロジーリレー",
           "XI[sái] / XI JUMBO / XIゴ",
@@ -981,8 +981,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT3H35M",
         "length_t": 12900,
-        "scheduled": "2025-08-13T16:46:00+09:00",
-        "scheduled_t": 1755071160,
+        "scheduled": "2025-08-13T16:31:00+09:00",
+        "scheduled_t": 1755070260,
         "data": [
           "ロックマンエグゼ5",
           "Any% No ASE (Colonel)",
@@ -995,8 +995,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT4H45M",
         "length_t": 17100,
-        "scheduled": "2025-08-13T20:29:00+09:00",
-        "scheduled_t": 1755084540,
+        "scheduled": "2025-08-13T20:14:00+09:00",
+        "scheduled_t": 1755083640,
         "data": [
           "聖剣伝説3",
           "Any%",
@@ -1009,8 +1009,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT5H20M",
         "length_t": 19200,
-        "scheduled": "2025-08-14T01:22:00+09:00",
-        "scheduled_t": 1755102120,
+        "scheduled": "2025-08-14T01:07:00+09:00",
+        "scheduled_t": 1755101220,
         "data": [
           "アーマード・コア ナインブレイカー",
           "All Training Gold",
@@ -1023,8 +1023,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT1H42M",
         "length_t": 6120,
-        "scheduled": "2025-08-14T06:50:00+09:00",
-        "scheduled_t": 1755121800,
+        "scheduled": "2025-08-14T06:35:00+09:00",
+        "scheduled_t": 1755120900,
         "data": [
           "Wattam",
           "Any%",
@@ -1037,8 +1037,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT45M",
         "length_t": 2700,
-        "scheduled": "2025-08-14T08:40:00+09:00",
-        "scheduled_t": 1755128400,
+        "scheduled": "2025-08-14T08:25:00+09:00",
+        "scheduled_t": 1755127500,
         "data": [
           "ふしぎの城のヘレン+",
           "Any% Good Ending",
@@ -1051,8 +1051,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT45M",
         "length_t": 2700,
-        "scheduled": "2025-08-14T09:33:00+09:00",
-        "scheduled_t": 1755131580,
+        "scheduled": "2025-08-14T09:18:00+09:00",
+        "scheduled_t": 1755130680,
         "data": [
           "レスキューショット ブービーぼー",
           "Easy Mode",
@@ -1065,8 +1065,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT1H10M",
         "length_t": 4200,
-        "scheduled": "2025-08-14T10:26:00+09:00",
-        "scheduled_t": 1755134760,
+        "scheduled": "2025-08-14T10:11:00+09:00",
+        "scheduled_t": 1755133860,
         "data": [
           "TOEM",
           "Combined 99%",
@@ -1079,8 +1079,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT2H10M",
         "length_t": 7800,
-        "scheduled": "2025-08-14T11:44:00+09:00",
-        "scheduled_t": 1755139440,
+        "scheduled": "2025-08-14T11:29:00+09:00",
+        "scheduled_t": 1755138540,
         "data": [
           "悠遠物語 ～空の大陸とアイテム屋さん～",
           "Ver0.76.06 ED1",
@@ -1093,8 +1093,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT2H05M",
         "length_t": 7500,
-        "scheduled": "2025-08-14T14:02:00+09:00",
-        "scheduled_t": 1755147720,
+        "scheduled": "2025-08-14T13:47:00+09:00",
+        "scheduled_t": 1755146820,
         "data": [
           "スーパーワギャンランド",
           "KAMISAMA Any%",
@@ -1107,8 +1107,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT45M",
         "length_t": 2700,
-        "scheduled": "2025-08-14T16:15:00+09:00",
-        "scheduled_t": 1755155700,
+        "scheduled": "2025-08-14T16:00:00+09:00",
+        "scheduled_t": 1755154800,
         "data": [
           "TETRIS THE GRAND MASTER 4 -ABSOLUTE EYE-",
           "MASTER-mode Rank \"Master\" Challenge",
@@ -1121,8 +1121,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT15M",
         "length_t": 900,
-        "scheduled": "2025-08-14T17:08:00+09:00",
-        "scheduled_t": 1755158880,
+        "scheduled": "2025-08-14T16:53:00+09:00",
+        "scheduled_t": 1755157980,
         "data": [
           "Death and Taxes",
           "Utopia%",
@@ -1135,8 +1135,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT2H25M",
         "length_t": 8700,
-        "scheduled": "2025-08-14T17:31:00+09:00",
-        "scheduled_t": 1755160260,
+        "scheduled": "2025-08-14T17:16:00+09:00",
+        "scheduled_t": 1755159360,
         "data": [
           "フィリスのアトリエ ～不思議な旅の錬金術士～ DX",
           "Master vs Apprentice! (Hard)",
@@ -1149,8 +1149,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT30M",
         "length_t": 1800,
-        "scheduled": "2025-08-14T20:04:00+09:00",
-        "scheduled_t": 1755169440,
+        "scheduled": "2025-08-14T19:49:00+09:00",
+        "scheduled_t": 1755168540,
         "data": [
           "アーケードアーカイブス トリオ・ザ・パンチ",
           "Any% Race",
@@ -1163,8 +1163,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT2H05M",
         "length_t": 7500,
-        "scheduled": "2025-08-14T20:42:00+09:00",
-        "scheduled_t": 1755171720,
+        "scheduled": "2025-08-14T20:27:00+09:00",
+        "scheduled_t": 1755170820,
         "data": [
           "Wizardry: Proving Grounds of the Mad Overlord",
           "Any%",
@@ -1177,8 +1177,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT25M",
         "length_t": 1500,
-        "scheduled": "2025-08-14T22:55:00+09:00",
-        "scheduled_t": 1755179700,
+        "scheduled": "2025-08-14T22:40:00+09:00",
+        "scheduled_t": 1755178800,
         "data": [
           "スゴイツヨイトウフ",
           "Koya Tofu Any%",
@@ -1191,8 +1191,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT2H25M",
         "length_t": 8700,
-        "scheduled": "2025-08-14T23:28:00+09:00",
-        "scheduled_t": 1755181680,
+        "scheduled": "2025-08-14T23:13:00+09:00",
+        "scheduled_t": 1755180780,
         "data": [
           "ゲームセンターCX 有野の挑戦状 1+2 REPLAY",
           "有野の挑戦状 Any%",
@@ -1205,8 +1205,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT2H",
         "length_t": 7200,
-        "scheduled": "2025-08-15T02:01:00+09:00",
-        "scheduled_t": 1755190860,
+        "scheduled": "2025-08-15T01:46:00+09:00",
+        "scheduled_t": 1755189960,
         "data": [
           "ドラゴンファングZ",
           "竜の深淵",
@@ -1219,8 +1219,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT2H10M",
         "length_t": 7800,
-        "scheduled": "2025-08-15T04:09:00+09:00",
-        "scheduled_t": 1755198540,
+        "scheduled": "2025-08-15T03:54:00+09:00",
+        "scheduled_t": 1755197640,
         "data": [
           "DRAG-ON DRAGOON 3",
           "[A] NG+",
@@ -1233,8 +1233,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT57M",
         "length_t": 3420,
-        "scheduled": "2025-08-15T06:27:00+09:00",
-        "scheduled_t": 1755206820,
+        "scheduled": "2025-08-15T06:12:00+09:00",
+        "scheduled_t": 1755205920,
         "data": [
           "世界樹の迷宮II 諸王の聖杯 HD REMASTER",
           "Ur-Child",
@@ -1247,8 +1247,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT25M",
         "length_t": 1500,
-        "scheduled": "2025-08-15T07:32:00+09:00",
-        "scheduled_t": 1755210720,
+        "scheduled": "2025-08-15T07:17:00+09:00",
+        "scheduled_t": 1755209820,
         "data": [
           "ブリーチ ヒート・ザ・ソウル7",
           "Story",
@@ -1261,8 +1261,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT22M",
         "length_t": 1320,
-        "scheduled": "2025-08-15T08:05:00+09:00",
-        "scheduled_t": 1755212700,
+        "scheduled": "2025-08-15T07:50:00+09:00",
+        "scheduled_t": 1755211800,
         "data": [
           "ゴジラ怪獣大決戦",
           "Expert",
@@ -1275,8 +1275,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT35M",
         "length_t": 2100,
-        "scheduled": "2025-08-15T08:35:00+09:00",
-        "scheduled_t": 1755214500,
+        "scheduled": "2025-08-15T08:20:00+09:00",
+        "scheduled_t": 1755213600,
         "data": [
           "ケツバトラー",
           "Beat 6 Characters with 6 Characters",
@@ -1289,8 +1289,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT1H05M",
         "length_t": 3900,
-        "scheduled": "2025-08-15T09:18:00+09:00",
-        "scheduled_t": 1755217080,
+        "scheduled": "2025-08-15T09:03:00+09:00",
+        "scheduled_t": 1755216180,
         "data": [
           "電車でGO!",
           "Whistlestop (All Lines 1cc)",
@@ -1303,8 +1303,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT45M",
         "length_t": 2700,
-        "scheduled": "2025-08-15T10:31:00+09:00",
-        "scheduled_t": 1755221460,
+        "scheduled": "2025-08-15T10:16:00+09:00",
+        "scheduled_t": 1755220560,
         "data": [
           "Minecraft Java Edition",
           "HHH Any% Random Seed Glitchless",
@@ -1317,8 +1317,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT1H32M",
         "length_t": 5520,
-        "scheduled": "2025-08-15T11:24:00+09:00",
-        "scheduled_t": 1755224640,
+        "scheduled": "2025-08-15T11:09:00+09:00",
+        "scheduled_t": 1755223740,
         "data": [
           "サルゲッチュ",
           "All Monkeys",
@@ -1331,8 +1331,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT15M",
         "length_t": 900,
-        "scheduled": "2025-08-15T13:04:00+09:00",
-        "scheduled_t": 1755230640,
+        "scheduled": "2025-08-15T12:49:00+09:00",
+        "scheduled_t": 1755229740,
         "data": [
           "迷宮組曲 ミロンの大冒険",
           "Any%",
@@ -1345,8 +1345,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT40M",
         "length_t": 2400,
-        "scheduled": "2025-08-15T13:27:00+09:00",
-        "scheduled_t": 1755232020,
+        "scheduled": "2025-08-15T13:12:00+09:00",
+        "scheduled_t": 1755231120,
         "data": [
           "Cook, Serve, Delicious! 3?!",
           "Buttermilk County% Standard Mode Only (single run)",
@@ -1359,8 +1359,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT1H20M",
         "length_t": 4800,
-        "scheduled": "2025-08-15T14:15:00+09:00",
-        "scheduled_t": 1755234900,
+        "scheduled": "2025-08-15T14:00:00+09:00",
+        "scheduled_t": 1755234000,
         "data": [
           "The Elder Scrolls V: Skyrim",
           "Glitchless Main Quest",
@@ -1373,8 +1373,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT3H20M",
         "length_t": 12000,
-        "scheduled": "2025-08-15T15:43:00+09:00",
-        "scheduled_t": 1755240180,
+        "scheduled": "2025-08-15T15:28:00+09:00",
+        "scheduled_t": 1755239280,
         "data": [
           "Final Fantasy X-2 HD Remaster",
           "Any% No Creature Creator",
