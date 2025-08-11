@@ -433,7 +433,6 @@ window.gameDB = {
     "rijs2025": {
       "Any% 難易度：ふつう": [
         "Normal 難度破關",
-        null,
         "告別 2D，邁向 3D 世界！<br>全新的大冒險，即刻啟程",
         null
       ]
