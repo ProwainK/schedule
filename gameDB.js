@@ -433,7 +433,7 @@ window.gameDB = {
     "rijs2025": {
       "Any% 難易度：ふつう": [
         "Normal 難度破關",
-        "告別 2D，邁向 3D 世界！<br>全新的大冒險，即刻啟程",
+        "告別 2D，邁向 3D 世界<br>全新的大冒險，即刻啟程！",
         null
       ]
     }
@@ -512,7 +512,8 @@ window.gameDB = {
     "rijs2025": {
       "Any% Super Model": [
         null,
-        "「某種模擬模特兒的體驗」…？？？"
+        "「某種模擬模特兒的體驗」…？？？",
+        null
       ]
     }
   },
@@ -525,6 +526,7 @@ window.gameDB = {
     "rijs2025": {
       "Any% No Major Glitches": [
         null,
+        "亞古獸進化～！",
         null
       ]
     }
@@ -552,7 +554,8 @@ window.gameDB = {
     "rijs2025": {
       "Hunk": [
         "第四生存者",
-        "「The 4th Survivor」<br>通關本篇劇情後的小遊戲模式"
+        "「The 4th Survivor」<br>通關本篇劇情後的小遊戲模式",
+        null
       ]
     }
   },
