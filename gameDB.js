@@ -597,11 +597,11 @@ window.gameDB = {
     "jp": "新 鬼武者 DAWN OF DREAMS",
     "en": "Onimusha: Dawn of Dreams",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1952_IGDB.jpg",
-    "leaderboard": null,
+    "leaderboard": "https://www.speedrun.com/odod",
     "rijs2025": {
-      "New Game Nomal": [
+      "New Game Normal": [
         null,
-        null,
+        "擁有異名「灰燼之蒼鬼」的主角<br>將與夥伴們一同斬殺幻魔！",
         null
       ]
     }
@@ -1268,7 +1268,7 @@ window.gameDB = {
     "rijs2025": {
       "分身技禁止%": [
         "【備選節目 Backup】分身技禁止%",
-        null,
+        "靠著縝密的戰鬥策略，在驚險邊緣中取得勝利！",
         null
       ]
     }
@@ -1779,8 +1779,8 @@ window.gameDB = {
     "leaderboard": "https://www.speedrun.com/Ao_Oni_2024",
     "rijs2025": {
       "Any%": [
-        null,
-        "【競賽 Race】",
+        "【競賽 Race】Any%",
+        "傳奇恐怖遊戲登上 Steam<br>雙人競賽即將開跑！",
         null
       ]
     },
