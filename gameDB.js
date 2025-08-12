@@ -615,7 +615,7 @@ window.gameDB = {
     "rijs2025": {
       "All Bosses(Random Seed)": [
         null,
-        null,
+        "物理運算精細到以 1 Pixel 為單位進行計算的 2D 肉鴿動作遊戲",
         null
       ]
     }
