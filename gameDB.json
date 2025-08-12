@@ -352,7 +352,7 @@
       "Ryota% 通常告白ED": [
         null,
         "RiJ 熱門話題之一的戀愛模擬遊戲環節<br>這次要跑的是乙女向的純愛手札",
-        null
+        "https://www.youtube.com/watch?v=uYznKSElYgw"
       ]
     }
   },
@@ -366,7 +366,7 @@
       "100%": [
         "解讀所有語言、真結局破關",
         "仔細觀察、聆聽、破譯的文字解謎遊戲<br>打破諸族之間的語言隔閡",
-        null
+        "https://www.youtube.com/watch?v=Ek191r1PO5A"
       ]
     }
   },
@@ -380,7 +380,7 @@
       "Basic Any% 4columns": [
         "限制只能在中間四列堆疊",
         "強調視覺與聽覺<br>電音與方塊益智的完美結合",
-        null
+        "https://www.youtube.com/watch?v=0_3WVmB9pQE"
       ]
     }
   },
@@ -394,7 +394,7 @@
       "Any%Hard-EC": [
         "【競賽 Race】Hard 難度破關，EC 路線",
         "《熔鐵少女》續作<br>懷著各自的苦衷、少女們提起槍枝投身前線...",
-        null
+        "https://www.youtube.com/watch?v=Zbd4eA_cqvI"
       ]
     }
   },
@@ -408,7 +408,7 @@
       "Path of Asuras Full": [
         "修羅模式、本篇破關",
         "古老的和風迴廊，迷宮結構每次遊玩時都會隨機生成",
-        null
+        "https://www.youtube.com/watch?v=SmCLIKgriVI"
       ]
     }
   },
@@ -422,7 +422,7 @@
       "Any%": [
         null,
         "延續元祖系列脈絡<br>於 2008 年推出的復古風 RM",
-        null
+        "https://www.youtube.com/watch?v=wSV4yx0daBw&pp=0gcJCa0JAYcqIYzv"
       ]
     }
   },
@@ -436,7 +436,7 @@
       "Any% 難易度：ふつう": [
         "Normal 難度破關",
         "告別 2D，邁向 3D 世界<br>全新的大冒險，即刻啟程！",
-        null
+        "https://www.youtube.com/watch?v=iJ9nfvCbOFk"
       ]
     }
   },
@@ -450,7 +450,7 @@
       "Lunatic スコアアタック": [
         "Lunatic 模式 + 刷分挑戰 Score Attack",
         "「擦彈 (Grazing)」<br>在滿屏彈幕、高速移動狀態下靠近子彈來極限求分",
-        null
+        "https://www.youtube.com/watch?v=PddDUu561mY"
       ]
     }
   },
@@ -464,7 +464,7 @@
       "Phylogeny": [
         null,
         "老派的太空射擊遊戲也要肉鴿一下<br>構築搭配豐富，玩出各種截然不同的戰鬥風格",
-        null
+        "https://www.youtube.com/watch?v=b_KvG0B43Kg"
       ]
     }
   },
@@ -478,7 +478,7 @@
       "Any%（Unrestricted）": [
         null,
         "推翻地圖龐大的坐牢感體驗<br>擁有極速跑圖與回天劍舞的銀河城 RTA 表演",
-        null
+        "https://www.youtube.com/watch?v=D282kUOPX9k"
       ]
     }
   },
@@ -492,7 +492,7 @@
       "[A] Normal": [
         "A 結局、普通難度破關",
         "全ての存在は滅びるようにデザインされている。<br>所有的存在都是為了被毀滅而被設計出來的。",
-        null
+        "https://www.youtube.com/watch?v=CpbKn8n5Ziw"
       ]
     }
   },
@@ -619,7 +619,7 @@
     "rijs2025": {
       "All Bosses(Random Seed)": [
         null,
-        "物理運算精細到以 1 Pixel 為單位進行計算的 2D 肉鴿動作遊戲",
+        "粒子物理效果精細到以 1 Pixel 為單位進行計算的 2D 肉鴿動作遊戲",
         null
       ]
     }
@@ -629,7 +629,7 @@
     "jp": "松方弘樹のスーパートローリング",
     "en": "Matsukata Hiroki no Super Trawling",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/25567_IGDB.jpg",
-    "leaderboard": null,
+    "leaderboard": "https://www.speedrun.com/matsukata_hiroki_no_super_trawling",
     "rijs2025": {
       "100% GLITCHLESS": [
         "【競賽 Race】100% GLITCHLESS",
@@ -643,10 +643,11 @@
     "jp": null,
     "en": "Radical Relocation",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/516889_IGDB.jpg",
-    "leaderboard": null,
+    "leaderboard": "https://www.speedrun.com/Radical_Relocation",
     "rijs2025": {
       "NG Car%": [
         null,
+        "搖搖晃晃的樂趣！？華麗的完成「堆貨」與「運送」吧📦🚗",
         null
       ]
     }
@@ -656,10 +657,11 @@
     "jp": "パウ・パトロール ザ・ムービー：アドベンチャーシティがよんでいる",
     "en": "PAW Patrol The Movie: Adventure City Calls",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1918557591_IGDB.jpg",
-    "leaderboard": null,
+    "leaderboard": "https://www.speedrun.com/paw_patrol_the_movie_adventure_city_calls",
     "rijs2025": {
       "Any%": [
         null,
+        "汪汪！",
         null
       ]
     }
@@ -669,11 +671,12 @@
     "jp": "カンパニーマン 社畜の下剋上",
     "en": "The Company Man",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/738442100_IGDB.jpg",
-    "leaderboard": null,
+    "leaderboard": "https://www.speedrun.com/the_company_man",
     "rijs2025": {
       "New Game": [
         null,
-        "出世街道を進み、上司を倒そう！<br>踏上升遷之路，打倒上司吧！"
+        "出世街道を進み、上司を倒そう！<br>踏上升遷之路，打倒上司吧！",
+        null
       ]
     }
   },
@@ -682,11 +685,12 @@
     "jp": "アリス・エスケイプト！",
     "en": "Alice Escaped!",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1805112810_IGDB.jpg",
-    "leaderboard": null,
+    "leaderboard": "https://www.speedrun.com/alice_escaped_",
     "rijs2025": {
       "All Endings HardCore": [
         null,
-        "爽快感拔群的雙角色連攜 ACT"
+        "爽快感拔群的雙角色連攜 ACT",
+        null
       ]
     }
   },
@@ -695,9 +699,10 @@
     "jp": "ドラゴンクエスト IV 導かれし者たち",
     "en": "Dragon Quest IV: Chapters of the Chosen",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/488153_IGDB.jpg",
-    "leaderboard": null,
+    "leaderboard": "https://www.speedrun.com/dw4",
     "rijs2025": {
       "Any% (Save glitch)": [
+        null,
         null,
         null
       ]
@@ -708,9 +713,10 @@
     "jp": "ドラゴンクエストモンスターズ キャラバンハート",
     "en": "Dragon Quest Monsters: Caravan Heart",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/21757_IGDB.jpg",
-    "leaderboard": null,
+    "leaderboard": "https://www.speedrun.com/dqmch",
     "rijs2025": {
       "Defeat Magarugi": [
+        null,
         null,
         null
       ]
@@ -2911,7 +2917,7 @@
       "PSX Any% JP": [
         null,
         "深夜大長篇！<br>長達 9 小時的 FF9 RTA",
-        null
+        "https://www.youtube.com/watch?v=D5e3PtPuCEg"
       ]
     },
     "sgdq2025": {
@@ -2957,7 +2963,7 @@
       "Any% One Handed": [
         "【備選節目 Backup】單手破關",
         "「我將單手爬山。」",
-          null
+        "https://www.youtube.com/watch?v=9URX8_yZcpY"
       ]
     },
     "sgdq2025": {
