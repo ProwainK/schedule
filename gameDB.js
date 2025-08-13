@@ -762,7 +762,7 @@ window.gameDB = {
   },
   "Ys I Chronicles": {
     "tw": "伊蘇 I 年代記",
-    "jp": "イース Iクロニクルズ",
+    "jp": "イース I クロニクルズ",
     "en": "Ys I Chronicles",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/2029060124_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/ysic",
@@ -1295,15 +1295,16 @@ window.gameDB = {
     }
   },
   "Disgaea 6: Defiance of Destiny": {
-    "tw": "【備選節目】魔界戰記 6",
+    "tw": "魔界戰記 6",
     "jp": "魔界戦記ディスガイア 6",
     "en": "Disgaea 6: Defiance of Destiny",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1937232178_IGDB.jpg",
     "leaderboard": null,
     "rijs2025": {
       "Main Story Yes Auto": [
-        null,
-        "(Backup Run 9)"
+        "【備選節目 Backup】Main Story Yes Auto",
+        "史上最兇模擬 RPG《魔界戰記》系列<br>異世界轉生 x 殭屍 x 等級 99999999！",
+        null
       ]
     }
   },

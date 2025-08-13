@@ -91,8 +91,7 @@
   "【バックアップ】ロマンシング サガ3 HDリマスター": "Romancing SaGa 3 (HD Remaster)",
   "【バックアップ】14 Minesweeper Variants": "14 Minesweeper Variants",
   "【バックアップ】ブレス オブ ファイアV ドラゴンクォーター": "Breath of Fire: Dragon Quarter",
-
-    "魔界戦記ディスガイア6": "Disgaea 6: Defiance of Destiny",
+  "【バックアップ】魔界戦記ディスガイア6": "Disgaea 6: Defiance of Destiny",
 
 
     "Summer Games Done Quick 2025": {},
