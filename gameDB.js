@@ -504,7 +504,7 @@ window.gameDB = {
       "All Bosses No Major Glitches": [
         "全頭目擊殺，禁止重大巫術",
         "魂系風格的 2D 動作 RPG<br>不輸正統本家的世界觀文本與構築玩法",
-        null
+        "https://www.youtube.com/watch?v=p60CE9rbh1k"
       ]
     }
   },
@@ -588,7 +588,7 @@ window.gameDB = {
       "Any%": [
         null,
         "「まぁ、自然はきびしいってことで（笑）」<br>「嘛，自然界本來就很殘酷啊（笑）」",
-        null
+        "https://www.youtube.com/watch?v=VH6fg71LYCo"
       ]
     }
   },
@@ -602,7 +602,7 @@ window.gameDB = {
       "New Game Normal": [
         null,
         "擁有異名「灰燼之蒼鬼」的主角<br>將與夥伴們一同斬殺幻魔！",
-        null
+        "https://www.youtube.com/watch?v=A2IYXNvW8cM"
       ]
     }
   },
@@ -616,7 +616,7 @@ window.gameDB = {
       "All Bosses(Random Seed)": [
         null,
         "粒子物理效果精細到以 1 Pixel 為單位進行計算的 2D 肉鴿動作遊戲",
-        null
+        "https://www.youtube.com/watch?v=Kd5BC0HFfSk"
       ]
     }
   },
@@ -630,7 +630,7 @@ window.gameDB = {
       "100% GLITCHLESS": [
         "【競賽 Race】100% GLITCHLESS",
         "以出演古裝劇和黑道硬派大哥而聞名的資深演員<br>因各種釣魚事蹟成為話題人物，被譽為「釣魚狂人」",
-        null
+        "https://www.youtube.com/watch?v=LF1VCZ-0Hos"
       ]
     }
   },
@@ -644,7 +644,7 @@ window.gameDB = {
       "NG Car%": [
         null,
         "搖搖晃晃的樂趣！？<br>華麗的完成「堆貨」與「運送」吧📦🚗",
-        null
+        "https://www.youtube.com/watch?v=fNCn_Ge3XM8"
       ]
     }
   },
@@ -658,7 +658,7 @@ window.gameDB = {
       "Any%": [
         null,
         "汪汪！",
-        null
+        "https://www.youtube.com/watch?v=Qlb58z1jhFQ"
       ]
     }
   },
@@ -672,7 +672,7 @@ window.gameDB = {
       "New Game": [
         null,
         "出世街道を進み、上司を倒そう！<br>踏上升遷之路，打倒上司吧！",
-        null
+        "https://www.youtube.com/watch?v=b1Es5dyV7ZY"
       ]
     }
   },
@@ -686,7 +686,7 @@ window.gameDB = {
       "All Endings HardCore": [
         null,
         "爽快感拔群的雙角色連攜 ACT",
-        null
+        "https://www.youtube.com/watch?v=lskIJalX6Lk"
       ]
     }
   },
@@ -700,7 +700,7 @@ window.gameDB = {
       "Any% (Save glitch)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=ctXsPly4oZk"
       ]
     }
   },
@@ -1290,7 +1290,7 @@ window.gameDB = {
       "分身技禁止%": [
         "【備選節目 Backup】分身技禁止%",
         "靠著縝密的戰鬥策略，在驚險邊緣中取得勝利！",
-        null
+        "https://www.youtube.com/watch?v=m4AkDuCh418"
       ]
     }
   },
@@ -1299,7 +1299,7 @@ window.gameDB = {
     "jp": "魔界戦記ディスガイア 6",
     "en": "Disgaea 6: Defiance of Destiny",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1937232178_IGDB.jpg",
-    "leaderboard": null,
+    "leaderboard": "https://www.speedrun.com/disgaea_6_defiance_of_destiny",
     "rijs2025": {
       "Main Story Yes Auto": [
         "【備選節目 Backup】Main Story Yes Auto",
