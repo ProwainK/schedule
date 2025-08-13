@@ -864,12 +864,12 @@
       ]
     }
   },
-  "Trials of Mana (2020)": {
+  "Seiken Densetsu 3": {
     "tw": "聖劍傳說 3",
     "jp": "聖剣伝説 3",
-    "en": "Trials of Mana (2020) / Seiken Densetsu 3",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/512997_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/trials_of_mana",
+    "en": "Seiken Densetsu 3",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1186_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/sd3",
     "rijs2025": {
       "Any%": [
         null,

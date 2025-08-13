@@ -61,7 +61,7 @@
     "機動戦士ガンダム 一年戦争": "Mobile Suit Gundam: One Year War",
     "SCHiM - スキム -": "SCHiM",
     "ロックマンエグゼ5": "Mega Man Battle Network 5",
-    "聖剣伝説3": "Trials of Mana (2020)",
+    "聖剣伝説3": "Seiken Densetsu 3",
 
     "アーマード・コア ナインブレイカー": "Armored Core: Nine Breaker",
     "wattam": "Wattam",
@@ -84,7 +84,6 @@
     "サルゲッチュ": "Ape Escape",
     "迷宮組曲 ミロンの大冒険": "Milon's Secret Castle",
     "Cook,serve,Delicious!3?!": "Cook, Serve, Delicious! 3?!",
-    "ロマンシング サガ3 HDリマスター": "Romancing SaGa 3 (HD Remaster)",
 
   "【バックアップ】ミスタードリラーアンコール": "Mr. DRILLER DrillLand",
   "【バックアップ】Celeste": "Celeste",
