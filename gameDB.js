@@ -1213,15 +1213,16 @@ window.gameDB = {
     }
   },
   "14 Minesweeper Variants": {
-    "tw": "【備選節目】14 種掃雷變體",
+    "tw": "14 種掃雷變體",
     "jp": null,
     "en": "14 Minesweeper Variants",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/8559714_IGDB.jpg",
-    "leaderboard": null,
+    "leaderboard": "https://www.speedrun.com/14_Minesweeper_Variants",
     "rijs2025": {
       "Any%": [
+        "【備選節目 Backup】Any%",
         null,
-        "(Backup Run 1)"
+        null
       ]
     }
   },
