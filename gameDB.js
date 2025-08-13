@@ -518,7 +518,7 @@ window.gameDB = {
       "Any% Super Model": [
         null,
         "「某種模擬模特兒的體驗」…？？？",
-        null
+        "https://www.youtube.com/watch?v=MexeyJbWixw"
       ]
     }
   },
@@ -532,7 +532,7 @@ window.gameDB = {
       "Any% No Major Glitches": [
         null,
         "亞古獸進化～！",
-        null
+        "https://www.youtube.com/watch?v=9X2mMUNfnxA"
       ]
     }
   },
@@ -546,7 +546,7 @@ window.gameDB = {
       "NewGame+ A Ending": [
         "【競賽 Race】NG+ 使用繼承存檔，A 結局通關",
         "「無論程度多寡，每個人在人生的某個時刻，或多或少都有點瘋狂。」<br>- 魯德亞德·吉卜林《叢林奇談》",
-        null
+        "https://www.youtube.com/watch?v=z8U8bagLnJo"
       ]
     }
   },
@@ -560,7 +560,7 @@ window.gameDB = {
       "Hunk": [
         "第四生存者",
         "「The 4th Survivor」<br>通關本篇劇情後的小遊戲模式",
-        null
+        "https://www.youtube.com/watch?v=J6Y4g6OA858"
       ]
     }
   },
@@ -574,7 +574,7 @@ window.gameDB = {
       "Restricted": [
         null,
         "以華麗畫面呈現最恐怖驚悚之作",
-        null
+        "https://www.youtube.com/watch?v=xTwmZ6spqdo"
       ]
     }
   },
@@ -727,6 +727,7 @@ window.gameDB = {
     "rijs2025": {
       "Bid war": [
         null,
+        null,
         null
       ]
     }
@@ -736,9 +737,10 @@ window.gameDB = {
     "jp": "クロノアーク",
     "en": "Chrono Ark",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/515157_IGDB.jpg",
-    "leaderboard": null,
+    "leaderboard": "https://www.speedrun.com/chronoark",
     "rijs2025": {
       "ハード血霧４赤い荒野": [
+        null,
         null,
         null
       ]
@@ -749,22 +751,24 @@ window.gameDB = {
     "jp": "ツヴァイ 2",
     "en": "Zwei: The Ilvard Insurrection / ZWEI II",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/370519_IGDB.jpg",
-    "leaderboard": null,
+    "leaderboard": "https://www.speedrun.com/zweiilvard",
     "rijs2025": {
       "Any%,New Game": [
+        null,
         null,
         null
       ]
     }
   },
-  "Ys Chronicles 1": {
+  "Ys I Chronicles": {
     "tw": "伊蘇 I 年代記",
     "jp": "イース Iクロニクルズ",
-    "en": "Ys Chronicles 1",
+    "en": "Ys I Chronicles",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/2029060124_IGDB.jpg",
-    "leaderboard": null,
+    "leaderboard": "https://www.speedrun.com/ysic",
     "rijs2025": {
       "Any％": [
+        null,
         null,
         null
       ]
@@ -775,9 +779,10 @@ window.gameDB = {
     "jp": "機動戦士ガンダム 一年戦争",
     "en": "Mobile Suit Gundam: One Year War",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/596659189_IGDB.jpg",
-    "leaderboard": null,
+    "leaderboard": "https://www.speedrun.com/gundam_the_one_year_war",
     "rijs2025": {
       "Story Mode": [
+        null,
         null,
         null
       ]
@@ -788,10 +793,11 @@ window.gameDB = {
     "jp": "SCHiM - スキム -",
     "en": "SCHiM",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/791503107_IGDB.jpg",
-    "leaderboard": null,
+    "leaderboard": "https://www.speedrun.com/schim",
     "rijs2025": {
       "Any%": [
         "【競賽 Race】Any%",
+        null,
         null
       ]
     }
@@ -801,11 +807,12 @@ window.gameDB = {
     "jp": null,
     "en": "Rhythm Doctor",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/504502_IGDB.jpg",
-    "leaderboard": null,
+    "leaderboard": "https://www.speedrun.com/rhythmdr",
     "rijs2025": {
       "Any%,r30+,Blindfolded,No Samurai,Normal": [
         null,
-        "本屆 Blindfolded 蒙眼挑戰環節"
+        "本屆 Blindfolded 蒙眼挑戰環節",
+        null
       ]
     }
   },
@@ -814,11 +821,12 @@ window.gameDB = {
     "jp": null,
     "en": "vivid/stasis",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1039569154_IGDB.jpg",
-    "leaderboard": null,
+    "leaderboard": "https://www.speedrun.com/vividstasis",
     "rijs2025": {
       "リズムゲームショーケース": [
         "音樂節奏遊戲表演",
-        "And so, you find yourself here, at the apex of what we sought to achieve.<br>實打實的落下式 4K 音遊 + Bumper Notes 側鍵"
+        "And so, you find yourself here, at the apex of what we sought to achieve.<br>實打實的落下式 4K 音遊",
+        null
       ]
     }
   },
@@ -831,7 +839,8 @@ window.gameDB = {
     "rijs2025": {
       "XI[sái] / XI JUMBO / XIゴ": [
         "【接力 Relay】XI[sái] / XI JUMBO / XIゴ",
-        "三人三款、不間斷的益智解謎接力 RTA"
+        "三人三款、不間斷的益智解謎接力 RTA",
+        null
       ]
     }
   },
@@ -840,11 +849,12 @@ window.gameDB = {
     "jp": "ロックマンエグゼ5",
     "en": "Mega Man Battle Network 5 / Rockman EXE 5",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/324568485_IGDB.jpg",
-    "leaderboard": null,
+    "leaderboard": "https://www.speedrun.com/mmbn5",
     "rijs2025": {
       "Any% No ASE (Colonel)": [
         "卡尼爾小隊版，禁止使用 ASE",
-        "「解放任務」<br>與夥伴一同解放面板、突破封鎖<br>擊敗潛藏在區域深處的黑暗領航員吧！"
+        "「解放任務」<br>與夥伴一同解放面板、突破封鎖<br>擊敗潛藏在區域深處的黑暗領航員吧！",
+        null
       ]
     }
   },
@@ -857,6 +867,7 @@ window.gameDB = {
     "rijs2025": {
       "Any%": [
         null,
+        null,
         null
       ]
     }
@@ -866,10 +877,11 @@ window.gameDB = {
     "jp": "アーマード・コア ナインブレイカー",
     "en": "Armored Core: Nine Breaker",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/20615_IGDB.jpg",
-    "leaderboard": null,
+    "leaderboard": "https://www.speedrun.com/acnb",
     "rijs2025": {
       "All Training Gold": [
         "【競賽 Race】All Training Gold",
+        null,
         null
       ]
     }
@@ -882,6 +894,7 @@ window.gameDB = {
     "leaderboard": null,
     "rijs2025": {
       "Any%": [
+        null,
         null,
         null
       ]
@@ -1788,7 +1801,7 @@ window.gameDB = {
       "Any%": [
         "【競賽 Race】Any%",
         "傳奇恐怖遊戲登上 Steam<br>雙人競賽即將開跑！",
-        null
+        "https://www.youtube.com/watch?v=nZDOJkO1GRM"
       ]
     },
     "sgdq2025": {

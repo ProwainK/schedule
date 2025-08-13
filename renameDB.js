@@ -57,7 +57,7 @@
     "真・女神転生if...": "Shin Megami Tensei if...",
     "クロノアーク": "Chrono Ark",
     "ZWEI2(ツヴァイ2)": "Zwei: The Ilvard Insurrection",
-    "イースⅠクロニクルズ": "Ys Chronicles 1",
+    "イースⅠクロニクルズ": "Ys I Chronicles",
     "機動戦士ガンダム 一年戦争": "Mobile Suit Gundam: One Year War",
     "SCHiM - スキム -": "SCHiM",
     "ロックマンエグゼ5": "Mega Man Battle Network 5",
