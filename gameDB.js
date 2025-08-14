@@ -714,7 +714,7 @@ window.gameDB = {
       "Defeat Magarugi": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=s6pet2-rR4s"
       ]
     }
   },
@@ -728,7 +728,7 @@ window.gameDB = {
       "Bid war": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=WjTiuFaPgFQ"
       ]
     }
   },
@@ -742,7 +742,7 @@ window.gameDB = {
       "ハード血霧４赤い荒野": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=1nM_MzpG5mU"
       ]
     }
   },
@@ -756,7 +756,7 @@ window.gameDB = {
       "Any%,New Game": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=uD4T4QXw1ss"
       ]
     }
   },
@@ -770,7 +770,7 @@ window.gameDB = {
       "Any％": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=GDJHKAiGCis"
       ]
     }
   },
@@ -784,7 +784,7 @@ window.gameDB = {
       "Story Mode": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=BCBHr8zdqfk"
       ]
     }
   },
@@ -798,7 +798,7 @@ window.gameDB = {
       "Any%": [
         "【競賽 Race】Any%",
         null,
-        null
+        "https://www.youtube.com/watch?v=paz2mDNTBjk"
       ]
     }
   },
@@ -812,7 +812,7 @@ window.gameDB = {
       "Any%,r30+,Blindfolded,No Samurai,Normal": [
         null,
         "本屆 Blindfolded 蒙眼挑戰環節",
-        null
+        "https://www.youtube.com/watch?v=gX7y-H3huBA"
       ]
     }
   },
@@ -826,7 +826,7 @@ window.gameDB = {
       "リズムゲームショーケース": [
         "音樂節奏遊戲表演",
         "And so, you find yourself here, at the apex of what we sought to achieve.<br>實打實的落下式 4K 音遊",
-        null
+        "https://www.youtube.com/watch?v=e06o0-2ydlw"
       ]
     }
   },
@@ -840,7 +840,7 @@ window.gameDB = {
       "XI[sái] / XI JUMBO / XIゴ": [
         "【接力 Relay】XI[sái] / XI JUMBO / XIゴ",
         "三人三款、不間斷的益智解謎接力 RTA",
-        null
+        "https://www.youtube.com/watch?v=Wd-Dyd0SLiY"
       ]
     }
   },
@@ -1222,7 +1222,7 @@ window.gameDB = {
       "Any%": [
         "【備選節目 Backup】Any%",
         null,
-        null
+        "https://www.youtube.com/watch?v=B3UUmUX-YXA"
       ]
     }
   },
@@ -1262,7 +1262,7 @@ window.gameDB = {
       "Any%": [
         "【備選節目 Backup】Any%",
         null,
-        null
+        "https://www.youtube.com/watch?v=83BaK3NS4tU"
       ]
     }
   },
