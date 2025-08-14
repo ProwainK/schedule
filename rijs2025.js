@@ -12,7 +12,7 @@ window.eventLocalSchedule = {
     "description": null,
     "setup": "PT08M",
     "setup_t": 480,
-    "updated": "2025-08-13T12:46:52Z",
+    "updated": "2025-08-14T02:13:38Z",
     "hidden_columns": [
       "setup"
     ],
@@ -1049,8 +1049,8 @@ window.eventLocalSchedule = {
         ]
       },
       {
-        "length": "PT4H45M",
-        "length_t": 17100,
+        "length": "PT4H47M",
+        "length_t": 17220,
         "scheduled": "2025-08-13T21:46:00+09:00",
         "scheduled_t": 1755089160,
         "data": [
@@ -1063,10 +1063,10 @@ window.eventLocalSchedule = {
         ]
       },
       {
-        "length": "PT5H20M",
-        "length_t": 19200,
-        "scheduled": "2025-08-14T02:39:00+09:00",
-        "scheduled_t": 1755106740,
+        "length": "PT5H05M",
+        "length_t": 18300,
+        "scheduled": "2025-08-14T02:41:00+09:00",
+        "scheduled_t": 1755106860,
         "data": [
           "アーマード・コア ナインブレイカー",
           "All Training Gold",
@@ -1077,10 +1077,10 @@ window.eventLocalSchedule = {
         ]
       },
       {
-        "length": "PT1H42M",
-        "length_t": 6120,
-        "scheduled": "2025-08-14T08:07:00+09:00",
-        "scheduled_t": 1755126420,
+        "length": "PT1H32M",
+        "length_t": 5520,
+        "scheduled": "2025-08-14T07:54:00+09:00",
+        "scheduled_t": 1755125640,
         "data": [
           "Wattam",
           "Any%",
@@ -1091,10 +1091,10 @@ window.eventLocalSchedule = {
         ]
       },
       {
-        "length": "PT45M",
-        "length_t": 2700,
-        "scheduled": "2025-08-14T09:57:00+09:00",
-        "scheduled_t": 1755133020,
+        "length": "PT48M",
+        "length_t": 2880,
+        "scheduled": "2025-08-14T09:34:00+09:00",
+        "scheduled_t": 1755131640,
         "data": [
           "ふしぎの城のヘレン+",
           "Any% Good Ending",
@@ -1105,10 +1105,10 @@ window.eventLocalSchedule = {
         ]
       },
       {
-        "length": "PT45M",
-        "length_t": 2700,
-        "scheduled": "2025-08-14T10:50:00+09:00",
-        "scheduled_t": 1755136200,
+        "length": "PT35M",
+        "length_t": 2100,
+        "scheduled": "2025-08-14T10:30:00+09:00",
+        "scheduled_t": 1755135000,
         "data": [
           "レスキューショット ブービーぼー",
           "Easy Mode",
@@ -1121,8 +1121,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT1H10M",
         "length_t": 4200,
-        "scheduled": "2025-08-14T11:43:00+09:00",
-        "scheduled_t": 1755139380,
+        "scheduled": "2025-08-14T11:13:00+09:00",
+        "scheduled_t": 1755137580,
         "data": [
           "TOEM",
           "Combined 99%",
@@ -1135,8 +1135,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT2H10M",
         "length_t": 7800,
-        "scheduled": "2025-08-14T13:01:00+09:00",
-        "scheduled_t": 1755144060,
+        "scheduled": "2025-08-14T12:31:00+09:00",
+        "scheduled_t": 1755142260,
         "data": [
           "悠遠物語 ～空の大陸とアイテム屋さん～",
           "Ver0.76.06 ED1",
@@ -1149,8 +1149,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT2H05M",
         "length_t": 7500,
-        "scheduled": "2025-08-14T15:19:00+09:00",
-        "scheduled_t": 1755152340,
+        "scheduled": "2025-08-14T14:49:00+09:00",
+        "scheduled_t": 1755150540,
         "data": [
           "スーパーワギャンランド",
           "KAMISAMA Any%",
@@ -1163,8 +1163,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT45M",
         "length_t": 2700,
-        "scheduled": "2025-08-14T17:32:00+09:00",
-        "scheduled_t": 1755160320,
+        "scheduled": "2025-08-14T17:02:00+09:00",
+        "scheduled_t": 1755158520,
         "data": [
           "TETRIS THE GRAND MASTER 4 -ABSOLUTE EYE-",
           "MASTER-mode Rank \"Master\" Challenge",
@@ -1177,8 +1177,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT15M",
         "length_t": 900,
-        "scheduled": "2025-08-14T18:25:00+09:00",
-        "scheduled_t": 1755163500,
+        "scheduled": "2025-08-14T17:55:00+09:00",
+        "scheduled_t": 1755161700,
         "data": [
           "Death and Taxes",
           "Utopia%",
@@ -1191,8 +1191,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT2H25M",
         "length_t": 8700,
-        "scheduled": "2025-08-14T18:48:00+09:00",
-        "scheduled_t": 1755164880,
+        "scheduled": "2025-08-14T18:18:00+09:00",
+        "scheduled_t": 1755163080,
         "data": [
           "フィリスのアトリエ ～不思議な旅の錬金術士～ DX",
           "Master vs Apprentice! (Hard)",
@@ -1205,8 +1205,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT30M",
         "length_t": 1800,
-        "scheduled": "2025-08-14T21:21:00+09:00",
-        "scheduled_t": 1755174060,
+        "scheduled": "2025-08-14T20:51:00+09:00",
+        "scheduled_t": 1755172260,
         "data": [
           "アーケードアーカイブス トリオ・ザ・パンチ",
           "Any% Race",
@@ -1219,8 +1219,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT2H05M",
         "length_t": 7500,
-        "scheduled": "2025-08-14T21:59:00+09:00",
-        "scheduled_t": 1755176340,
+        "scheduled": "2025-08-14T21:29:00+09:00",
+        "scheduled_t": 1755174540,
         "data": [
           "Wizardry: Proving Grounds of the Mad Overlord",
           "Any%",
@@ -1233,8 +1233,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT25M",
         "length_t": 1500,
-        "scheduled": "2025-08-15T00:12:00+09:00",
-        "scheduled_t": 1755184320,
+        "scheduled": "2025-08-14T23:42:00+09:00",
+        "scheduled_t": 1755182520,
         "data": [
           "スゴイツヨイトウフ",
           "Koya Tofu Any%",
@@ -1247,8 +1247,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT2H25M",
         "length_t": 8700,
-        "scheduled": "2025-08-15T00:45:00+09:00",
-        "scheduled_t": 1755186300,
+        "scheduled": "2025-08-15T00:15:00+09:00",
+        "scheduled_t": 1755184500,
         "data": [
           "ゲームセンターCX 有野の挑戦状 1+2 REPLAY",
           "有野の挑戦状 Any%",
@@ -1261,8 +1261,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT2H",
         "length_t": 7200,
-        "scheduled": "2025-08-15T03:18:00+09:00",
-        "scheduled_t": 1755195480,
+        "scheduled": "2025-08-15T02:48:00+09:00",
+        "scheduled_t": 1755193680,
         "data": [
           "ドラゴンファングZ",
           "竜の深淵",
@@ -1275,8 +1275,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT2H10M",
         "length_t": 7800,
-        "scheduled": "2025-08-15T05:26:00+09:00",
-        "scheduled_t": 1755203160,
+        "scheduled": "2025-08-15T04:56:00+09:00",
+        "scheduled_t": 1755201360,
         "data": [
           "DRAG-ON DRAGOON 3",
           "[A] NG+",
@@ -1289,8 +1289,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT57M",
         "length_t": 3420,
-        "scheduled": "2025-08-15T07:44:00+09:00",
-        "scheduled_t": 1755211440,
+        "scheduled": "2025-08-15T07:14:00+09:00",
+        "scheduled_t": 1755209640,
         "data": [
           "世界樹の迷宮II 諸王の聖杯 HD REMASTER",
           "Ur-Child",
@@ -1303,8 +1303,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT25M",
         "length_t": 1500,
-        "scheduled": "2025-08-15T08:49:00+09:00",
-        "scheduled_t": 1755215340,
+        "scheduled": "2025-08-15T08:19:00+09:00",
+        "scheduled_t": 1755213540,
         "data": [
           "ブリーチ ヒート・ザ・ソウル7",
           "Story",
@@ -1317,8 +1317,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT22M",
         "length_t": 1320,
-        "scheduled": "2025-08-15T09:22:00+09:00",
-        "scheduled_t": 1755217320,
+        "scheduled": "2025-08-15T08:52:00+09:00",
+        "scheduled_t": 1755215520,
         "data": [
           "ゴジラ怪獣大決戦",
           "Expert",
@@ -1331,8 +1331,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT35M",
         "length_t": 2100,
-        "scheduled": "2025-08-15T09:52:00+09:00",
-        "scheduled_t": 1755219120,
+        "scheduled": "2025-08-15T09:22:00+09:00",
+        "scheduled_t": 1755217320,
         "data": [
           "ケツバトラー",
           "Beat 6 Characters with 6 Characters",
@@ -1345,8 +1345,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT1H05M",
         "length_t": 3900,
-        "scheduled": "2025-08-15T10:35:00+09:00",
-        "scheduled_t": 1755221700,
+        "scheduled": "2025-08-15T10:05:00+09:00",
+        "scheduled_t": 1755219900,
         "data": [
           "電車でGO!",
           "Whistlestop (All Lines 1cc)",
@@ -1359,8 +1359,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT45M",
         "length_t": 2700,
-        "scheduled": "2025-08-15T11:48:00+09:00",
-        "scheduled_t": 1755226080,
+        "scheduled": "2025-08-15T11:18:00+09:00",
+        "scheduled_t": 1755224280,
         "data": [
           "Minecraft Java Edition",
           "HHH Any% Random Seed Glitchless",
@@ -1373,8 +1373,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT1H32M",
         "length_t": 5520,
-        "scheduled": "2025-08-15T12:41:00+09:00",
-        "scheduled_t": 1755229260,
+        "scheduled": "2025-08-15T12:11:00+09:00",
+        "scheduled_t": 1755227460,
         "data": [
           "サルゲッチュ",
           "All Monkeys",
@@ -1387,8 +1387,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT15M",
         "length_t": 900,
-        "scheduled": "2025-08-15T14:21:00+09:00",
-        "scheduled_t": 1755235260,
+        "scheduled": "2025-08-15T13:51:00+09:00",
+        "scheduled_t": 1755233460,
         "data": [
           "迷宮組曲 ミロンの大冒険",
           "Any%",
@@ -1401,8 +1401,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT40M",
         "length_t": 2400,
-        "scheduled": "2025-08-15T14:44:00+09:00",
-        "scheduled_t": 1755236640,
+        "scheduled": "2025-08-15T14:14:00+09:00",
+        "scheduled_t": 1755234840,
         "data": [
           "Cook, Serve, Delicious! 3?!",
           "Buttermilk County% Standard Mode Only (single run)",
@@ -1415,8 +1415,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT1H20M",
         "length_t": 4800,
-        "scheduled": "2025-08-15T15:32:00+09:00",
-        "scheduled_t": 1755239520,
+        "scheduled": "2025-08-15T15:02:00+09:00",
+        "scheduled_t": 1755237720,
         "data": [
           "The Elder Scrolls V: Skyrim",
           "Glitchless Main Quest",
@@ -1429,8 +1429,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT3H20M",
         "length_t": 12000,
-        "scheduled": "2025-08-15T17:00:00+09:00",
-        "scheduled_t": 1755244800,
+        "scheduled": "2025-08-15T16:30:00+09:00",
+        "scheduled_t": 1755243000,
         "data": [
           "Final Fantasy X-2 HD Remaster",
           "Any% No Creature Creator",
