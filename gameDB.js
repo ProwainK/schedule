@@ -280,7 +280,7 @@ window.gameDB = {
       "6 emblem": [
         "【競賽 Race】6 emblem",
         "ウルトラ怪獣、育ててみませんか<br>超人力霸王怪獸，想來培育看看嗎？",
-        null
+        "https://www.youtube.com/watch?v=2otfEy1A07I"
       ]
     }
   },
@@ -854,7 +854,7 @@ window.gameDB = {
       "Any% No ASE (Colonel)": [
         "卡尼爾小隊版，禁止使用 ASE",
         "「解放任務」<br>與夥伴一同解放面板、突破封鎖<br>擊敗潛藏在區域深處的黑暗領航員吧！",
-        null
+        "https://www.youtube.com/watch?v=gEyYoxVtwIk"
       ]
     }
   },
@@ -868,7 +868,7 @@ window.gameDB = {
       "Any%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=Tuet2i1LDFc"
       ]
     }
   },
@@ -882,7 +882,7 @@ window.gameDB = {
       "All Training Gold": [
         "【競賽 Race】All Training Gold",
         null,
-        null
+        "https://www.youtube.com/watch?v=_bwKqeajd9Q"
       ]
     }
   },
@@ -896,7 +896,7 @@ window.gameDB = {
       "Any%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=WQrki1hAXaI"
       ]
     }
   },
@@ -909,7 +909,8 @@ window.gameDB = {
     "rijs2025": {
       "Any% Good Ending": [
         null,
-        null
+        null,
+        "https://www.youtube.com/watch?v=HioZ4YTWYCo"
       ]
     }
   },
@@ -922,7 +923,8 @@ window.gameDB = {
     "rijs2025": {
       "Easy Mode": [
         null,
-        null
+        null,
+        "https://www.youtube.com/watch?v=2rSVSmYUY2M"
       ]
     }
   },
@@ -934,6 +936,7 @@ window.gameDB = {
     "leaderboard": null,
     "rijs2025": {
       "Combined 99%": [
+        null,
         null,
         null
       ]
@@ -948,6 +951,7 @@ window.gameDB = {
     "rijs2025": {
       "Ver0.76.06 ED1": [
         null,
+        null,
         null
       ]
     }
@@ -960,6 +964,7 @@ window.gameDB = {
     "leaderboard": null,
     "rijs2025": {
       "KAMISAMA Any%": [
+        null,
         null,
         null
       ]
@@ -974,6 +979,7 @@ window.gameDB = {
     "rijs2025": {
       "MASTER-mode Rank \"Master\" Challenge": [
         "【競賽 Race】MASTER 模式取得「Master」評價挑戰",
+        null,
         null
       ]
     }
@@ -986,6 +992,7 @@ window.gameDB = {
     "leaderboard": "https://www.speedrun.com/death_and_taxes",
     "rijs2025": {
       "Utopia%": [
+        null,
         null,
         null
       ]
@@ -1000,6 +1007,7 @@ window.gameDB = {
     "rijs2025": {
       "Master vs Apprentice! (Hard)": [
         null,
+        null,
         null
       ]
     }
@@ -1013,6 +1021,7 @@ window.gameDB = {
     "rijs2025": {
       "Any% Race": [
         "【競賽 Race】Any%",
+        null,
         null
       ]
     }
@@ -1025,6 +1034,7 @@ window.gameDB = {
     "leaderboard": null,
     "rijs2025": {
       "Any%": [
+        null,
         null,
         null
       ]
@@ -1039,7 +1049,8 @@ window.gameDB = {
     "rijs2025": {
       "Koya Tofu Any%": [
         "【競賽 Race】Koya Tofu Any%",
-        "「這是一款由真正的豆腐大師製作的獨一無二的豆腐動作遊戲。」"
+        "「這是一款由真正的豆腐大師製作的獨一無二的豆腐動作遊戲。」",
+        null
       ]
     }
   },
@@ -1052,7 +1063,8 @@ window.gameDB = {
     "rijs2025": {
       "有野の挑戦状 Any%": [
         null,
-        "與年幼時期的有野少年攜手合作<br>挑戰接連而來的魔王有野所設下的各種關卡一一突破它們吧！"
+        "與年幼時期的有野少年攜手合作<br>挑戰接連而來的魔王有野所設下的各種關卡一一突破它們吧！",
+        null
       ]
     }
   },
@@ -1064,6 +1076,7 @@ window.gameDB = {
     "leaderboard": null,
     "rijs2025": {
       "竜の深淵": [
+        null,
         null,
         null
       ]
@@ -1078,6 +1091,7 @@ window.gameDB = {
     "rijs2025": {
       "[A] NG+": [
         null,
+        null,
         null
       ]
     }
@@ -1090,6 +1104,7 @@ window.gameDB = {
     "leaderboard": "https://www.speedrun.com/eo2hd",
     "rijs2025": {
       "Ur-Child": [
+        null,
         null,
         null
       ]
@@ -1104,6 +1119,7 @@ window.gameDB = {
     "rijs2025": {
       "Story": [
         null,
+        null,
         null
       ]
     }
@@ -1116,6 +1132,7 @@ window.gameDB = {
     "leaderboard": null,
     "rijs2025": {
       "Expert": [
+        null,
         null,
         null
       ]
@@ -1130,7 +1147,8 @@ window.gameDB = {
     "rijs2025": {
       "Beat 6 Characters with 6 Characters": [
         "【競賽 Race】Beat 6 Characters with 6 Characters",
-        "爆笑必至！お尻を振って2人で戦う対ケツアクション！"
+        "爆笑必至！お尻を振って2人で戦う対ケツアクション！",
+        null
       ]
     }
   },
@@ -1142,6 +1160,7 @@ window.gameDB = {
     "leaderboard": "https://www.speedrun.com/densha_de_go",
     "rijs2025": {
       "Whistlestop (All Lines 1cc)": [
+        null,
         null,
         null
       ]
@@ -1156,6 +1175,7 @@ window.gameDB = {
     "rijs2025": {
       "HHH Any% Random Seed Glitchless": [
         "【競賽 Race】HHH Any% Random Seed Glitchless",
+        null,
         null
       ]
     }
@@ -1168,6 +1188,7 @@ window.gameDB = {
     "leaderboard": null,
     "rijs2025": {
       "All Monkeys": [
+        null,
         null,
         null
       ]
@@ -1182,6 +1203,7 @@ window.gameDB = {
     "rijs2025": {
       "Any%": [
         null,
+        null,
         null
       ]
     }
@@ -1194,6 +1216,7 @@ window.gameDB = {
     "leaderboard": "https://www.speedrun.com/cook_serve_delicious_3",
     "rijs2025": {
       "Buttermilk County% Standard Mode Only (single run)": [
+        null,
         null,
         null
       ]
@@ -1208,7 +1231,8 @@ window.gameDB = {
     "rijs2025": {
       "Any% No Creature Creator": [
         null,
-        "RTA in Japan Summer 2025 壓軸節目"
+        "RTA in Japan Summer 2025 壓軸節目",
+        null
       ]
     }
   },
@@ -1304,7 +1328,7 @@ window.gameDB = {
       "Main Story Yes Auto": [
         "【備選節目 Backup】Main Story Yes Auto",
         "史上最兇模擬 RPG《魔界戰記》系列<br>異世界轉生 x 殭屍 x 等級 99999999！",
-        null
+        "https://www.youtube.com/watch?v=NCGO3UHTqK4"
       ]
     }
   },

@@ -12,7 +12,7 @@ window.eventLocalSchedule = {
     "description": null,
     "setup": "PT08M",
     "setup_t": 480,
-    "updated": "2025-08-14T19:39:08Z",
+    "updated": "2025-08-15T04:04:51Z",
     "hidden_columns": [
       "setup"
     ],
@@ -1273,8 +1273,8 @@ window.eventLocalSchedule = {
         ]
       },
       {
-        "length": "PT2H10M",
-        "length_t": 7800,
+        "length": "PT1H58M",
+        "length_t": 7080,
         "scheduled": "2025-08-15T04:39:00+09:00",
         "scheduled_t": 1755200340,
         "data": [
@@ -1287,10 +1287,10 @@ window.eventLocalSchedule = {
         ]
       },
       {
-        "length": "PT57M",
-        "length_t": 3420,
-        "scheduled": "2025-08-15T06:57:00+09:00",
-        "scheduled_t": 1755208620,
+        "length": "PT49M",
+        "length_t": 2940,
+        "scheduled": "2025-08-15T06:45:00+09:00",
+        "scheduled_t": 1755207900,
         "data": [
           "世界樹の迷宮II 諸王の聖杯 HD REMASTER",
           "Ur-Child",
@@ -1301,10 +1301,10 @@ window.eventLocalSchedule = {
         ]
       },
       {
-        "length": "PT25M",
-        "length_t": 1500,
-        "scheduled": "2025-08-15T08:02:00+09:00",
-        "scheduled_t": 1755212520,
+        "length": "PT30M",
+        "length_t": 1800,
+        "scheduled": "2025-08-15T07:42:00+09:00",
+        "scheduled_t": 1755211320,
         "data": [
           "ブリーチ ヒート・ザ・ソウル7",
           "Story",
@@ -1315,10 +1315,10 @@ window.eventLocalSchedule = {
         ]
       },
       {
-        "length": "PT22M",
-        "length_t": 1320,
-        "scheduled": "2025-08-15T08:35:00+09:00",
-        "scheduled_t": 1755214500,
+        "length": "PT29M",
+        "length_t": 1740,
+        "scheduled": "2025-08-15T08:20:00+09:00",
+        "scheduled_t": 1755213600,
         "data": [
           "ゴジラ怪獣大決戦",
           "Expert",
@@ -1331,8 +1331,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT35M",
         "length_t": 2100,
-        "scheduled": "2025-08-15T09:05:00+09:00",
-        "scheduled_t": 1755216300,
+        "scheduled": "2025-08-15T08:57:00+09:00",
+        "scheduled_t": 1755215820,
         "data": [
           "ケツバトラー",
           "Beat 6 Characters with 6 Characters",
@@ -1345,8 +1345,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT1H05M",
         "length_t": 3900,
-        "scheduled": "2025-08-15T09:48:00+09:00",
-        "scheduled_t": 1755218880,
+        "scheduled": "2025-08-15T09:40:00+09:00",
+        "scheduled_t": 1755218400,
         "data": [
           "電車でGO!",
           "Whistlestop (All Lines 1cc)",
@@ -1357,10 +1357,10 @@ window.eventLocalSchedule = {
         ]
       },
       {
-        "length": "PT45M",
-        "length_t": 2700,
-        "scheduled": "2025-08-15T11:01:00+09:00",
-        "scheduled_t": 1755223260,
+        "length": "PT30M",
+        "length_t": 1800,
+        "scheduled": "2025-08-15T10:53:00+09:00",
+        "scheduled_t": 1755222780,
         "data": [
           "Minecraft Java Edition",
           "HHH Any% Random Seed Glitchless",
@@ -1371,10 +1371,10 @@ window.eventLocalSchedule = {
         ]
       },
       {
-        "length": "PT1H32M",
-        "length_t": 5520,
-        "scheduled": "2025-08-15T11:54:00+09:00",
-        "scheduled_t": 1755226440,
+        "length": "PT1H25M",
+        "length_t": 5100,
+        "scheduled": "2025-08-15T11:31:00+09:00",
+        "scheduled_t": 1755225060,
         "data": [
           "サルゲッチュ",
           "All Monkeys",
@@ -1387,8 +1387,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT15M",
         "length_t": 900,
-        "scheduled": "2025-08-15T13:34:00+09:00",
-        "scheduled_t": 1755232440,
+        "scheduled": "2025-08-15T13:04:00+09:00",
+        "scheduled_t": 1755230640,
         "data": [
           "迷宮組曲 ミロンの大冒険",
           "Any%",
@@ -1401,8 +1401,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT40M",
         "length_t": 2400,
-        "scheduled": "2025-08-15T13:57:00+09:00",
-        "scheduled_t": 1755233820,
+        "scheduled": "2025-08-15T13:27:00+09:00",
+        "scheduled_t": 1755232020,
         "data": [
           "Cook, Serve, Delicious! 3?!",
           "Buttermilk County% Standard Mode Only (single run)",
@@ -1415,8 +1415,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT1H20M",
         "length_t": 4800,
-        "scheduled": "2025-08-15T14:45:00+09:00",
-        "scheduled_t": 1755236700,
+        "scheduled": "2025-08-15T14:15:00+09:00",
+        "scheduled_t": 1755234900,
         "data": [
           "The Elder Scrolls V: Skyrim",
           "Glitchless Main Quest",
@@ -1429,8 +1429,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT3H20M",
         "length_t": 12000,
-        "scheduled": "2025-08-15T16:13:00+09:00",
-        "scheduled_t": 1755241980,
+        "scheduled": "2025-08-15T15:43:00+09:00",
+        "scheduled_t": 1755240180,
         "data": [
           "Final Fantasy X-2 HD Remaster",
           "Any% No Creature Creator",
