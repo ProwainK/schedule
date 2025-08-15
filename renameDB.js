@@ -91,6 +91,7 @@
   "【バックアップ】14 Minesweeper Variants": "14 Minesweeper Variants",
   "【バックアップ】ブレス オブ ファイアV ドラゴンクォーター": "Breath of Fire: Dragon Quarter",
   "【バックアップ】魔界戦記ディスガイア6": "Disgaea 6: Defiance of Destiny",
+  "【バックアップ】みんな大好き塊魂アンコール＋王様プチメモリー": "We Love Katamari REROLL+ Royal Reverie",
 
 
     "Summer Games Done Quick 2025": {},

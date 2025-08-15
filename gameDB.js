@@ -1854,14 +1854,17 @@ window.gameDB = {
     "jp": "みんな大好き塊魂アンコール＋ 王様プチメモリー",
     "en": "We Love Katamari REROLL+ Royal Reverie",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/899185268_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/we_love_katamari_reroll",
     "rijs2025": {
       "Roll Up the Sun": [
+        "【備選節目 Backup】Roll Up the Sun",
         null,
-        "(Backup Run 7)"
+        null
       ]
     },
     "sgdq2025": {
       "Roll Up the Sun": [
+        null,
         null,
         null
       ]
