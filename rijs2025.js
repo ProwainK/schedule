@@ -12,7 +12,7 @@ window.eventLocalSchedule = {
     "description": null,
     "setup": "PT08M",
     "setup_t": 480,
-    "updated": "2025-08-15T04:27:19Z",
+    "updated": "2025-08-15T07:39:06Z",
     "hidden_columns": [
       "setup"
     ],
@@ -1399,8 +1399,8 @@ window.eventLocalSchedule = {
         ]
       },
       {
-        "length": "PT40M",
-        "length_t": 2400,
+        "length": "PT48M",
+        "length_t": 2880,
         "scheduled": "2025-08-15T13:23:00+09:00",
         "scheduled_t": 1755231780,
         "data": [
@@ -1413,10 +1413,10 @@ window.eventLocalSchedule = {
         ]
       },
       {
-        "length": "PT1H20M",
-        "length_t": 4800,
-        "scheduled": "2025-08-15T14:11:00+09:00",
-        "scheduled_t": 1755234660,
+        "length": "PT1H11M",
+        "length_t": 4260,
+        "scheduled": "2025-08-15T14:19:00+09:00",
+        "scheduled_t": 1755235140,
         "data": [
           "The Elder Scrolls V: Skyrim",
           "Glitchless Main Quest",
@@ -1427,10 +1427,10 @@ window.eventLocalSchedule = {
         ]
       },
       {
-        "length": "PT50M",
-        "length_t": 3000,
-        "scheduled": "2025-08-15T15:39:00+09:00",
-        "scheduled_t": 1755239940,
+        "length": "PT47M",
+        "length_t": 2820,
+        "scheduled": "2025-08-15T15:38:00+09:00",
+        "scheduled_t": 1755239880,
         "data": [
           "【バックアップ】みんな大好き塊魂アンコール＋王様プチメモリー",
           "Roll Up the Sun",
@@ -1443,8 +1443,8 @@ window.eventLocalSchedule = {
       {
         "length": "PT3H20M",
         "length_t": 12000,
-        "scheduled": "2025-08-15T16:37:00+09:00",
-        "scheduled_t": 1755243420,
+        "scheduled": "2025-08-15T16:33:00+09:00",
+        "scheduled_t": 1755243180,
         "data": [
           "Final Fantasy X-2 HD Remaster",
           "Any% No Creature Creator",

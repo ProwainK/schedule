@@ -938,7 +938,7 @@ window.gameDB = {
       "Combined 99%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=tgIx1EVUhtk"
       ]
     }
   },
@@ -952,7 +952,7 @@ window.gameDB = {
       "Ver0.76.06 ED1": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=gLKinyFlXM0"
       ]
     }
   },
@@ -966,7 +966,7 @@ window.gameDB = {
       "KAMISAMA Any%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=DsOIQitJPcs"
       ]
     }
   },
@@ -980,7 +980,7 @@ window.gameDB = {
       "MASTER-mode Rank \"Master\" Challenge": [
         "【競賽 Race】MASTER 模式取得「Master」評價挑戰",
         null,
-        null
+        "https://www.youtube.com/watch?v=e1E9wr-aGKg"
       ]
     }
   },
@@ -994,7 +994,7 @@ window.gameDB = {
       "Utopia%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=UWDP2UL-deE"
       ]
     }
   },
@@ -1008,7 +1008,7 @@ window.gameDB = {
       "Master vs Apprentice! (Hard)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=ZRHbSHqXL-8"
       ]
     }
   },
@@ -1022,7 +1022,7 @@ window.gameDB = {
       "Any% Race": [
         "【競賽 Race】Any%",
         null,
-        null
+        "https://www.youtube.com/watch?v=7OWsBoMQBCo"
       ]
     }
   },
@@ -1036,7 +1036,7 @@ window.gameDB = {
       "Any%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=IfKwhOU39NI"
       ]
     }
   },
@@ -1050,7 +1050,7 @@ window.gameDB = {
       "Koya Tofu Any%": [
         "【競賽 Race】Koya Tofu Any%",
         "「這是一款由真正的豆腐大師製作的獨一無二的豆腐動作遊戲。」",
-        null
+        "https://www.youtube.com/watch?v=Kpzm_rGouK8"
       ]
     }
   },
@@ -1064,7 +1064,7 @@ window.gameDB = {
       "有野の挑戦状 Any%": [
         null,
         "與年幼時期的有野少年攜手合作<br>挑戰接連而來的魔王有野所設下的各種關卡一一突破它們吧！",
-        null
+        "https://www.youtube.com/watch?v=3pu8173MFRw"
       ]
     }
   },
@@ -1078,7 +1078,7 @@ window.gameDB = {
       "竜の深淵": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=GYu_zqEHHIA"
       ]
     }
   },
@@ -1092,7 +1092,7 @@ window.gameDB = {
       "[A] NG+": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=9KVCPKI-kUk"
       ]
     }
   },
@@ -1106,7 +1106,7 @@ window.gameDB = {
       "Ur-Child": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=Au4DFWDSd5Y"
       ]
     }
   },
@@ -1120,7 +1120,7 @@ window.gameDB = {
       "Story": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=s8LtY1s-Tv0"
       ]
     }
   },
@@ -1134,7 +1134,7 @@ window.gameDB = {
       "Expert": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=c0-HRdZ-hIQ"
       ]
     }
   },
@@ -1148,7 +1148,7 @@ window.gameDB = {
       "Beat 6 Characters with 6 Characters": [
         "【競賽 Race】Beat 6 Characters with 6 Characters",
         "爆笑必至！お尻を振って2人で戦う対ケツアクション！",
-        null
+        "https://www.youtube.com/watch?v=eq4sq7BCXJI"
       ]
     }
   },
@@ -1162,7 +1162,7 @@ window.gameDB = {
       "Whistlestop (All Lines 1cc)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=mos6_QoNIUY"
       ]
     }
   },
@@ -1176,7 +1176,7 @@ window.gameDB = {
       "HHH Any% Random Seed Glitchless": [
         "【競賽 Race】HHH Any% Random Seed Glitchless",
         null,
-        null
+        "https://www.youtube.com/watch?v=DaeJjP2A04U"
       ]
     }
   },
@@ -1190,7 +1190,7 @@ window.gameDB = {
       "All Monkeys": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=OlXNadJO4_M"
       ]
     }
   },
@@ -1204,7 +1204,7 @@ window.gameDB = {
       "Any%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=aNRrjWfXCq4"
       ]
     }
   },
@@ -1218,7 +1218,7 @@ window.gameDB = {
       "Buttermilk County% Standard Mode Only (single run)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=dNWULWn6SSA"
       ]
     }
   },
@@ -1232,7 +1232,7 @@ window.gameDB = {
       "Any% No Creature Creator": [
         null,
         "RTA in Japan Summer 2025 壓軸節目",
-        null
+        "https://www.youtube.com/watch?v=QMoHLKrb1Wk"
       ]
     }
   },
@@ -1247,32 +1247,6 @@ window.gameDB = {
         "【備選節目 Backup】Any%",
         null,
         "https://www.youtube.com/watch?v=B3UUmUX-YXA"
-      ]
-    }
-  },
-  "Racing Lagoon": {
-    "tw": "【備選節目】陸地霸者",
-    "jp": "レーシングラグーン",
-    "en": "Racing Lagoon",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/10016_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "Any%": [
-        null,
-        "(Backup Run 3)"
-      ]
-    }
-  },
-  "アークザラッド": {
-    "tw": "【備選節目】亞克傳承",
-    "jp": "アークザラッド",
-    "en": "Arc The Lad",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/6636_IGDB.jpg",
-    "leaderboard": null,
-    "rijs2025": {
-      "JP Any%": [
-        null,
-        "(Backup Run 4)"
       ]
     }
   },
@@ -1859,7 +1833,7 @@ window.gameDB = {
       "Roll Up the Sun": [
         "【備選節目 Backup】Roll Up the Sun",
         null,
-        null
+        "https://www.youtube.com/watch?v=j5Tenign2xo"
       ]
     },
     "sgdq2025": {
@@ -3505,13 +3479,15 @@ window.gameDB = {
     "agdq2025": {
       "Main Quest": [
         null,
+        null,
         null
       ]
     },
     "rijs2025": {
       "Glitchless Main Quest": [
         null,
-        null
+        null,
+        "https://www.youtube.com/watch?v=vIW1wfzwMto"
       ]
     }
   },
