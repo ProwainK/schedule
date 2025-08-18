@@ -260,9 +260,7 @@ bottom: 0;
 
 <script src="https://unpkg.com/embla-carousel/embla-carousel.umd.js"></script>
 <script src="https://unpkg.com/embla-carousel-wheel-gestures/dist/embla-carousel-wheel-gestures.umd.js"></script>
-<script src="gameDB.js"></script>
 <script src="renameDB.js"></script>
-<script src="sgdq2025.js"></script>
 <script>
   // 顯示 loading
   const loadingEl = document.getElementById('loadingOverlay');
@@ -272,12 +270,24 @@ bottom: 0;
   let allRuns = [];
   let embla, thumbEmbla;
 
+  let gameDB = {};
 
 async function init() {
 
   const loadingEl = document.getElementById('loadingOverlay');
   if (loadingEl) loadingEl.style.display = 'flex'; // 顯示載入畫面
 
+  // gameDB init
+  try {
+    const gameDBRes = await fetch('./gameDB.json');
+    gameDB = await gameDBRes.json();
+    //console.log("✅ 資料載入成功", { gameDB });
+    console.log("✅ gameDB 載入成功");
+  } catch (e) {
+    console.error("❌ gameDB 載入失敗：", e);
+  }
+
+  // Get Event JSON
   const EVENT_ID = 56;
   let json = null;
 
@@ -304,10 +314,11 @@ async function init() {
       }
     }
 
-    // 如果上面抓不到，就使用 local JS 備援（如 sgdq2025.js 中的 eventLocalSchedule）
+    // 如果上面抓不到，就使用 local JS 備援
     if (json == null) {
       try {
-        json = { results: window.eventLocalSchedule.results };
+        const res = await fetch('./scheduleDB/SGDQ2025.json');
+        json = await res.json();
         console.log("✅ 使用本地備援資料成功");
       } catch (err) {
         console.error("❌ 備援資料也失敗", err);
@@ -518,7 +529,7 @@ if (window.innerHeight > window.innerWidth) {
     filtered.forEach((item, i) => {
       item.game = window.renameDB[item.game] || item.game;
       // console.log(item.game);
-      const info = window.gameDB[item.game] || {};
+      const info = gameDB[item.game] || {};
       const details = (info.sgdq2025 && info.sgdq2025[item.category]) || [null, null];
 
       // 主輪播 slide

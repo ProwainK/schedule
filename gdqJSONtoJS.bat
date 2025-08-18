@@ -1,2 +1,0 @@
-node gdqJSONtoJS.js
-pause

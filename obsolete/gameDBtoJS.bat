@@ -1,0 +1,2 @@
+node gameDBtoJS.js
+pause
