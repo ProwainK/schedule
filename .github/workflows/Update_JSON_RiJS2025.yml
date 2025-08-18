@@ -1,0 +1,39 @@
+name: Update RiJS2025 JSON
+
+# Horaro API
+# https://horaro.org/-/api/v1/events/rtaij/schedules/rtaijs2025
+
+on:
+  schedule:
+    - cron: '0 * * * *'    # 每小時一次
+  workflow_dispatch:       # 也可手動觸發
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check if within 8/8 ~ 8/16
+        run: |
+          TODAY=$(date -u +"%Y-%m-%d")
+          if [[ "$TODAY" < "2025-08-08" || "$TODAY" > "2025-08-16" ]]; then
+            echo "Not in target date range ($TODAY). Exiting."
+            exit 0
+          fi
+
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Fetch Horaro Schedule
+        run: |
+          mkdir -p scheduleDB
+          curl -s --fail https://horaro.org/-/api/v1/schedules/3211a1c9cbec3e7aae \
+          -o scheduleDB/RiJS2025.json
+
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add scheduleDB/RiJS2025.json
+          git commit -m "Update RiJS2025 JSON" || echo "No changes"
+          git push
