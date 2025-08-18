@@ -1,0 +1,71 @@
+<!doctype html>
+<html>
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>TEST TEST</title>
+
+  <script src="https://cdn.jsdelivr.net/npm/showdown/dist/showdown.min.js"></script>
+</head>
+
+<body>
+
+<p id="demo"></p>
+<pre id="json"></pre>
+
+<script>
+//let rij_url = 'https://horaro.org/-/api/v1/events/rtaij/schedules/rtaijs2024';
+let rij_url = 'https://horaro.org/-/api/v1/schedules/3f11c49d4gd3nh7adc';
+let rij_data;
+let gamedb_rawdata;
+let gamedb_data;
+let time_today = new Date(0, 0, 0);
+let time_day_list = ['週日', '週一', '週二', '週三', '週四', '週五', '週六'];
+
+function GetJSONP() {
+  const script = document.createElement('script');
+  script.src = rij_url + '?callback=setUser';
+  document.body.appendChild(script);
+}
+
+function setUser(rij_rawdata) {
+  rij_data = rij_rawdata;
+  console.log(rij_data);
+  //gamedb_rawdata = fs.readFileSync('gamedb.json');
+  //gamedb_data = JSON.parse(gamedb_rawdata);
+  eventInfo();
+  document.getElementById("json").textContent = JSON.stringify(rij_data, undefined, 2);
+}
+
+function eventInfo() {
+  //document.getElementById("demo").innerHTML = "---\r\n";
+  //document.getElementById("demo").innerHTML += "title: RTA in Japan Summer 2024 時程表翻譯 ლ(╹◡╹ლ)\r\n";
+
+  //document.write("---\r\n");
+  //document.write("title: RTA in Japan Summer 2024 時程表翻譯 ლ(╹◡╹ლ)\r\n");
+  /*writeStream.write("description: 無敵時間さん！？\r\n");
+  writeStream.write("---\r\n");
+  writeStream.write("\r\n");
+  writeStream.write("# RTA in Japan Summer 2024 時程表翻譯 ლ(╹◡╹ლ)\r\n");
+  writeStream.write("\r\n");
+  writeStream.write("## 台灣時間 2024 08/09 15:00 ~ 08/15 (UTC+08:00)\r\n");
+  writeStream.write("\r\n");
+  writeStream.write("\r\n");
+  writeStream.write("# 相關連結\r\n");
+  writeStream.write("\r\n");
+  writeStream.write("實況頻道：https://www.twitch.tv/rtainjapan\r\n");
+  writeStream.write("活動資訊：https://rtain.jp/rtaij/rta-in-japan-summer-2024\r\n");
+  writeStream.write("官方網站：https://rtain.jp\r\n");
+  writeStream.write("官方時程表：https://horaro.org/rtaij/rtaijs2024\r\n");
+  writeStream.write("官方 Twitter：https://twitter.com/rtainjapan\r\n");
+  writeStream.write("跑者投稿：https://oengus.io/marathon/rtaijs2024/submissions\r\n");
+  writeStream.write("\r\n");*/
+}
+
+GetJSONP();
+</script>
+
+</body>
+
+</html>
