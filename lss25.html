@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <title>Long Speedrun Summit 2025 時程表翻譯 ლ(╹◡╹ლ)</title>
+  <link href="https://fonts.googleapis.com/css2?family=Klee+One&display=swap" rel="stylesheet">
+  <style>
+    body {
+    /* font-family: Arial, sans-serif; */
+    /* Klee One, Kaisei Opti, Zen Kurenaido, Zen Maru Gothic */
+    font-family: 'Klee One', monospace;
+      background-color: #222;
+      color: #fff;
+    }
+    .game {
+      display: flex;
+      align-items: center;
+      margin: 10px 0;
+
+      padding-bottom: 10px;
+    }
+    .game img {
+      width: 160px;
+      height: auto;
+      margin-right: 15px;
+    }
+    .names {
+      display: flex;
+      flex-direction: column;
+    }
+    .names span {
+      line-height: 1.25;
+    }
+
+h1 {
+  margin-block-start: 0em;
+  margin-block-end: 0em;
+}
+a {
+  color: #fff;
+}
+  </style>
+</head>
+<body>
+  <h1>Long Speedrun Summit 2025 時程表翻譯 ლ(╹◡╹ლ)</h1>
+  <h2>2025/09/12 ～ 2025/09/28 (UTC+9)</h2>
+實況頻道：<a href="https://www.twitch.tv/longspeedrunsummit">https://www.twitch.tv/longspeedrunsummit</a><br>
+跑者投稿：<a href="https://oengus.io/marathon/LSS25">https://oengus.io/marathon/LSS25</a><br>
+官方 YouTube：<a href="https://www.youtube.com/@LongSpeedrunSummit">https://www.youtube.com/@LongSpeedrunSummit</a><br>
+官方推特 (X)：<a href="https://x.com/LongSpeedrun">https://x.com/LongSpeedrun</a><br>
+官方時程表：<a href="https://t.co/lRWLnGDGXM">https://t.co/lRWLnGDGXM</a><br>
+<br>
+
+  <div id="game-list"></div>
+
+  <script src="lss25.js"></script>
+
+  <script>
+
+    const gameList = document.getElementById('game-list');
+
+    for (const title in eventLocalSchedule) {
+      const game = eventLocalSchedule[title];
+      const boxart = game.boxart || '';
+      const tw = game.tw || '';
+      const jp = game.jp || '';
+      const en = game.en || title;
+      const category = game.category || '';
+      const scheduled = game.scheduled || '';
+      const estimate = game.estimate || '';
+      const console = game.console || '';
+      const runner = game.runner || '';
+
+      const gameDiv = document.createElement('div');
+      gameDiv.className = 'game';
+
+      const img = document.createElement('img');
+      img.src = boxart || 'https://via.placeholder.com/120x160?text=No+Image';
+      img.alt = en;
+
+      const namesDiv = document.createElement('div');
+      namesDiv.className = 'names';
+      namesDiv.innerHTML = `
+        <span><h1>${tw || jp || en}</h1><h3 style="color:#9894F9;">${category}</h3></span>
+        <span>${jp || ''}</span>
+        <span>${en || ''}</span>
+<p>
+  <span><strong>預定開跑：</strong>${scheduled || ''}</span>
+  <span><strong>　預計長度：</strong>${estimate || ''}</span>
+  <span><strong>　主機平台：</strong>${console || ''}</span><br>
+<span><strong>跑者：</strong>${runner || ''}</span>
+</p>
+      `;
+
+      gameDiv.appendChild(img);
+      gameDiv.appendChild(namesDiv);
+      gameList.appendChild(gameDiv);
+    }
+  </script>
+</body>
+</html>
