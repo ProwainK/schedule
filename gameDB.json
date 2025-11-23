@@ -476,19 +476,10 @@
       ]
     }
   },
-  "Kirby Super Star Ultra": {
+  "Kirby Super Star Ultra (重複)": {
     "tw": "星之卡比 超究極豪華版",
     "jp": "星のカービィ ウルトラスーパーデラックス",
-    "en": "Kirby Super Star Ultra",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1146782253_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/kssu",
-    "rijw2025": {
-      "Beat RotK": [
-        null,
-        null,
-        null
-      ]
-    }
+    "en": "Kirby Super Star Ultra"
   },
   "Kirby's Dream Land 2": {
     "tw": "星之卡比2",
@@ -3532,7 +3523,15 @@
     "tw": "星之卡比 超究極豪華版",
     "jp": "星のカービィ ウルトラスーパーデラックス",
     "en": "Kirby Super Star Ultra",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/19253_IGDB.jpg",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1146782253_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/kssu",
+    "rijw2025": {
+      "Beat RotK": [
+        null,
+        null,
+        null
+      ]
+    },
     "sgdq2025": {
         "Any% TAS": [
           null,
