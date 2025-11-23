@@ -499,7 +499,7 @@
     "tw": "薩爾達",
     "jp": "ゼルダ",
     "en": "Zelda (Game & Watch)",
-    "boxart": "https://www.speedrun.com/static/game/268lzk1p/cover.png",
+    "boxart": "https://i.ytimg.com/vi/k7EgqUZ8TBY/maxresdefault.jpg",
     "leaderboard": "https://www.speedrun.com/zelda_game_and_watch",
     "rijw2025": {
       "Any%": [
@@ -544,7 +544,20 @@
       ]
     }
   },
-
+  "Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island": {
+    "tw": "千變的迷宮 風來的希煉6 蛇蜷島探險譚",
+    "jp": "不思議のダンジョン 風来のシレン6 とぐろ島探検録",
+    "en": "Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/422208436_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/shiren6",
+    "rijw2025": {
+      "超・神髄TA": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
 
 
 

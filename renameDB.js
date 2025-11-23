@@ -47,6 +47,7 @@
     "サラダの国のトマト姫": "Princess Tomato in the Salad Kingdom",
 
     "トマトアドベンチャー": "Tomato Adventure",
+    "不思議のダンジョン 風来のシレン6 とぐろ島探検録": "Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island",
 
 
 
