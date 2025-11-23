@@ -38,7 +38,7 @@
     "leaderboard": "https://www.speedrun.com/nice_body",
     "rijw2025": {
       "Any%": [
-        "【競賽 Race】Any%",
+        "【競速 Race】Any%",
         null,
         null
       ]
@@ -58,11 +58,90 @@
       ]
     }
   },
-
-
-
-
-
+  "Pokémon Puzzle Challenge": {
+    "tw": "寶可夢拼圖挑戰",
+    "jp": "ポケモンでパネポン",
+    "en": "Pokémon Puzzle Challenge",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/8038_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/pokemon_puzzle_challenge",
+    "rijw2025": {
+      "VS COM EASY - V-HARD(ばくはつせりあげOFF)": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Puzzle Bobble 2": {
+    "tw": "ACA NEOGEO 泡泡龍2",
+    "jp": "アケアカNEOGEO パズルボブル2",
+    "en": "Puzzle Bobble 2 / Bust-A-Move Again",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1035907636_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/puzzle_bobble_2_arcade",
+    "rijw2025": {
+      "Puzzle": [
+        "【競速 Race】Puzzle",
+        null,
+        null
+      ]
+    }
+  },
+  "Moonlight Ghost": {
+    "tw": "月光妖怪",
+    "jp": null,
+    "en": "Moonlight Ghost",
+    "boxart": "https://www.speedrun.com/static/game/3dxkjyv1/cover.png",
+    "leaderboard": "https://www.speedrun.com/moonlight_ghost",
+    "rijw2025": {
+      "Any% 4chapter": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Touhou Koumakyou ~ the Embodiment of Scarlet Devil": {
+    "tw": "東方紅魔鄉",
+    "jp": "東方紅魔郷 〜 the Embodiment of Scarlet Devil.",
+    "en": "Touhou Koumakyou ~ the Embodiment of Scarlet Devil",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/19951_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/eosd",
+    "rijw2025": {
+      "Lunatic スコアアタック": [
+        "Lunatic 模式 + 刷分挑戰 Score Attack",
+        null,
+        null
+      ]
+    }
+  },
+  "PUNCH-OUT!! (2009)": {
+    "tw": "擊拳熱鬥！！",
+    "jp": null,
+    "en": "PUNCH-OUT!! (2009)",
+    "boxart": "https://www.speedrun.com/static/game/9d37o96l/cover.png",
+    "leaderboard": "https://www.speedrun.com/powii",
+    "rijw2025": {
+      "All Fights（目隠し）": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Etrian Odyssey IV: Legends of the Titan": {
+    "tw": "世界樹迷宮IV 傳承的巨神",
+    "jp": "世界樹の迷宮IV 伝承の巨神",
+    "en": "Etrian Odyssey IV: Legends of the Titan",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/33691_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/eo4",
+    "rijw2025": {
+      "Any%": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
 
 
 

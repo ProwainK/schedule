@@ -14,6 +14,15 @@
     "星のカービィ Wii デラックス": "Kirby's Return to Dream Land Deluxe",
     "GS美神 ～除霊師はナイスバディ～": "Ghost Sweeper Mikami: Joreishi wa Nice Body",
     "ゴミ箱 -GOMIBAKO-": "Trash Panic",
+    "ポケモンでパネポン": "Pokémon Puzzle Challenge",
+    "アケアカNEOGEO パズルボブル2": "Puzzle Bobble 2",
+    "月光妖怪": "Moonlight Ghost",
+    "東方紅魔郷 〜 the Embodiment of Scarlet Devil.": "Touhou Koumakyou ~ the Embodiment of Scarlet Devil",
+    "PUNCH-OUT!!": "PUNCH-OUT!! (2009)",
+    "世界樹の迷宮Ⅳ 伝承の巨神": "Etrian Odyssey IV: Legends of the Titan",
+
+
+
 
 
 
