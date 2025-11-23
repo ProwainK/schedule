@@ -328,19 +328,7 @@
       ]
     }
   },
-  "Shadow Generations": {
-    "tw": "夏特世代重啟",
-    "jp": "シャドウジェネレーションズ",
-    "en": "Shadow Generations",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1775804061_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/shadow_generations",
-    "rijw2025": {
-      "Any%": [
-        null,
-        null,
-        null
-      ]
-    }
+  "Shadow Generations (重複)": {
   },
   "Super High Ball: Pinball Platformer": {
     "tw": null,
@@ -440,7 +428,20 @@
       ]
     }
   },
-
+  "Glove on Fight 2: Gleam of Force": {
+    "tw": "小鳩鳩丘高校女子拳鬥部",
+    "jp": "小鳩ヶ丘高校女子ぐろ〜部 Gleam of Force",
+    "en": "Glove on Fight 2: Gleam of Force",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/495119_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/glove_on_fight_2__gleam_of_force",
+    "rijw2025": {
+      "STORY HELL%": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
 
 
 
@@ -3963,8 +3964,21 @@
     "tw": "索尼克×夏特 世代重啟",
     "jp": "ソニック × シャドウ ジェネレーションズ",
     "en": "Sonic X Shadow Generations",
-
-    "Any%": "未知邊境開放世界探索 x 世代經典高速關卡<br>I just think Radical Highway is so cool"
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1775804061_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/shadow_generations",
+    "rijw2025": {
+      "Any%": [
+        null,
+        null,
+        null
+      ],
+    "agdq2025": {
+      "Any%": [
+        null,
+        "未知邊境開放世界探索 x 世代經典高速關卡<br>I just think Radical Highway is so cool",
+        null
+      ]
+    }
   },
   "Pokémon Let's Go, Pikachu!/Eevee!": {
     "tw": "精靈寶可夢 Let's Go！皮卡丘／Let's Go！伊布",

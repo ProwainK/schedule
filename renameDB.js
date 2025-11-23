@@ -39,7 +39,7 @@
     "マリオストーリー": "Paper Mario",
     "エイリアンVSプレデター": "Alien Vs Predator",
     "キャッスルヴァニア": "Castlevania: Lament of Innocence",
-
+    "小鳩ヶ丘高校女子ぐろ〜部 Gleam of Force": "Glove on Fight 2: Gleam of Force",
 
 
 
