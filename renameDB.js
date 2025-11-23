@@ -14,6 +14,19 @@
     "星のカービィ Wii デラックス": "Kirby's Return to Dream Land Deluxe",
 
 
+
+
+
+
+
+
+
+
+
+
+    "スーパーメトロイド": "Super Metroid",
+
+
     "RTA in Japan Summer 2025": {},
 
     "悪魔城ドラキュラXX": "Castlevania: Dracula X",

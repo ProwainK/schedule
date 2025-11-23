@@ -18,6 +18,47 @@
   },
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  "Super Metroid": {
+    "tw": "超級銀河戰士",
+    "jp": "スーパーメトロイド",
+    "en": "Super Metroid",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/7595_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/supermetroid",
+    "rijw2025": {
+      "Reverse Boss Order": [
+        "逆順序擊敗頭目",
+        null,
+        null
+      ]
+    }
+  },
+
+
   "RTA in Japan Summer 2025": {"tw": null, "jp": null, "en": null},
 
 
