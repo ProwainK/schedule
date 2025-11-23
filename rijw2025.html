@@ -282,21 +282,21 @@ async function init() {
   // 在 JS 裡用 fetch() 載入 JSON
   // let gameDB = {};
   // let renameDB = {};
-  // let rijs2025 = {};
+  // let rijw2025 = {};
   try {
     // 陣列讀取寫法，但先略過不用
-    /*const [gameRes, renameRes, rijsRes] = await Promise.all([
+    /*const [gameRes, renameRes, rijwRes] = await Promise.all([
       fetch('https://yourdomain.com/path/to/gameDB.json'),
       fetch('https://yourdomain.com/path/to/renameDB.json'),
-      fetch('https://yourdomain.com/path/to/rijs2025.json')
+      fetch('https://yourdomain.com/path/to/rijw2025.json')
     ]);*/
     const gameDBRes = await fetch('./gameDB.json');
 
     gameDB = await gameDBRes.json();
     //renameDB = await renameRes.json();
-    //rijs2025 = await rijsRes.json();
+    //rijw2025 = await rijwRes.json();
 
-    //console.log("✅ 資料載入成功", { gameDB, renameDB, rijs2025 });
+    //console.log("✅ 資料載入成功", { gameDB, renameDB, rijw2025 });
     console.log("✅ 資料載入成功", { gameDB });
 
   } catch (e) {
@@ -568,7 +568,7 @@ if (window.innerHeight > window.innerWidth) {
       // console.log(item.game);
       //const info = window.gameDB[item.game] || {};
       const info = gameDB[item.game] || {};
-      const details = (info.rijs2025 && info.rijs2025[item.category]) || [null, null];
+      const details = (info.rijw2025 && info.rijw2025[item.category]) || [null, null];
 
       // 主輪播 slide
       const slide = document.createElement('div');
