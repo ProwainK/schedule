@@ -298,22 +298,11 @@
       ]
     }
   },
-  "Monster Hunter Wilds": {
+  "Monster Hunter Wilds (重複)": {
     "tw": "魔物獵人荒野",
     "jp": "モンスターハンターワイルズ",
-    "en": "Monster Hunter Wilds",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1286077738_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/mhwilds",
-    "rijw2025": {
-      "Any%": [
-        null,
-        null,
-        null
-      ]
-    }
+    "en": "Monster Hunter Wilds"
   },
-
-
   "Ogre Battle 64: Person of Lordly Caliber": {
     "tw": "皇家騎士團64",
     "jp": "オウガバトル64 Person of Lordly Caliber",
@@ -329,6 +318,9 @@
     }
   },
   "Shadow Generations (重複)": {
+    "tw": "索尼克×夏特 世代重啟",
+    "jp": "ソニック × シャドウ ジェネレーションズ",
+    "en": "Sonic X Shadow Generations"
   },
   "Super High Ball: Pinball Platformer": {
     "tw": null,
@@ -464,19 +456,10 @@
 
 
 
-  "Super Metroid": {
+  "Super Metroid (重複)": {
     "tw": "超級銀河戰士",
     "jp": "スーパーメトロイド",
-    "en": "Super Metroid",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/7595_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/supermetroid",
-    "rijw2025": {
-      "Reverse Boss Order": [
-        "逆順序擊敗頭目",
-        null,
-        null
-      ]
-    }
+    "en": "Super Metroid"
   },
 
 
@@ -3299,6 +3282,13 @@
     "jp": "モンスターハンターワイルズ",
     "en": "Monster Hunter Wilds",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1286077738_IGDB.jpg",
+    "rijw2025": {
+      "Any%": [
+        null,
+        null,
+        null
+      ]
+    },
     "sgdq2025": {
         "Lockout Bingo": [
           "賓果挑戰 (比賽搶格子)",
@@ -4504,6 +4494,14 @@
     "jp": "スーパーメトロイド",
     "en": "Super Metroid",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/7595_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/supermetroid",
+    "rijw2025": {
+      "Reverse Boss Order": [
+        "逆順序擊敗頭目",
+        null,
+        null
+      ]
+    },
     "agdq2025": {
         "Map Randomizer Race": [
           "4 人密室逃脫比賽！地圖房間隨機化",
