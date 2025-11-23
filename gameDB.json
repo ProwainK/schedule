@@ -436,7 +436,7 @@
   },
   "Sclash": {
     "tw": null,
-    "jp": null,
+    "jp": "スラッシュ",
     "en": "Sclash",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1166390225_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/Sclash",
@@ -466,7 +466,7 @@
     "tw": "冰與火之舞",
     "jp": null,
     "en": "A Dance of Fire and Ice",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/512812_IGDB.jpg",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/511183_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/adofai",
     "rijw2025": {
       "A100% Pure Perfect": [
@@ -490,7 +490,62 @@
       ]
     }
   },
-
+  "Kirby's Dream Land 2": {
+    "tw": "星之卡比2",
+    "jp": "星のカービィ2",
+    "en": "Kirby's Dream Land 2",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/4089_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/kdl2",
+    "rijw2025": {
+      "Best Ending": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Zelda (Game & Watch Gallery 4)": {
+    "tw": "薩爾達",
+    "jp": "ゼルダ",
+    "en": "Zelda (Game & Watch Gallery 4)",
+    "boxart": "https://www.speedrun.com/static/game/369rq26l/cover.png",
+    "leaderboard": "https://www.speedrun.com/gawg4",
+    "rijw2025": {
+      "Any%": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "The Legend of Zelda: Ocarina of Time": {
+    "tw": "薩爾達傳說 時之笛",
+    "jp": "ゼルダの伝説 時のオカリナ",
+    "en": "The Legend of Zelda: Ocarina of Time",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/11557_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/oot",
+    "rijw2025": {
+      "MST": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Princess Tomato in the Salad Kingdom": {
+    "tw": "沙拉王國的番茄公主",
+    "jp": "サラダの国のトマト姫",
+    "en": "Princess Tomato in the Salad Kingdom",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/4164_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/princess_tomato_in_the_salad_kingdom",
+    "rijw2025": {
+      "Beat The Game": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
 
 
 
