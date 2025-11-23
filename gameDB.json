@@ -434,9 +434,62 @@
       ]
     }
   },
-
-
-
+  "Sclash": {
+    "tw": null,
+    "jp": null,
+    "en": "Sclash",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1166390225_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/Sclash",
+    "rijw2025": {
+      "Classique": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Vectronom": {
+    "tw": null,
+    "jp": null,
+    "en": "Vectronom",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/512812_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/vectronom",
+    "rijw2025": {
+      "All Pickups": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "A Dance of Fire and Ice": {
+    "tw": "冰與火之舞",
+    "jp": null,
+    "en": "A Dance of Fire and Ice",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/512812_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/adofai",
+    "rijw2025": {
+      "A100% Pure Perfect": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Kirby Super Star Ultra": {
+    "tw": "星之卡比 超究極豪華版",
+    "jp": "星のカービィ ウルトラスーパーデラックス",
+    "en": "Kirby Super Star Ultra",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1146782253_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/kssu",
+    "rijw2025": {
+      "Beat RotK": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
 
 
 
