@@ -26,6 +26,16 @@
     "BORDER BREAK(PS4)": "Border Break",
     "精霊機フレイリート": "Divine Dynamo Flamefrit",
     "スターフォックス64": "Star Fox 64",
+    "BLADE CHIMERA - ブレードキメラ": "BLADE CHIMERA",
+    "マリオカート8": "Mario Kart 8",
+    "首都高バトル": "Shutokou Battle",
+    "モンスターハンターワイルズ": "Monster Hunter Wilds",
+
+
+
+
+
+
 
 
 

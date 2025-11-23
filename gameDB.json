@@ -228,6 +228,105 @@
       ]
     }
   },
+  "BLADE CHIMERA": {
+    "tw": "幻刃奇美拉",
+    "jp": "ブレードキメラ",
+    "en": "BLADE CHIMERA",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1982133350_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/BLADE_CHIMERA",
+    "rijw2025": {
+      "Any%": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "MOMIBOSU": {
+    "tw": null,
+    "jp": "モミボス",
+    "en": "MOMIBOSU",
+    "boxart": "https://www.speedrun.com/static/game/9doxeq7d/cover.jpg",
+    "leaderboard": "https://www.speedrun.com/MOMIBOSU",
+    "rijw2025": {
+      "All Keys": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Lonely Mountains: Snow Riders": {
+    "tw": null,
+    "jp": null,
+    "en": "Lonely Mountains: Snow Riders",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/2109314477_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/Lonely_Mountains_Snow_Riders",
+    "rijw2025": {
+      "24 Trails": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Mario Kart 8": {
+    "tw": "瑪利歐賽車8",
+    "jp": "マリオカート8",
+    "en": "Mario Kart 8",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/369588_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/mk8",
+    "rijw2025": {
+      "48 Tracks": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Shutokou Battle": {
+    "tw": "首都高賽車",
+    "jp": "首都高バトル",
+    "en": "Shutokou Battle / Tokyo Xtreme Racer",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/6408_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/tokyo_xtreme_racer",
+    "rijw2025": {
+      "Beat All the Devas": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Monster Hunter Wilds": {
+    "tw": "魔物獵人荒野",
+    "jp": "モンスターハンターワイルズ",
+    "en": "Monster Hunter Wilds",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1286077738_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/mhwilds",
+    "rijw2025": {
+      "Any%": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
