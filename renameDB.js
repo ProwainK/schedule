@@ -51,7 +51,12 @@
     "ドラゴンクエストキャラクターズ トルネコの大冒険2 不思議のダンジョン": "Torneko: The Last Hope",
     "スペルトナエル": "Spell Tonaeru",
     "カエルの為に鐘は鳴る": "Kaeru no Tame ni Kane wa Naru",
-
+    "ピクミン4": "Pikmin 4",
+    "スーパーマリオワールド": "Super Mario World",
+    "スーパーマリオメーカー 2": "Super Mario Maker 2",
+    "スーパーマリオギャラクシー": "Super Mario Galaxy",
+    "フィズとにじいろの星": "Fiz and the Rainbow Planet",
+    "朧村正 - 元禄怪奇譚": "Muramasa: The Demon Blade",
 
 
 

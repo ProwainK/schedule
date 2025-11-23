@@ -600,6 +600,135 @@
       ]
     }
   },
+  "Pikmin 4": {
+    "tw": "皮克敏4",
+    "jp": "ピクミン4",
+    "en": "Pikmin 4",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/494998_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/pikmin4",
+    "rijw2025": {
+      "Rescue Olimar": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Crab Champions": {
+    "tw": "螃蟹冠軍",
+    "jp": null,
+    "en": "Crab Champions",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1754564141_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/crab_champions",
+    "rijw2025": {
+      "Normal Any% No Key Totem(v2194+)": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Super Mario World": {
+    "tw": "超級瑪利歐世界",
+    "jp": "スーパーマリオワールド",
+    "en": "Super Mario World",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1229_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/smw",
+    "rijw2025": {
+      "Small Only": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Super Mario Maker 2": {
+    "tw": "超級瑪利歐創作家 2",
+    "jp": "スーパーマリオメーカー 2",
+    "en": "Super Mario Maker 2",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/511399_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/smm2",
+    "rijw2025": {
+      "Endless Mode - All Difficulties": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Super Mario Galaxy": {
+    "tw": "超級瑪利歐銀河",
+    "jp": "スーパーマリオギャラクシー",
+    "en": "Super Mario Galaxy",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/14766_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/smg1",
+    "rijw2025": {
+      "Any% Luigi 1P": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Fiz and the Rainbow Planet": {
+    "tw": "菲茲與彩虹星",
+    "jp": "フィズとにじいろの星",
+    "en": "Fiz and the Rainbow Planet",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/534683438_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/Fiz_and_the_Rainbow_Planet",
+    "rijw2025": {
+      "Any%": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "SONOKUNI": {
+    "tw": null,
+    "jp": null,
+    "en": "SONOKUNI",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/429213682_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/SONOKUNI",
+    "rijw2025": {
+      "Speedrun Mode Hard": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Muramasa: The Demon Blade": {
+    "tw": "朧村正",
+    "jp": null,
+    "en": "Muramasa: The Demon Blade",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/21767_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/muramasa",
+    "rijw2025": {
+      "Okoi Any%": [
+        "元禄怪奇譚 化貓篇破關",
+        null,
+        null
+      ]
+    }
+  },
+  "Death's Door": {
+    "tw": "死亡之門",
+    "jp": null,
+    "en": "Death's Door",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1566403385_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/deaths_door",
+    "rijw2025": {
+      "Unrestricted Latest Patch Any Weapon": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+
+
+
 
 
 
