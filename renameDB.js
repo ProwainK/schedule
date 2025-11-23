@@ -31,9 +31,9 @@
     "首都高バトル": "Shutokou Battle",
     "モンスターハンターワイルズ": "Monster Hunter Wilds",
 
+    "オウガバトル64 Person of Lordly Caliber": "Ogre Battle 64",
 
-
-
+    "キャッスルヴァニア": "Castlevania: Lament of Innocence",
 
 
 

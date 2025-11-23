@@ -314,7 +314,46 @@
   },
 
 
+  "Ogre Battle 64": {
+    "tw": "皇家騎士團64",
+    "jp": "オウガバトル64 Person of Lordly Caliber",
+    "en": "Ogre Battle 64",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/13310_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/ogre_battle_64_person_of_lordly_caliber",
+    "rijw2025": {
+      "Any%": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
 
+
+
+
+
+
+
+
+
+
+
+
+  "Castlevania: Lament of Innocence": {
+    "tw": "惡魔城 無罪的嘆息",
+    "jp": "キャッスルヴァニア",
+    "en": "Castlevania: Lament of Innocence",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/14478_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/loi",
+    "rijw2025": {
+      "Any% Crazy": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
 
 
 
