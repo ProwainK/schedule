@@ -48,6 +48,10 @@
 
     "トマトアドベンチャー": "Tomato Adventure",
     "不思議のダンジョン 風来のシレン6 とぐろ島探検録": "Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island",
+    "ドラゴンクエストキャラクターズ トルネコの大冒険2 不思議のダンジョン": "Torneko: The Last Hope",
+    "スペルトナエル": "Spell Tonaeru",
+    "カエルの為に鐘は鳴る": "Kaeru no Tame ni Kane wa Naru",
+
 
 
 

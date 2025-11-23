@@ -558,8 +558,48 @@
       ]
     }
   },
-
-
+  "Torneko: The Last Hope": {
+    "tw": "特魯內克大冒險2 不思議的迷宮",
+    "jp": "ドラゴンクエストキャラクターズ トルネコの大冒険2 不思議のダンジョン",
+    "en": "Torneko: The Last Hope",
+    "boxart": "https://www.speedrun.com/static/game/4d73x317/cover.jpg",
+    "leaderboard": "https://www.speedrun.com/tornekolasthope",
+    "rijw2025": {
+      "Any%": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Spell Tonaeru": {
+    "tw": "咒語詠唱",
+    "jp": "スペルトナエル",
+    "en": "Spell Tonaeru",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/438177464_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/SpellTonaeru",
+    "rijw2025": {
+      "Perfect All Endings": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Kaeru no Tame ni Kane wa Naru": {
+    "tw": "鐘為蛙鳴 / 鐘為青蛙而響",
+    "jp": "カエルの為に鐘は鳴る",
+    "en": "Kaeru no Tame ni Kane wa Naru",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/9361_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/kaeru",
+    "rijw2025": {
+      "Any%": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
 
 
 
