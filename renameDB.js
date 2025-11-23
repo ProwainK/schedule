@@ -13,7 +13,7 @@
 
     "星のカービィ Wii デラックス": "Kirby's Return to Dream Land Deluxe",
     "GS美神 ～除霊師はナイスバディ～": "Ghost Sweeper Mikami: Joreishi wa Nice Body",
-
+    "ゴミ箱 -GOMIBAKO-": "Trash Panic",
 
 
 

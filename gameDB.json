@@ -38,13 +38,26 @@
     "leaderboard": "https://www.speedrun.com/nice_body",
     "rijw2025": {
       "Any%": [
+        "【競賽 Race】Any%",
+        null,
+        null
+      ]
+    }
+  },
+  "Trash Panic": {
+    "tw": "垃圾桶 -GOMIBAKO-",
+    "jp": "ゴミ箱 -GOMIBAKO-",
+    "en": "Trash Panic",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/21792_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/thpn",
+    "rijw2025": {
+      "Hellish Shining Gold Can": [
         null,
         null,
         null
       ]
     }
   },
-
 
 
 
