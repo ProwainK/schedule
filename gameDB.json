@@ -16,8 +16,34 @@
       ]
     }
   },
-
-
+  "Pizza Tower": {
+    "tw": "披薩塔",
+    "jp": null,
+    "en": "Pizza Tower",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1774510513_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/pizza_tower",
+    "rijw2025": {
+      "100%,Peppino": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Ghost Sweeper Mikami: Joreishi wa Nice Body": {
+    "tw": "GS美神 ～Nice Body 除靈師～",
+    "jp": "GS美神 ～除霊師はナイスバディ～",
+    "en": "Ghost Sweeper Mikami: Joreishi wa Nice Body",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/30340_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/nice_body",
+    "rijw2025": {
+      "Any%": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
 
 
 
