@@ -530,6 +530,20 @@
   },
 
 
+  "Tomato Adventure": {
+    "tw": "蕃茄冒險記",
+    "jp": "トマトアドベンチャー",
+    "en": "Tomato Adventure",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/19331_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/tomato_adventure",
+    "rijw2025": {
+      "Any%": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
 
 
 

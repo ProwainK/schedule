@@ -42,11 +42,11 @@
     "小鳩ヶ丘高校女子ぐろ〜部 Gleam of Force": "Glove on Fight 2: Gleam of Force",
     "星のカービィ ウルトラスーパーデラックス": "Kirby Super Star Ultra",
     "星のカービィ2": "Kirby's Dream Land 2",
-    "ゼルダ": "Zelda (Game & Watch Gallery 4)",
+    "ゼルダ": "Zelda (Game & Watch)",
     "ゼルダの伝説 時のオカリナ": "The Legend of Zelda: Ocarina of Time",
     "サラダの国のトマト姫": "Princess Tomato in the Salad Kingdom",
 
-
+    "トマトアドベンチャー": "Tomato Adventure",
 
 
 
