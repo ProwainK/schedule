@@ -1,4 +1,23 @@
 {
+  "RTA in Japan Winter 2025": {"tw": null, "jp": null, "en": null},
+
+
+  "Kirby's Return to Dream Land Deluxe": {
+    "tw": "星之卡比 Wii 豪華版",
+    "jp": "星のカービィ Wii デラックス",
+    "en": "Kirby's Return to Dream Land Deluxe",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1262582393_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/krtdldx",
+    "rijw2025": {
+      "Magolor Epilogue All Stages": [
+        "魔法洛亞後記，完成全關卡",
+        null,
+        null
+      ]
+    }
+  },
+
+
   "RTA in Japan Summer 2025": {"tw": null, "jp": null, "en": null},
 
 

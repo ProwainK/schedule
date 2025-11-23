@@ -9,6 +9,11 @@
 })(typeof self !== 'undefined' ? self : this, function () {
   return {
 
+    "RTA in Japan Winter 2025": {},
+
+    "星のカービィ Wii デラックス": "Kirby's Return to Dream Land Deluxe",
+
+
     "RTA in Japan Summer 2025": {},
 
     "悪魔城ドラキュラXX": "Castlevania: Dracula X",
