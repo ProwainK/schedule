@@ -21,6 +21,12 @@
     "PUNCH-OUT!!": "PUNCH-OUT!! (2009)",
     "世界樹の迷宮Ⅳ 伝承の巨神": "Etrian Odyssey IV: Legends of the Titan",
 
+    "リトルタウンヒーロー": "Little Town Hero",
+    "桃太郎電鉄ワールド〜地球は希望でまわってる！〜": "Momotaro Dentetsu World: Chikyuu ha Kibou de Mawatteru!",
+    "BORDER BREAK(PS4)": "Border Break",
+    "精霊機フレイリート": "Divine Dynamo Flamefrit",
+    "スターフォックス64": "Star Fox 64",
+
 
 
 

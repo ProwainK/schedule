@@ -144,12 +144,90 @@
   },
 
 
-
-
-
-
-
-
+  "Aliens: Colonial Marines": {
+    "tw": "異形：殖民戰隊",
+    "jp": null,
+    "en": "Aliens: Colonial Marines",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/19100_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/acm",
+    "rijw2025": {
+      "Any%": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Little Town Hero": {
+    "tw": "小鎮英雄",
+    "jp": "リトルタウンヒーロー",
+    "en": "Little Town Hero",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1876836402_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/little_town_hero",
+    "rijw2025": {
+      "Any% - Difficulty Hard": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Momotaro Dentetsu World: Chikyuu ha Kibou de Mawatteru!": {
+    "tw": "桃太郎電鐵世界",
+    "jp": "桃太郎電鉄ワールド〜地球は希望でまわってる！〜",
+    "en": "Momotaro Dentetsu World: Chikyuu ha Kibou de Mawatteru!",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1972874741_IGDB.jpg",
+    "leaderboard": null,
+    "rijw2025": {
+      "Get Momotaro Land(With Save)": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Border Break": {
+    "tw": "邊境保衛戰",
+    "jp": null,
+    "en": "Border Break",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/22813_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/border_break",
+    "rijw2025": {
+      "MainScenario(episode 1 - episode 16) ALL A(1Hangar)": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Divine Dynamo Flamefrit": {
+    "tw": "精靈機弗烈利特",
+    "jp": "精霊機フレイリート",
+    "en": "Divine Dynamo Flamefrit",
+    "boxart": "https://www.speedrun.com/static/game/9d3wnq91/cover.png",
+    "leaderboard": "https://www.speedrun.com/Divine_Dynamo_Flamefrit",
+    "rijw2025": {
+      "Any%": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Star Fox 64": {
+    "tw": "星際火狐64",
+    "jp": "スターフォックス64",
+    "en": "Star Fox 64",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/17586_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/sf64",
+    "rijw2025": {
+      "Any%": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
 
 
 
