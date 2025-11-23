@@ -31,8 +31,12 @@
     "首都高バトル": "Shutokou Battle",
     "モンスターハンターワイルズ": "Monster Hunter Wilds",
 
-    "オウガバトル64 Person of Lordly Caliber": "Ogre Battle 64",
-
+    "オウガバトル64 Person of Lordly Caliber": "Ogre Battle 64: Person of Lordly Caliber",
+    "シャドウジェネレーションズ": "Shadow Generations",
+    "グレゴリーホラーショー ソウルコレクター": "Gregory Horror Show",
+    "マリオゴルフGB": "Mario Golf (Game Boy Color)",
+    "Refind Self: 性格診断ゲーム": "Refind Self: The Personality Test Game",
+    "マリオストーリー": "Paper Mario",
     "キャッスルヴァニア": "Castlevania: Lament of Innocence",
 
 

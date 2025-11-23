@@ -314,10 +314,10 @@
   },
 
 
-  "Ogre Battle 64": {
+  "Ogre Battle 64: Person of Lordly Caliber": {
     "tw": "皇家騎士團64",
     "jp": "オウガバトル64 Person of Lordly Caliber",
-    "en": "Ogre Battle 64",
+    "en": "Ogre Battle 64: Person of Lordly Caliber",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/13310_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/ogre_battle_64_person_of_lordly_caliber",
     "rijw2025": {
@@ -328,18 +328,104 @@
       ]
     }
   },
-
-
-
-
-
-
-
-
-
-
-
-
+  "Shadow Generations": {
+    "tw": "夏特世代重啟",
+    "jp": "シャドウジェネレーションズ",
+    "en": "Shadow Generations",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1775804061_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/shadow_generations",
+    "rijw2025": {
+      "Any%": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Super High Ball: Pinball Platformer": {
+    "tw": null,
+    "jp": null,
+    "en": "Super High Ball: Pinball Platformer",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/517418_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/super_high_ball_pinball_platformer",
+    "rijw2025": {
+      "All Levels": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Gregory Horror Show": {
+    "tw": "葛瑞格利驚悚秀",
+    "jp": "グレゴリーホラーショー ソウルコレクター",
+    "en": "Gregory Horror Show",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/6366_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/gregory_horror_show",
+    "rijw2025": {
+      "Any%(Normal)": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Mario Golf (Game Boy Color)": {
+    "tw": "瑪利歐高爾夫GB",
+    "jp": "マリオゴルフGB",
+    "en": "Mario Golf (Game Boy Color)",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/18042_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/mariogolf",
+    "rijw2025": {
+      "Story Mode - All Courses（Switch版）": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Refind Self: The Personality Test Game": {
+    "tw": "憶我：一個性格測試遊戲",
+    "jp": "Refind Self: 性格診断ゲーム",
+    "en": "Refind Self: The Personality Test Game",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/235446742_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/Refind_Self_The_Personality_Test_Game",
+    "rijw2025": {
+      "All Personalities": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Paper Mario": {
+    "tw": "紙片瑪利歐",
+    "jp": "マリオストーリー",
+    "en": "Paper Mario",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/18231_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/pm64",
+    "rijw2025": {
+      "Any%(NoACE)": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Refind Self: The Personality Test Game": {
+    "tw": "異形戰場",
+    "jp": "エイリアンVSプレデター",
+    "en": "Alien Vs Predator",
+    "boxart": "https://www.speedrun.com/static/game/46wjw7dr/cover.jpg",
+    "leaderboard": "https://www.speedrun.com/avparcade",
+    "rijw2025": {
+      "Schaefer Any%": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
   "Castlevania: Lament of Innocence": {
     "tw": "惡魔城 無罪的嘆息",
     "jp": "キャッスルヴァニア",
