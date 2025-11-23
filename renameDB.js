@@ -37,6 +37,7 @@
     "マリオゴルフGB": "Mario Golf (Game Boy Color)",
     "Refind Self: 性格診断ゲーム": "Refind Self: The Personality Test Game",
     "マリオストーリー": "Paper Mario",
+    "エイリアンVSプレデター": "Alien Vs Predator",
     "キャッスルヴァニア": "Castlevania: Lament of Innocence",
 
 
