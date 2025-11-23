@@ -628,33 +628,15 @@
       ]
     }
   },
-  "Super Mario World": {
+  "Super Mario World (重複)": {
     "tw": "超級瑪利歐世界",
     "jp": "スーパーマリオワールド",
-    "en": "Super Mario World",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1229_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/smw",
-    "rijw2025": {
-      "Small Only": [
-        null,
-        null,
-        null
-      ]
-    }
+    "en": "Super Mario World"
   },
-  "Super Mario Maker 2": {
+  "Super Mario Maker 2 (重複)": {
     "tw": "超級瑪利歐創作家 2",
     "jp": "スーパーマリオメーカー 2",
-    "en": "Super Mario Maker 2",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/511399_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/smm2",
-    "rijw2025": {
-      "Endless Mode - All Difficulties": [
-        null,
-        null,
-        null
-      ]
-    }
+    "en": "Super Mario Maker 2"
   },
   "Super Mario Galaxy": {
     "tw": "超級瑪利歐銀河",
@@ -706,7 +688,7 @@
     "leaderboard": "https://www.speedrun.com/muramasa",
     "rijw2025": {
       "Okoi Any%": [
-        "元禄怪奇譚 化貓篇破關",
+        "元禄怪奇譚 化貓篇 Any%",
         null,
         null
       ]
@@ -3520,6 +3502,14 @@
     "jp": "スーパーマリオメーカー 2",
     "en": "Super Mario Maker 2",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/511399_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/smm2",
+    "rijw2025": {
+      "Endless Mode - All Difficulties": [
+        null,
+        null,
+        null
+      ]
+    },
     "sgdq2025": {
         "Relay Race": [
           "AB 兩隊比賽挑戰活動特製關卡",
@@ -4657,8 +4647,22 @@
     "tw": "超級瑪利歐世界",
     "jp": "スーパーマリオワールド",
     "en": "Super Mario World",
-
-    "96 Exit Race": "雙人競賽"
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1229_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/smw",
+    "rijw2025": {
+      "Small Only": [
+        null,
+        null,
+        null
+      ]
+    },
+    "agdq2025": {
+      "96 Exit Race": [
+        "雙人競賽",
+        null,
+        null
+      ]
+    }
   },
   "Peggle Extreme": {
     "tw": null,
