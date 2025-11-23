@@ -495,12 +495,12 @@
       ]
     }
   },
-  "Zelda (Game & Watch Gallery 4)": {
+  "Zelda (Game & Watch)": {
     "tw": "薩爾達",
     "jp": "ゼルダ",
-    "en": "Zelda (Game & Watch Gallery 4)",
-    "boxart": "https://www.speedrun.com/static/game/369rq26l/cover.png",
-    "leaderboard": "https://www.speedrun.com/gawg4",
+    "en": "Zelda (Game & Watch)",
+    "boxart": "https://www.speedrun.com/static/game/268lzk1p/cover.png",
+    "leaderboard": "https://www.speedrun.com/zelda_game_and_watch",
     "rijw2025": {
       "Any%": [
         null,
