@@ -876,6 +876,108 @@
       ]
     }
   },
+  "イレギュラーハンターX": {
+    "tw": "反亂獵人X",
+    "jp": "イレギュラーハンターX",
+    "en": "Irregular Hunter X / Mega Man Maverick Hunter X",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/347261884_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/megaman_maverick_hunter_x",
+    "bangumi": {
+      "VAVA Hard 100%": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "ロックマンX3": {
+    "tw": "洛克人X3",
+    "jp": "ロックマンX3",
+    "en": "Rockman X3 / Mega Man X3",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/15538_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/mmx3",
+    "bangumi": {
+      "Any%": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "ドンキーコング リターンズ HD": {
+    "tw": "咚奇剛歸來HD",
+    "jp": "ドンキーコング リターンズ HD",
+    "en": "Donkey Kong Country Returns HD",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/478131056_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/dkcrhd",
+    "bangumi": {
+      "Any% Modern Mode": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "罪と罰 〜地球の継承者〜": {
+    "tw": "罪與罰 ～地球的繼承者～",
+    "jp": "罪と罰 〜地球の継承者〜",
+    "en": "Sin and Punishment",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/6772_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/sandp",
+    "bangumi": {
+      "Any% Hard": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Final Fantasy 1 Pixel Remaster": {
+    "tw": "Final Fantasy 1 像素複刻版",
+    "jp": null,
+    "en": "Final Fantasy 1 Pixel Remaster",
+    "boxart": "https://www.speedrun.com/static/game/ldeyrj13/cover.png",
+    "leaderboard": "https://www.speedrun.com/ff1",
+    "bangumi": {
+      "Any% (No QS Manip)": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "ドラゴンクエストモンスターズ テリーのワンダーランド3D": {
+    "tw": "勇者鬥惡龍 怪獸仙境 泰瑞的仙境",
+    "jp": "ドラゴンクエストモンスターズ テリーのワンダーランド3D",
+    "en": "Dragon Warrior Monsters",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/478131056_IGDB.jpg",
+    "leaderboard": null,
+    "bangumi": {
+      "Any%": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+
+
+  "ポケットモンスター スカーレット・バイオレット": {
+    "tw": "寶可夢 朱／紫",
+    "jp": "ポケットモンスター スカーレット・バイオレット",
+    "en": "Pokémon Scarlet and Violet",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/478131056_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/pkmnscarletviolet",
+    "bangumi": {
+      "	Any% Glitchless": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+
+
 
 
 
