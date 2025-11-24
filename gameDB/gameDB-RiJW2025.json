@@ -1146,25 +1146,104 @@
   },
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  "Bat to the Heavens": {
+    "tw": null,
+    "jp": null,
+    "en": "Bat to the Heavens",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1233823310_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/Bat_to_the_Heavens",
+    "bangumi": {
+      "54 Lantern": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "ヨッシーのクッキー": {
+    "tw": "耀西的餅乾",
+    "jp": "ヨッシーのクッキー",
+    "en": "Yoshi's Cookie",
+    "boxart": "https://www.speedrun.com/static/game/o6g2m812/cover.png",
+    "leaderboard": "https://www.speedrun.com/yoshis_cookie_snes",
+    "bangumi": {
+      "VS Mode": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "スーパーマリオパーティ ジャンボリー": {
+    "tw": "超級瑪利歐派對 空前盛會",
+    "jp": "スーパーマリオパーティ ジャンボリー",
+    "en": "Super Mario Party Jamboree",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1471610418_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/supermariopartyjamboree",
+    "bangumi": {
+      "Party-Planner Trek Any%": [
+        "【競速 Race】Party-Planner Trek Any%",
+        null,
+        null
+      ]
+    }
+  },
+  "スプラトゥーン3 サイド・オーダー": {
+    "tw": "斯普拉遁3：秩序篇",
+    "jp": "スプラトゥーン3 サイド・オーダー",
+    "en": "Splatoon 3: Side Order",
+    "boxart": "https://www.speedrun.com/static/game/k6qp2pmd/cover.png",
+    "leaderboard": "https://www.speedrun.com/SideOrder",
+    "bangumi": {
+      "Any%": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Pump It Up Phoenix": {
+    "tw": null,
+    "jp": null,
+    "en": "Pump It Up Phoenix",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1078451966_IGDB.jpg",
+    "leaderboard": null,
+    "bangumi": {
+      "Showcase": [
+        "音樂節奏遊戲表演",
+        null,
+        null
+      ]
+    }
+  },
+  "ENDER MAGNOLIA: Bloom in the Mist": {
+    "tw": "終結者瑪格諾莉亞",
+    "jp": null,
+    "en": "ENDER MAGNOLIA: Bloom in the Mist",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/838184267_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/endermagnolia",
+    "bangumi": {
+      "Any% Ending A - Normal": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "イースⅡクロニクルズ": {
+    "tw": "伊蘇II 編年史",
+    "jp": "イースII クロニクルズ",
+    "en": "Ys II Chronicles",
+    "boxart": "https://www.speedrun.com/static/game/nd2nmrd0/cover.png",
+    "leaderboard": "https://www.speedrun.com/ysiic",
+    "bangumi": {
+      "Easy Any% (No Time Attack glitch)": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
   "スーパーメトロイド": {
     "tw": "超級銀河戰士",
     "jp": "スーパーメトロイド",
