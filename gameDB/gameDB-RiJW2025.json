@@ -912,7 +912,7 @@
     "leaderboard": "https://www.speedrun.com/dkcrhd",
     "bangumi": {
       "Any% Modern Mode": [
-        null,
+        "【競速 Race】Any% Modern Mode",
         null,
         null
       ]
@@ -947,10 +947,10 @@
     }
   },
   "ドラゴンクエストモンスターズ テリーのワンダーランド3D": {
-    "tw": "勇者鬥惡龍 怪獸仙境 泰瑞的仙境",
+    "tw": "勇者鬥惡龍 怪獸仙境 泰瑞的仙境3D",
     "jp": "ドラゴンクエストモンスターズ テリーのワンダーランド3D",
-    "en": "Dragon Warrior Monsters",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/478131056_IGDB.jpg",
+    "en": "Dragon Quest Monsters: Terry no Wonderland 3D",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1105212777_IGDB.jpg",
     "leaderboard": null,
     "bangumi": {
       "Any%": [
@@ -966,17 +966,30 @@
     "tw": "寶可夢 朱／紫",
     "jp": "ポケットモンスター スカーレット・バイオレット",
     "en": "Pokémon Scarlet and Violet",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/478131056_IGDB.jpg",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/670867987.jpg",
     "leaderboard": "https://www.speedrun.com/pkmnscarletviolet",
     "bangumi": {
       "Any% Glitchless": [
+        "【競速 Race】Any% Glitchless",
+        null,
+        null
+      ]
+    }
+  },
+  "リトルウィッチノベタ": {
+    "tw": "小魔女諾貝塔",
+    "jp": "リトルウィッチノベタ",
+    "en": "Little Witch Nobeta",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/515621_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/little_witch_nobeta",
+    "bangumi": {
+      "NewGame, Unrestricted, STANDARD, \u0022All-Items\u0022": [
         null,
         null,
         null
       ]
     }
   },
-
 
 
 
