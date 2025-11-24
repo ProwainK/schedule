@@ -820,6 +820,62 @@
       ]
     }
   },
+  "ゼルダの伝説 風のタクト": {
+    "tw": "薩爾達傳說 風之律動",
+    "jp": "ゼルダの伝説 風のタクト",
+    "en": "The Legend of Zelda: The Wind Waker",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/16967_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/tww",
+    "bangumi": {
+      "All Dungeons": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "ゼルダの伝説 知恵のかりもの": {
+    "tw": "薩爾達傳說 智慧的再現",
+    "jp": "ゼルダの伝説 知恵のかりもの",
+    "en": "The Legend of Zelda: Echoes of Wisdom",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1290989747_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/eow",
+    "bangumi": {
+      "Glitchless": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "エスパ冒険隊 魔王の砦": {
+    "tw": "超能力冒險隊 魔王的城寨",
+    "jp": "エスパ冒険隊 魔王の砦",
+    "en": "Esper Boukentai",
+    "boxart": "https://www.speedrun.com/static/game/pdvon91w/cover.png",
+    "leaderboard": "https://www.speedrun.com/esper_boukentai",
+    "bangumi": {
+      "Any%": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "ロマンシング サガ2 リベンジオブザセブン": {
+    "tw": "復活邪神2 七英雄的復仇",
+    "jp": "ロマンシング サガ2 リベンジオブザセブン",
+    "en": "Romancing SaGa 2: Revenge of the Seven",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1990731722_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/Romancing_Saga_2_Revenge_of_the_Seven",
+    "bangumi": {
+      "CASUAL Ver1.1.0": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
 
 
 
@@ -838,9 +894,7 @@
 
 
 
-
-
-  "Super Metroid": {
+  "スーパーメトロイド": {
     "tw": "超級銀河戰士",
     "jp": "スーパーメトロイド",
     "en": "Super Metroid",
