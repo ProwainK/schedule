@@ -2,7 +2,7 @@
   "RTA in Japan Winter 2025": {"tw": null, "jp": null, "en": null},
 
 
-  "Kirby's Return to Dream Land Deluxe": {
+  "星のカービィ Wii デラックス": {
     "tw": "星之卡比 Wii 豪華版",
     "jp": "星のカービィ Wii デラックス",
     "en": "Kirby's Return to Dream Land Deluxe",
@@ -30,7 +30,7 @@
       ]
     }
   },
-  "Ghost Sweeper Mikami: Joreishi wa Nice Body": {
+  "GS美神 ～除霊師はナイスバディ～": {
     "tw": "GS美神 ～Nice Body 除靈師～",
     "jp": "GS美神 ～除霊師はナイスバディ～",
     "en": "Ghost Sweeper Mikami: Joreishi wa Nice Body",
@@ -44,7 +44,7 @@
       ]
     }
   },
-  "Trash Panic": {
+  "ゴミ箱 -GOMIBAKO-": {
     "tw": "垃圾桶 -GOMIBAKO-",
     "jp": "ゴミ箱 -GOMIBAKO-",
     "en": "Trash Panic",
@@ -58,7 +58,7 @@
       ]
     }
   },
-  "Pokémon Puzzle Challenge": {
+  "ポケモンでパネポン": {
     "tw": "寶可夢拼圖挑戰",
     "jp": "ポケモンでパネポン",
     "en": "Pokémon Puzzle Challenge",
@@ -72,7 +72,7 @@
       ]
     }
   },
-  "Puzzle Bobble 2": {
+  "アケアカNEOGEO パズルボブル2": {
     "tw": "ACA NEOGEO 泡泡龍2",
     "jp": "アケアカNEOGEO パズルボブル2",
     "en": "Puzzle Bobble 2 / Bust-A-Move Again",
@@ -86,7 +86,7 @@
       ]
     }
   },
-  "Moonlight Ghost": {
+  "月光妖怪": {
     "tw": "月光妖怪",
     "jp": null,
     "en": "Moonlight Ghost",
@@ -100,7 +100,7 @@
       ]
     }
   },
-  "Touhou Koumakyou ~ the Embodiment of Scarlet Devil": {
+  "東方紅魔郷 〜 the Embodiment of Scarlet Devil.": {
     "tw": "東方紅魔鄉",
     "jp": "東方紅魔郷 〜 the Embodiment of Scarlet Devil.",
     "en": "Touhou Koumakyou ~ the Embodiment of Scarlet Devil",
@@ -114,7 +114,7 @@
       ]
     }
   },
-  "PUNCH-OUT!! (2009)": {
+  "PUNCH-OUT!!": {
     "tw": "擊拳熱鬥！！",
     "jp": null,
     "en": "PUNCH-OUT!! (2009)",
@@ -128,7 +128,7 @@
       ]
     }
   },
-  "Etrian Odyssey IV: Legends of the Titan": {
+  "世界樹の迷宮Ⅳ 伝承の巨神": {
     "tw": "世界樹迷宮IV 傳承的巨神",
     "jp": "世界樹の迷宮IV 伝承の巨神",
     "en": "Etrian Odyssey IV: Legends of the Titan",
@@ -158,7 +158,7 @@
       ]
     }
   },
-  "Little Town Hero": {
+  "リトルタウンヒーロー": {
     "tw": "小鎮英雄",
     "jp": "リトルタウンヒーロー",
     "en": "Little Town Hero",
@@ -172,7 +172,7 @@
       ]
     }
   },
-  "Momotaro Dentetsu World: Chikyuu ha Kibou de Mawatteru!": {
+  "桃太郎電鉄ワールド〜地球は希望でまわってる！〜": {
     "tw": "桃太郎電鐵世界",
     "jp": "桃太郎電鉄ワールド〜地球は希望でまわってる！〜",
     "en": "Momotaro Dentetsu World: Chikyuu ha Kibou de Mawatteru!",
@@ -186,7 +186,7 @@
       ]
     }
   },
-  "Border Break": {
+  "BORDER BREAK(PS4)": {
     "tw": "邊境保衛戰",
     "jp": null,
     "en": "Border Break",
@@ -200,7 +200,7 @@
       ]
     }
   },
-  "Divine Dynamo Flamefrit": {
+  "精霊機フレイリート": {
     "tw": "精靈機弗烈利特",
     "jp": "精霊機フレイリート",
     "en": "Divine Dynamo Flamefrit",
@@ -214,7 +214,7 @@
       ]
     }
   },
-  "Star Fox 64": {
+  "スターフォックス64": {
     "tw": "星際火狐64",
     "jp": "スターフォックス64",
     "en": "Star Fox 64",
@@ -228,7 +228,7 @@
       ]
     }
   },
-  "BLADE CHIMERA": {
+  "BLADE CHIMERA - ブレードキメラ": {
     "tw": "幻刃奇美拉",
     "jp": "ブレードキメラ",
     "en": "BLADE CHIMERA",
@@ -270,7 +270,7 @@
       ]
     }
   },
-  "Mario Kart 8": {
+  "マリオカート8": {
     "tw": "瑪利歐賽車8",
     "jp": "マリオカート8",
     "en": "Mario Kart 8",
@@ -284,7 +284,7 @@
       ]
     }
   },
-  "Shutokou Battle": {
+  "首都高バトル": {
     "tw": "首都高賽車",
     "jp": "首都高バトル",
     "en": "Shutokou Battle / Tokyo Xtreme Racer",
@@ -298,12 +298,21 @@
       ]
     }
   },
-  "Monster Hunter Wilds (重複)": {
+  "モンスターハンターワイルズ": {
     "tw": "魔物獵人荒野",
     "jp": "モンスターハンターワイルズ",
-    "en": "Monster Hunter Wilds"
+    "en": "Monster Hunter Wilds",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1286077738_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/mhwilds",
+    "rijw2025": {
+      "Any%": [
+        null,
+        null,
+        null
+      ]
+    },
   },
-  "Ogre Battle 64: Person of Lordly Caliber": {
+  "オウガバトル64 Person of Lordly Caliber": {
     "tw": "皇家騎士團64",
     "jp": "オウガバトル64 Person of Lordly Caliber",
     "en": "Ogre Battle 64: Person of Lordly Caliber",
@@ -317,10 +326,19 @@
       ]
     }
   },
-  "Shadow Generations (重複)": {
+  "シャドウジェネレーションズ": {
     "tw": "索尼克×夏特 世代重啟",
     "jp": "ソニック × シャドウ ジェネレーションズ",
-    "en": "Sonic X Shadow Generations"
+    "en": "Sonic X Shadow Generations",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1775804061_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/shadow_generations",
+    "rijw2025": {
+      "Any%": [
+        null,
+        null,
+        null
+      ]
+    }
   },
   "Super High Ball: Pinball Platformer": {
     "tw": null,
@@ -336,7 +354,7 @@
       ]
     }
   },
-  "Gregory Horror Show": {
+  "グレゴリーホラーショー ソウルコレクター": {
     "tw": "葛瑞格利驚悚秀",
     "jp": "グレゴリーホラーショー ソウルコレクター",
     "en": "Gregory Horror Show",
@@ -350,7 +368,7 @@
       ]
     }
   },
-  "Mario Golf (Game Boy Color)": {
+  "マリオゴルフGB": {
     "tw": "瑪利歐高爾夫GB",
     "jp": "マリオゴルフGB",
     "en": "Mario Golf (Game Boy Color)",
@@ -364,7 +382,7 @@
       ]
     }
   },
-  "Refind Self: The Personality Test Game": {
+  "Refind Self: 性格診断ゲーム": {
     "tw": "憶我：一個性格測試遊戲",
     "jp": "Refind Self: 性格診断ゲーム",
     "en": "Refind Self: The Personality Test Game",
@@ -378,7 +396,7 @@
       ]
     }
   },
-  "Paper Mario": {
+  "マリオストーリー": {
     "tw": "紙片瑪利歐",
     "jp": "マリオストーリー",
     "en": "Paper Mario",
@@ -392,7 +410,7 @@
       ]
     }
   },
-  "Alien Vs Predator": {
+  "エイリアンVSプレデター": {
     "tw": "異形戰場",
     "jp": "エイリアンVSプレデター",
     "en": "Alien Vs Predator",
@@ -406,7 +424,7 @@
       ]
     }
   },
-  "Castlevania: Lament of Innocence": {
+  "キャッスルヴァニア": {
     "tw": "惡魔城 無罪的嘆息",
     "jp": "キャッスルヴァニア",
     "en": "Castlevania: Lament of Innocence",
@@ -420,7 +438,7 @@
       ]
     }
   },
-  "Glove on Fight 2: Gleam of Force": {
+  "	小鳩ヶ丘高校女子ぐろ〜部 Gleam of Force": {
     "tw": "小鳩鳩丘高校女子拳鬥部",
     "jp": "小鳩ヶ丘高校女子ぐろ〜部 Gleam of Force",
     "en": "Glove on Fight 2: Gleam of Force",
@@ -476,12 +494,21 @@
       ]
     }
   },
-  "Kirby Super Star Ultra (重複)": {
+  "星のカービィ ウルトラスーパーデラックス": {
     "tw": "星之卡比 超究極豪華版",
     "jp": "星のカービィ ウルトラスーパーデラックス",
-    "en": "Kirby Super Star Ultra"
+    "en": "Kirby Super Star Ultra",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1146782253_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/kssu",
+    "rijw2025": {
+      "Beat RotK": [
+        "【競速 Race】Beat RotK",
+        null,
+        null
+      ]
+    }
   },
-  "Kirby's Dream Land 2": {
+  "星のカービィ2": {
     "tw": "星之卡比2",
     "jp": "星のカービィ2",
     "en": "Kirby's Dream Land 2",
@@ -495,7 +522,7 @@
       ]
     }
   },
-  "Zelda (Game & Watch)": {
+  "ゼルダ": {
     "tw": "薩爾達",
     "jp": "ゼルダ",
     "en": "Zelda (Game & Watch)",
@@ -509,12 +536,21 @@
       ]
     }
   },
-  "The Legend of Zelda: Ocarina of Time (重複)": {
+  "ゼルダの伝説 時のオカリナ": {
     "tw": "薩爾達傳說 時之笛",
     "jp": "ゼルダの伝説 時のオカリナ",
-    "en": "The Legend of Zelda: Ocarina of Time"
+    "en": "The Legend of Zelda: Ocarina of Time",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/11557_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/oot",
+    "rijw2025": {
+      "MST": [
+        null,
+        null,
+        null
+      ]
+    }
   },
-  "Princess Tomato in the Salad Kingdom": {
+  "サラダの国のトマト姫": {
     "tw": "沙拉王國的番茄公主",
     "jp": "サラダの国のトマト姫",
     "en": "Princess Tomato in the Salad Kingdom",
@@ -530,7 +566,7 @@
   },
 
 
-  "Tomato Adventure": {
+  "トマトアドベンチャー": {
     "tw": "蕃茄冒險記",
     "jp": "トマトアドベンチャー",
     "en": "Tomato Adventure",
@@ -544,7 +580,7 @@
       ]
     }
   },
-  "Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island": {
+  "不思議のダンジョン 風来のシレン6 とぐろ島探検録": {
     "tw": "千變的迷宮 風來的希煉6 蛇蜷島探險譚",
     "jp": "不思議のダンジョン 風来のシレン6 とぐろ島探検録",
     "en": "Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island",
@@ -558,7 +594,7 @@
       ]
     }
   },
-  "Torneko: The Last Hope": {
+  "ドラゴンクエストキャラクターズ トルネコの大冒険2 不思議のダンジョン": {
     "tw": "特魯內克大冒險2 不思議的迷宮",
     "jp": "ドラゴンクエストキャラクターズ トルネコの大冒険2 不思議のダンジョン",
     "en": "Torneko: The Last Hope",
@@ -572,7 +608,7 @@
       ]
     }
   },
-  "Spell Tonaeru": {
+  "スペルトナエル": {
     "tw": "咒語詠唱",
     "jp": "スペルトナエル",
     "en": "Spell Tonaeru",
@@ -586,7 +622,7 @@
       ]
     }
   },
-  "Kaeru no Tame ni Kane wa Naru": {
+  "カエルの為に鐘は鳴る": {
     "tw": "鐘為蛙鳴 / 鐘為青蛙而響",
     "jp": "カエルの為に鐘は鳴る",
     "en": "Kaeru no Tame ni Kane wa Naru",
@@ -600,7 +636,7 @@
       ]
     }
   },
-  "Pikmin 4": {
+  "ピクミン4": {
     "tw": "皮克敏4",
     "jp": "ピクミン4",
     "en": "Pikmin 4",
@@ -628,17 +664,35 @@
       ]
     }
   },
-  "Super Mario World (重複)": {
+  "スーパーマリオワールド": {
     "tw": "超級瑪利歐世界",
     "jp": "スーパーマリオワールド",
-    "en": "Super Mario World"
+    "en": "Super Mario World",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1229_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/smw",
+    "rijw2025": {
+      "Small Only": [
+        null,
+        null,
+        null
+      ]
+    }
   },
-  "Super Mario Maker 2 (重複)": {
+  "	スーパーマリオメーカー 2": {
     "tw": "超級瑪利歐創作家 2",
     "jp": "スーパーマリオメーカー 2",
-    "en": "Super Mario Maker 2"
+    "en": "Super Mario Maker 2",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/511399_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/smm2",
+    "rijw2025": {
+      "Endless Mode - All Difficulties": [
+        null,
+        null,
+        null
+      ]
+    }
   },
-  "Super Mario Galaxy": {
+  "スーパーマリオギャラクシー": {
     "tw": "超級瑪利歐銀河",
     "jp": "スーパーマリオギャラクシー",
     "en": "Super Mario Galaxy",
@@ -652,7 +706,7 @@
       ]
     }
   },
-  "Fiz and the Rainbow Planet": {
+  "フィズとにじいろの星": {
     "tw": "菲茲與彩虹星",
     "jp": "フィズとにじいろの星",
     "en": "Fiz and the Rainbow Planet",
@@ -680,7 +734,7 @@
       ]
     }
   },
-  "Muramasa: The Demon Blade": {
+  "朧村正 - 元禄怪奇譚": {
     "tw": "朧村正",
     "jp": null,
     "en": "Muramasa: The Demon Blade",
