@@ -984,6 +984,20 @@
     "leaderboard": "https://www.speedrun.com/little_witch_nobeta",
     "bangumi": {
       "NewGame, Unrestricted, STANDARD, \u0022All-Items\u0022": [
+        "全物品收集 (一週目 / BUG 無限制 / Standard 難度)",
+        null,
+        null
+      ]
+    }
+  },
+  "Ambidextro": {
+    "tw": null,
+    "jp": null,
+    "en": "Ambidextro",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1427281643_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/Ambidextro",
+    "bangumi": {
+      "Any% No Major Glitches": [
         null,
         null,
         null
