@@ -710,7 +710,20 @@
   },
 
 
-
+  "Smash T.V.": {
+    "tw": null,
+    "jp": null,
+    "en": "Smash T.V.",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/14849_IGDB.jpg",
+    "leaderboard": null,
+    "rijw2025": {
+      "ノーコンティニューRTA": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
 
 
 
