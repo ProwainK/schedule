@@ -735,14 +735,14 @@
     }
   },
   "朧村正 - 元禄怪奇譚": {
-    "tw": "朧村正",
+    "tw": "朧村正 元禄怪奇譚",
     "jp": null,
-    "en": "Muramasa: The Demon Blade",
+    "en": "Muramasa Rebirth: Genroku Legends",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/21767_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/muramasa",
     "bangumi": {
       "Okoi Any%": [
-        "元禄怪奇譚 化貓篇 Any%",
+        "化貓篇 Any%",
         null,
         null
       ]
@@ -1004,6 +1004,148 @@
       ]
     }
   },
+  "そろそろ寿司を食べないと死ぬぜ！ユニバース": {
+    "tw": "壽司靈魂宇宙",
+    "jp": "そろそろ寿司を食べないと死ぬぜ！ユニバース",
+    "en": "Sushi Soul Universe",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/19293055_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/SUSHI_SOUL_UNIVERSE",
+    "bangumi": {
+      "Any%": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "カドゥケウスZ 2つの超執刀": {
+    "tw": "神使之杖Z 雙超執刀",
+    "jp": "カドゥケウスZ 2つの超執刀",
+    "en": "Trauma Center: Second Opinion",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/540860743_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/tcso",
+    "bangumi": {
+      "Any% Normal": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "ゼノブレイド3 新たなる未来": {
+    "tw": "異度神劍3 嶄新的未來",
+    "jp": "ゼノブレイド3 新たなる未来",
+    "en": "Xenoblade Chronicles 3: Future Redeemed",
+    "boxart": "https://www.speedrun.com/static/game/v1pxn346/cover.jpg",
+    "leaderboard": "https://www.speedrun.com/xcfr",
+    "bangumi": {
+      "Any% - Easy": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "ディディーコングレーシング": {
+    "tw": "迪迪剛賽車",
+    "jp": "ディディーコングレーシング",
+    "en": "Diddy Kong Racing",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/14660_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/dkr",
+    "bangumi": {
+      "100%": [
+        "【競速 Race】100%",
+        null,
+        null
+      ]
+    }
+  },
+  "魂斗羅 オペレーション ガルガ": {
+    "tw": "魂斗羅：加盧加行動",
+    "jp": "ディディーコングレーシング",
+    "en": "Contra: Operation Galuga",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/537410450_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/Contra_Operation_Galuga",
+    "bangumi": {
+      "Any% Arcade/Bill Rizer/Normal/Health Meter/Perks": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "バベルの塔": {
+    "tw": "巴比倫塔",
+    "jp": "バベルの塔",
+    "en": "Tower of Babel",
+    "boxart": "https://www.speedrun.com/static/game/j1n82gl1/cover.jpg",
+    "leaderboard": "https://www.speedrun.com/the_tower_of_babel",
+    "bangumi": {
+      "Pro (Original Version)": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Good Job!": {
+    "tw": null,
+    "jp": null,
+    "en": "Good Job!",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/516848_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/good_job",
+    "bangumi": {
+      "New Game Any% Damageless": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "A Tiny Sticker Tale": {
+    "tw": "小貼紙故事",
+    "jp": null,
+    "en": "A Tiny Sticker Tale",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/910625605_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/a_tiny_Sticker_Tale",
+    "bangumi": {
+      "All Stickers": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "遊☆戯☆王デュエルモンスターズ4 最強決闘者戦記": {
+    "tw": "遊戲王 怪獸之決鬥4 最強決鬥者戰記",
+    "jp": "遊☆戯☆王デュエルモンスターズ4 最強決闘者戦記",
+    "en": "Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelist",
+    "boxart": "https://www.speedrun.com/static/game/3dxk09g1/cover.jpg",
+    "leaderboard": "https://www.speedrun.com/yugiohdm4",
+    "bangumi": {
+      "Any%": [
+        "【競速 Race】Any%",
+        null,
+        null
+      ]
+    }
+  },
+  "ペルソナ4 ザ・ゴールデン": {
+    "tw": "女神異聞錄4 黃金版",
+    "jp": "ペルソナ4 ザ・ゴールデン",
+    "en": "Persona 4 Golden",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/32542_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/p4g",
+    "bangumi": {
+      "Hard Golden Ending NMG": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+
+
 
 
 
