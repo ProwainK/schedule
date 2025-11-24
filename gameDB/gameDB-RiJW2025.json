@@ -588,7 +588,7 @@
     "leaderboard": "https://www.speedrun.com/shiren6",
     "bangumi": {
       "超・神髄TA": [
-        null,
+        "【競速 Race】超・神髄TA",
         null,
         null
       ]
@@ -602,7 +602,7 @@
     "leaderboard": "https://www.speedrun.com/tornekolasthope",
     "bangumi": {
       "Any%": [
-        null,
+        "【競速 Race】Any%",
         null,
         null
       ]
@@ -644,7 +644,7 @@
     "leaderboard": "https://www.speedrun.com/pikmin4",
     "bangumi": {
       "Rescue Olimar": [
-        null,
+        "【競速 Race】Rescue Olimar",
         null,
         null
       ]
@@ -773,6 +773,82 @@
     "bangumi": {
       "ノーコンティニューRTA": [
         null,
+        null,
+        null
+      ]
+    }
+  },
+  "近畿霊務局 - Kinki Spiritual Affairs Bureau": {
+    "tw": "近畿靈務局",
+    "jp": null,
+    "en": "Kinki Spiritual Affairs Bureau",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/936475509_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/Kinki_Spiritual_Affairs_Bureau",
+    "bangumi": {
+      "［任意の難易度］Any%": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "サモンナイト3(PS2版)": {
+    "tw": "召喚夜響曲3",
+    "jp": "サモンナイト3",
+    "en": "Summon Night 3",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/2792_IGDB.jpg",
+    "leaderboard": null,
+    "bangumi": {
+      "NG 通常ルート Any%": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "ゼルダの伝説 神々のトライフォース2": {
+    "tw": "薩爾達傳說 眾神的三角神力2",
+    "jp": "ゼルダの伝説 神々のトライフォース2",
+    "en": "The Legend of Zelda: A Link Between Worlds",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/369088_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/albw",
+    "bangumi": {
+      "Any%": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  "Super Metroid": {
+    "tw": "超級銀河戰士",
+    "jp": "スーパーメトロイド",
+    "en": "Super Metroid",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/7595_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/supermetroid",
+    "bangumi": {
+      "Reverse Boss Order": [
+        "逆順序擊敗頭目",
         null,
         null
       ]
