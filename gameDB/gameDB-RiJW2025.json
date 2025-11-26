@@ -10,7 +10,7 @@
     "leaderboard": "https://www.speedrun.com/krtdldx",
     "bangumi": {
       "Magolor Epilogue All Stages": [
-        "魔法洛亞後記，完成全關卡",
+        "魔法洛亞後記，全關卡完走",
         null,
         null
       ]
@@ -24,7 +24,7 @@
     "leaderboard": "https://www.speedrun.com/pizza_tower",
     "bangumi": {
       "100%,Peppino": [
-        null,
+        "使用角色「佩皮諾」完成 100% 全收集",
         null,
         null
       ]
@@ -52,8 +52,8 @@
     "leaderboard": "https://www.speedrun.com/thpn",
     "bangumi": {
       "Hellish Shining Gold Can": [
-        null,
-        null,
+        "地獄級金色罐罐",
+        "最上級難度 x 最高評價",
         null
       ]
     }
@@ -66,8 +66,8 @@
     "leaderboard": "https://www.speedrun.com/pokemon_puzzle_challenge",
     "bangumi": {
       "VS COM EASY - V-HARD(ばくはつせりあげOFF)": [
-        null,
-        null,
+        "擊敗全難度 CPU<br>消除期間也能進行堆疊的「爆發堆疊」功能 OFF",
+        "以 Game Boy 版《耀西的 Panel de Pon》為基礎改善了操作性<br>使其作為掌機版 Panel de Pon 的表現相當不錯",
         null
       ]
     }
