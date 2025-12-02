@@ -83,7 +83,7 @@
     }
   },
   "Spyro 2: Ripto's Rage!": {
-    "tw": "寶貝龍2：利普多的憤怒！",
+    "tw": "寶貝龍 2：利普多的憤怒！",
     "jp": null,
     "en": "Spyro 2: Ripto's Rage!",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1434_IGDB.jpg",
@@ -96,7 +96,20 @@
       ]
     }
   },
-
+  "Shovel Knight: King of Cards": {
+    "tw": "鏟子騎士：卡牌之王",
+    "jp": null,
+    "en": "Shovel Knight: King of Cards",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/138583_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/shovelknight",
+    "bangumi": {
+      "New Game Plus": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
 
 
 
