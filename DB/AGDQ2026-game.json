@@ -26,6 +26,12 @@
     "en": "Event Recap",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/509658.jpg"
   },
+  "Game To Be Revealed": {
+    "tw": "即將揭曉",
+    "jp": null,
+    "en": "Game To Be Revealed",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/509658.jpg"
+  },
   "AGDQ 2026 Finale": {
     "tw": "閉幕典禮",
     "jp": "フィナーレ",
@@ -1411,28 +1417,16 @@
       ]
     }
   },
+
+
   "Ninja Gaiden Ragebound": {
-    "tw": "TODO",
+    "tw": "忍者外傳：怒之羈絆",
     "jp": null,
-    "en": "Ninja Gaiden Ragebound",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "en": "Ninja Gaiden: Ragebound",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1810411787_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
-      "TODO": [
-        null,
-        null,
-        null
-      ]
-    }
-  },
-  "Game To Be Revealed": {
-    "tw": "TODO",
-    "jp": null,
-    "en": "Game To Be Revealed",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "bangumi": {
-      "TODO": [
+      "Any% Restricted": [
         null,
         null,
         null
@@ -1440,27 +1434,27 @@
     }
   },
   "SMB2: Return to Subcon": {
-    "tw": "TODO",
+    "tw": null,
     "jp": null,
     "en": "SMB2: Return to Subcon",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
+    "boxart": "https://www.speedrun.com/static/game/4d79e5g1/cover.png",
+    "leaderboard": "https://www.speedrun.com/return_to_subcon",
     "bangumi": {
-      "TODO": [
+      "Any%": [
         null,
-        null,
+        "《超級瑪利歐 USA》改造版",
         null
       ]
     }
   },
   "Demon's Souls (2020)": {
-    "tw": "TODO",
+    "tw": "惡魔靈魂 (重製版)",
     "jp": null,
     "en": "Demon's Souls (2020)",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/21812_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
-      "TODO": [
+      "Any%": [
         null,
         null,
         null
@@ -1468,13 +1462,13 @@
     }
   },
   "Dark Souls": {
-    "tw": "TODO",
+    "tw": "黑暗靈魂",
     "jp": null,
     "en": "Dark Souls",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1122982998_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
-      "TODO": [
+      "Any%": [
         null,
         null,
         null
@@ -1482,13 +1476,13 @@
     }
   },
   "Super Mario Galaxy": {
-    "tw": "TODO",
-    "jp": null,
+    "tw": "超級瑪利歐銀河",
+    "jp": "スーパーマリオギャラクシー",
     "en": "Super Mario Galaxy",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1248698972_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
-      "TODO": [
+      "Any% Luigi": [
         null,
         null,
         null
@@ -1496,27 +1490,27 @@
     }
   },
   "BONUS GAME 3 — Donkey Kong Bananza": {
-    "tw": "TODO",
-    "jp": null,
-    "en": "BONUS GAME 3 — Donkey Kong Bananza",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "tw": "咚奇剛 蕉力全開",
+    "jp": "ドンキーコング バナンザ",
+    "en": "Donkey Kong Bananza",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1222247252_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
-      "TODO": [
+      "Any%": [
         null,
-        null,
+        "加碼遊戲 BONUS GAME 3",
         null
       ]
     }
   },
   "The Legend of Zelda: Ocarina of Time vs Majora's Mask": {
-    "tw": "TODO",
+    "tw": "薩爾達傳說 時之笛 vs 魔吉拉的面具",
     "jp": null,
     "en": "The Legend of Zelda: Ocarina of Time vs Majora's Mask",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/11557_IGDB.jpg",
+    "leaderboard": null,
     "bangumi": {
-      "TODO": [
+      "Any% Blindfolded vs Any% Blindfolded (First Cycle Skip)": [
         null,
         null,
         null
@@ -1524,13 +1518,13 @@
     }
   },
   "Chrono Trigger": {
-    "tw": "TODO",
-    "jp": null,
+    "tw": "超時空之鑰",
+    "jp": "クロノ・トリガー",
     "en": "Chrono Trigger",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/8489_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
-      "TODO": [
+      "Magus% RNG Manip": [
         null,
         null,
         null
@@ -1538,13 +1532,13 @@
     }
   },
   "Sword of the Sea": {
-    "tw": "TODO",
+    "tw": "馭劍馳海",
     "jp": null,
     "en": "Sword of the Sea",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1476850343_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
-      "TODO": [
+      "Any% NG+": [
         null,
         null,
         null
