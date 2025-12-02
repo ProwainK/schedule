@@ -428,7 +428,7 @@ async function init() {
 // EST Time 預計長度格式轉換 (PT1H05M → 1 小時 5 分鐘)
 // 10:32:15 → 10 小時 32 分鐘 15 秒
 // 17:00 → 17 分鐘
-function formatDuration(input) {
+function formatISODuration(input) {
   if (!input || typeof input !== 'string') return '';
 
   let hours = 0, minutes = 0, seconds = 0;
