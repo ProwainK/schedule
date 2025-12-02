@@ -32,6 +32,12 @@
     "en": "Game To Be Revealed",
     "boxart": null
   },
+  "Mystery Game": {
+    "tw": "神祕驚喜",
+    "jp": null,
+    "en": "Mystery Game",
+    "boxart": null
+  },
   "AGDQ 2026 Finale": {
     "tw": "閉幕典禮",
     "jp": "フィナーレ",
@@ -1189,41 +1195,29 @@
     }
   },
   "The Legend of Zelda: Twilight Princess HD": {
-    "tw": "TODO",
-    "jp": null,
-    "en": "TODO",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "tw": "薩爾達傳說 黃昏公主 HD",
+    "jp": "ゼルダの伝説 トワイライトプリンセス HD",
+    "en": "The Legend of Zelda: Twilight Princess HD",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/491327_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
-      "TODO": [
+      "All Dungeons": [
         null,
         null,
         null
       ]
     }
   },
-  "Mystery Game": {
-    "tw": "TODO",
-    "jp": null,
-    "en": "Mystery Game",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "bangumi": {
-      "TODO": [
-        null,
-        null,
-        null
-      ]
-    }
-  },
+
+
   "Splatoon": {
-    "tw": "TODO",
-    "jp": null,
+    "tw": "斯普拉遁",
+    "jp": "スプラトゥーン",
     "en": "Splatoon",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/460649_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
-      "TODO": [
+      "Any% Race": [
         null,
         null,
         null
@@ -1231,13 +1225,13 @@
     }
   },
   "Octopath Traveler II": {
-    "tw": "TODO",
+    "tw": "歧路旅人 II",
     "jp": null,
     "en": "Octopath Traveler II",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/332885450_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
-      "TODO": [
+      "Solo Agnea vs Castti vs Ochette vs Throne Category Choice": [
         null,
         null,
         null
@@ -1245,13 +1239,13 @@
     }
   },
   "Super Metroid": {
-    "tw": "TODO",
-    "jp": null,
+    "tw": "超級銀河戰士",
+    "jp": "スーパーメトロイド",
     "en": "Super Metroid",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/7595_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
-      "TODO": [
+      "GT Classic": [
         null,
         null,
         null
@@ -1259,13 +1253,13 @@
     }
   },
   "maimai DX PRiSM PLUS": {
-    "tw": "TODO",
-    "jp": null,
+    "tw": null,
+    "jp": "maimai でらっくす PRiSM PLUS",
     "en": "maimai DX PRiSM PLUS",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1375001379_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
-      "TODO": [
+      "Arcade Showcase": [
         null,
         null,
         null
@@ -1273,13 +1267,13 @@
     }
   },
   "Clair Obscur: Expedition 33": {
-    "tw": "TODO",
+    "tw": "光與影：33 號遠征隊",
     "jp": null,
     "en": "Clair Obscur: Expedition 33",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/36799602_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
-      "TODO": [
+      "Any% Expert Glitchless Race": [
         null,
         null,
         null
@@ -1287,13 +1281,13 @@
     }
   },
   "Call of Duty: Modern Warfare 2": {
-    "tw": "TODO",
-    "jp": null,
+    "tw": "決勝時刻：現代戰爭 2 (2009)",
+    "jp": "コール オブ デューティ モダン・ウォーフェア2",
     "en": "Call of Duty: Modern Warfare 2",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/22393_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/mw2",
     "bangumi": {
-      "TODO": [
+      "Any% Recruit": [
         null,
         null,
         null
@@ -1301,13 +1295,13 @@
     }
   },
   "Redout 2": {
-    "tw": "TODO",
+    "tw": null,
     "jp": null,
     "en": "Redout 2",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/266733247.jpg",
+    "leaderboard": "https://www.speedrun.com/redout_2",
     "bangumi": {
-      "TODO": [
+      "All BOSS Tracks Forwards (+DLC)": [
         null,
         null,
         null
@@ -1315,13 +1309,13 @@
     }
   },
   "MINDWAVE": {
-    "tw": "TODO",
+    "tw": null,
     "jp": null,
     "en": "MINDWAVE",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1793648251_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
-      "TODO": [
+      "Speedrun Showcase": [
         null,
         null,
         null
