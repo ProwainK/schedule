@@ -428,6 +428,9 @@ async function init() {
 // EST Time 預計長度格式轉換
 // 10:32:15 → 10 小時 32 分鐘 15 秒
 function formatISODuration(time) {
+
+  if (time == '0') return 'unknown';
+
   if (!time || typeof time !== 'string') return '';
 
   // 僅接受 HH:mm:ss，例如 10:32:15
