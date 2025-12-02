@@ -5,8 +5,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 <title>Awesome Games Done Quick 2026 時程表翻譯 ლ(╹◡╹ლ)</title>
 
- <link href="https://fonts.googleapis.com/css2?family=Klee+One&display=swap" rel="stylesheet">
-<link href="https://unpkg.com/embla-carousel/embla-carousel.css" rel="stylesheet" />
+<link href="https://fonts.googleapis.com/css2?family=Klee+One&display=swap" rel="stylesheet">
+<!-- <link href="https://unpkg.com/embla-carousel/embla-carousel.css" rel="stylesheet" /> -->
 <style>
   body {
     margin: 0;
@@ -260,7 +260,7 @@ bottom: 0;
 
 <script src="https://unpkg.com/embla-carousel/embla-carousel.umd.js"></script>
 <script src="https://unpkg.com/embla-carousel-wheel-gestures/dist/embla-carousel-wheel-gestures.umd.js"></script>
-<script src="renameDB.js"></script>
+<!-- <script src="renameDB.js"></script> -->
 <script>
   // 顯示 loading
   const loadingEl = document.getElementById('loadingOverlay');
@@ -279,7 +279,7 @@ async function init() {
 
   // gameDB init
   try {
-    const gameDBRes = await fetch('./gameDB.json');
+    const gameDBRes = await fetch('./DB/AGDQ2026-game.json');
     gameDB = await gameDBRes.json();
     //console.log("✅ 資料載入成功", { gameDB });
     console.log("✅ gameDB 載入成功");
@@ -317,7 +317,7 @@ async function init() {
     // 如果上面抓不到，就使用 local JS 備援
     if (json == null) {
       try {
-        const res = await fetch('./scheduleDB/AGDQ2026-scheduleDB.json');
+        const res = await fetch('./DB/AGDQ2026-schedule.json');
         json = await res.json();
         console.log("✅ 使用本地備援資料成功");
       } catch (err) {
@@ -527,7 +527,10 @@ if (window.innerHeight > window.innerWidth) {
     }
 
     filtered.forEach((item, i) => {
-      item.game = window.renameDB[item.game] || item.game;
+
+      // renameDB 已廢除
+      // item.game = window.renameDB[item.game] || item.game;
+
       // console.log(item.game);
       const info = gameDB[item.game] || {};
       const details = (info.sgdq2025 && info.sgdq2025[item.category]) || [null, null];
