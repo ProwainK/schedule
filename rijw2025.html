@@ -290,7 +290,7 @@ async function init() {
       fetch('https://yourdomain.com/path/to/renameDB.json'),
       fetch('https://yourdomain.com/path/to/rijw2025.json')
     ]);*/
-    const gameDBRes = await fetch('./gameDB/gameDB-RiJW2025.json');
+    const gameDBRes = await fetch('./DB/RiJW2025-game.json');
 
     gameDB = await gameDBRes.json();
     //renameDB = await renameRes.json();
@@ -316,7 +316,7 @@ async function init() {
 
         try {
 
-          const res = await fetch('./scheduleDB/RiJW2025.json');
+          const res = await fetch('./DB/RiJW2025-schedule.json');
           const data = await res.json();
           // console.log(data);
 
