@@ -1684,10 +1684,10 @@
     }
   },
   "Sonic Racing: CrossWorlds": {
-    "tw": "TODO",
-    "jp": null,
+    "tw": "索尼克賽車 交叉世界",
+    "jp": "ソニックレーシング クロスワールド",
     "en": "Sonic Racing: CrossWorlds",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1135492840_IGDB.jpg",
   "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
       "TODO": [
@@ -1698,24 +1698,26 @@
     }
   },
   "Final Fantasy Tactics: The Ivalice Chronicles": {
-    "tw": "TODO",
-    "jp": null,
+    "tw": "Final Fantasy 戰略版：伊瓦利斯編年史",
+    "jp": "ファイナルファンタジータクティクス - イヴァリース クロニクルズ",
     "en": "Final Fantasy Tactics: The Ivalice Chronicles",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/726936393_IGDB.jpg",
   "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
-      "TODO": [
+      "Any% Squire Difficulty": [
         null,
         null,
         null
       ]
     }
   },
+
+
   "Super Mario 64": {
     "tw": "超級瑪利歐64",
     "jp": "スーパーマリオ64",
     "en": "Super Mario 64",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/2692_IGDB.jpg",
   "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
       "70 Star, 70 Person Relay": [
@@ -1729,7 +1731,7 @@
     "tw": "薩爾達傳說 風之律動",
     "jp": "ゼルダの伝説 風のタクト",
     "en": "The Legend of Zelda: The Wind Waker",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/16967_IGDB.jpg",
   "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
       "Any% - ACE": [
@@ -1743,7 +1745,7 @@
     "tw": "艾爾登法環 黑夜君臨",
     "jp": null,
     "en": "Elden Ring Nightreign",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/982348888_IGDB.jpg",
   "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
       "Trio Defeat Nightlord": [
@@ -1757,7 +1759,7 @@
     "tw": "黑帝斯 II",
     "jp": null,
     "en": "Hades II",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/376500771_IGDB.jpg",
   "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
       "All Weapons (Alternating Routes)": [
@@ -1767,11 +1769,11 @@
       ]
     }
   },
-  "BONUS GAME 4 — Hollow Knight: Silksong": {
+  "BONUS GAME 4 —  Hollow Knight: Silksong": {
     "tw": "空洞騎士：絲綢之歌",
     "jp": null,
     "en": "Hollow Knight: Silksong",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/511391_IGDB.jpg",
   "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
       "Any% NMG": [
@@ -1785,7 +1787,7 @@
     "tw": "寶可夢 綠寶石",
     "jp": "ポケットモンスター エメラルド",
     "en": "Pokémon Emerald",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/10609_IGDB.jpg",
   "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
       "Pick-My-Main": [
@@ -1795,17 +1797,6 @@
       ]
     }
   },
-
-
-
-
-
-
-
-
-
-
-  "xxxxxxxxxxxxxxxxxxxxxxxxxxxx": {"tw": null, "jp": null, "en": null},
 
 
   "See You Next Time": {"tw": null, "jp": null, "en": null }
