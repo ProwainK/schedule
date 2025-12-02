@@ -112,7 +112,7 @@
   },
 
 
-  "xxxxxxxxxxxxxxxxxxxxxxxxxxxx": {"tw": null, "jp": null, "en": null},
+  "oxxxxxxxxxxxxxxxxxxxxxxxxxxxx": {"tw": null, "jp": null, "en": null},
 
 
   "Wuchang: Fallen Feathers": {
@@ -129,7 +129,7 @@
       ]
     }
   },
-  "The Checkpoint": {
+  "dlroW oiraM repuS": {
     "tw": "TODO",
     "jp": null,
     "en": "TODO",
@@ -144,6 +144,34 @@
     }
   },
   "Super Mario World — Bonus Category": {
+    "tw": "TODO",
+    "jp": null,
+    "en": "TODO",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "leaderboard": "https://www.speedrun.com/TODO",
+    "bangumi": {
+      "TODO": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Split Fiction": {
+    "tw": "TODO",
+    "jp": null,
+    "en": "TODO",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "leaderboard": "https://www.speedrun.com/TODO",
+    "bangumi": {
+      "TODO": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Luigi's Mansion": {
     "tw": "TODO",
     "jp": null,
     "en": "TODO",
@@ -200,15 +228,15 @@
     }
   },
   "Mega Man Battle Network": {
-    "tw": "TODO",
-    "jp": null,
-    "en": "TODO",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
+    "tw": "洛克人EXE",
+    "jp": "バトルネットワーク ロックマンエグゼ",
+    "en": "Rockman EXE / Mega Man Battle Network",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/7542_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/mmbn1",
     "bangumi": {
-      "TODO": [
-        null,
-        null,
+      "Single Segment": [
+        "不分段速通",
+        "一次跑完，不使用讀檔調整亂數",
         null
       ]
     }
@@ -675,6 +703,300 @@
       ]
     }
   },
+  "Kiosk": {
+    "tw": "TODO",
+    "jp": null,
+    "en": "TODO",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+  "leaderboard": "https://www.speedrun.com/TODO",
+    "bangumi": {
+      "TODO": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Fatal Frame II: Crimson Butterfly": {
+    "tw": "TODO",
+    "jp": null,
+    "en": "TODO",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+  "leaderboard": "https://www.speedrun.com/TODO",
+    "bangumi": {
+      "TODO": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Bloons Tower Defense 6": {
+    "tw": "TODO",
+    "jp": null,
+    "en": "TODO",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+  "leaderboard": "https://www.speedrun.com/TODO",
+    "bangumi": {
+      "TODO": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Animal Crossing: City Folk": {
+    "tw": "TODO",
+    "jp": null,
+    "en": "TODO",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+  "leaderboard": "https://www.speedrun.com/TODO",
+    "bangumi": {
+      "TODO": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Mighty Gunvolt": {
+    "tw": "TODO",
+    "jp": null,
+    "en": "TODO",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+  "leaderboard": "https://www.speedrun.com/TODO",
+    "bangumi": {
+      "TODO": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Contra: Operation Galuga": {
+    "tw": "TODO",
+    "jp": null,
+    "en": "TODO",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+  "leaderboard": "https://www.speedrun.com/TODO",
+    "bangumi": {
+      "TODO": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Sonic Rush": {
+    "tw": "TODO",
+    "jp": null,
+    "en": "TODO",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+  "leaderboard": "https://www.speedrun.com/TODO",
+    "bangumi": {
+      "TODO": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "American Truck Simulator": {
+    "tw": "TODO",
+    "jp": null,
+    "en": "TODO",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+  "leaderboard": "https://www.speedrun.com/TODO",
+    "bangumi": {
+      "TODO": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Richard Burns Rally": {
+    "tw": "TODO",
+    "jp": null,
+    "en": "TODO",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+  "leaderboard": "https://www.speedrun.com/TODO",
+    "bangumi": {
+      "TODO": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Armored Core 6: Fires of Rubicon": {
+    "tw": "TODO",
+    "jp": null,
+    "en": "TODO",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+  "leaderboard": "https://www.speedrun.com/TODO",
+    "bangumi": {
+      "TODO": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "F-Zero GX": {
+    "tw": "TODO",
+    "jp": null,
+    "en": "TODO",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+  "leaderboard": "https://www.speedrun.com/TODO",
+    "bangumi": {
+      "TODO": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Pokémon HeartGold/SoulSilver": {
+    "tw": "TODO",
+    "jp": null,
+    "en": "TODO",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+  "leaderboard": "https://www.speedrun.com/TODO",
+    "bangumi": {
+      "TODO": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "JokerShellOK": {
+    "tw": "TODO",
+    "jp": null,
+    "en": "TODO",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+  "leaderboard": "https://www.speedrun.com/TODO",
+    "bangumi": {
+      "TODO": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "BONUS GAME 2 — Mario Kart 64": {
+    "tw": "TODO",
+    "jp": null,
+    "en": "TODO",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+  "leaderboard": "https://www.speedrun.com/TODO",
+    "bangumi": {
+      "TODO": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Donkey Kong 64": {
+    "tw": "TODO",
+    "jp": null,
+    "en": "TODO",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+  "leaderboard": "https://www.speedrun.com/TODO",
+    "bangumi": {
+      "TODO": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Adventures of Yogi Bear": {
+    "tw": "TODO",
+    "jp": null,
+    "en": "TODO",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+  "leaderboard": "https://www.speedrun.com/TODO",
+    "bangumi": {
+      "TODO": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Disney's 102 Dalmatians: Puppies to the Rescue": {
+    "tw": "TODO",
+    "jp": null,
+    "en": "TODO",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+  "leaderboard": "https://www.speedrun.com/TODO",
+    "bangumi": {
+      "TODO": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "The Land Before Time: Return to the Great Valley": {
+    "tw": "TODO",
+    "jp": null,
+    "en": "TODO",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+  "leaderboard": "https://www.speedrun.com/TODO",
+    "bangumi": {
+      "TODO": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Dizzy Hero": {
+    "tw": "TODO",
+    "jp": null,
+    "en": "TODO",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+  "leaderboard": "https://www.speedrun.com/TODO",
+    "bangumi": {
+      "TODO": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "I'll Invaligate Your Aid": {
+    "tw": "TODO",
+    "jp": null,
+    "en": "TODO",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+  "leaderboard": "https://www.speedrun.com/TODO",
+    "bangumi": {
+      "TODO": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "12 Bananas": {
+    "tw": "TODO",
+    "jp": null,
+    "en": "TODO",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+  "leaderboard": "https://www.speedrun.com/TODO",
+    "bangumi": {
+      "TODO": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
   "Egg": {
     "tw": "TODO",
     "jp": null,
@@ -690,6 +1012,20 @@
     }
   },
   "Super Buff HD": {
+    "tw": "TODO",
+    "jp": null,
+    "en": "TODO",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+  "leaderboard": "https://www.speedrun.com/TODO",
+    "bangumi": {
+      "TODO": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Kaiketsu Zorori Mezase! Itazura King": {
     "tw": "TODO",
     "jp": null,
     "en": "TODO",
@@ -1040,6 +1376,20 @@
     }
   },
   "Sly 2: Band of Thieves": {
+    "tw": "TODO",
+    "jp": null,
+    "en": "Sly 2: Band of Thieves",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+  "leaderboard": "https://www.speedrun.com/TODO",
+    "bangumi": {
+      "TODO": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Minit": {
     "tw": "TODO",
     "jp": null,
     "en": "Sly 2: Band of Thieves",
@@ -1456,21 +1806,6 @@
 
 
   "xxxxxxxxxxxxxxxxxxxxxxxxxxxx": {"tw": null, "jp": null, "en": null},
-
-  "Mega Man Battle Network": {
-    "tw": "洛克人EXE",
-    "jp": "バトルネットワーク ロックマンエグゼ",
-    "en": "Rockman EXE / Mega Man Battle Network",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/7542_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/mmbn1",
-    "bangumi": {
-      "Single Segment": [
-        "不分段速通",
-        "一次跑完，不使用讀檔調整亂數",
-        null
-      ]
-    }
-  },
 
 
   "See You Next Time": {"tw": null, "jp": null, "en": null }
