@@ -425,44 +425,25 @@ async function init() {
 }
 
 
-// EST Time 預計長度格式轉換 (PT1H05M → 1 小時 5 分鐘)
+// EST Time 預計長度格式轉換
 // 10:32:15 → 10 小時 32 分鐘 15 秒
-// 17:00 → 17 分鐘
-function formatISODuration(input) {
-  if (!input || typeof input !== 'string') return '';
+function formatISODuration(time) {
+  if (!time || typeof time !== 'string') return '';
 
-  let hours = 0, minutes = 0, seconds = 0;
+  // 僅接受 HH:mm:ss，例如 10:32:15
+  const match = time.match(/^(\d{1,2}):(\d{2}):(\d{2})$/);
+  if (!match) return time; // 格式不符 → 原樣輸出
 
-  // 1. ISO 8601 Format: PT10H32M15S
-  if (input.startsWith('PT')) {
-    const match = input.match(/^PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?$/);
-    if (!match) return input;
+  const hours = parseInt(match[1], 10);
+  const minutes = parseInt(match[2], 10);
+  const seconds = parseInt(match[3], 10);
 
-    hours = parseInt(match[1] || '0', 10);
-    minutes = parseInt(match[2] || '0', 10);
-    seconds = parseInt(match[3] || '0', 10);
-  }
-  // 2. HH:mm:ss format
-  else if (/^\d{1,2}:\d{2}:\d{2}$/.test(input)) {
-    const [h, m, s] = input.split(':').map(Number);
-    hours = h; minutes = m; seconds = s;
-  }
-  // 3. mm:ss or HH:mm
-  else if (/^\d{1,2}:\d{2}$/.test(input)) {
-    const [a, b] = input.split(':').map(Number);
+  const parts = [];
+  if (hours > 0) parts.push(`${hours} 小時`);
+  if (minutes > 0) parts.push(`${minutes} 分鐘`);
+  if (seconds > 0) parts.push(`${seconds} 秒`);
 
-    // 如果 a >= 60 應該要是小時
-    if (a >= 60) {
-      minutes = a;
-      seconds = b;
-    } else {
-      // 暫時假設是 mm:ss
-      minutes = a;
-      seconds = b;
-    }
-  } else {
-    return input; // 無法辨識 → 原樣輸出
-  }
+  return parts.join(' ');
 }
 
 
