@@ -30,7 +30,7 @@
     "tw": "即將揭曉",
     "jp": null,
     "en": "Game To Be Revealed",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/509658.jpg"
+    "boxart": null
   },
   "AGDQ 2026 Finale": {
     "tw": "閉幕典禮",
@@ -109,11 +109,6 @@
         null
       ]
     }
-  },
-  "oxxxxxxxxxxxxxxxxxxxxxxxxxxxx": {
-    "tw": null,
-    "jp": null,
-    "en": null
   },
   "Wuchang: Fallen Feathers": {
     "tw": "TODO",
@@ -1334,13 +1329,13 @@
     }
   },
   "Stellar Blade": {
-    "tw": "TODO",
+    "tw": "劍星",
     "jp": null,
     "en": "Stellar Blade",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/512034_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
-      "TODO": [
+      "NG+ Any% Story": [
         null,
         null,
         null
@@ -1348,13 +1343,13 @@
     }
   },
   "LEGO Star Wars: The Complete Saga": {
-    "tw": "TODO",
-    "jp": null,
+    "tw": null,
+    "jp": "レゴ スター・ウォーズ コンプリート サーガ",
     "en": "LEGO Star Wars: The Complete Saga",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/10209_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
-      "TODO": [
+      "Any% (Solo)": [
         null,
         null,
         null
@@ -1362,13 +1357,13 @@
     }
   },
   "Croc 2": {
-    "tw": "TODO",
-    "jp": null,
+    "tw": "克拉鱷大冒險",
+    "jp": "クロックアドベンチャー",
     "en": "Croc 2",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/5776_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
-      "TODO": [
+      "Any%": [
         null,
         null,
         null
@@ -1376,13 +1371,13 @@
     }
   },
   "Sly 2: Band of Thieves": {
-    "tw": "TODO",
-    "jp": null,
+    "tw": null,
+    "jp": "怪盗 スライ・クーパー 2",
     "en": "Sly 2: Band of Thieves",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/14286_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
-      "TODO": [
+      "Episode 2 Any%": [
         null,
         null,
         null
@@ -1390,13 +1385,13 @@
     }
   },
   "Minit": {
-    "tw": "TODO",
-    "jp": null,
-    "en": "Sly 2: Band of Thieves",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "tw": null,
+    "jp": "ミニット",
+    "en": "Minit",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/495610_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
-      "TODO": [
+      "110%": [
         null,
         null,
         null
@@ -1404,13 +1399,13 @@
     }
   },
   "Jetrunner": {
-    "tw": "TODO",
+    "tw": null,
     "jp": null,
-    "en": "Jetrunner",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "en": "JETRUNNER",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/2046238084_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
-      "TODO": [
+      "Super Jetrunner": [
         null,
         null,
         null
@@ -1546,7 +1541,7 @@
     }
   },
   "Castlevania: Dawn of Sorrow": {
-    "tw": "惡魔城 蒼月十字架",
+    "tw": "惡魔城 蒼月的十字架",
     "jp": "悪魔城ドラキュラ 蒼月の十字架",
     "en": "Castlevania: Dawn of Sorrow",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/10389_IGDB.jpg",
