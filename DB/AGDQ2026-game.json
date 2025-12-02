@@ -1712,13 +1712,13 @@
     }
   },
   "Super Mario 64": {
-    "tw": "TODO",
-    "jp": null,
+    "tw": "超級瑪利歐64",
+    "jp": "スーパーマリオ64",
     "en": "Super Mario 64",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
   "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
-      "TODO": [
+      "70 Star, 70 Person Relay": [
         null,
         null,
         null
@@ -1726,13 +1726,13 @@
     }
   },
   "The Legend of Zelda: The Wind Waker": {
-    "tw": "TODO",
-    "jp": null,
+    "tw": "薩爾達傳說 風之律動",
+    "jp": "ゼルダの伝説 風のタクト",
     "en": "The Legend of Zelda: The Wind Waker",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
   "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
-      "TODO": [
+      "Any% - ACE": [
         null,
         null,
         null
@@ -1740,13 +1740,13 @@
     }
   },
   "Elden Ring Nightreign": {
-    "tw": "TODO",
+    "tw": "艾爾登法環 黑夜君臨",
     "jp": null,
     "en": "Elden Ring Nightreign",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
   "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
-      "TODO": [
+      "Trio Defeat Nightlord": [
         null,
         null,
         null
@@ -1754,13 +1754,13 @@
     }
   },
   "Hades II": {
-    "tw": "TODO",
+    "tw": "黑帝斯 II",
     "jp": null,
     "en": "Hades II",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
   "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
-      "TODO": [
+      "All Weapons (Alternating Routes)": [
         null,
         null,
         null
@@ -1768,27 +1768,27 @@
     }
   },
   "BONUS GAME 4 — Hollow Knight: Silksong": {
-    "tw": "TODO",
+    "tw": "空洞騎士：絲綢之歌",
     "jp": null,
-    "en": "BONUS GAME 4 — Hollow Knight: Silksong",
+    "en": "Hollow Knight: Silksong",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
   "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
-      "TODO": [
+      "Any% NMG": [
         null,
-        null,
+        "加碼遊戲 BONUS GAME 4",
         null
       ]
     }
   },
   "Pokémon Emerald": {
-    "tw": "TODO",
-    "jp": null,
+    "tw": "寶可夢 綠寶石",
+    "jp": "ポケットモンスター エメラルド",
     "en": "Pokémon Emerald",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
   "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
-      "TODO": [
+      "Pick-My-Main": [
         null,
         null,
         null
