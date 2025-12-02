@@ -2,10 +2,10 @@
   "Awesome Games Done Quick 2026": {"tw": null, "jp": null, "en": null},
 
 
-  "Awesome Games Done Quick 2026 Pre-Show": {
-    "tw": "AGDQ 2026 開場秀",
+  "AGDQ 2026 Pre-Show": {
+    "tw": "開場秀",
     "jp": null,
-    "en": "Awesome Games Done Quick 2026 Pre-Show",
+    "en": "Pre-Show",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/509658.jpg",
     "bangumi": {
         "Pre-Show": [
@@ -33,22 +33,43 @@
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/509658.jpg"
   },
   "AGDQ 2026 Finale": {
-    "tw": "AGDQ 2026 閉幕典禮",
+    "tw": "閉幕典禮",
     "jp": "フィナーレ",
-    "en": "AGDQ 2026 Finale",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/509663.jpg",
-    "sgdq2025": {
-        "Finale": [
-          null,
-          null
-        ]
+    "en": "Finale",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/509663.jpg"
+  },
+
+
+  "Super Mario Sunshine": {
+    "tw": "超級瑪利歐陽光",
+    "jp": "スーパーマリオサンシャイン",
+    "en": "Super Mario Sunshine",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/6086_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/sms",
+    "bangumi": {
+      "Any%": [
+        null,
+        null,
+        null
+      ]
     }
   },
 
 
-
-
-
+  "Mega Man Battle Network": {
+    "tw": "洛克人EXE",
+    "jp": "バトルネットワーク ロックマンエグゼ",
+    "en": "Rockman EXE / Mega Man Battle Network",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/7542_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/mmbn1",
+    "bangumi": {
+      "Single Segment": [
+        "不分段速通",
+        "一次跑完，不使用讀檔調整亂數",
+        null
+      ]
+    }
+  },
 
   "xxxxxxxxxxxxxxxxxxxxxxxxxxx": {"tw": null, "jp": null, "en": null},
 
