@@ -803,27 +803,29 @@
     }
   },
   "American Truck Simulator": {
-    "tw": "TODO",
+    "tw": "美洲卡車模擬",
     "jp": null,
-    "en": "TODO",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "en": "American Truck Simulator",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/488910_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
-      "TODO": [
+      "Point to Point Race": [
         null,
         null,
         null
       ]
     }
   },
+
+
   "Richard Burns Rally": {
-    "tw": "TODO",
-    "jp": null,
-    "en": "TODO",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "tw": "理察・伯恩斯拉力賽",
+    "jp": "リチャード・バーンズ ラリー",
+    "en": "Richard Burns Rally",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/14605_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
-      "TODO": [
+      "Rally Season": [
         null,
         null,
         null
@@ -831,13 +833,13 @@
     }
   },
   "Armored Core 6: Fires of Rubicon": {
-    "tw": "TODO",
-    "jp": null,
-    "en": "TODO",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "tw": "機戰傭兵VI 境界天火",
+    "jp": "アーマード・コアVI ファイアーズオブルビコン",
+    "en": "Armored Core 6: Fires of Rubicon",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/686119195_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
-      "TODO": [
+      "Arena Rush": [
         null,
         null,
         null
@@ -845,13 +847,13 @@
     }
   },
   "F-Zero GX": {
-    "tw": "TODO",
+    "tw": null,
     "jp": null,
-    "en": "TODO",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "en": "F-Zero GX",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/18697_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
-      "TODO": [
+      "GX Unleashed: Story Mode Very Hard Max Speed": [
         null,
         null,
         null
@@ -859,13 +861,13 @@
     }
   },
   "Pokémon HeartGold/SoulSilver": {
-    "tw": "TODO",
-    "jp": null,
-    "en": "TODO",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "tw": "寶可夢 心金／魂銀",
+    "jp": "ポケットモンスター ハートゴールド・ソウルシルバー",
+    "en": "Pokémon HeartGold/SoulSilver",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/23857.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
-      "TODO": [
+      "Any% (Manipless)": [
         null,
         null,
         null
@@ -873,41 +875,41 @@
     }
   },
   "JokerShellOK": {
-    "tw": "TODO",
+    "tw": null,
     "jp": null,
-    "en": "TODO",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
+    "en": "JokerShellOK",
+    "boxart": "https://www.speedrun.com/static/game/k6qwvnx6/cover.png",
+    "leaderboard": "https://www.speedrun.com/okershellok",
     "bangumi": {
-      "TODO": [
+      "Kill the Koopalarve%": [
         null,
-        null,
+        "《超級瑪利歐世界》SMW 改造版",
         null
       ]
     }
   },
   "BONUS GAME 2 — Mario Kart 64": {
-    "tw": "TODO",
-    "jp": null,
-    "en": "TODO",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "tw": "瑪利歐賽車64",
+    "jp": "マリオカート64",
+    "en": "Mario Kart 64",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/9250_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
-      "TODO": [
-        null,
-        null,
+      "4 Player Vs. Match": [
+        "對戰模式，四人競賽",
+        "加碼遊戲 BONUS GAME 2",
         null
       ]
     }
   },
   "Donkey Kong 64": {
-    "tw": "TODO",
-    "jp": null,
-    "en": "TODO",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "tw": "大金剛64",
+    "jp": "ドンキーコング64",
+    "en": "Donkey Kong 64",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/13765_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
-      "TODO": [
+      "Randomizer Season 4 Race": [
         null,
         null,
         null
@@ -915,13 +917,13 @@
     }
   },
   "Adventures of Yogi Bear": {
-    "tw": "TODO",
+    "tw": "瑜珈熊的冒險",
     "jp": null,
-    "en": "TODO",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "en": "Adventures of Yogi Bear",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/13676_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
-      "TODO": [
+      "Any% (SNES)": [
         null,
         null,
         null
@@ -929,13 +931,13 @@
     }
   },
   "Disney's 102 Dalmatians: Puppies to the Rescue": {
-    "tw": "TODO",
+    "tw": "102 真狗：小狗救援",
     "jp": null,
-    "en": "TODO",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "en": "Disney's 102 Dalmatians: Puppies to the Rescue",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/8836_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
-      "TODO": [
+      "All Levels (OoB) TAS": [
         null,
         null,
         null
@@ -943,13 +945,13 @@
     }
   },
   "The Land Before Time: Return to the Great Valley": {
-    "tw": "TODO",
+    "tw": null,
     "jp": null,
-    "en": "TODO",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "en": "The Land Before Time: Return to the Great Valley",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/20774_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
-      "TODO": [
+      "Any%": [
         null,
         null,
         null
@@ -957,13 +959,13 @@
     }
   },
   "Dizzy Hero": {
-    "tw": "TODO",
+    "tw": null,
     "jp": null,
-    "en": "TODO",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "en": "Dizzy Hero",
+    "boxart": "https://www.speedrun.com/static/game/j1n4jpx6/cover.png",
     "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
-      "TODO": [
+      "Any%": [
         null,
         null,
         null
@@ -971,13 +973,13 @@
     }
   },
   "I'll Invaligate Your Aid": {
-    "tw": "TODO",
+    "tw": null,
     "jp": null,
-    "en": "TODO",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "en": "I'll Invaligate Your Aid",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/678157545_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
-      "TODO": [
+      "Main Story": [
         null,
         null,
         null
@@ -985,13 +987,13 @@
     }
   },
   "12 Bananas": {
-    "tw": "TODO",
+    "tw": null,
     "jp": null,
-    "en": "TODO",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "en": "12 Bananas",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1362365848_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
-      "TODO": [
+      "Any%": [
         null,
         null,
         null
@@ -999,13 +1001,13 @@
     }
   },
   "Egg": {
-    "tw": "TODO",
+    "tw": null,
     "jp": null,
-    "en": "TODO",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
+    "en": "Egg (itch.io)",
+    "boxart": "https://www.speedrun.com/static/game/o1y3lrr6/cover.png",
+    "leaderboard": "https://www.speedrun.com/Egg_itchio",
     "bangumi": {
-      "TODO": [
+      "All Nests": [
         null,
         null,
         null
@@ -1013,13 +1015,13 @@
     }
   },
   "Super Buff HD": {
-    "tw": "TODO",
+    "tw": null,
     "jp": null,
-    "en": "TODO",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "en": "Super Buff HD",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1284004378_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
-      "TODO": [
+      "Any%": [
         null,
         null,
         null
@@ -1027,13 +1029,13 @@
     }
   },
   "Kaiketsu Zorori Mezase! Itazura King": {
-    "tw": "TODO",
-    "jp": null,
-    "en": "TODO",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "tw": "怪俠索羅利",
+    "jp": "かいけつゾロリ めざせ！いたずらキング",
+    "en": "Kaiketsu Zorori Mezase! Itazura King",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1694171593_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
-      "TODO": [
+      "Story Any%": [
         null,
         null,
         null
@@ -1041,13 +1043,13 @@
     }
   },
   "Skull Island: Rise of Kong": {
-    "tw": "TODO",
+    "tw": "骷髏島：金剛崛起",
     "jp": null,
-    "en": "TODO",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "en": "Skull Island: Rise of Kong",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/235343177_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
-      "TODO": [
+      "All Bosses": [
         null,
         null,
         null
@@ -1055,13 +1057,13 @@
     }
   },
   "Bug Blasters: The Exterminators": {
-    "tw": "TODO",
+    "tw": null,
     "jp": null,
-    "en": "TODO",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
+    "en": "Bug Blasters: The Exterminators",
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7nev.webp",
+    "leaderboard": null,
     "bangumi": {
-      "TODO": [
+      "Easy Difficulty": [
         null,
         null,
         null
@@ -1071,11 +1073,11 @@
   "Rock 'n' Roll Adventures": {
     "tw": "TODO",
     "jp": null,
-    "en": "TODO",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "en": "Rock 'n' Roll Adventures",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/22085_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
-      "TODO": [
+      "All Levels": [
         null,
         null,
         null
@@ -1083,13 +1085,13 @@
     }
   },
   "The Running Man": {
-    "tw": "TODO",
-    "jp": null,
-    "en": "TODO",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
+    "tw": "魔鬼阿諾",
+    "jp": "バトルランナー",
+    "en": "The Running Man",
+    "boxart": "https://www.speedrun.com/static/game/pdv9nxr1/cover.jpg",
+    "leaderboard": "https://www.speedrun.com/The_Running_Man",
     "bangumi": {
-      "TODO": [
+      "Any%": [
         null,
         null,
         null
@@ -1097,13 +1099,13 @@
     }
   },
   "Garbage Pail Kids: Mad Mike and the Quest for Stale Gum": {
-    "tw": "TODO",
+    "tw": null,
     "jp": null,
-    "en": "TODO",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "en": "Garbage Pail Kids: Mad Mike and the Quest for Stale Gum",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/758297957_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
-      "TODO": [
+      "Any% Tourist": [
         null,
         null,
         null
@@ -1111,13 +1113,13 @@
     }
   },
   "That's A Cow": {
-    "tw": "TODO",
+    "tw": "那是一頭牛",
     "jp": null,
-    "en": "TODO",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "en": "That's A Cow",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/714893917_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
-      "TODO": [
+      "30 Levels": [
         null,
         null,
         null
@@ -1125,13 +1127,13 @@
     }
   },
   "Batman Beyond: Return of the Joker": {
-    "tw": "TODO",
-    "jp": null,
-    "en": "TODO",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "tw": "未來蝙蝠俠：小醜歸來",
+    "jp": "バットマン・ザ・フューチャー 蘇ったジョーカー",
+    "en": "Batman Beyond: Return of the Joker",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1134_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
-      "TODO": [
+      "Any%": [
         null,
         null,
         null
@@ -1139,13 +1141,13 @@
     }
   },
   "Splatterhouse Wanpaku Graffiti": {
-    "tw": "TODO",
-    "jp": null,
-    "en": "TODO",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "tw": "鬼屋歷險",
+    "jp": "スプラッターハウス わんぱくグラフィティ",
+    "en": "Splatterhouse Wanpaku Graffiti",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/4488_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
-      "TODO": [
+      "Any%": [
         null,
         null,
         null
@@ -1153,13 +1155,13 @@
     }
   },
   "Wizards & Warriors": {
-    "tw": "TODO",
-    "jp": null,
-    "en": "TODO",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "tw": null,
+    "jp": "伝説の騎士エルロンド",
+    "en": "Wizards & Warriors",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/6070_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
-      "TODO": [
+      "Any%": [
         null,
         null,
         null
@@ -1167,27 +1169,27 @@
     }
   },
   "Monster in My Pocket": {
-    "tw": "TODO",
+    "tw": null,
     "jp": null,
-    "en": "TODO",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "en": "Monster in My Pocket",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/13132_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
-      "TODO": [
+      "Any% Co-op": [
         null,
-        null,
+        "口袋...怪獸？",
         null
       ]
     }
   },
   "Déjà Vu": {
-    "tw": "TODO",
-    "jp": null,
-    "en": "TODO",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
+    "tw": null,
+    "jp": "ディジャブ",
+    "en": "Déjà Vu",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/518932_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/dejavu",
     "bangumi": {
-      "TODO": [
+      "Any%": [
         null,
         null,
         null
