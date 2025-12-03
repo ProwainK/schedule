@@ -775,27 +775,29 @@
     }
   },
   "Contra: Operation Galuga": {
-    "tw": "TODO",
+    "tw": "魂斗羅：加盧加行動",
     "jp": null,
-    "en": "TODO",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "en": "Contra: Operation Galuga",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/537410450_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
-      "TODO": [
+      "Arcade - Normal - Multiplayer": [
         null,
         null,
         null
       ]
     }
   },
+
+
   "Sonic Rush": {
-    "tw": "TODO",
-    "jp": null,
-    "en": "TODO",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "tw": "音速小子 Rush",
+    "jp": "ソニック ラッシュ",
+    "en": "Sonic Rush",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/8691_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
-      "TODO": [
+      "Blaze vs Sonic Category Choice": [
         null,
         null,
         null
@@ -816,8 +818,6 @@
       ]
     }
   },
-
-
   "Richard Burns Rally": {
     "tw": "理察・伯恩斯拉力賽",
     "jp": "リチャード・バーンズ ラリー",
@@ -1071,7 +1071,7 @@
     }
   },
   "Rock 'n' Roll Adventures": {
-    "tw": "TODO",
+    "tw": null,
     "jp": null,
     "en": "Rock 'n' Roll Adventures",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/22085_IGDB.jpg",
@@ -1099,7 +1099,7 @@
     }
   },
   "Garbage Pail Kids: Mad Mike and the Quest for Stale Gum": {
-    "tw": null,
+    "tw": "垃圾桶小子：瘋狂麥克和過期口香糖的冒險",
     "jp": null,
     "en": "Garbage Pail Kids: Mad Mike and the Quest for Stale Gum",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/758297957_IGDB.jpg",
@@ -1127,7 +1127,7 @@
     }
   },
   "Batman Beyond: Return of the Joker": {
-    "tw": "未來蝙蝠俠：小醜歸來",
+    "tw": "未來蝙蝠俠：小丑歸來",
     "jp": "バットマン・ザ・フューチャー 蘇ったジョーカー",
     "en": "Batman Beyond: Return of the Joker",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1134_IGDB.jpg",
