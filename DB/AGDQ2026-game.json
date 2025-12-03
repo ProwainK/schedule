@@ -509,13 +509,13 @@
     }
   },
   "SEUM: Speedrunners from Hell": {
-    "tw": "TODO",
+    "tw": null,
     "jp": null,
-    "en": "TODO",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "en": "SEUM: Speedrunners from Hell",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/492583_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
-      "TODO": [
+      "Speedrun Mode: All Levels": [
         null,
         null,
         null
@@ -523,27 +523,29 @@
     }
   },
   "Lylat Wars": {
-    "tw": "TODO",
-    "jp": null,
-    "en": "TODO",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "tw": "星際火狐64",
+    "jp": "スターフォックス64",
+    "en": "Star Fox 64 / Lylat Wars",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/17586_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
-      "TODO": [
+      "Single Life Score Attack": [
         null,
         null,
         null
       ]
     }
   },
+
+
   "Pipistrello and the Cursed Yoyo": {
-    "tw": "TODO",
+    "tw": "皮皮蝠與詛咒溜溜球",
     "jp": null,
-    "en": "TODO",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "en": "Pipistrello and the Cursed Yoyo",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/144677612_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
-      "TODO": [
+      "Any%": [
         null,
         null,
         null
@@ -551,13 +553,13 @@
     }
   },
   "Borderlands 2": {
-    "tw": "TODO",
-    "jp": null,
-    "en": "TODO",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "tw": "邊緣禁地2",
+    "jp": "ボーダーランズ2",
+    "en": "Borderlands 2",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/32345_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
-      "TODO": [
+      "Co-op All Quests": [
         null,
         null,
         null
@@ -565,13 +567,13 @@
     }
   },
   "Star Wars Battlefront 2 Classic (2005)": {
-    "tw": "TODO",
-    "jp": null,
-    "en": "TODO",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "tw": "星際大戰：戰場前線II",
+    "jp": "スター・ウォーズ バトルフロントII",
+    "en": "Star Wars Battlefront 2 Classic (2005)",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/6490_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
-      "TODO": [
+      "Rise of the Empire Any% w/ Awards": [
         null,
         null,
         null
@@ -579,13 +581,13 @@
     }
   },
   "Bill Nye: The Science Guy – Stop the Rock!": {
-    "tw": "TODO",
+    "tw": null,
     "jp": null,
-    "en": "TODO",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "en": "Bill Nye: The Science Guy – Stop the Rock!",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/24565_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
-      "TODO": [
+      "ASASP%": [
         null,
         null,
         null
@@ -593,13 +595,13 @@
     }
   },
   "Halo: Combat Evolved": {
-    "tw": "TODO",
+    "tw": "最後一戰：戰鬥進化",
     "jp": null,
-    "en": "TODO",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "en": "Halo: Combat Evolved",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/2397_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
-      "TODO": [
+      "Cursed Again - Any%": [
         null,
         null,
         null
@@ -607,13 +609,13 @@
     }
   },
   "Metal Gear Solid Δ: Snake Eater": {
-    "tw": "TODO",
-    "jp": null,
-    "en": "TODO",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "tw": "潛龍諜影Δ 食蛇者",
+    "jp": "メタルギアソリッド デルタ: スネークイーター",
+    "en": "Metal Gear Solid Δ: Snake Eater",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/957620847_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
-      "TODO": [
+      "European Extreme Any%": [
         null,
         null,
         null
@@ -621,27 +623,27 @@
     }
   },
   "Metal Gear Solid Δ: Snake Eater — Bonus Category": {
-    "tw": "TODO",
-    "jp": null,
-    "en": "TODO",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "tw": "潛龍諜影Δ 食蛇者",
+    "jp": "メタルギアソリッド デルタ: スネークイーター",
+    "en": "Metal Gear Solid Δ: Snake Eater",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/957620847_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
-      "TODO": [
-        null,
+      "Snake Vs Monkey": [
+        "【加碼表演】猿蛇合戰",
         null,
         null
       ]
     }
   },
   "Psychonauts 2": {
-    "tw": "TODO",
+    "tw": "腦航員 2",
     "jp": null,
-    "en": "TODO",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "en": "Psychonauts 2",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/499111_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
-      "TODO": [
+      "Any%": [
         null,
         null,
         null
@@ -649,13 +651,13 @@
     }
   },
   "Silent Hill f": {
-    "tw": "TODO",
-    "jp": null,
-    "en": "TODO",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "tw": "沉默之丘f",
+    "jp": "サイレントヒルf",
+    "en": "Silent Hill f",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/848400095_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
-      "TODO": [
+      "New Game Story": [
         null,
         null,
         null
@@ -663,13 +665,13 @@
     }
   },
   "Resident Evil 2 (2019)": {
-    "tw": "TODO",
-    "jp": null,
-    "en": "TODO",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "tw": "惡靈古堡2 重製版",
+    "jp": "バイオハザード RE:2",
+    "en": "Resident Evil 2 (2019)",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/293693714_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
-      "TODO": [
+      "Leon vs Claire Category Choice - 2nd Run Knife Only": [
         null,
         null,
         null
@@ -677,13 +679,13 @@
     }
   },
   "Amnesia: The Bunker": {
-    "tw": "TODO",
+    "tw": "失憶症：地堡",
     "jp": null,
-    "en": "TODO",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "en": "Amnesia: The Bunker",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1531824392_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
-      "TODO": [
+      "Glitchless (Shellshock Difficulty)": [
         null,
         null,
         null
@@ -691,13 +693,13 @@
     }
   },
   "F.E.A.R. 2: Project Origin": {
-    "tw": "TODO",
+    "tw": "戰慄突擊 2：起源計劃",
     "jp": null,
-    "en": "TODO",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "en": "F.E.A.R. 2: Project Origin",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/18886_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
-      "TODO": [
+      "Any%": [
         null,
         null,
         null
@@ -705,13 +707,13 @@
     }
   },
   "Kiosk": {
-    "tw": "TODO",
+    "tw": null,
     "jp": null,
-    "en": "TODO",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "en": "Kiosk",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/182632692_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
-      "TODO": [
+      "Any%": [
         null,
         null,
         null
@@ -719,13 +721,13 @@
     }
   },
   "Fatal Frame II: Crimson Butterfly": {
-    "tw": "TODO",
-    "jp": null,
-    "en": "TODO",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
+    "tw": "零 ～紅蝶～",
+    "jp": "零 〜紅い蝶〜",
+    "en": "Fatal Frame II: Crimson Butterfly",
+    "boxart": "https://upload.wikimedia.org/wikipedia/zh/e/e7/%E9%9B%B6_%EF%BD%9E%E7%BA%A2%E8%9D%B6%EF%BD%9E_PS2%E6%97%A5%E7%89%88%E5%B0%81%E9%9D%A2.jpg",
+    "leaderboard": "https://www.speedrun.com/fatal_frame_ii_crimson_butterfly",
     "bangumi": {
-      "TODO": [
+      "NG Normal Any%": [
         null,
         null,
         null
@@ -733,13 +735,13 @@
     }
   },
   "Bloons Tower Defense 6": {
-    "tw": "TODO",
+    "tw": "氣球塔防 6",
     "jp": null,
-    "en": "TODO",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
+    "en": "Bloons Tower Defense 6",
+    "boxart": "https://www.speedrun.com/static/game/nd2er3ed/cover.png",
+    "leaderboard": "https://www.speedrun.com/btd6",
     "bangumi": {
-      "TODO": [
+      "All True Expert Chimps": [
         null,
         null,
         null
@@ -747,13 +749,13 @@
     }
   },
   "Animal Crossing: City Folk": {
-    "tw": "TODO",
-    "jp": null,
-    "en": "TODO",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "tw": "動物森友會 城市大家庭",
+    "jp": "街へいこうよ どうぶつの森",
+    "en": "Animal Crossing: City Folk",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/19261_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
-      "TODO": [
+      "Golden Net Race": [
         null,
         null,
         null
@@ -761,13 +763,13 @@
     }
   },
   "Mighty Gunvolt": {
-    "tw": "TODO",
-    "jp": null,
-    "en": "TODO",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO.jpg",
+    "tw": "麥提鋼佛特",
+    "jp": "マイティガンヴォルト",
+    "en": "Mighty Gunvolt",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/461516_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "bangumi": {
-      "TODO": [
+      "All Levels (Gunvolt)": [
         null,
         null,
         null
