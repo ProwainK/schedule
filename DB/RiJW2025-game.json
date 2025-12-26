@@ -502,8 +502,8 @@
     "leaderboard": "https://www.speedrun.com/kssu",
     "bangumi": {
       "Beat RotK": [
-        "【競速 Race】Beat RotK",
-        null,
+        "【競速 Race】章節「大王的逆襲」破關",
+        "4 人 4 主機同台競速！",
         null
       ]
     }
@@ -545,7 +545,7 @@
     "bangumi": {
       "MST": [
         "禁止 BUG 直接生成主線關鍵物品",
-        "闖關期間的各種漏洞技巧是自由的，敬請期待",
+        "不過闖關期間的各種漏洞技巧是自由的，敬請期待",
         null
       ]
     }
