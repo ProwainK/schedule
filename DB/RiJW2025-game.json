@@ -327,15 +327,15 @@
     }
   },
   "シャドウジェネレーションズ": {
-    "tw": "索尼克×夏特 世代重啟",
-    "jp": "ソニック × シャドウ ジェネレーションズ",
-    "en": "Sonic X Shadow Generations",
+    "tw": "夏特 世代",
+    "jp": "シャドウジェネレーションズ",
+    "en": "Shadow Generations",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1775804061_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/shadow_generations",
     "bangumi": {
       "Any%": [
-        null,
-        null,
+        "Any%",
+        "黑暗英雄「夏特」肆意奔馳的完全新作《夏特 世代》",
         null
       ]
     }
@@ -1254,6 +1254,22 @@
       "Reverse Boss Order": [
         "逆順序擊敗頭目",
         null,
+        null
+      ]
+    }
+  },
+
+
+  "【バックアップ】Untitled Goose Game 〜いたずらガチョウがやって来た！〜": {
+    "tw": "無名鵝愛搗蛋",
+    "jp": "Untitled Goose Game 〜いたずらガチョウがやって来た！〜",
+    "en": "Untitled Goose Game",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/499537_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/goose",
+    "bangumi": {
+      "100%": [
+        "【備選節目 Backup】100%",
+        "HOOK～！",
         null
       ]
     }
