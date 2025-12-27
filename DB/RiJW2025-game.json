@@ -1274,6 +1274,20 @@
       ]
     }
   },
+  "【バックアップ】FINAL FANTASY XV WINDOWS EDITION": {
+    "tw": null,
+    "jp": null,
+    "en": "Final Fantasy XV Windows Edition",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/19180_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/ffxv",
+    "bangumi": {
+      "Any% Normal": [
+        "【備選節目 Backup】Any% Normal",
+        "雖然是超大型作品，但破關時間只要 34 分鐘！？",
+        null
+      ]
+    }
+  },
 
 
   "See You Next Time": {"tw": null, "jp": null, "en": null }
