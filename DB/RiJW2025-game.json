@@ -1288,6 +1288,20 @@
       ]
     }
   },
+  "【バックアップ】CALLING ～黒き着信～": {
+    "tw": "恐怖電話～不祥鈴聲～",
+    "jp": "CALLING ～黒き着信～",
+    "en": "Calling",
+    "boxart": "https://www.speedrun.com/static/game/4d75gn67/cover.png",
+    "leaderboard": "https://www.speedrun.com/calling",
+    "bangumi": {
+      "New Game+ True Ending": [
+        "【備選節目 Backup】New Game+ True Ending",
+        null,
+        null
+      ]
+    }
+  },
 
 
   "See You Next Time": {"tw": null, "jp": null, "en": null }
