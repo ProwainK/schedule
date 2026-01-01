@@ -6,14 +6,14 @@
 
 # 相關連結
 
-實況頻道：https://www.twitch.tv/rtainjapan
-英語轉播：https://www.twitch.tv/englishrestream
-活動頁面：https://rtain.jp/rtaij/rta-in-japan-winter-2025
-跑者投稿：https://reurl.cc/7bn2q9
-抖內項目：https://tracker.rtain.jp/bids/rtaijw2025
-ニコニコ大百科：https://reurl.cc/Xa9ANg
-官方推特 (X)：https://x.com/rtainjapan
-官方時程表：https://horaro.org/rtaij/rtaijw2025
+實況頻道：https://www.twitch.tv/rtainjapan  
+英語轉播：https://www.twitch.tv/englishrestream  
+活動頁面：https://rtain.jp/rtaij/rta-in-japan-winter-2025  
+跑者投稿：https://reurl.cc/7bn2q9  
+抖內項目：https://tracker.rtain.jp/bids/rtaijw2025  
+ニコニコ大百科：https://reurl.cc/Xa9ANg  
+官方推特 (X)：https://x.com/rtainjapan  
+官方時程表：https://horaro.org/rtaij/rtaijw2025  
 
 
 # 12/25 週四
@@ -326,4 +326,5 @@
 | 14:53 | **超級銀河戰士**<br>スーパーメトロイド<br>Super Metroid | 1 小時 20 分鐘
 | [VOD](https://www.youtube.com/watch?v=7PnORz463Ho) | Reverse Boss Order (SNES Classic)<br> | サスレイム
 | | |
+
 
