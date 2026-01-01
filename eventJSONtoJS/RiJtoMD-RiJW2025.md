@@ -1,10 +1,3 @@
----
-title: RTA in Japan Winter 2025 時程表翻譯 ლ(╹◡╹ლ)
-description: 無敵時間さん！？
----
-
-{%hackmd @ProwainK/HJhBew8KR %}
-
 # RTA in Japan Winter 2025 時程表翻譯 ლ(╹◡╹ლ)
 
 ## 台灣時間 2025 12/25 14:00 ~ 12/31 (UTC+08:00)
@@ -333,3 +326,4 @@ description: 無敵時間さん！？
 | 14:53 | **超級銀河戰士**<br>スーパーメトロイド<br>Super Metroid | 1 小時 20 分鐘
 | [VOD](https://www.youtube.com/watch?v=7PnORz463Ho) | Reverse Boss Order (SNES Classic)<br> | サスレイム
 | | |
+
