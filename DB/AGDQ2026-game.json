@@ -26,7 +26,7 @@
     "en": "The Daily Recap",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/509658.jpg"
   },
-  "The Event Recap": {
+  "Event Recap": {
     "tw": "活動回顧",
     "jp": null,
     "en": "Event Recap",
@@ -588,10 +588,10 @@
       ]
     }
   },
-  "Bill Nye: The Science Guy – Stop the Rock!": {
+  "Bill Nye: The Science Guy — Stop the Rock!": {
     "tw": null,
     "jp": null,
-    "en": "Bill Nye: The Science Guy – Stop the Rock!",
+    "en": "Bill Nye: The Science Guy — Stop the Rock!",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/24565_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "AGDQ2026": {
@@ -856,14 +856,14 @@
       ]
     }
   },
-  "F-Zero GX": {
+  "F-Zero GX Unleashed": {
     "tw": null,
     "jp": null,
-    "en": "F-Zero GX",
+    "en": "F-Zero GX Unleashed",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/18697_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "AGDQ2026": {
-      "GX Unleashed: Story Mode Very Hard Max Speed": [
+      "Story Mode (Very Hard, Max Speed)": [
         null,
         null,
         null
