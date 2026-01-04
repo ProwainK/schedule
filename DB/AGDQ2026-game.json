@@ -531,7 +531,7 @@
     }
   },
   "Lylat Wars": {
-    "tw": "星際火狐64",
+    "tw": "星戰火狐64",
     "jp": "スターフォックス64",
     "en": "Star Fox 64 / Lylat Wars",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/17586_IGDB.jpg",
@@ -997,7 +997,7 @@
     }
   },
   "12 Bananas": {
-    "tw": null,
+    "tw": "十二蕉",
     "jp": null,
     "en": "12 Bananas",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1362365848_IGDB.jpg",
@@ -1011,7 +1011,7 @@
     }
   },
   "Egg": {
-    "tw": null,
+    "tw": "蛋",
     "jp": null,
     "en": "Egg (itch.io)",
     "boxart": "https://www.speedrun.com/static/game/o1y3lrr6/cover.png",
