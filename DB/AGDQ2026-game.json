@@ -62,7 +62,7 @@
       "Any%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=zN9I3iAN6a0"
       ]
     }
   },
@@ -76,7 +76,7 @@
       "Any%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=4ng8fucf-Cs"
       ]
     }
   },
@@ -90,7 +90,7 @@
       "108%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=En3zq7LG8Rg"
       ]
     }
   },
@@ -104,7 +104,7 @@
       "14 Talisman": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=lDmUR1CPm7w"
       ]
     }
   },
@@ -115,10 +115,10 @@
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/138583_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/shovelknight",
     "AGDQ2026": {
-      "New Game Plus": [
+      "NG+": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=LU12_n_CQKo"
       ]
     }
   },
@@ -129,10 +129,10 @@
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/382835903_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "AGDQ2026": {
-      "Any% Unrestricted": [
+      "Any% (Unrestricted)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=jq6UpBbVDcY"
       ]
     }
   },
@@ -146,7 +146,7 @@
       "tixE 69": [
         null,
         "《超級瑪利歐世界》SMW 改造版",
-        null
+        "https://www.youtube.com/watch?v=n8pwvbp17KM"
       ]
     }
   },
@@ -160,7 +160,7 @@
       "11 Exit (One-Handed)": [
         "【加碼表演】單手破關 (11 Exit 路線)",
         null,
-        null
+        "https://www.youtube.com/watch?v=ApF7viyv6ns"
       ]
     }
   },
@@ -174,7 +174,7 @@
       "Side Story Showcase": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=epeynSx0vhE"
       ]
     }
   },
@@ -185,10 +185,10 @@
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/10090_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "AGDQ2026": {
-      "Any% (No Out of Bounds) [PAL]": [
+      "Any% (No OoB, PAL)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=1Gmm5TtR3ks"
       ]
     }
   },
@@ -254,6 +254,20 @@
     "en": "Misc: A Tiny Tale",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/518817_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/Misc_A_Tiny_Tale",
+    "AGDQ2026": {
+      "Any%": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Wolfenstein: The Old Blood": {
+    "tw": "德軍總部：舊血脈",
+    "jp": null,
+    "en": "Wolfenstein: The Old Blood",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/489135_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/tob",
     "AGDQ2026": {
       "Any%": [
         null,
