@@ -6,19 +6,55 @@
     "tw": "開場秀",
     "jp": null,
     "en": "Pre-Show",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/509658.jpg"
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/509658.jpg",
+    "AGDQ2026": {
+      "Pre-Show": [
+        null,
+        null,
+        "https://www.youtube.com/watch?v=NbcIJfXDyts"
+      ]
+    }
   },
   "The Rundown": {
-    "tw": "每日回顧 (The Rundown)",
+    "tw": "每日簡報",
     "jp": null,
     "en": "The Rundown",
-    "boxart": "https://gdq-assets.gamesdonequick.com/assets/logos/rundown-transparent.webp"
+    "boxart": "https://gdq-assets.gamesdonequick.com/assets/logos/rundown-transparent.webp",
+    "AGDQ2026": {
+      "Monday": [
+        null,
+        null,
+        "https://www.youtube.com/watch?v=sOlOwOMpnDE"
+      ],
+      "Tuesday": [
+        null,
+        null,
+        "https://www.youtube.com/watch?v=TLFZ5KojIRM"
+      ]
+    }
   },
   "The Checkpoint": {
     "tw": "中場休息",
     "jp": null,
     "en": "The Checkpoint",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/509658.jpg"
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/509658.jpg",
+    "AGDQ2026": {
+      "Sunday": [
+        null,
+        null,
+        "https://www.youtube.com/watch?v=1ztcmaqquXw"
+      ],
+      "Monday": [
+        null,
+        null,
+        "https://www.youtube.com/watch?v=lfyJkxhzCDU"
+      ],
+      "Tuesday": [
+        null,
+        null,
+        "https://www.youtube.com/watch?v=AT8dfohEHOc"
+      ]
+    }
   },
   "The Daily Recap": {
     "tw": "每日回顧 (Daily Recap)",
@@ -202,7 +238,7 @@
       "Any%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=oonPyeY_Jdc"
       ]
     }
   },
@@ -216,7 +252,7 @@
       "Dark War (Ludicrous Settings)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=kBm9ArOHPvA"
       ]
     }
   },
@@ -230,7 +266,7 @@
       "Any% (4 Characters)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=yH0FvK6o8eI"
       ]
     }
   },
@@ -244,7 +280,7 @@
       "Single Segment": [
         "不分段速通",
         "一次跑完，不使用讀檔調整亂數",
-        null
+        "https://www.youtube.com/watch?v=zjGc6dYg92Y"
       ]
     }
   },
@@ -258,7 +294,7 @@
       "Any%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=yFUvP3xiOLc"
       ]
     }
   },
@@ -272,7 +308,7 @@
       "Any%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=REtlPyoh4Sc"
       ]
     }
   },
@@ -297,10 +333,10 @@
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/322803055_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "AGDQ2026": {
-      "True RNG Cutscene Remover": [
+      "True RNG (Cutscene Remover)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=wSzK0UJ99wU"
       ]
     }
   },
@@ -311,10 +347,10 @@
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1023301567_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "AGDQ2026": {
-      "Any% RaceTODO": [
+      "Any% Race": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=2wl0fD-h9mM"
       ]
     }
   },
@@ -330,7 +366,7 @@
       "Any%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=GQfDgmP3lEE"
       ]
     }
   },
@@ -344,7 +380,7 @@
       "All Eggs": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=7hG6htjydK8"
       ]
     }
   },
@@ -358,7 +394,7 @@
       "Special Agent Race": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=3jNYmb5rPxk"
       ]
     }
   },
@@ -372,7 +408,7 @@
       "Sonic's Story": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=v7xEbT7haCI"
       ]
     }
   },
@@ -386,7 +422,7 @@
       "Rank F": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=-CQD9uzRLDI"
       ]
     }
   },
@@ -397,10 +433,10 @@
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/187423292_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "AGDQ2026": {
-      "Only Star-Crossed World Any% Restricted": [
+      "Star-Crossed World — Any% (Restricted)": [
         "星耀世界 Any% Restricted",
         null,
-        null
+        "https://www.youtube.com/watch?v=8p030EuHSGU"
       ]
     }
   },
@@ -414,7 +450,7 @@
       "Any% (No Item Glitch)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=8ExYUerAOrQ"
       ]
     }
   },
@@ -425,10 +461,10 @@
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/369075_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "AGDQ2026": {
-      "Any% Lagless": [
+      "Any% (Lagless)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=jk9pTyobLWQ"
       ]
     }
   },
@@ -442,7 +478,7 @@
       "Heavyweight Difficulty Showcase": [
         null,
         "加碼遊戲 BONUS GAME 1",
-        null
+        "https://www.youtube.com/watch?v=-X_Y-IyULSE"
       ]
     }
   },
@@ -456,7 +492,7 @@
       "All ? Panels": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=9ATxMOTKWzg"
       ]
     }
   },
@@ -467,10 +503,10 @@
     "boxart": "https://www.speedrun.com/static/game/nj1nww1p/cover.png",
     "leaderboard": "https://www.speedrun.com/jak3",
     "AGDQ2026": {
-      "No Out of Bounds Restricted Race": [
+      "Any% Race (No OoB, Restricted)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=wHle07IEW6s"
       ]
     }
   },
@@ -484,7 +520,7 @@
       "All Bosses": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=oN1Tm3FTaBo"
       ]
     }
   },
@@ -495,10 +531,10 @@
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1702520304_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "AGDQ2026": {
-      "Any% Act 4": [
+      "Act 4 — Any%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=LSxijR13aZ8"
       ]
     }
   },
@@ -512,7 +548,7 @@
       "Any%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=M__1sHf5opQ"
       ]
     }
   },
@@ -526,7 +562,7 @@
       "Any%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=bHaU0jUaqo8"
       ]
     }
   },
@@ -540,7 +576,7 @@
       "Any%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=PtJRy-5LOpE"
       ]
     }
   },
@@ -551,10 +587,10 @@
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/492583_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "AGDQ2026": {
-      "Speedrun Mode: All Levels": [
+      "Speedrun Mode —  All Levels": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=UtOv5tr-0-Y"
       ]
     }
   },
@@ -568,7 +604,7 @@
       "Single Life Score Attack": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=d2g1p6-MxZw"
       ]
     }
   },
@@ -584,7 +620,7 @@
       "Any%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=aJfU7xZaTws"
       ]
     }
   },
@@ -595,10 +631,10 @@
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/32345_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "AGDQ2026": {
-      "Co-op All Quests": [
+      "All Quests (Co-op)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=S-FNyxxkiqk"
       ]
     }
   },
@@ -609,10 +645,10 @@
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/6490_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "AGDQ2026": {
-      "Rise of the Empire Any% w/ Awards": [
+      "Rise of the Empire — Any% (w/ Awards)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=wjePUvKZwaA"
       ]
     }
   },
@@ -626,7 +662,7 @@
       "ASASP%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=O6194mwxd5E"
       ]
     }
   },
@@ -637,10 +673,10 @@
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/2397_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "AGDQ2026": {
-      "Cursed Again - Any%": [
+      "Cursed Again — Any%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=KNBbirUPjPM"
       ]
     }
   },
@@ -651,10 +687,10 @@
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/957620847_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "AGDQ2026": {
-      "European Extreme Any%": [
+      "Any% (European Extreme)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=ckvrWZSsII0"
       ]
     }
   },
@@ -665,10 +701,10 @@
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/957620847_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "AGDQ2026": {
-      "Snake Vs Monkey": [
+      "Snake vs. Monkey": [
         "【加碼表演】猿蛇合戰",
         null,
-        null
+        "https://www.youtube.com/watch?v=ckvrWZSsII0&t=4078s"
       ]
     }
   },
@@ -1234,11 +1270,11 @@
       ]
     }
   },
-  "The Legend of Zelda: Twilight Princess HD": {
-    "tw": "薩爾達傳說 黃昏公主 HD",
-    "jp": "ゼルダの伝説 トワイライトプリンセス HD",
-    "en": "The Legend of Zelda: Twilight Princess HD",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/491327_IGDB.jpg",
+  "The Legend of Zelda: Twilight Princess": {
+    "tw": "薩爾達傳說 黃昏公主",
+    "jp": "ゼルダの伝説 トワイライトプリンセス",
+    "en": "The Legend of Zelda: Twilight Princess",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/17828_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "AGDQ2026": {
       "All Dungeons": [
