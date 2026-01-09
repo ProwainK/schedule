@@ -30,6 +30,16 @@
         null,
         null,
         "https://www.youtube.com/watch?v=TLFZ5KojIRM"
+      ],
+      "Wednesday": [
+        null,
+        null,
+        "https://www.youtube.com/watch?v=0DfWEuFKaJc"
+      ],
+      "Thursday": [
+        null,
+        null,
+        "https://www.youtube.com/watch?v=RG-Q6cvflOs"
       ]
     }
   },
@@ -53,6 +63,16 @@
         null,
         null,
         "https://www.youtube.com/watch?v=AT8dfohEHOc"
+      ],
+      "Wednesday": [
+        null,
+        null,
+        "https://www.youtube.com/watch?v=DWJKK1DI5xY"
+      ],
+      "PCF Charity Spotlight: Tara Williams": [
+        null,
+        null,
+        "https://www.youtube.com/watch?v=WtM7SoINJdg"
       ]
     }
   },
@@ -718,7 +738,7 @@
       "Any%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=yeXcYV2n9ZQ"
       ]
     }
   },
@@ -729,10 +749,10 @@
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/848400095_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "AGDQ2026": {
-      "New Game Story": [
+      "New Game Story (Hard)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=O-n--v1xYQA"
       ]
     }
   },
@@ -743,10 +763,10 @@
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/293693714_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "AGDQ2026": {
-      "Leon vs Claire Category Choice - 2nd Run Knife Only": [
+      "Leon vs. Claire (2nd Run, Knife Only)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=qKPAfTMq8cA"
       ]
     }
   },
@@ -760,7 +780,7 @@
       "Glitchless (Shellshock Difficulty)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=z_CugU3uz7M"
       ]
     }
   },
@@ -774,7 +794,7 @@
       "Any%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=GHU_cM8tem8"
       ]
     }
   },
@@ -788,7 +808,7 @@
       "Any%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=C6NxNDp7knw"
       ]
     }
   },
@@ -799,10 +819,10 @@
     "boxart": "https://upload.wikimedia.org/wikipedia/zh/e/e7/%E9%9B%B6_%EF%BD%9E%E7%BA%A2%E8%9D%B6%EF%BD%9E_PS2%E6%97%A5%E7%89%88%E5%B0%81%E9%9D%A2.jpg",
     "leaderboard": "https://www.speedrun.com/fatal_frame_ii_crimson_butterfly",
     "AGDQ2026": {
-      "NG Normal Any%": [
+      "Any% (Normal)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=4MIclLJrdFM"
       ]
     }
   },
@@ -816,7 +836,7 @@
       "All True Expert Chimps": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=txE7DO4C1Xo"
       ]
     }
   },
@@ -830,7 +850,7 @@
       "Golden Net Race": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=QvO1UypxxGc"
       ]
     }
   },
@@ -844,7 +864,7 @@
       "All Levels (Gunvolt)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=7IQEKHm_6_Q"
       ]
     }
   },
@@ -855,10 +875,10 @@
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/537410450_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "AGDQ2026": {
-      "Arcade - Normal - Multiplayer": [
+      "Any% Arcade (Multiplayer, Normal)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=kvI3SuA8dGg"
       ]
     }
   },
@@ -871,10 +891,10 @@
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/8691_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "AGDQ2026": {
-      "Blaze vs Sonic Category Choice": [
+      "Blaze vs. Sonic": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=AbJi-SenHoQ"
       ]
     }
   },
@@ -885,10 +905,10 @@
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/488910_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "AGDQ2026": {
-      "Point to Point Race": [
+      "Point-to-Point Race": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=wDg6eXLAelM"
       ]
     }
   },
@@ -902,7 +922,7 @@
       "Rally Season": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=VOqvW-uPcls"
       ]
     }
   },
@@ -916,7 +936,7 @@
       "Arena Rush": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=gQPoX-f1auo"
       ]
     }
   },
@@ -930,7 +950,7 @@
       "Story Mode (Very Hard, Max Speed)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=ylYDtu6PaDg"
       ]
     }
   },
@@ -941,10 +961,10 @@
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/23857.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "AGDQ2026": {
-      "Any% (Manipless)": [
+      "Any% (Manipless) — Version Choice": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=q8avsBBf8ZI"
       ]
     }
   },
@@ -958,7 +978,7 @@
       "Kill the Koopalarve%": [
         null,
         "《超級瑪利歐世界》SMW 改造版",
-        null
+        "https://www.youtube.com/watch?v=0aJlHnRN_bo"
       ]
     }
   },
@@ -969,10 +989,10 @@
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/9250_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "AGDQ2026": {
-      "4 Player Vs. Match": [
+      "VS Mode — 4 Player Match": [
         "對戰模式，四人競賽",
         "加碼遊戲 BONUS GAME 2",
-        null
+        "https://www.youtube.com/watch?v=6IqE8FRBT_w"
       ]
     }
   },
@@ -986,7 +1006,7 @@
       "Randomizer Season 4 Race": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=gu3t6d19Rsc"
       ]
     }
   },
@@ -997,10 +1017,10 @@
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/13676_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "AGDQ2026": {
-      "Any% (SNES)": [
+      "Any%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=upcncC91C9c"
       ]
     }
   },
@@ -1011,10 +1031,10 @@
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/8836_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "AGDQ2026": {
-      "All Levels (OoB) TAS": [
+      "TAS — All Levels (OoB)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=Wyk1CAwnxSk"
       ]
     }
   },
@@ -1028,7 +1048,7 @@
       "Any%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=Hq0LgH016ho"
       ]
     }
   },
@@ -1042,7 +1062,7 @@
       "Any%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=0UTZeh1QM5I"
       ]
     }
   },
@@ -1056,7 +1076,7 @@
       "Main Story": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=Fl9hjQjJ-VU"
       ]
     }
   },
@@ -1070,7 +1090,7 @@
       "Any%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=CJcnKENFs7U"
       ]
     }
   },
@@ -1084,7 +1104,7 @@
       "All Nests": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=cQLKLesXrCE"
       ]
     }
   },
@@ -1098,7 +1118,7 @@
       "Any%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=u1ZzDqgh1BU"
       ]
     }
   },
@@ -1109,10 +1129,10 @@
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1694171593_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "AGDQ2026": {
-      "Story Any%": [
+      "Story — Any%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=UJILN5zNhlo"
       ]
     }
   },
@@ -1126,7 +1146,7 @@
       "All Bosses": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=lgLXaaAEd_4"
       ]
     }
   },
@@ -1140,7 +1160,7 @@
       "Easy Difficulty": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=qHs3s6u3Lwc"
       ]
     }
   },
@@ -1154,7 +1174,7 @@
       "All Levels": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=F-WG5Q2Uvl8"
       ]
     }
   },
@@ -1168,7 +1188,7 @@
       "Any%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=zG8fNjZBpM8"
       ]
     }
   },
@@ -1179,10 +1199,10 @@
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/758297957_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "AGDQ2026": {
-      "Any% Tourist": [
+      "Any% (Tourist)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=dN_oLhkEkjw"
       ]
     }
   },
@@ -1193,10 +1213,10 @@
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/714893917_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "AGDQ2026": {
-      "30 Levels": [
+      "40 Levels": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=ZtHZdjhmhI8"
       ]
     }
   },
@@ -1210,7 +1230,7 @@
       "Any%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=xpQcY8o48rc"
       ]
     }
   },
@@ -1224,7 +1244,7 @@
       "Any%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=70i15EL-9BQ"
       ]
     }
   },
@@ -1249,10 +1269,10 @@
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/13132_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "AGDQ2026": {
-      "Any% Co-op": [
+      "Any% (Co-op)": [
         null,
         "口袋...怪獸？",
-        null
+        "https://www.youtube.com/watch?v=ua-MT5BsPmw"
       ]
     }
   },
@@ -1266,7 +1286,7 @@
       "Any%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=XA_WD9M5ERw"
       ]
     }
   },
@@ -1280,7 +1300,7 @@
       "All Dungeons": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=W0bugYhPHdo"
       ]
     }
   },
@@ -1296,7 +1316,7 @@
       "100% (Nightmare, Restricted)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=s6KTx9k-37Y"
       ]
     }
   },
@@ -1310,7 +1330,21 @@
       "Any% Race": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=AFY-JDmUXkw"
+      ]
+    }
+  },
+  "This Is No Cave": {
+    "tw": null,
+    "jp": null,
+    "en": "This Is No Cave",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/635908944_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/TODO",
+    "AGDQ2026": {
+      "All Levels (Standard)": [
+        null,
+        null,
+        "https://www.youtube.com/watch?v=2ylrnzG_JSU"
       ]
     }
   },
@@ -1321,10 +1355,10 @@
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/332885450_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "AGDQ2026": {
-      "Solo Agnea vs Castti vs Ochette vs Throne Category Choice": [
+      "Solo Story — Female Character Choice": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=-IKjR75ruLI"
       ]
     }
   },
@@ -1338,7 +1372,7 @@
       "GT Classic": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=bcRjZRcnszA"
       ]
     }
   },
