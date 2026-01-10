@@ -1386,7 +1386,7 @@
       "Arcade Showcase": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=TkMqOGt3FwQ"
       ]
     }
   },
@@ -1397,10 +1397,10 @@
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/36799602_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "AGDQ2026": {
-      "Any% Expert Glitchless Race": [
+      "Any% Race (Glitchless, Expert)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=xpKTTh02Ejc"
       ]
     }
   },
@@ -1411,10 +1411,10 @@
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/22393_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/mw2",
     "AGDQ2026": {
-      "Any% Recruit": [
+      "Any% (Recruit)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=dkic5rub45I"
       ]
     }
   },
@@ -1425,10 +1425,10 @@
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/266733247.jpg",
     "leaderboard": "https://www.speedrun.com/redout_2",
     "AGDQ2026": {
-      "All BOSS Tracks Forwards (+DLC)": [
+      "All Boss Tracks (DLC, Forwards)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=zc9iueY06EE"
       ]
     }
   },
@@ -1442,7 +1442,7 @@
       "Speedrun Showcase": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=FT8Xk9R-iTo"
       ]
     }
   },
@@ -1453,10 +1453,10 @@
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/512034_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "AGDQ2026": {
-      "NG+ Any% Story": [
+      "Any% (NG+, Story)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=rPypw4hdRjA"
       ]
     }
   },
@@ -1470,7 +1470,7 @@
       "Any% (Solo)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=W66qxVkOaPA"
       ]
     }
   },
@@ -1484,7 +1484,7 @@
       "Any%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=6zw9Oc7T-EM"
       ]
     }
   },
@@ -1495,10 +1495,10 @@
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/14286_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "AGDQ2026": {
-      "Episode 2 Any%": [
+      "Episode 2 — Any%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=7DtPhbO93eI"
       ]
     }
   },
@@ -1512,21 +1512,21 @@
       "110%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=5_TsodQdDzk"
       ]
     }
   },
   "Jetrunner": {
     "tw": null,
     "jp": null,
-    "en": "JETRUNNER",
+    "en": "Jetrunner",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/2046238084_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "AGDQ2026": {
       "Super Jetrunner": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=88O4sH0m_PA"
       ]
     }
   },
@@ -1539,10 +1539,10 @@
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1810411787_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "AGDQ2026": {
-      "Any% Restricted": [
+      "Any% (Restricted)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=Jg6VBazKDwc"
       ]
     }
   },
@@ -1556,7 +1556,7 @@
       "Any%": [
         null,
         "《超級瑪利歐 USA》改造版",
-        null
+        "https://www.youtube.com/watch?v=HrkPI1hdxlI"
       ]
     }
   },
@@ -1570,7 +1570,7 @@
       "Overture (Glitchless)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=23_wSbEg7HY"
       ]
     }
   },
@@ -1598,7 +1598,7 @@
       "Any%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=feUQGGskV9M"
       ]
     }
   },
@@ -1609,10 +1609,10 @@
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1248698972_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "AGDQ2026": {
-      "Any% Luigi": [
+      "Any% (Luigi)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=gKsLpuVlSdI"
       ]
     }
   },
@@ -1626,7 +1626,7 @@
       "Any%": [
         null,
         "加碼遊戲 BONUS GAME 3",
-        null
+        "https://www.youtube.com/watch?v=4ItI2ZlWiO0"
       ]
     }
   },
@@ -1637,10 +1637,10 @@
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/11557_IGDB.jpg",
     "leaderboard": null,
     "AGDQ2026": {
-      "Any% Blindfolded vs Any% Blindfolded (First Cycle Skip)": [
+      "Any% (Blindfolded) — Game Choice": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=SIjhOlmF-DM"
       ]
     }
   },
@@ -1651,10 +1651,10 @@
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/8489_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "AGDQ2026": {
-      "Magus% RNG Manip": [
+      "Magus% (RNG Manip)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=MQLS-ud6gms"
       ]
     }
   },
@@ -1668,7 +1668,7 @@
       "Any% NG+": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=tkZwI8-1E_0"
       ]
     }
   },
@@ -1679,10 +1679,10 @@
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/10389_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "AGDQ2026": {
-      "Julius vs Soma Category Choice - All Bosses NMC": [
+      "Julius vs. Soma (All Bosses, NMC) — Category Choice": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=vUBQnaRehPU"
       ]
     }
   },
@@ -1696,7 +1696,7 @@
       "NMG Light": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=8nUioTFwa9E"
       ]
     }
   },
@@ -1707,10 +1707,10 @@
     "boxart": "https://www.speedrun.com/static/game/268wl576/cover.jpg",
     "leaderboard": "https://www.speedrun.com/exector",
     "AGDQ2026": {
-      "Any% (HARD)": [
+      "Any% (Hard)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=7wz-tLWkNOg"
       ]
     }
   },
@@ -1724,21 +1724,21 @@
       "1CC Attempt (Route V)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=cLrE_s6Sr7k"
       ]
     }
   },
-  "Flare Nuiui Quest": {
+  "Flare Nuinui Quest": {
     "tw": null,
     "jp": null,
-    "en": "Flare Nuiui Quest",
+    "en": "Flare Nuinui Quest",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1902849744_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "AGDQ2026": {
-      "Flare, All Bosses, True End": [
+      "Flare (All Bosses, True End)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=6cFZsYsz1-k"
       ]
     }
   },
@@ -1749,10 +1749,10 @@
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/17889_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "AGDQ2026": {
-      "Any% Normal": [
+      "Any% (Normal)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=Ec90JAA_Ydw"
       ]
     }
   },
@@ -1766,7 +1766,7 @@
       "Any%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=CFrdXuW4elY"
       ]
     }
   },
@@ -1780,7 +1780,7 @@
       "Any%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=JjOBN_B5wcs"
       ]
     }
   },
@@ -1794,7 +1794,7 @@
       "Any%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=oakuA380xMM"
       ]
     }
   },
@@ -1808,7 +1808,7 @@
       "All CrossWorlds (Super Sonic Speed, No Wisps)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=A3xVxd-tFMc"
       ]
     }
   },
@@ -1819,7 +1819,7 @@
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/726936393_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "AGDQ2026": {
-      "Any% Squire Difficulty": [
+      "Any% (Squire)": [
         null,
         null,
         null
@@ -1863,7 +1863,7 @@
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/982348888_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "AGDQ2026": {
-      "Trio Defeat Nightlord": [
+      "Defeat Nightlord (Trio)": [
         null,
         null,
         null
