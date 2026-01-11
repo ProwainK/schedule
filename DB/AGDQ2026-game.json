@@ -6,12 +6,25 @@
     "tw": "開場秀",
     "jp": null,
     "en": "Pre-Show",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/509658.jpg",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/509663.jpg",
     "AGDQ2026": {
       "Pre-Show": [
         null,
         null,
         "https://www.youtube.com/watch?v=NbcIJfXDyts"
+      ]
+    }
+  },
+  "AGDQ 2026 Finale": {
+    "tw": "閉幕典禮",
+    "jp": "フィナーレ",
+    "en": "Finale",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/509663.jpg",
+    "AGDQ2026": {
+      "Finale": [
+        null,
+        null,
+        null
       ]
     }
   },
@@ -40,6 +53,16 @@
         null,
         null,
         "https://www.youtube.com/watch?v=RG-Q6cvflOs"
+      ],
+      "Friday": [
+        null,
+        null,
+        "https://www.youtube.com/watch?v=9canmzUa3wk"
+      ],
+      "Saturday": [
+        null,
+        null,
+        "https://www.youtube.com/watch?v=4HleSBeGd3w"
       ]
     }
   },
@@ -47,46 +70,19 @@
     "tw": "中場休息",
     "jp": null,
     "en": "The Checkpoint",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/509658.jpg",
-    "AGDQ2026": {
-      "Sunday": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=1ztcmaqquXw"
-      ],
-      "Monday": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=lfyJkxhzCDU"
-      ],
-      "Tuesday": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=AT8dfohEHOc"
-      ],
-      "Wednesday": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=DWJKK1DI5xY"
-      ],
-      "PCF Charity Spotlight: Tara Williams": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=WtM7SoINJdg"
-      ]
-    }
+    "boxart": null
   },
   "The Daily Recap": {
     "tw": "每日回顧 (Daily Recap)",
     "jp": null,
     "en": "The Daily Recap",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/509658.jpg"
+    "boxart": null
   },
   "Event Recap": {
     "tw": "活動回顧",
     "jp": null,
     "en": "Event Recap",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/509658.jpg"
+    "boxart": null
   },
   "Game To Be Revealed": {
     "tw": "即將揭曉",
@@ -99,12 +95,6 @@
     "jp": null,
     "en": "Mystery Game",
     "boxart": null
-  },
-  "AGDQ 2026 Finale": {
-    "tw": "閉幕典禮",
-    "jp": "フィナーレ",
-    "en": "Finale",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/509663.jpg"
   },
 
 
@@ -1822,7 +1812,7 @@
       "Any% (Squire)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=90-lzYBN2bE"
       ]
     }
   },
@@ -1838,7 +1828,7 @@
       "70 Star, 70 Person Relay": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=r-VFPEh59k4"
       ]
     }
   },
@@ -1849,10 +1839,10 @@
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/16967_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
     "AGDQ2026": {
-      "Any% - ACE": [
+      "Any% (ACE)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=aG7_bypp1So"
       ]
     }
   },
@@ -1866,7 +1856,7 @@
       "Defeat Nightlord (Trio)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=IXqnbXgPnKM"
       ]
     }
   },
@@ -1880,7 +1870,7 @@
       "All Weapons (Alternating Routes)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=Ne9x3y_W7pE"
       ]
     }
   },
@@ -1894,7 +1884,7 @@
       "Any% NMG": [
         null,
         "加碼遊戲 BONUS GAME 4",
-        null
+        "https://www.youtube.com/watch?v=M9Li3gm4JCI"
       ]
     }
   },
