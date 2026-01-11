@@ -327,7 +327,11 @@ async function init() {
 
     // 資料轉換：統一成你要用的格式
     allRuns = json.results
-      .filter(r => r.type === 'speedrun' || r.name) // local JS 沒有 type 也接受
+      .filter(r =>
+        (r.type === 'speedrun' || r.name) && // 保留「type 是 speedrun」或是「有 name 屬性」的一般節目
+        r.name !== 'The Checkpoint' && // 排除 The Checkpoint
+        r.name !== 'Event Recap' // 排除 Event Recap
+      )
       .map(r => ({
         game: r.name,
         category: r.category,
