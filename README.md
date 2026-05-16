@@ -16,6 +16,10 @@ https://prowaink.github.io/schedule/rijs2025
 
 ## Games Done Quick
 
+Summer Games Done Quick 2026  
+https://prowaink.github.io/schedule/sgdq2026  
+07/06 - 07/12 (UTC+8)  
+  
 Awesome Games Done Quick 2026  
 https://prowaink.github.io/schedule/agdq2026  
 01/05 - 01/11 (UTC+8)  
