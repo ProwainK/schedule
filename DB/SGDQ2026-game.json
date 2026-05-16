@@ -88,21 +88,6 @@
     }
   },
 
-  "Super Mario 64": {
-    "tw": "超級瑪利歐64",
-    "jp": "スーパーマリオ64",
-    "en": "Super Mario 64",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/2692_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/sm64",
-    "SGDQ2026": {
-      "120 Star TAS": [
-        null,
-        null,
-        null
-      ]
-    }
-  },
-
   "The Legend of Zelda: The Wind Waker": {
     "tw": "薩爾達傳說 風之律動",
     "jp": "ゼルダの伝説 風のタクト",
@@ -111,21 +96,6 @@
     "leaderboard": "https://www.speedrun.com/tww",
     "SGDQ2026": {
       "Randomizer — Co-op": [
-        null,
-        null,
-        null
-      ]
-    }
-  },
-
-  "Clair Obscur: Expedition 33": {
-    "tw": "光與影：33 號遠征隊",
-    "jp": null,
-    "en": "Clair Obscur: Expedition 33",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/36799602_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/coe33",
-    "AGDQ2026": {
-      "Any% Restricted": [
         null,
         null,
         null
@@ -156,20 +126,20 @@
       "Pre-Show": [
         null,
         null,
-        "https://www.youtube.com/watch?v=NbcIJfXDyts"
+        null
       ]
     }
   },
-  "SGDQ 2026 Finale": {
+  "Finale": {
     "tw": "閉幕典禮",
     "jp": "フィナーレ",
     "en": "Finale",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/509663.jpg",
     "SGDQ2026": {
-      "Finale": [
+      "The End": [
         null,
         null,
-        "https://www.youtube.com/watch?v=mxV-3XJy2WI&t=15680s"
+        null
       ]
     }
   },
@@ -182,32 +152,60 @@
       "Monday": [
         null,
         null,
-        "https://www.youtube.com/watch?v=sOlOwOMpnDE"
+        null
       ],
       "Tuesday": [
         null,
         null,
-        "https://www.youtube.com/watch?v=TLFZ5KojIRM"
+        null
       ],
       "Wednesday": [
         null,
         null,
-        "https://www.youtube.com/watch?v=0DfWEuFKaJc"
+        null
       ],
       "Thursday": [
         null,
         null,
-        "https://www.youtube.com/watch?v=RG-Q6cvflOs"
+        null
       ],
       "Friday": [
         null,
         null,
-        "https://www.youtube.com/watch?v=9canmzUa3wk"
+        null
       ],
       "Saturday": [
         null,
         null,
-        "https://www.youtube.com/watch?v=4HleSBeGd3w"
+        null
+      ]
+    }
+  },
+  "The Rundown (Monday)": {
+    "tw": "每日簡報",
+    "jp": null,
+    "en": "The Rundown (Monday)",
+    "boxart": "https://gdq-assets.gamesdonequick.com/assets/logos/rundown-transparent.webp",
+    "SGDQ2026": {
+      "Monday": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+
+
+  "The Rundown (Saturday)": {
+    "tw": "每日簡報",
+    "jp": null,
+    "en": "The Rundown (Saturday)",
+    "boxart": "https://gdq-assets.gamesdonequick.com/assets/logos/rundown-transparent.webp",
+    "SGDQ2026": {
+      "Monday": [
+        null,
+        null,
+        null
       ]
     }
   },
@@ -223,10 +221,10 @@
     "en": "The Daily Recap",
     "boxart": null
   },
-  "Event Recap": {
+  "The Event Recap": {
     "tw": "活動回顧",
     "jp": null,
-    "en": "Event Recap",
+    "en": "The Event Recap",
     "boxart": null
   },
   "Game To Be Revealed": {
@@ -335,6 +333,20 @@
     "leaderboard": "https://www.speedrun.com/kars",
     "SGDQ2026": {
       "Air Ride — All Tracks": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Crypt of the NecroDancer: Synchrony": {
+    "tw": "節奏地牢 Synchrony (DLC)",
+    "jp": null,
+    "en": "Crypt of the NecroDancer: Synchrony",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/313444_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/crypt_of_the_necrodancer",
+    "SGDQ2026": {
+      "Story Mode": [
         null,
         null,
         null
@@ -483,6 +495,35 @@
   },
 
 
+  "SSX Tricky vs. SSX3": {
+    "tw": "SSX 2代 vs. 3代",
+    "jp": null,
+    "en": "SSX Tricky vs. SSX3",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/17222_IGDB.jpg",
+    "leaderboard": null,
+    "SGDQ2026": {
+      "All Races (No Wormholes)": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Don’t Stop, Girlypop": {
+    "tw": "暴走甜心！",
+    "jp": null,
+    "en": "Don’t Stop, Girlypop",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/295305996_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/Dont_Stop_Girlypop",
+    "SGDQ2026": {
+      "Any% (Inbounds)": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+
 
 
 
@@ -497,6 +538,110 @@
     "leaderboard": "https://www.speedrun.com/TODO",
     "SGDQ2026": {
       "Any%": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+
+
+
+
+
+
+  "Mouse P.I. For Hire": {
+    "tw": "鼠探：私家偵探",
+    "jp": null,
+    "en": "Mouse P.I. For Hire",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/2080936601_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/Mouse_PI_For_Hire",
+    "SGDQ2026": {
+      "Any% (No 20FPS)": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Mass Effect 3": {
+    "tw": "質量效應3 (合輯版)",
+    "jp": null,
+    "en": "Mass Effect 3 (2021)",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1052065999_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/mele",
+    "SGDQ2026": {
+      "Any% (Mod)": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Kingdom Hearts 2: Final Mix": {
+    "tw": "王國之心II Final Mix",
+    "jp": "キングダム ハーツII ファイナル ミックス",
+    "en": "Kingdom Hearts 2: Final Mix",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/116910466_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/kh2fm",
+    "SGDQ2026": {
+      "Randomizer — Hitlist Co-op": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Super Mario 64": {
+    "tw": "超級瑪利歐64",
+    "jp": "スーパーマリオ64",
+    "en": "Super Mario 64",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/2692_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/sm64",
+    "SGDQ2026": {
+      "120 Star TAS": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "The Legend of Zelda: A Link to the Past": {
+    "tw": "薩爾達傳說 眾神的三角神力",
+    "jp": "ゼルダの伝説 神々のトライフォース",
+    "en": "The Legend of Zelda: A Link to the Past",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/9435_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/alttp",
+    "SGDQ2026": {
+      "All Dungeons (Restricted Major Glitches)": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "BONUS GAME 4 - Super Dram World 3": {
+    "tw": null,
+    "jp": null,
+    "en": "Super Dram World 3",
+    "boxart": "https://i.ytimg.com/vi/5x_twrg_fIE/maxresdefault.jpg",
+    "leaderboard": "https://www.speedrun.com/Super_Dram_World_3",
+    "SGDQ2026": {
+      "Any%": [
+        null,
+        "加碼遊戲 BONUS GAME 4",
+        null
+      ]
+    }
+  },
+  "Clair Obscur: Expedition 33": {
+    "tw": "光與影：33 號遠征隊",
+    "jp": null,
+    "en": "Clair Obscur: Expedition 33",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/36799602_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/coe33",
+    "AGDQ2026": {
+      "Any% Restricted": [
         null,
         null,
         null
