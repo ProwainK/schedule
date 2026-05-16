@@ -2,6 +2,17 @@
   "Summer Games Done Quick 2026": {"tw": null, "jp": null, "en": null },
 
 
+
+
+
+
+
+
+
+
+
+
+
   "20XX": {
     "tw": null,
     "jp": null,
@@ -10,21 +21,6 @@
     "leaderboard": "https://www.speedrun.com/20xx",
     "SGDQ2026": {
       "Random Seed": [
-        null,
-        null,
-        null
-      ]
-    }
-  },
-
-  "Absolum": {
-    "tw": "絕對魔權",
-    "jp": null,
-    "en": "Absolum",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/79499989_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/Absolum",
-    "SGDQ2026": {
-      "One Clear Warpless Co-Op": [
         null,
         null,
         null
@@ -85,6 +81,51 @@
     "leaderboard": "https://www.speedrun.com/BaitAndTackle",
     "SGDQ2026": {
       "Any%": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+
+  "Super Mario 64": {
+    "tw": "超級瑪利歐64",
+    "jp": "スーパーマリオ64",
+    "en": "Super Mario 64",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/2692_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/sm64",
+    "SGDQ2026": {
+      "120 Star TAS": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+
+  "The Legend of Zelda: The Wind Waker": {
+    "tw": "薩爾達傳說 風之律動",
+    "jp": "ゼルダの伝説 風のタクト",
+    "en": "The Legend of Zelda: The Wind Waker",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/16967_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/tww",
+    "SGDQ2026": {
+      "Randomizer — Co-op": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+
+  "Clair Obscur: Expedition 33": {
+    "tw": "光與影：33 號遠征隊",
+    "jp": null,
+    "en": "Clair Obscur: Expedition 33",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/36799602_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/coe33",
+    "AGDQ2026": {
+      "Any% Restricted": [
         null,
         null,
         null
@@ -202,1153 +243,153 @@
   },
 
 
-  "Super Mario Sunshine": {
-    "tw": "超級瑪利歐陽光",
-    "jp": "スーパーマリオサンシャイン",
-    "en": "Super Mario Sunshine",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/6086_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/sms",
-    "AGDQ2026": {
-      "Any%": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=zN9I3iAN6a0"
-      ]
-    }
-  },
-  "Jet Set Radio": {
-    "tw": "噴射廣播電臺",
-    "jp": "ジェットセットラジオ",
-    "en": "Jet Set Radio",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/2023480577_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/jsr",
-    "AGDQ2026": {
-      "Any%": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=4ng8fucf-Cs"
-      ]
-    }
-  },
-  "Bat to the Heavens": {
-    "tw": null,
-    "jp": null,
-    "en": "Bat to the Heavens",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1233823310_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/Bat_to_the_Heavens",
-    "AGDQ2026": {
-      "108%": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=En3zq7LG8Rg"
-      ]
-    }
-  },
-  "Spyro 2: Ripto's Rage!": {
-    "tw": "寶貝龍 2：利普多的憤怒！",
-    "jp": null,
-    "en": "Spyro 2: Ripto's Rage!",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1434_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/spyro2",
-    "AGDQ2026": {
-      "14 Talisman": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=lDmUR1CPm7w"
-      ]
-    }
-  },
-  "Shovel Knight: King of Cards": {
-    "tw": "鏟子騎士：卡牌之王",
-    "jp": null,
-    "en": "Shovel Knight: King of Cards",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/138583_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/shovelknight",
-    "AGDQ2026": {
-      "NG+": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=LU12_n_CQKo"
-      ]
-    }
-  },
-  "Wuchang: Fallen Feathers": {
-    "tw": "明末：淵虛之羽",
-    "jp": null,
-    "en": "Wuchang: Fallen Feathers",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/382835903_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Any% (Unrestricted)": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=jq6UpBbVDcY"
-      ]
-    }
-  },
-  "dlroW oiraM repuS": {
-    "tw": "界世歐利瑪級超",
-    "jp": null,
-    "en": "dlroW oiraM repuS",
-    "boxart": "https://www.speedrun.com/static/game/o1ywo4dq/cover.png",
-    "leaderboard": "https://www.speedrun.com/wms",
-    "AGDQ2026": {
-      "tixE 69": [
-        null,
-        "《超級瑪利歐世界》SMW 改造版",
-        "https://www.youtube.com/watch?v=n8pwvbp17KM"
-      ]
-    }
-  },
-  "Super Mario World — Bonus Category": {
-    "tw": "超級瑪利歐世界",
-    "jp": "スーパーマリオワールド",
-    "en": "Super Mario World",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1229_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "11 Exit (One-Handed)": [
-        "【加碼表演】單手破關 (11 Exit 路線)",
-        null,
-        "https://www.youtube.com/watch?v=ApF7viyv6ns"
-      ]
-    }
-  },
-  "Split Fiction": {
-    "tw": "雙影奇境",
-    "jp": null,
-    "en": "Split Fiction",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1354355809_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Side Story Showcase": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=epeynSx0vhE"
-      ]
-    }
-  },
-  "Luigi's Mansion": {
-    "tw": "路易吉洋樓",
-    "jp": "ルイージマンション",
-    "en": "Luigi's Mansion",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/10090_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Any% (No OoB, PAL)": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=1Gmm5TtR3ks"
-      ]
-    }
-  },
-  "Once Upon A KATAMARI": {
-    "tw": "從前從前有個塊魂",
-    "jp": "ワンス・アポン・ア・塊魂",
-    "en": "Once Upon A KATAMARI",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/375877687_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Any%": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=oonPyeY_Jdc"
-      ]
-    }
-  },
-  "Rise of the Triad: Ludicrous Edition": {
-    "tw": "黑社會的崛起：荒謬版",
-    "jp": null,
-    "en": "Rise of the Triad: Ludicrous Edition",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1424876442_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Dark War (Ludicrous Settings)": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=kBm9ArOHPvA"
-      ]
-    }
-  },
-  "Nuclear Throne": {
-    "tw": null,
-    "jp": null,
-    "en": "Nuclear Throne",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/129117_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Any% (4 Characters)": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=yH0FvK6o8eI"
-      ]
-    }
-  },
-  "Mega Man Battle Network": {
-    "tw": "洛克人EXE",
-    "jp": "バトルネットワーク ロックマンエグゼ",
-    "en": "Rockman EXE / Mega Man Battle Network",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/7542_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/mmbn1",
-    "AGDQ2026": {
-      "Single Segment": [
-        "不分段速通",
-        "一次跑完，不使用讀檔調整亂數",
-        "https://www.youtube.com/watch?v=zjGc6dYg92Y"
-      ]
-    }
-  },
-  "Misc: A Tiny Tale": {
-    "tw": null,
-    "jp": null,
-    "en": "Misc: A Tiny Tale",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/518817_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/Misc_A_Tiny_Tale",
-    "AGDQ2026": {
-      "Any%": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=yFUvP3xiOLc"
-      ]
-    }
-  },
-  "Wolfenstein: The Old Blood": {
-    "tw": "德軍總部：舊血脈",
-    "jp": null,
-    "en": "Wolfenstein: The Old Blood",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/489135_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/tob",
-    "AGDQ2026": {
-      "Any%": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=REtlPyoh4Sc"
-      ]
-    }
-  },
-  "Super Smash Bros. Brawl": {
-    "tw": "任天堂明星大亂鬥X",
-    "jp": "大乱闘スマッシュブラザーズX",
-    "en": "Super Smash Bros. Brawl",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/18833_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Subspace Emissary Any%": [
+  "Donkey Kong Country 2: Diddy's Kong Quest": {
+    "tw": "超級大金剛2 迪科斯與迪迪",
+    "jp": "スーパードンキーコング2 ディクシー＆ディディー",
+    "en": "Donkey Kong Country 2: Diddy's Kong Quest",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/15483_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/dkc2",
+    "SGDQ2026": {
+      "102%": [
         null,
         null,
         null
       ]
     }
   },
-  "Final Fantasy X": {
+  "The Talos Principle": {
+    "tw": "塔羅斯的法則",
+    "jp": null,
+    "en": "The Talos Principle",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/460639_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/talos_principle",
+    "SGDQ2026": {
+      "All Sigils": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Fire Emblem: Three Houses": {
+    "tw": "聖火降魔錄 風花雪月",
+    "jp": "ファイアーエムブレム 風花雪月",
+    "en": "Fire Emblem: Three Houses",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/495202_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/fe3h",
+    "SGDQ2026": {
+      "Blue Lions — NG+ (Azure Moon)": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "I Am Your Beast": {
     "tw": null,
     "jp": null,
-    "en": "Final Fantasy X",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/322803055_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "True RNG (Cutscene Remover)": [
+    "en": "I Am Your Beast",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/346866979_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/iayb",
+    "SGDQ2026": {
+      "All Story Levels (100%)": [
         null,
         null,
-        "https://www.youtube.com/watch?v=wSzK0UJ99wU"
+        null
       ]
     }
   },
-  "Pac-Man World 2 Re-Pac": {
-    "tw": "吃豆人 吃遍世界2",
-    "jp": "パックマンワールド2 リ・パック",
-    "en": "Pac-Man World 2 Re-Pac",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1023301567_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Any% Race": [
+  "Devil May Cry 5: Special Edition": {
+    "tw": "惡魔獵人5 特別版",
+    "jp": null,
+    "en": "Devil May Cry 5: Special Edition",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/506412_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/dmc5se",
+    "SGDQ2026": {
+      "NG (Human)": [
         null,
         null,
-        "https://www.youtube.com/watch?v=2wl0fD-h9mM"
+        null
       ]
     }
   },
-
-
-  "Dragon Ball Z: Budokai": {
-    "tw": "七龍珠Z：武道會",
-    "jp": "ドラゴンボールZ",
-    "en": "Dragon Ball Z: Budokai",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/4769_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Any%": [
+  "Castlevania: Symphony of the Night": {
+    "tw": "惡魔城X 月下夜想曲",
+    "jp": "悪魔城ドラキュラX 月下の夜想曲",
+    "en": "Castlevania: Symphony of the Night",
+    "boxart": "https://www.speedrun.com/static/game/46wlwl1r/cover.png",
+    "leaderboard": "https://www.speedrun.com/sotn",
+    "SGDQ2026": {
+      "Any% (Luck Mode)": [
         null,
         null,
-        "https://www.youtube.com/watch?v=GQfDgmP3lEE"
+        null
       ]
     }
   },
-  "Cavern of Dreams": {
+  "Kirby Air Riders": {
+    "tw": "卡比的馭天飛行者",
+    "jp": "カービィのエアライダー",
+    "en": "Kirby Air Riders",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/2086806174_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/kars",
+    "SGDQ2026": {
+      "Air Ride — All Tracks": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Spyro: Year of the Dragon & Spyro Reignited Trilogy": {
+    "tw": "寶貝龍：龍年 (原版 vs. 合輯版)",
+    "jp": null,
+    "en": "Spyro: Year of the Dragon & Spyro Reignited Trilogy",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1598_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/spyro3",
+    "SGDQ2026": {
+      "Spyro 3 Race": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "No More Heroes": {
+    "tw": "英雄不再",
+    "jp": null,
+    "en": "No More Heroes",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/5123_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/nmh",
+    "SGDQ2026": {
+      "Any% NG+ (Bitter)": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Supraland": {
     "tw": null,
     "jp": null,
-    "en": "Cavern of Dreams",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/397193738_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "All Eggs": [
+    "en": "Supraland",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/504059_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/supraland",
+    "SGDQ2026": {
+      "Any% (Glitchless)": [
         null,
         null,
-        "https://www.youtube.com/watch?v=7hG6htjydK8"
+        null
       ]
     }
   },
-  "Jazzpunk": {
-    "tw": null,
+  "Thirsty Suitors": {
+    "tw": "渴望求婚者",
     "jp": null,
-    "en": "Jazzpunk",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/415871_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Special Agent Race": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=3jNYmb5rPxk"
-      ]
-    }
-  },
-  "Sonic Adventure": {
-    "tw": "音速小子大冒險",
-    "jp": "ソニックアドベンチャー",
-    "en": "Sonic Adventure",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/7195_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Sonic's Story": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=v7xEbT7haCI"
-      ]
-    }
-  },
-  "Pokémon Legends: Z-A": {
-    "tw": "寶可夢傳說 Z-A",
-    "jp": null,
-    "en": "Pokémon Legends: Z-A",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/997367275_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Rank F": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=-CQD9uzRLDI"
-      ]
-    }
-  },
-  "Kirby and the Forgotten Land": {
-    "tw": "星之卡比 探索發現",
-    "jp": "星のカービィ ディスカバリー",
-    "en": "Kirby and the Forgotten Land",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/187423292_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Star-Crossed World — Any% (Restricted)": [
-        "星耀世界 Any% Restricted",
-        null,
-        "https://www.youtube.com/watch?v=8p030EuHSGU"
-      ]
-    }
-  },
-  "Crash Bandicoot 3: Warped": {
-    "tw": "袋狼大進擊3：Warped",
-    "jp": "クラッシュ・バンディクー3 ブッとび！世界一周",
-    "en": "Crash Bandicoot 3: Warped",
-    "boxart": "https://www.speedrun.com/static/game/29d37g6l/cover.png",
-    "leaderboard": "https://www.speedrun.com/crash3",
-    "AGDQ2026": {
-      "Any% (No Item Glitch)": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=8ExYUerAOrQ"
-      ]
-    }
-  },
-  "A Hat in Time": {
-    "tw": "時光之帽",
-    "jp": null,
-    "en": "A Hat in Time",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/369075_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Any% (Lagless)": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=jk9pTyobLWQ"
-      ]
-    }
-  },
-  "BONUS GAME 1 — Fitness Boxing feat. HATSUNE MIKU": {
-    "tw": "健身拳擊 feat. 初音未來",
-    "jp": "Fit Boxing feat. 初音ミク -ミクといっしょにエクササイズ-",
-    "en": "Fitness Boxing feat. HATSUNE MIKU",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/459930124_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Heavyweight Difficulty Showcase": [
-        null,
-        "加碼遊戲 BONUS GAME 1",
-        "https://www.youtube.com/watch?v=-X_Y-IyULSE"
-      ]
-    }
-  },
-  "Mario Kart World": {
-    "tw": "瑪利歐賽車世界",
-    "jp": "マリオカートワールド",
-    "en": "Mario Kart World",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1826300051_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "All ? Panels": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=9ATxMOTKWzg"
-      ]
-    }
-  },
-  "Jak 3": {
-    "tw": "捷克與達斯特3",
-    "jp": "ジャック×ダクスター3",
-    "en": "Jak 3",
-    "boxart": "https://www.speedrun.com/static/game/nj1nww1p/cover.png",
-    "leaderboard": "https://www.speedrun.com/jak3",
-    "AGDQ2026": {
-      "Any% Race (No OoB, Restricted)": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=wHle07IEW6s"
-      ]
-    }
-  },
-  "Legacy of Kain: Soul Reaver": {
-    "tw": "凱恩的遺產：勾魂使者",
-    "jp": null,
-    "en": "Legacy of Kain: Soul Reaver",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/5728_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "All Bosses": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=oN1Tm3FTaBo"
-      ]
-    }
-  },
-  "Path of Exile 2": {
-    "tw": "流亡黯道 2",
-    "jp": null,
-    "en": "Path of Exile 2",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1702520304_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Act 4 — Any%": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=LSxijR13aZ8"
-      ]
-    }
-  },
-  "Metroid Prime 3: Corruption": {
-    "tw": "密特羅德 究極3：墮落",
-    "jp": "メトロイドプライム3 コラプション",
-    "en": "Metroid Prime 3: Corruption",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/4327_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Any%": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=M__1sHf5opQ"
-      ]
-    }
-  },
-  "Small Saga": {
-    "tw": null,
-    "jp": null,
-    "en": "Small Saga",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/514292_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Any%": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=bHaU0jUaqo8"
-      ]
-    }
-  },
-  "Mushroom Men: The Spore Wars": {
-    "tw": null,
-    "jp": null,
-    "en": "Mushroom Men: The Spore Wars",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/18773_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Any%": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=PtJRy-5LOpE"
-      ]
-    }
-  },
-  "SEUM: Speedrunners from Hell": {
-    "tw": null,
-    "jp": null,
-    "en": "SEUM: Speedrunners from Hell",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/492583_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Speedrun Mode —  All Levels": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=UtOv5tr-0-Y"
-      ]
-    }
-  },
-  "Lylat Wars": {
-    "tw": "星戰火狐64",
-    "jp": "スターフォックス64",
-    "en": "Star Fox 64 / Lylat Wars",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/17586_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Single Life Score Attack": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=d2g1p6-MxZw"
-      ]
-    }
-  },
-
-
-  "Pipistrello and the Cursed Yoyo": {
-    "tw": "皮皮蝠與詛咒溜溜球",
-    "jp": null,
-    "en": "Pipistrello and the Cursed Yoyo",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/144677612_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Any%": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=aJfU7xZaTws"
-      ]
-    }
-  },
-  "Borderlands 2": {
-    "tw": "邊緣禁地2",
-    "jp": "ボーダーランズ2",
-    "en": "Borderlands 2",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/32345_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "All Quests (Co-op)": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=S-FNyxxkiqk"
-      ]
-    }
-  },
-  "Star Wars: Battlefront II (2005)": {
-    "tw": "星際大戰：戰場前線II",
-    "jp": "スター・ウォーズ バトルフロントII",
-    "en": "Star Wars: Battlefront II (2005)",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/6490_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Rise of the Empire — Any% (w/ Awards)": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=wjePUvKZwaA"
-      ]
-    }
-  },
-  "Bill Nye: The Science Guy — Stop the Rock!": {
-    "tw": null,
-    "jp": null,
-    "en": "Bill Nye: The Science Guy — Stop the Rock!",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/24565_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "ASASP%": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=O6194mwxd5E"
-      ]
-    }
-  },
-  "Halo: Combat Evolved": {
-    "tw": "最後一戰：戰鬥進化",
-    "jp": null,
-    "en": "Halo: Combat Evolved",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/2397_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Cursed Again — Any%": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=KNBbirUPjPM"
-      ]
-    }
-  },
-  "Metal Gear Solid Δ: Snake Eater": {
-    "tw": "潛龍諜影Δ 食蛇者",
-    "jp": "メタルギアソリッド デルタ: スネークイーター",
-    "en": "Metal Gear Solid Δ: Snake Eater",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/957620847_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Any% (European Extreme)": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=ckvrWZSsII0"
-      ]
-    }
-  },
-  "Metal Gear Solid Δ: Snake Eater — Bonus Category": {
-    "tw": "潛龍諜影Δ 食蛇者",
-    "jp": "メタルギアソリッド デルタ: スネークイーター",
-    "en": "Metal Gear Solid Δ: Snake Eater",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/957620847_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Snake vs. Monkey": [
-        "【加碼表演】猿蛇合戰",
-        null,
-        "https://www.youtube.com/watch?v=ckvrWZSsII0&t=4078s"
-      ]
-    }
-  },
-  "Psychonauts 2": {
-    "tw": "腦航員 2",
-    "jp": null,
-    "en": "Psychonauts 2",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/499111_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Any%": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=yeXcYV2n9ZQ"
-      ]
-    }
-  },
-  "Silent Hill f": {
-    "tw": "沉默之丘f",
-    "jp": "サイレントヒルf",
-    "en": "Silent Hill f",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/848400095_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "New Game Story (Hard)": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=O-n--v1xYQA"
-      ]
-    }
-  },
-  "Resident Evil 2 (2019)": {
-    "tw": "惡靈古堡2 重製版",
-    "jp": "バイオハザード RE:2",
-    "en": "Resident Evil 2 (2019)",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/293693714_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Leon vs. Claire (2nd Run, Knife Only)": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=qKPAfTMq8cA"
-      ]
-    }
-  },
-  "Amnesia: The Bunker": {
-    "tw": "失憶症：地堡",
-    "jp": null,
-    "en": "Amnesia: The Bunker",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1531824392_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Glitchless (Shellshock Difficulty)": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=z_CugU3uz7M"
-      ]
-    }
-  },
-  "F.E.A.R. 2: Project Origin": {
-    "tw": "戰慄突擊 2：起源計劃",
-    "jp": null,
-    "en": "F.E.A.R. 2: Project Origin",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/18886_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Any%": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=GHU_cM8tem8"
-      ]
-    }
-  },
-  "Kiosk": {
-    "tw": null,
-    "jp": null,
-    "en": "Kiosk",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/182632692_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Any%": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=C6NxNDp7knw"
-      ]
-    }
-  },
-  "Fatal Frame II: Crimson Butterfly": {
-    "tw": "零 ～紅蝶～",
-    "jp": "零 〜紅い蝶〜",
-    "en": "Fatal Frame II: Crimson Butterfly",
-    "boxart": "https://upload.wikimedia.org/wikipedia/zh/e/e7/%E9%9B%B6_%EF%BD%9E%E7%BA%A2%E8%9D%B6%EF%BD%9E_PS2%E6%97%A5%E7%89%88%E5%B0%81%E9%9D%A2.jpg",
-    "leaderboard": "https://www.speedrun.com/fatal_frame_ii_crimson_butterfly",
-    "AGDQ2026": {
-      "Any% (Normal)": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=4MIclLJrdFM"
-      ]
-    }
-  },
-  "Bloons Tower Defense 6": {
-    "tw": "氣球塔防 6",
-    "jp": null,
-    "en": "Bloons Tower Defense 6",
-    "boxart": "https://www.speedrun.com/static/game/nd2er3ed/cover.png",
-    "leaderboard": "https://www.speedrun.com/btd6",
-    "AGDQ2026": {
-      "All True Expert Chimps": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=txE7DO4C1Xo"
-      ]
-    }
-  },
-  "Animal Crossing: City Folk": {
-    "tw": "動物森友會 城市大家庭",
-    "jp": "街へいこうよ どうぶつの森",
-    "en": "Animal Crossing: City Folk",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/19261_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Golden Net Race": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=QvO1UypxxGc"
-      ]
-    }
-  },
-  "Mighty Gunvolt": {
-    "tw": "麥提鋼佛特",
-    "jp": "マイティガンヴォルト",
-    "en": "Mighty Gunvolt",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/461516_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "All Levels (Gunvolt)": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=7IQEKHm_6_Q"
-      ]
-    }
-  },
-  "Contra: Operation Galuga": {
-    "tw": "魂斗羅：加盧加行動",
-    "jp": null,
-    "en": "Contra: Operation Galuga",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/537410450_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Any% Arcade (Multiplayer, Normal)": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=kvI3SuA8dGg"
-      ]
-    }
-  },
-
-
-  "Sonic Rush": {
-    "tw": "音速小子 Rush",
-    "jp": "ソニック ラッシュ",
-    "en": "Sonic Rush",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/8691_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Blaze vs. Sonic": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=AbJi-SenHoQ"
-      ]
-    }
-  },
-  "American Truck Simulator": {
-    "tw": "美洲卡車模擬",
-    "jp": null,
-    "en": "American Truck Simulator",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/488910_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Point-to-Point Race": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=wDg6eXLAelM"
-      ]
-    }
-  },
-  "Richard Burns Rally": {
-    "tw": "理察・伯恩斯拉力賽",
-    "jp": "リチャード・バーンズ ラリー",
-    "en": "Richard Burns Rally",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/14605_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Rally Season": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=VOqvW-uPcls"
-      ]
-    }
-  },
-  "Armored Core VI: Fires of Rubicon": {
-    "tw": "機戰傭兵VI 境界天火",
-    "jp": "アーマード・コアVI ファイアーズオブルビコン",
-    "en": "Armored Core VI: Fires of Rubicon",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/686119195_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Arena Rush": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=gQPoX-f1auo"
-      ]
-    }
-  },
-  "F-Zero GX Unleashed": {
-    "tw": null,
-    "jp": null,
-    "en": "F-Zero GX Unleashed",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/18697_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Story Mode (Very Hard, Max Speed)": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=ylYDtu6PaDg"
-      ]
-    }
-  },
-  "Pokémon HeartGold/SoulSilver": {
-    "tw": "寶可夢 心金／魂銀",
-    "jp": "ポケットモンスター ハートゴールド・ソウルシルバー",
-    "en": "Pokémon HeartGold/SoulSilver",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/23857.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Any% (Manipless) — Version Choice": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=q8avsBBf8ZI"
-      ]
-    }
-  },
-  "JokerShellOK": {
-    "tw": null,
-    "jp": null,
-    "en": "JokerShellOK",
-    "boxart": "https://www.speedrun.com/static/game/k6qwvnx6/cover.png",
-    "leaderboard": "https://www.speedrun.com/okershellok",
-    "AGDQ2026": {
-      "Kill the Koopalarve%": [
-        null,
-        "《超級瑪利歐世界》SMW 改造版",
-        "https://www.youtube.com/watch?v=0aJlHnRN_bo"
-      ]
-    }
-  },
-  "BONUS GAME 2 — Mario Kart 64": {
-    "tw": "瑪利歐賽車64",
-    "jp": "マリオカート64",
-    "en": "Mario Kart 64",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/9250_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "VS Mode — 4 Player Match": [
-        "對戰模式，四人競賽",
-        "加碼遊戲 BONUS GAME 2",
-        "https://www.youtube.com/watch?v=6IqE8FRBT_w"
-      ]
-    }
-  },
-  "Donkey Kong 64": {
-    "tw": "大金剛64",
-    "jp": "ドンキーコング64",
-    "en": "Donkey Kong 64",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/13765_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Randomizer Season 4 Race": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=gu3t6d19Rsc"
-      ]
-    }
-  },
-  "Adventures of Yogi Bear": {
-    "tw": "瑜珈熊的冒險",
-    "jp": null,
-    "en": "Adventures of Yogi Bear",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/13676_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Any%": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=upcncC91C9c"
-      ]
-    }
-  },
-  "Disney's 102 Dalmatians: Puppies to the Rescue": {
-    "tw": "102 真狗：小狗救援",
-    "jp": null,
-    "en": "Disney's 102 Dalmatians: Puppies to the Rescue",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/8836_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "TAS — All Levels (OoB)": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=Wyk1CAwnxSk"
-      ]
-    }
-  },
-  "The Land Before Time: Return to the Great Valley": {
-    "tw": null,
-    "jp": null,
-    "en": "The Land Before Time: Return to the Great Valley",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/20774_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Any%": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=Hq0LgH016ho"
-      ]
-    }
-  },
-  "Dizzy Hero": {
-    "tw": null,
-    "jp": null,
-    "en": "Dizzy Hero",
-    "boxart": "https://www.speedrun.com/static/game/j1n4jpx6/cover.png",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Any%": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=0UTZeh1QM5I"
-      ]
-    }
-  },
-  "I'll Invaligate Your Aid": {
-    "tw": null,
-    "jp": null,
-    "en": "I'll Invaligate Your Aid",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/678157545_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Main Story": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=Fl9hjQjJ-VU"
-      ]
-    }
-  },
-  "12 Bananas": {
-    "tw": "十二蕉",
-    "jp": null,
-    "en": "12 Bananas",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1362365848_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Any%": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=CJcnKENFs7U"
-      ]
-    }
-  },
-  "Egg": {
-    "tw": "蛋",
-    "jp": null,
-    "en": "Egg (itch.io)",
-    "boxart": "https://www.speedrun.com/static/game/o1y3lrr6/cover.png",
-    "leaderboard": "https://www.speedrun.com/Egg_itchio",
-    "AGDQ2026": {
-      "All Nests": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=cQLKLesXrCE"
-      ]
-    }
-  },
-  "Super Buff HD": {
-    "tw": null,
-    "jp": null,
-    "en": "Super Buff HD",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1284004378_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Any%": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=u1ZzDqgh1BU"
-      ]
-    }
-  },
-  "Kaiketsu Zorori Mezase! Itazura King": {
-    "tw": "怪俠索羅利",
-    "jp": "かいけつゾロリ めざせ！いたずらキング",
-    "en": "Kaiketsu Zorori Mezase! Itazura King",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1694171593_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Story — Any%": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=UJILN5zNhlo"
-      ]
-    }
-  },
-  "Skull Island: Rise of Kong": {
-    "tw": "骷髏島：金剛崛起",
-    "jp": null,
-    "en": "Skull Island: Rise of Kong",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/235343177_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "All Bosses": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=lgLXaaAEd_4"
-      ]
-    }
-  },
-  "Bug Blasters: The Exterminators": {
-    "tw": null,
-    "jp": null,
-    "en": "Bug Blasters: The Exterminators",
-    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7nev.webp",
-    "leaderboard": null,
-    "AGDQ2026": {
-      "Easy Difficulty": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=qHs3s6u3Lwc"
-      ]
-    }
-  },
-  "Rock 'n' Roll Adventures": {
-    "tw": null,
-    "jp": null,
-    "en": "Rock 'n' Roll Adventures",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/22085_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "All Levels": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=F-WG5Q2Uvl8"
-      ]
-    }
-  },
-  "The Running Man": {
-    "tw": "魔鬼阿諾",
-    "jp": "バトルランナー",
-    "en": "The Running Man",
-    "boxart": "https://www.speedrun.com/static/game/pdv9nxr1/cover.jpg",
-    "leaderboard": "https://www.speedrun.com/The_Running_Man",
-    "AGDQ2026": {
-      "Any%": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=zG8fNjZBpM8"
-      ]
-    }
-  },
-  "Garbage Pail Kids: Mad Mike and the Quest for Stale Gum": {
-    "tw": "垃圾桶小子",
-    "jp": null,
-    "en": "Garbage Pail Kids: Mad Mike and the Quest for Stale Gum",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/758297957_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Any% (Tourist)": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=dN_oLhkEkjw"
-      ]
-    }
-  },
-  "That's a Cow": {
-    "tw": "那是一頭牛",
-    "jp": null,
-    "en": "That's a Cow",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/714893917_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "40 Levels": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=ZtHZdjhmhI8"
-      ]
-    }
-  },
-  "Batman Beyond: Return of the Joker": {
-    "tw": "未來蝙蝠俠：小丑歸來",
-    "jp": "バットマン・ザ・フューチャー 蘇ったジョーカー",
-    "en": "Batman Beyond: Return of the Joker",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1134_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Any%": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=xpQcY8o48rc"
-      ]
-    }
-  },
-  "Splatterhouse Wanpaku Graffiti": {
-    "tw": "鬼屋歷險",
-    "jp": "スプラッターハウス わんぱくグラフィティ",
-    "en": "Splatterhouse Wanpaku Graffiti",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/4488_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Any%": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=70i15EL-9BQ"
-      ]
-    }
-  },
-  "Wizards & Warriors": {
-    "tw": null,
-    "jp": "伝説の騎士エルロンド",
-    "en": "Wizards & Warriors",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/6070_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
+    "en": "Thirsty Suitors",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1561086632_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/Thirsty_Suitors",
+    "SGDQ2026": {
       "Any%": [
         null,
         null,
@@ -1356,325 +397,83 @@
       ]
     }
   },
-  "Monster in My Pocket": {
-    "tw": null,
+  "Snowboard Kids": {
+    "tw": "滑雪板小子",
     "jp": null,
-    "en": "Monster in My Pocket",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/13132_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Any% (Co-op)": [
+    "en": "Snowboard Kids",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/16564_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/sbk",
+    "SGDQ2026": {
+      "Copper Pass Race": [
         null,
-        "口袋...怪獸？",
-        "https://www.youtube.com/watch?v=ua-MT5BsPmw"
+        null,
+        null
       ]
     }
   },
-  "Déjà Vu": {
-    "tw": null,
-    "jp": "ディジャブ",
-    "en": "Déjà Vu",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/518932_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/dejavu",
-    "AGDQ2026": {
-      "Any%": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=XA_WD9M5ERw"
-      ]
-    }
-  },
-  "The Legend of Zelda: Twilight Princess": {
-    "tw": "薩爾達傳說 黃昏公主",
-    "jp": "ゼルダの伝説 トワイライトプリンセス",
-    "en": "The Legend of Zelda: Twilight Princess",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/17828_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "All Dungeons": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=W0bugYhPHdo"
-      ]
-    }
-  },
-
-
-  "DOOM Eternal": {
-    "tw": "毀滅戰士：永恆",
+  "Death's Door": {
+    "tw": "死亡之門",
     "jp": null,
-    "en": "DOOM Eternal",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/506442_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/doom_eternal",
-    "AGDQ2026": {
-      "100% (Nightmare, Restricted)": [
+    "en": "Death's Door",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1566403385_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/deaths_door",
+    "SGDQ2026": {
+      "True Ending (Restricted)": [
         null,
         null,
-        "https://www.youtube.com/watch?v=s6KTx9k-37Y"
+        null
       ]
     }
   },
-  "Splatoon": {
-    "tw": "斯普拉遁",
-    "jp": "スプラトゥーン",
-    "en": "Splatoon",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/460649_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Any% Race": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=AFY-JDmUXkw"
-      ]
-    }
-  },
-  "This Is No Cave": {
-    "tw": null,
+  "Absolum": {
+    "tw": "絕對魔權",
     "jp": null,
-    "en": "This Is No Cave",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/635908944_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "All Levels (Standard)": [
+    "en": "Absolum",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/79499989_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/Absolum",
+    "SGDQ2026": {
+      "One Clear Warpless Co-Op": [
         null,
         null,
-        "https://www.youtube.com/watch?v=2ylrnzG_JSU"
+        null
       ]
     }
   },
-  "Octopath Traveler II": {
-    "tw": "歧路旅人 II",
+  "Blue Fire": {
+    "tw": "藍色火焰",
     "jp": null,
-    "en": "Octopath Traveler II",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/332885450_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Solo Story — Female Character Choice": [
+    "en": "Blue Fire",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/517495_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/bf",
+    "SGDQ2026": {
+      "Any% (NMG)": [
         null,
         null,
-        "https://www.youtube.com/watch?v=-IKjR75ruLI"
+        null
       ]
     }
   },
-  "Super Metroid": {
-    "tw": "超級銀河戰士",
-    "jp": "スーパーメトロイド",
-    "en": "Super Metroid",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/7595_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "GT Classic": [
+  "Dragon Quest XI": {
+    "tw": "勇者鬥惡龍XI 尋覓逝去的時光",
+    "jp": "ドラゴンクエストXI 過ぎ去りし時を求めて",
+    "en": "Dragon Quest XI: Echoes of an Elusive Age",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/479862517_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/dqxi",
+    "SGDQ2026": {
+      "Sword of Light%": [
         null,
         null,
-        "https://www.youtube.com/watch?v=bcRjZRcnszA"
+        null
       ]
     }
   },
-  "maimai DX PRiSM PLUS": {
-    "tw": null,
-    "jp": "maimai でらっくす PRiSM PLUS",
-    "en": "maimai DX PRiSM PLUS",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1375001379_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Arcade Showcase": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=TkMqOGt3FwQ"
-      ]
-    }
-  },
-  "Clair Obscur: Expedition 33": {
-    "tw": "光與影：33 號遠征隊",
+  "Constance": {
+    "tw": "康斯坦絲",
     "jp": null,
-    "en": "Clair Obscur: Expedition 33",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/36799602_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Any% Race (Glitchless, Expert)": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=xpKTTh02Ejc"
-      ]
-    }
-  },
-  "Call of Duty: Modern Warfare 2": {
-    "tw": "決勝時刻：現代戰爭 2 (2009)",
-    "jp": "コール オブ デューティ モダン・ウォーフェア2",
-    "en": "Call of Duty: Modern Warfare 2",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/22393_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/mw2",
-    "AGDQ2026": {
-      "Any% (Recruit)": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=dkic5rub45I"
-      ]
-    }
-  },
-  "Redout 2": {
-    "tw": null,
-    "jp": null,
-    "en": "Redout 2",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/266733247.jpg",
-    "leaderboard": "https://www.speedrun.com/redout_2",
-    "AGDQ2026": {
-      "All Boss Tracks (DLC, Forwards)": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=zc9iueY06EE"
-      ]
-    }
-  },
-  "Mindwave": {
-    "tw": null,
-    "jp": null,
-    "en": "Mindwave",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1793648251_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Speedrun Showcase": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=FT8Xk9R-iTo"
-      ]
-    }
-  },
-  "Stellar Blade": {
-    "tw": "劍星",
-    "jp": null,
-    "en": "Stellar Blade",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/512034_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Any% (NG+, Story)": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=rPypw4hdRjA"
-      ]
-    }
-  },
-  "LEGO Star Wars: The Complete Saga": {
-    "tw": null,
-    "jp": "レゴ スター・ウォーズ コンプリート サーガ",
-    "en": "LEGO Star Wars: The Complete Saga",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/10209_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Any% (Solo)": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=W66qxVkOaPA"
-      ]
-    }
-  },
-  "Croc 2": {
-    "tw": "克拉鱷大冒險",
-    "jp": "クロックアドベンチャー",
-    "en": "Croc 2",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/5776_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Any%": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=6zw9Oc7T-EM"
-      ]
-    }
-  },
-  "Sly 2: Band of Thieves": {
-    "tw": null,
-    "jp": "怪盗 スライ・クーパー 2",
-    "en": "Sly 2: Band of Thieves",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/14286_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Episode 2 — Any%": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=7DtPhbO93eI"
-      ]
-    }
-  },
-  "Minit": {
-    "tw": null,
-    "jp": "ミニット",
-    "en": "Minit",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/495610_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "110%": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=5_TsodQdDzk"
-      ]
-    }
-  },
-  "Jetrunner": {
-    "tw": null,
-    "jp": null,
-    "en": "Jetrunner",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/2046238084_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Super Jetrunner": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=88O4sH0m_PA"
-      ]
-    }
-  },
-
-
-  "Ninja Gaiden: Ragebound": {
-    "tw": "忍者外傳：怒之羈絆",
-    "jp": null,
-    "en": "Ninja Gaiden: Ragebound",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1810411787_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Any% (Restricted)": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=Jg6VBazKDwc"
-      ]
-    }
-  },
-  "Super Mario Bros. 2: Return to Subcon": {
-    "tw": null,
-    "jp": null,
-    "en": "Super Mario Bros. 2: Return to Subcon",
-    "boxart": "https://www.speedrun.com/static/game/4d79e5g1/cover.png",
-    "leaderboard": "https://www.speedrun.com/return_to_subcon",
-    "AGDQ2026": {
-      "Any%": [
-        null,
-        "《超級瑪利歐 USA》改造版",
-        "https://www.youtube.com/watch?v=HrkPI1hdxlI"
-      ]
-    }
-  },
-  "Lies of P": {
-    "tw": "P的謊言",
-    "jp": "ライズオブP",
-    "en": "Lies of P",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/653624336_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/lies_of_p",
-    "AGDQ2026": {
-      "Overture (Glitchless)": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=23_wSbEg7HY"
-      ]
-    }
-  },
-  "Demon's Souls (2020)": {
-    "tw": "惡魔靈魂 (重製版)",
-    "jp": null,
-    "en": "Demon's Souls (2020)",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/21812_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
+    "en": "Constance",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/435756294_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/Constance",
+    "SGDQ2026": {
       "Any%": [
         null,
         null,
@@ -1682,327 +481,25 @@
       ]
     }
   },
-  "Dark Souls": {
-    "tw": "黑暗靈魂",
-    "jp": null,
-    "en": "Dark Souls",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1122982998_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Any%": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=feUQGGskV9M"
-      ]
-    }
-  },
-  "Super Mario Galaxy": {
-    "tw": "超級瑪利歐銀河",
-    "jp": "スーパーマリオギャラクシー",
-    "en": "Super Mario Galaxy",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1248698972_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Any% (Luigi)": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=gKsLpuVlSdI"
-      ]
-    }
-  },
-  "BONUS GAME 3 — Donkey Kong Bananza": {
-    "tw": "咚奇剛 蕉力全開",
-    "jp": "ドンキーコング バナンザ",
-    "en": "Donkey Kong Bananza",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1222247252_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Any%": [
-        null,
-        "加碼遊戲 BONUS GAME 3",
-        "https://www.youtube.com/watch?v=4ItI2ZlWiO0"
-      ]
-    }
-  },
-  "The Legend of Zelda: Ocarina of Time vs. Majora's Mask": {
-    "tw": "薩爾達傳說 時之笛 vs. 魔吉拉的面具",
-    "jp": null,
-    "en": "The Legend of Zelda: Ocarina of Time vs. Majora's Mask",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/11557_IGDB.jpg",
-    "leaderboard": null,
-    "AGDQ2026": {
-      "Any% (Blindfolded) — Game Choice": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=SIjhOlmF-DM"
-      ]
-    }
-  },
-  "Chrono Trigger": {
-    "tw": "超時空之鑰",
-    "jp": "クロノ・トリガー",
-    "en": "Chrono Trigger",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/8489_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Magus% (RNG Manip)": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=MQLS-ud6gms"
-      ]
-    }
-  },
-  "Sword of the Sea": {
-    "tw": "馭劍馳海",
-    "jp": null,
-    "en": "Sword of the Sea",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1476850343_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Any% NG+": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=tkZwI8-1E_0"
-      ]
-    }
-  },
-  "Castlevania: Dawn of Sorrow": {
-    "tw": "惡魔城 蒼月的十字架",
-    "jp": "悪魔城ドラキュラ 蒼月の十字架",
-    "en": "Castlevania: Dawn of Sorrow",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/10389_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Julius vs. Soma (All Bosses, NMC) — Category Choice": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=vUBQnaRehPU"
-      ]
-    }
-  },
-  "Momodora: Moonlit Farewell": {
-    "tw": "莫莫多拉：月下告別",
-    "jp": "Momodora: 月影のエンドロール",
-    "en": "Momodora: Moonlit Farewell",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/299613733_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "NMG Light": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=8nUioTFwa9E"
-      ]
-    }
-  },
-  "Exector": {
-    "tw": null,
-    "jp": "エグゼクター",
-    "en": "Exector",
-    "boxart": "https://www.speedrun.com/static/game/268wl576/cover.jpg",
-    "leaderboard": "https://www.speedrun.com/exector",
-    "AGDQ2026": {
-      "Any% (Hard)": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=7wz-tLWkNOg"
-      ]
-    }
-  },
-  "Darius Gaiden": {
-    "tw": "太空戰鬥機外傳",
-    "jp": "ダライアス外伝",
-    "en": "Darius Gaiden",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/17154_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "1CC Attempt (Route V)": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=cLrE_s6Sr7k"
-      ]
-    }
-  },
-  "Flare Nuinui Quest": {
-    "tw": null,
-    "jp": null,
-    "en": "Flare Nuinui Quest",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1902849744_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Flare (All Bosses, True End)": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=6cFZsYsz1-k"
-      ]
-    }
-  },
-  "James Bond 007: The Duel": {
-    "tw": "007 死鬥",
-    "jp": "007 死闘",
-    "en": "James Bond 007: The Duel",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/17889_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Any% (Normal)": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=Ec90JAA_Ydw"
-      ]
-    }
-  },
-  "Mika and the Witch's Mountain": {
-    "tw": "美佳和女巫之山",
-    "jp": "ミカと魔女の山",
-    "en": "Mika and the Witch's Mountain",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1695315850_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Any%": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=CFrdXuW4elY"
-      ]
-    }
-  },
-  "Spider-Man": {
-    "tw": "蜘蛛人",
-    "jp": "スパイダーマン",
-    "en": "Spider-Man",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/509510_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Any%": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=JjOBN_B5wcs"
-      ]
-    }
-  },
-  "Ratchet: Deadlocked": {
-    "tw": "拉捷特與克拉克4 極限銀河的超大戰役",
-    "jp": "ラチェット&クランク4th ギリギリ銀河のギガバトル",
-    "en": "Ratchet: Deadlocked",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/17178_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Any%": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=oakuA380xMM"
-      ]
-    }
-  },
-  "Sonic Racing: CrossWorlds": {
-    "tw": "索尼克賽車 交叉世界",
-    "jp": "ソニックレーシング クロスワールド",
-    "en": "Sonic Racing: CrossWorlds",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1135492840_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "All CrossWorlds (Super Sonic Speed, No Wisps)": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=A3xVxd-tFMc"
-      ]
-    }
-  },
-  "Final Fantasy Tactics — The Ivalice Chronicles": {
-    "tw": "Final Fantasy 戰略版：伊瓦利斯編年史",
-    "jp": "ファイナルファンタジータクティクス - イヴァリース クロニクルズ",
-    "en": "Final Fantasy Tactics: The Ivalice Chronicles",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/726936393_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Any% (Squire)": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=ALWCf7GJQbU"
-      ]
-    }
-  },
 
 
-  "Super Mario 64": {
-    "tw": "超級瑪利歐64",
-    "jp": "スーパーマリオ64",
-    "en": "Super Mario 64",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/2692_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "70 Star, 70 Person Relay": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=r-VFPEh59k4"
-      ]
-    }
-  },
-  "The Legend of Zelda: The Wind Waker": {
-    "tw": "薩爾達傳說 風之律動",
-    "jp": "ゼルダの伝説 風のタクト",
-    "en": "The Legend of Zelda: The Wind Waker",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/16967_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Any% (ACE)": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=aG7_bypp1So"
-      ]
-    }
-  },
-  "Elden Ring Nightreign": {
-    "tw": "艾爾登法環 黑夜君臨",
+
+
+
+
+
+
+  "TODO": {
+    "tw": null,
     "jp": null,
-    "en": "Elden Ring Nightreign",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/982348888_IGDB.jpg",
+    "en": "TODO",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Defeat Nightlord (Trio)": [
+    "SGDQ2026": {
+      "Any%": [
         null,
         null,
-        "https://www.youtube.com/watch?v=IXqnbXgPnKM"
-      ]
-    }
-  },
-  "Hades II": {
-    "tw": "黑帝斯 II",
-    "jp": null,
-    "en": "Hades II",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/376500771_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "All Weapons (Alternating Routes)": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=Ne9x3y_W7pE"
-      ]
-    }
-  },
-  "BONUS GAME 4 — Hollow Knight: Silksong": {
-    "tw": "空洞騎士：絲綢之歌",
-    "jp": null,
-    "en": "Hollow Knight: Silksong",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/511391_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Any% NMG": [
-        null,
-        "加碼遊戲 BONUS GAME 4",
-        "https://www.youtube.com/watch?v=M9Li3gm4JCI"
-      ]
-    }
-  },
-  "Pokémon Emerald": {
-    "tw": "寶可夢 綠寶石",
-    "jp": "ポケットモンスター エメラルド",
-    "en": "Pokémon Emerald",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/10609_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
-    "AGDQ2026": {
-      "Pick-My-Main": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=mxV-3XJy2WI"
+        null
       ]
     }
   },
