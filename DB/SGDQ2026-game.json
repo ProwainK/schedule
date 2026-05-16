@@ -598,9 +598,183 @@
         null,
         null,
         null
+      ],
+      "Vainger - Cherry": [
+        null,
+        null,
+        null
       ]
     }
   },
+  "VVVVVV": {
+    "tw": null,
+    "jp": null,
+    "en": "VVVVVV",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/26821_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/vvvvvv",
+    "SGDQ2026": {
+      "100%": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "TUNIC": {
+    "tw": null,
+    "jp": null,
+    "en": "TUNIC",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/497432_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/tunic",
+    "SGDQ2026": {
+      "100% (NMG)": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Super Mario Odyssey": {
+    "tw": "超級瑪利歐 奧德賽",
+    "jp": "スーパーマリオ オデッセイ",
+    "en": "Super Mario Odyssey",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/493997_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/smo",
+    "SGDQ2026": {
+      "All Story Moons": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "BONUS GAME 1 - Hey You Pikachu!": {
+    "tw": "皮卡丘啾有精神",
+    "jp": "ピカチュウげんきでちゅう",
+    "en": "Hey You Pikachu!",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/15695_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/hey_you_pikachu",
+    "SGDQ2026": {
+      "Discovery Days Race": [
+        null,
+        "加碼遊戲 BONUS GAME 1",
+        null
+      ]
+    }
+  },
+  "Ratchet & Clank: Rift Apart": {
+    "tw": "拉捷特與克拉克：時空裂縫",
+    "jp": null,
+    "en": "Ratchet & Clank: Rift Apart",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/518016_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/rac_ra",
+    "SGDQ2026": {
+      "All Gold Bolts": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Gordon & Daxter": {
+    "tw": null,
+    "jp": null,
+    "en": "Gordon & Daxter",
+    "boxart": "https://www.speedrun.com/static/game/j1npeqx6/cover.png",
+    "leaderboard": "https://www.speedrun.com/Gordon_and_Daxter",
+    "SGDQ2026": {
+      "No LTS": [
+        null,
+        "PS2《傑克與達斯特》的粉絲移植 PC 版 + MOD 改造",
+        null
+      ]
+    }
+  },
+  "BioShock Infinite": {
+    "tw": "生化奇兵：無限之城",
+    "jp": null,
+    "en": "BioShock Infinite",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/29099_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/bsi",
+    "SGDQ2026": {
+      "Any% (HRH Mod)": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "System Shock 2 (1999)": {
+    "tw": "網絡奇兵2",
+    "jp": null,
+    "en": "System Shock 2 (1999)",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/8135_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/systemshock2",
+    "SGDQ2026": {
+      "Any%": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Star Wars: Jedi Knight - Dark Forces II": {
+    "tw": "星際大戰 絕地武士：黑暗力量II",
+    "jp": null,
+    "en": "Star Wars: Jedi Knight - Dark Forces II",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/6795_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/jkdf2",
+    "SGDQ2026": {
+      "Any%": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Ogre Battle: March of the Black Queen": {
+    "tw": "傳說的奧迦戰爭 (皇家騎士團)",
+    "jp": "伝説のオウガバトル",
+    "en": "Ogre Battle: March of the Black Queen",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/2260_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/obmotbq",
+    "SGDQ2026": {
+      "Any%": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Magical Quest 3: Starring Mickey and Donald": {
+    "tw": "米老鼠與唐老鴨魔幻冒險3",
+    "jp": "ミッキーとドナルド マジカルアドベンチャー3",
+    "en": "Magical Quest 3: Starring Mickey and Donald",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/446313975_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/magical_quest_3_starring_mickey_and_donald",
+    "SGDQ2026": {
+      "Any% (Mickey)": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Sparkster": {
+    "tw": "火箭騎士",
+    "jp": "スパークスター",
+    "en": "Sparkster",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/18217_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/sparkstersnes",
+    "SGDQ2026": {
+      "Normal": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+
 
 
 
