@@ -685,7 +685,7 @@
     "SGDQ2026": {
       "No LTS": [
         null,
-        "PS2《傑克與達斯特》的粉絲移植 PC 版 + MOD 改造",
+        "PS2《傑克與達斯特》粉絲移植 PC 版 + MOD 改造",
         null
       ]
     }
@@ -774,6 +774,107 @@
       ]
     }
   },
+  "Streets of Rage 2: New Era": {
+    "tw": null,
+    "jp": null,
+    "en": "Streets of Rage 2: New Era",
+    "boxart": "https://www.speedrun.com/static/game/v1pxkj46/cover.jpg",
+    "leaderboard": "https://www.speedrun.com/sor2newera",
+    "SGDQ2026": {
+      "Hardest%": [
+        null,
+        "MD《怒之鐵拳II》粉絲移植 PC 版",
+        null
+      ]
+    }
+  },
+  "The Gunk": {
+    "tw": "黏液",
+    "jp": null,
+    "en": "The Gunk",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/518874_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/the_gunk",
+    "SGDQ2026": {
+      "Any%": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Gex: Enter the Gecko": {
+    "tw": null,
+    "jp": null,
+    "en": "Gex: Enter the Gecko",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/10436_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/gex2",
+    "SGDQ2026": {
+      "Any%": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Isopod": {
+    "tw": "等足目：Webbed 外傳",
+    "jp": null,
+    "en": "Isopod: A Webbed Spin-off",
+    "boxart": "https://www.speedrun.com/static/game/ldewqzed/cover.jpg",
+    "leaderboard": "https://www.speedrun.com/Isopod",
+    "SGDQ2026": {
+      "Any% (NMG)": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Dunkadillo": {
+    "tw": null,
+    "jp": null,
+    "en": "Dunkadillo",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1737423975_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/dunkadillo",
+    "SGDQ2026": {
+      "Any% (All Worlds)": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Missland 2": {
+    "tw": "找錯處2",
+    "jp": "ミスランド2",
+    "en": "Missland 2",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/238742375_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/Missland_2",
+    "SGDQ2026": {
+      "Any%": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Bomberman Fantasy Race": {
+    "tw": "炸彈超人 夢幻競速",
+    "jp": "ボンバーマン ファンタジーレース",
+    "en": "Bomberman Fantasy Race",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/18614_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/bfr",
+    "SGDQ2026": {
+      "Any% (Normal Courses)": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+
+
+
 
 
 
