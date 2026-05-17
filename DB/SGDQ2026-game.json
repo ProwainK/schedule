@@ -13,20 +13,6 @@
 
 
 
-  "20XX": {
-    "tw": null,
-    "jp": null,
-    "en": "20XX",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/460129_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/20xx",
-    "SGDQ2026": {
-      "Random Seed": [
-        null,
-        null,
-        null
-      ]
-    }
-  },
 
   "Abyssus": {
     "tw": "深淵之潮",
@@ -88,20 +74,6 @@
     }
   },
 
-  "The Legend of Zelda: The Wind Waker": {
-    "tw": "薩爾達傳說 風之律動",
-    "jp": "ゼルダの伝説 風のタクト",
-    "en": "The Legend of Zelda: The Wind Waker",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/16967_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/tww",
-    "SGDQ2026": {
-      "Randomizer — Co-op": [
-        null,
-        null,
-        null
-      ]
-    }
-  },
 
 
 
@@ -281,6 +253,12 @@
     "tw": "即將揭曉",
     "jp": null,
     "en": "Game To Be Revealed",
+    "boxart": null
+  },
+  "Content to be Announced": {
+    "tw": "即將揭曉",
+    "jp": null,
+    "en": "Content to be Announced",
     "boxart": null
   },
   "Mystery Game": {
@@ -1156,6 +1134,78 @@
       ]
     }
   },
+  "Transformers: War For Cybertron": {
+    "tw": "變形金剛：賽博坦之戰",
+    "jp": null,
+    "en": "Transformers: War For Cybertron",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/26522_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/tfwfc",
+    "SGDQ2026": {
+      "Autobot vs. Decepticon Campaign": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Pokémon FireRed": {
+    "tw": "寶可夢 火紅",
+    "jp": "ポケットモンスター ファイアレッド",
+    "en": "Pokémon FireRed",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/13332_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/pkmnfrlg",
+    "SGDQ2026": {
+      "Elite Four Round 2": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Super Mario and Luigi World: Brotherhood": {
+    "tw": null,
+    "jp": null,
+    "en": "Super Mario and Luigi World: Brotherhood",
+    "boxart": "https://i.ytimg.com/vi/mYv_ZqvtcDI/maxresdefault.jpg",
+    "leaderboard": null,
+    "SGDQ2026": {
+      "First Playthrough — All Exits Race": [
+        null,
+        "SFC《超級瑪利歐世界》Kaizo 改造版",
+        null
+      ]
+    }
+  },
+  "BONUS GAME 2 - Wii Sports": {
+    "tw": "Wii 運動",
+    "jp": null,
+    "en": "Wii Sports",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/12232_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/wiisports",
+    "SGDQ2026": {
+      "GDQ Sports": [
+        null,
+        "加碼遊戲 BONUS GAME 2",
+        null
+      ]
+    }
+  },
+  "Crash Bandicoot 4: It's About Time": {
+    "tw": "袋狼大進擊4：時空之旅",
+    "jp": null,
+    "en": "Crash Bandicoot 4: It's About Time",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/518222_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/crash4",
+    "SGDQ2026": {
+      "Any% (No OoB)": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+
+
 
 
 
@@ -1181,6 +1231,362 @@
 
 
 
+
+
+
+
+  "StarCraft": {
+    "tw": "星海爭霸",
+    "jp": null,
+    "en": "StarCraft",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/11989_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/sc1",
+    "SGDQ2026": {
+      "Terran Campaign": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "The Legend of Zelda: The Wind Waker": {
+    "tw": "薩爾達傳說 風之律動",
+    "jp": "ゼルダの伝説 風のタクト",
+    "en": "The Legend of Zelda: The Wind Waker",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/16967_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/tww",
+    "SGDQ2026": {
+      "Randomizer — Co-op": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+
+
+  "SAROS": {
+    "tw": "沙羅週期",
+    "jp": null,
+    "en": "SAROS",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/30651912_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/SAROS",
+    "SGDQ2026": {
+      "NG+ (All Bosses)": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Slay the Spire 2": {
+    "tw": "殺戮尖塔2",
+    "jp": null,
+    "en": "Slay the Spire 2",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1435206302_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/Slay_the_Spire_2",
+    "SGDQ2026": {
+      "Skeleton War (4 Player, Glitchless, Unseeded)": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Balatro": {
+    "tw": "小丑牌",
+    "jp": null,
+    "en": "Balatro",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/745589378_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/Balatro",
+    "SGDQ2026": {
+      "naneinf": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Tetris": {
+    "tw": "俄羅斯方塊",
+    "jp": "テトリス",
+    "en": "Tetris",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1835475218_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/tetrisnes",
+    "SGDQ2026": {
+      "Tetris (NES) Tournament Finals Match": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Super Mario Maker 2": {
+    "tw": "超級瑪利歐創作家2",
+    "jp": "スーパーマリオメーカー2",
+    "en": "Super Mario Maker 2",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/511399_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/smm2",
+    "SGDQ2026": {
+      "Troll Race": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Resident Evil: Requiem": {
+    "tw": "惡靈古堡 安魂曲",
+    "jp": "バイオハザード レクイエム",
+    "en": "Resident Evil: Requiem",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1597660489_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/RE9",
+    "SGDQ2026": {
+      "New Game (Casual, No Intro)": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "BONUS GAME 3 - Resident Evil 3: Nemesis": {
+    "tw": "惡靈古堡3 (1999)",
+    "jp": "バイオハザード3 LAST ESCAPE",
+    "en": "Resident Evil 3: Nemesis",
+    "boxart": "https://www.speedrun.com/static/game/j1lq8v6g/cover.png",
+    "leaderboard": "https://www.speedrun.com/re3",
+    "SGDQ2026": {
+      "Crkd Guitar Controller — Nemesis% (Heavy, REbirth)": [
+        "追跡者全擊殺 ft. CRKD 吉他控制器",
+        "加碼遊戲 BONUS GAME 3",
+        null
+      ]
+    }
+  },
+  "Dying Light": {
+    "tw": "消逝的光芒",
+    "jp": null,
+    "en": "Dying Light",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/369380_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/dyinglight",
+    "SGDQ2026": {
+      "Any% HSG": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Ghosts 'n Goblins (Arcade) (JP)": {
+    "tw": "魔界村",
+    "jp": null,
+    "en": "Ghosts 'n Goblins",
+    "boxart": "https://www.speedrun.com/static/game/nd2eo5d0/cover.png",
+    "leaderboard": "https://www.speedrun.com/ghosts_n_goblins",
+    "SGDQ2026": {
+      "1CC": [
+        "日版一幣通關",
+        null,
+        null
+      ]
+    }
+  },
+  "Fragrance Point": {
+    "tw": null,
+    "jp": null,
+    "en": "Fragrance Point",
+    "boxart": "https://www.speedrun.com/static/game/2689j9o1/cover.jpg",
+    "leaderboard": "https://www.speedrun.com/fragrancepoint",
+    "SGDQ2026": {
+      "Good Ending": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Windswept": {
+    "tw": "隨風飄蕩",
+    "jp": null,
+    "en": "Windswept",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1182799864_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/windswept",
+    "SGDQ2026": {
+      "Any%": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Fubuki ~zero in on Holoearth": {
+    "tw": "白上吹雪～在 Holoearth 集中砲火～",
+    "jp": null,
+    "en": "FUBUKI ～zero in on Holoearth～ HOLOLIVE ALTERNATIVE",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/812858681_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/FUBUKI_zero_in_on_Holoearth_HOLOLIVE_ALTERNATIVE",
+    "SGDQ2026": {
+      "Any%": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Environmental Station Alpha": {
+    "tw": null,
+    "jp": null,
+    "en": "Environmental Station Alpha",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/67809_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/esalpha",
+    "SGDQ2026": {
+      "Any% (Inbounds)": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "20XX": {
+    "tw": null,
+    "jp": null,
+    "en": "20XX",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/460129_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/20xx",
+    "SGDQ2026": {
+      "Random Seed": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Mighty Gunvolt Burst": {
+    "tw": "麥提鋼佛特 BURST",
+    "jp": null,
+    "en": "Mighty Gunvolt Burst",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/497067_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/mighty_gunvolt_burst",
+    "SGDQ2026": {
+      "Any% (Copen)": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Clash at Demonhead": {
+    "tw": "電擊超人",
+    "jp": "電撃ビッグバン！",
+    "en": "Clash at Demonhead",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/14843_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/clash_at_demonhead",
+    "SGDQ2026": {
+      "Single Suits": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "The Rocketeer": {
+    "tw": "火箭人",
+    "jp": null,
+    "en": "The Rocketeer",
+    "boxart": "https://www.speedrun.com/static/game/3699p86l/cover.png",
+    "leaderboard": "https://www.speedrun.com/the_rocketeer",
+    "SGDQ2026": {
+      "Any%": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Gauntlet": {
+    "tw": "鐵手套",
+    "jp": null,
+    "en": "Gauntlet",
+    "boxart": "https://www.speedrun.com/static/game/pd0jz26e/cover.png",
+    "leaderboard": "https://www.speedrun.com/gauntlet_nes",
+    "SGDQ2026": {
+      "Any%": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Castlevania": {
+    "tw": "惡魔城",
+    "jp": "悪魔城ドラキュラ",
+    "en": "Castlevania",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1397886152_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/cv1",
+    "SGDQ2026": {
+      "OHKO": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "SpongeBob SquarePants: Titans of the Tide": {
+    "tw": "海綿寶寶：海洋巨頭之亂",
+    "jp": null,
+    "en": "SpongeBob SquarePants: Titans of the Tide",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1331738068_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/titans",
+    "SGDQ2026": {
+      "Any% Race (Vers. 1.1)": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Scooby-Doo! Night of 100 Frights": {
+    "tw": "史酷比：百夜驚魂",
+    "jp": null,
+    "en": "Scooby-Doo! Night of 100 Frights",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/13868_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/n100f",
+    "SGDQ2026": {
+      "All Bosses": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Ed, Edd n Eddy: The Mis-Edventures": {
+    "tw": "搗蛋三傻：混亂大冒險",
+    "jp": null,
+    "en": "Ed, Edd n Eddy: The Mis-Edventures",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/173_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/eeetme",
+    "SGDQ2026": {
+      "All Scams": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Pizza Tower": {
+    "tw": "披薩塔",
+    "jp": null,
+    "en": "Pizza Tower",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1774510513_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/pizza_tower",
+    "SGDQ2026": {
+      "Any% (Swap Mode 2P, NMG)": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
 
 
   "Mouse P.I. For Hire": {
