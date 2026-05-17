@@ -44,21 +44,6 @@
     }
   },
 
-  "American Idol": {
-    "tw": "美國偶像",
-    "jp": null,
-    "en": "American Idol",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/2889_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/american_idol",
-    "SGDQ2026": {
-      "Low%": [
-        null,
-        null,
-        null
-      ]
-    }
-  },
-
   "Bait & Tackle": {
     "tw": null,
     "jp": null,
@@ -1152,7 +1137,7 @@
     "tw": "寶可夢 火紅",
     "jp": "ポケットモンスター ファイアレッド",
     "en": "Pokémon FireRed",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/13332_IGDB.jpg",
+    "boxart": "https://www.speedrun.com/static/game/w6j7726j/cover.png",
     "leaderboard": "https://www.speedrun.com/pkmnfrlg",
     "SGDQ2026": {
       "Elite Four Round 2": [
@@ -1204,9 +1189,260 @@
       ]
     }
   },
+  "Banjo-Tooie": {
+    "tw": "阿邦阿卡大冒險2",
+    "jp": "バンジョーとカズーイの大冒険2",
+    "en": "Banjo-Tooie",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/2634_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/bt",
+    "SGDQ2026": {
+      "Any% (No Bitclips)": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Yooka-Laylee and the Impossible Lair": {
+    "tw": "尤卡萊莉與無妄巢穴",
+    "jp": null,
+    "en": "Yooka-Laylee and the Impossible Lair",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/512940_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/ylil",
+    "SGDQ2026": {
+      "Any%": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Dai-chan's Great Adventure: World's End": {
+    "tw": "大醬的大冒險 世界崩壞 End of World",
+    "jp": "大ちゃんの大冒険 世界崩壊 End of World",
+    "en": "Dai-chan's Great Adventure: World's End",
+    "boxart": "https://www.speedrun.com/static/game/9d3wowg1/cover.png",
+    "leaderboard": "https://www.speedrun.com/daichan_end_of_world",
+    "SGDQ2026": {
+      "Good Ending": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Memoirs of Magic": {
+    "tw": null,
+    "jp": null,
+    "en": "Memoirs of Magic",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/2074104805_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/memoirs_of_magic",
+    "SGDQ2026": {
+      "Any%": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "The Nightmare Before Christmas: Oogie's Revenge": {
+    "tw": "聖誕夜驚魂：巫奇的復仇",
+    "jp": null,
+    "en": "The Nightmare Before Christmas: Oogie's Revenge",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/17061_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/nbc",
+    "SGDQ2026": {
+      "All Bosses": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Die Hard: Nakatomi Plaza": {
+    "tw": "終極警探：大廈驚魂",
+    "jp": null,
+    "en": "Die Hard: Nakatomi Plaza",
+    "boxart": "https://www.speedrun.com/static/game/3690g86l/cover.png",
+    "leaderboard": "https://www.speedrun.com/die_hard_nakatomi_plaza",
+    "SGDQ2026": {
+      "Any%": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "The Peanuts Movie: Snoopy's Grand Adventure": {
+    "tw": "史努比壯闊歷險記",
+    "jp": null,
+    "en": "The Peanuts Movie: Snoopy's Grand Adventure",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/491976_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/snoopygrandadventure",
+    "SGDQ2026": {
+      "All Friends (NG+)": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Snoopy (C64)": {
+    "tw": "史努比",
+    "jp": null,
+    "en": "Snoopy (C64)",
+    "boxart": "https://www.speedrun.com/static/game/9d3xggdl/cover.png",
+    "leaderboard": "https://www.speedrun.com/snoopy_c64",
+    "SGDQ2026": {
+      "9 Loops": [
+        null,
+        "Silly Game 傻瓜遊戲專區～開始！",
+        null
+      ]
+    }
+  },
+  "Knuckle Bash": {
+    "tw": "貓王快打",
+    "jp": null,
+    "en": "Knuckle Bash",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/32157_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/knuckle_bash",
+    "SGDQ2026": {
+      "Cutscene%": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "American Idol": {
+    "tw": "美國偶像",
+    "jp": null,
+    "en": "American Idol",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/2889_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/american_idol",
+    "SGDQ2026": {
+      "Low%": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Drywall Eating Simulator": {
+    "tw": "吃乾牆模擬器",
+    "jp": null,
+    "en": "Drywall Eating Simulator",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1032078704_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/Drywall_Eating_Simulator",
+    "SGDQ2026": {
+      "Any%": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Grandma, No!": {
+    "tw": "阿嬤，麥安捏啦！",
+    "jp": null,
+    "en": "Grandma, No!",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/381414899_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/Grandma_No",
+    "SGDQ2026": {
+      "All Main Tasks": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Power Shovel": {
+    "tw": "挖土機",
+    "jp": null,
+    "en": "Power Shovel",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/11211_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/power_shovel",
+    "SGDQ2026": {
+      "All Minigames": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Manual Samuel": {
+    "tw": "手動的塞繆爾",
+    "jp": null,
+    "en": "Manual Samuel",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/492192_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/manual_samuel",
+    "SGDQ2026": {
+      "Any%": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "WHAT THE GOLF?": {
+    "tw": null,
+    "jp": null,
+    "en": "WHAT THE GOLF?",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/504451_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/whatthegolf",
+    "SGDQ2026": {
+      "Slime Time! — Any%": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "SABOR": {
+    "tw": null,
+    "jp": null,
+    "en": "SABOR",
+    "boxart": "https://www.speedrun.com/static/game/o6gnzpx1/cover.png",
+    "leaderboard": "https://www.speedrun.com/sabor",
+    "SGDQ2026": {
+      "Any%": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Cyberia": {
+    "tw": null,
+    "jp": null,
+    "en": "Cyberia",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/16572_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/cyberia1",
+    "SGDQ2026": {
+      "All Unique Deaths (No Turret, No TF22)": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
 
 
-
+  "Randall The Grape Jelly Cube goes to Soda Valley for some reason": {
+    "tw": "葡萄果凍方塊蘭德爾莫名其妙就跑去蘇打山谷",
+    "jp": null,
+    "en": "Randall The Grape Jelly Cube goes to Soda Valley for some reason",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1448900166_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/Randall_the_Grape_Jelly_Cube_goes_to_Soda_Valley_for_some_reason",
+    "SGDQ2026": {
+      "Any%": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
 
 
 
@@ -1227,6 +1463,10 @@
       ]
     }
   },
+
+
+
+
 
 
 
