@@ -1042,8 +1042,120 @@
       ]
     }
   },
+  "In Stars and Time": {
+    "tw": null,
+    "jp": null,
+    "en": "In Stars and Time",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1941028989_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/isat",
+    "SGDQ2026": {
+      "Any%": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Maiden & Spell": {
+    "tw": "少女與魔法",
+    "jp": null,
+    "en": "Maiden & Spell",
+    "boxart": "https://www.speedrun.com/static/game/o1y9mz46/cover.png",
+    "leaderboard": "https://www.speedrun.com/Maiden_Spell",
+    "SGDQ2026": {
+      "Story — Single Character (Hard)": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Kao the Kangaroo: Mystery of the Volcano": {
+    "tw": "袋鼠小天王：火山之謎",
+    "jp": null,
+    "en": "Kao the Kangaroo: Mystery of the Volcano",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/108935_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/kao3",
+    "SGDQ2026": {
+      "All Artifacts (Speedrun Mod)": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Wario World": {
+    "tw": "瓦利歐世界",
+    "jp": "ワリオワールド",
+    "en": "Wario World",
+    "boxart": "https://www.speedrun.com/static/game/nd28wqd0/cover.png",
+    "leaderboard": "https://www.speedrun.com/ww",
+    "SGDQ2026": {
+      "Any%": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "SANABI": {
+    "tw": null,
+    "jp": null,
+    "en": "SANABI",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1296062304_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/sanabi",
+    "SGDQ2026": {
+      "Speedrun Mode": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "PEAK": {
+    "tw": "合力攻頂",
+    "jp": null,
+    "en": "PEAK",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1081998272_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/PEAK",
+    "SGDQ2026": {
+      "Peak% (NMG, Solo)": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "VS. Super Mario Bros.": {
+    "tw": "VS. 超級瑪利歐兄弟",
+    "jp": null,
+    "en": "VS. Super Mario Bros.",
+    "boxart": "https://www.speedrun.com/static/game/o1ywwvdq/cover.png",
+    "leaderboard": "https://www.speedrun.com/vssmb",
+    "SGDQ2026": {
+      "Warpless": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
 
 
+  "Super Princess Peach": {
+    "tw": "超級碧姬公主",
+    "jp": null,
+    "en": "Super Princess Peach",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/9061_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/spp_",
+    "SGDQ2026": {
+      "Any%": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
 
 
 
