@@ -2,78 +2,6 @@
   "Summer Games Done Quick 2026": {"tw": null, "jp": null, "en": null },
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-  "Abyssus": {
-    "tw": "深淵之潮",
-    "jp": null,
-    "en": "Abyssus",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1207546328_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/Abyssus_",
-    "SGDQ2026": {
-      "All Bosses": [
-        null,
-        null,
-        null
-      ]
-    }
-  },
-
-  "AI Limit": {
-    "tw": "無限機兵",
-    "jp": null,
-    "en": "AI Limit",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/511668_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/AI_LIMIT",
-    "SGDQ2026": {
-      "Any% Unrestricted": [
-        null,
-        null,
-        null
-      ]
-    }
-  },
-
-  "Bait & Tackle": {
-    "tw": null,
-    "jp": null,
-    "en": "Bait & Tackle",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1652813853_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/BaitAndTackle",
-    "SGDQ2026": {
-      "Any%": [
-        null,
-        null,
-        null
-      ]
-    }
-  },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   "SGDQ 2026 Pre-Show": {
     "tw": "開場秀",
     "jp": null,
@@ -1443,18 +1371,26 @@
       ]
     }
   },
-
-
-
-
-
-
-  "TODO": {
+  "Mr. Bones": {
+    "tw": "骨頭先生",
+    "jp": null,
+    "en": "Mr. Bones",
+    "boxart": "https://www.speedrun.com/static/game/w6jl975d/cover.png",
+    "leaderboard": "https://www.speedrun.com/mr._bones",
+    "SGDQ2026": {
+      "Any% Race": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Bait & Tackle": {
     "tw": null,
     "jp": null,
-    "en": "TODO",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/TODO_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/TODO",
+    "en": "Bait & Tackle",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1652813853_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/BaitAndTackle",
     "SGDQ2026": {
       "Any%": [
         null,
@@ -1463,18 +1399,272 @@
       ]
     }
   },
-
-
-
-
-
-
-
-
-
-
-
-
+  "Sonic Schoolhouse": {
+    "tw": "索尼克小學堂",
+    "jp": null,
+    "en": "Sonic Schoolhouse",
+    "boxart": "https://www.speedrun.com/static/game/pd0w2pv1/cover.png",
+    "leaderboard": "https://www.speedrun.com/sonics_schoolhouse",
+    "SGDQ2026": {
+      "All Subjects": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Mega Man (DOS)": {
+    "tw": "洛克人 (DOS)",
+    "jp": null,
+    "en": "Mega Man (DOS)",
+    "boxart": "https://www.speedrun.com/static/game/m1mgnp12/cover.png",
+    "leaderboard": "https://www.speedrun.com/mega_man_dos",
+    "SGDQ2026": {
+      "Buster Only": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Zelda: Wand of Gamelon": {
+    "tw": "薩爾達：伽美隆之杖 (CD-i 第二部)",
+    "jp": null,
+    "en": "Zelda: Wand of Gamelon",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/16246_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/wandofgamelon",
+    "SGDQ2026": {
+      "Any%": [
+        null,
+        "Silly Game 傻瓜遊戲專區～結束！",
+        null
+      ]
+    }
+  },
+  "The Legend of Zelda: Tears of the Kingdom": {
+    "tw": "薩爾達傳說 王國之淚",
+    "jp": "ゼルダの伝説 ティアーズ オブ ザ キングダム",
+    "en": "The Legend of Zelda: Tears of the Kingdom",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/512998_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/totk",
+    "SGDQ2026": {
+      "Any% (Glitchless)": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "UNBEATABLE": {
+    "tw": null,
+    "jp": null,
+    "en": "UNBEATABLE",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1652175477_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/UNBEATABLE",
+    "SGDQ2026": {
+      "Arcade Mode — Showcase": [
+        null,
+        "節奏遊戲表演",
+        null
+      ]
+    }
+  },
+  "Total Nuclear Annihilation": {
+    "tw": "全核殲滅",
+    "jp": null,
+    "en": "Total Nuclear Annihilation",
+    "boxart": "https://i.ytimg.com/vi/IasvDaz0VXk/maxresdefault.jpg",
+    "leaderboard": null,
+    "SGDQ2026": {
+      "9 Reactors": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Sonic Dream Team": {
+    "tw": "索尼克夢境小隊",
+    "jp": null,
+    "en": "Sonic Dream Team",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/933203405_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/sdt",
+    "SGDQ2026": {
+      "Adventure — Any%": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Elden Ring": {
+    "tw": "艾爾登法環",
+    "jp": "エルデンリング",
+    "en": "Elden Ring",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/512953_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/eldenring",
+    "SGDQ2026": {
+      "All Bosses (4 Players)": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Metroid Dread": {
+    "tw": "密特羅德 生存恐懼",
+    "jp": "メトロイド ドレッド",
+    "en": "Metroid Dread",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/212029556_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/mdread",
+    "SGDQ2026": {
+      "All Bosses (Unrestricted)": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "SEGA AGES Puyo Puyo": {
+    "tw": "魔法氣泡通 (SEGA AGES)",
+    "jp": null,
+    "en": "Puyo Puyo 2 SEGA AGES",
+    "boxart": "https://www.speedrun.com/static/game/m1zjprz6/cover.png",
+    "leaderboard": "https://www.speedrun.com/puyo_puyo_2_sega_ages",
+    "SGDQ2026": {
+      "Endurance Mode (Puyo Puyo 2)": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Hypogea": {
+    "tw": null,
+    "jp": null,
+    "en": "Hypogea",
+    "boxart": "https://www.speedrun.com/static/game/9d3wj4w1/cover.jpg",
+    "leaderboard": "https://www.speedrun.com/hypogea",
+    "SGDQ2026": {
+      "All Chapters": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "The Chaos Engine (Remastered)": {
+    "tw": null,
+    "jp": null,
+    "en": "The Chaos Engine",
+    "boxart": "https://www.speedrun.com/static/game/o6g0m5d2/cover.png",
+    "leaderboard": "https://www.speedrun.com/the_chaos_engine_soldiers_of_fortune",
+    "SGDQ2026": {
+      "Preacher/Mercenary (Co-op)": [
+        null,
+        "原版 Amiga 平台移植上 PC",
+        null
+      ]
+    }
+  },
+  "Abyssus": {
+    "tw": "深淵之潮",
+    "jp": null,
+    "en": "Abyssus",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1207546328_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/Abyssus_",
+    "SGDQ2026": {
+      "All Bosses": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Teenage Mutant Ninja Turtles 4: Turtles in Time": {
+    "tw": "忍者龜4：時空之旅",
+    "jp": null,
+    "en": "Teenage Mutant Ninja Turtles 4: Turtles in Time",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/16537_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/teenage_mutant_ninja_turtles_iv_turtles_in_time",
+    "SGDQ2026": {
+      "Any% (1P1C)": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Towerbolt": {
+    "tw": null,
+    "jp": null,
+    "en": "Towerbolt",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/16416044_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/Towerbolt",
+    "SGDQ2026": {
+      "Any%": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Epic Battle Fantasy Collection": {
+    "tw": "史詩戰鬥幻想合輯",
+    "jp": null,
+    "en": "Epic Battle Fantasy Collection",
+    "boxart": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1469620/header.jpg",
+    "leaderboard": null,
+    "SGDQ2026": {
+      "Epic Battle Fantasy 1&2 Biathalon": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "SWORN": {
+    "tw": "騎士誓約",
+    "jp": null,
+    "en": "SWORN",
+    "boxart": "https://www.speedrun.com/static/game/369w5r8d/cover.jpg",
+    "leaderboard": "https://www.speedrun.com/Sworn",
+    "SGDQ2026": {
+      "Any%": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Kirby: Nightmare in Dream Land": {
+    "tw": "星之卡比 夢之泉DX",
+    "jp": "星のカービィ 夢の泉デラックス",
+    "en": "Kirby: Nightmare in Dream Land",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/992773884_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/knidl",
+    "SGDQ2026": {
+      "Any% Race": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Kirby's Dream Land 2": {
+    "tw": "星之卡比2",
+    "jp": "星のカービィ2",
+    "en": "Kirby's Dream Land 2",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/4089_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/kdl2",
+    "SGDQ2026": {
+      "Rick%": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
   "StarCraft": {
     "tw": "星海爭霸",
     "jp": null,
@@ -1921,6 +2111,22 @@
     "leaderboard": "https://www.speedrun.com/coe33",
     "AGDQ2026": {
       "Any% Restricted": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+
+
+  "AI Limit": {
+    "tw": "無限機兵",
+    "jp": null,
+    "en": "AI Limit",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/511668_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/AI_LIMIT",
+    "SGDQ2026": {
+      "Any% Unrestricted": [
         null,
         null,
         null
