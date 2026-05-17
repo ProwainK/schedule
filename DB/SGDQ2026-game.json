@@ -874,6 +874,174 @@
   },
 
 
+  "Stardew Valley": {
+    "tw": "星露谷物語",
+    "jp": null,
+    "en": "Stardew Valley",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/490744_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/stardew_valley",
+    "SGDQ2026": {
+      "Mines vs. Crafts Room Race": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Sonic 3 & Knuckles": {
+    "tw": "索尼克3 & 納克魯斯",
+    "jp": "ソニック・ザ・ヘッジホッグ3 & ナックルズ",
+    "en": "Sonic 3 & Knuckles",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/580954130_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/s3k",
+    "SGDQ2026": {
+      "Beat The Game — Glitched (Sonic)": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Star Wars Jedi Fallen Order": {
+    "tw": "星際大戰 絕地：組織殞落",
+    "jp": null,
+    "en": "Star Wars Jedi Fallen Order",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/503446_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/jfo",
+    "SGDQ2026": {
+      "Any% (Unrestricted)": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Paper Mario: The Thousand-Year Door": {
+    "tw": "紙片瑪利歐RPG (千年之門)",
+    "jp": "ペーパーマリオRPG",
+    "en": "Paper Mario: The Thousand-Year Door",
+    "boxart": "https://www.speedrun.com/static/game/m1zjo360/cover.png",
+    "leaderboard": "https://www.speedrun.com/ttyd",
+    "SGDQ2026": {
+      "Any%": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Super Meat Boy 3D": {
+    "tw": "超級肉肉哥 3D",
+    "jp": null,
+    "en": "Super Meat Boy 3D",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1050659518_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/SMB_3D",
+    "SGDQ2026": {
+      "Any% (Meat Boy 64)": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Hollow Knight: Silksong": {
+    "tw": "空洞騎士：絲綢之歌",
+    "jp": null,
+    "en": "Hollow Knight: Silksong",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/511391_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/silksong",
+    "SGDQ2026": {
+      "Awoo% (All Fleas)": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Monster Hunter Wilds": {
+    "tw": "魔物獵人 荒野",
+    "jp": "モンスターハンターワイルズ",
+    "en": "Monster Hunter Wilds",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1286077738_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/mhwilds",
+    "SGDQ2026": {
+      "Pick My Weapon — Storyless Any%": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "DUSK": {
+    "tw": null,
+    "jp": null,
+    "en": "DUSK",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/493813_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/dusk",
+    "SGDQ2026": {
+      "Any% (Inbounds)": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "PRAGMATA": {
+    "tw": "人機迷網",
+    "jp": "プラグマタ",
+    "en": "PRAGMATA",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/518018_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/PRAGMATA",
+    "SGDQ2026": {
+      "Any% (Casual)": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "The Evil Within 2": {
+    "tw": "邪靈入侵2",
+    "jp": null,
+    "en": "The Evil Within 2",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/497437_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/the_evil_within_2",
+    "SGDQ2026": {
+      "Any% (NG+, No Intro)": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Mary Shelley's Frankenstein": {
+    "tw": "瑪麗雪萊之科學怪人",
+    "jp": null,
+    "en": "Mary Shelley's Frankenstein",
+    "boxart": "https://www.speedrun.com/static/game/3dxkmkg1/cover.jpg",
+    "leaderboard": "https://www.speedrun.com/mary_shelleys_frankenstein",
+    "SGDQ2026": {
+      "Any%": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Kuon": {
+    "tw": "九怨",
+    "jp": null,
+    "en": "Kuon",
+    "boxart": "https://upload.wikimedia.org/wikipedia/zh/thumb/4/47/Kuon_Cover.jpg/250px-Kuon_Cover.jpg",
+    "leaderboard": "https://www.speedrun.com/kuon",
+    "SGDQ2026": {
+      "Yin Phase": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
 
 
 
