@@ -182,10 +182,10 @@
   },
 
 
-  "Donkey Kong Country 2: Diddy's Kong Quest": {
+  "Donkey Kong Country 2: Diddy's Kong-Quest": {
     "tw": "超級大金剛2 迪科斯與迪迪",
     "jp": "スーパードンキーコング2 ディクシー＆ディディー",
-    "en": "Donkey Kong Country 2: Diddy's Kong Quest",
+    "en": "Donkey Kong Country 2: Diddy's Kong-Quest",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/15483_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/dkc2",
     "SGDQ2026": {
@@ -450,10 +450,10 @@
       ]
     }
   },
-  "Don’t Stop, Girlypop": {
+  "Don’t Stop, Girlypop!": {
     "tw": "暴走甜心！",
     "jp": null,
-    "en": "Don’t Stop, Girlypop",
+    "en": "Don’t Stop, Girlypop!",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/295305996_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/Dont_Stop_Girlypop",
     "SGDQ2026": {
@@ -539,10 +539,10 @@
       ]
     }
   },
-  "BONUS GAME 1 - Hey You Pikachu!": {
+  "BONUS GAME 1 - Hey You, Pikachu!": {
     "tw": "皮卡丘啾有精神",
     "jp": "ピカチュウげんきでちゅう",
-    "en": "Hey You Pikachu!",
+    "en": "Hey You, Pikachu!",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/15695_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/hey_you_pikachu",
     "SGDQ2026": {
@@ -623,10 +623,10 @@
       ]
     }
   },
-  "Ogre Battle: March of the Black Queen": {
+  "Ogre Battle: The March of the Black Queen": {
     "tw": "傳說的奧迦戰爭 (皇家騎士團)",
     "jp": "伝説のオウガバトル",
-    "en": "Ogre Battle: March of the Black Queen",
+    "en": "Ogre Battle: The March of the Black Queen",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/2260_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/obmotbq",
     "SGDQ2026": {
@@ -637,10 +637,10 @@
       ]
     }
   },
-  "Magical Quest 3: Starring Mickey and Donald": {
+  "Disney's Magical Quest 3 starring Mickey and Donald": {
     "tw": "米老鼠與唐老鴨魔幻冒險3",
     "jp": "ミッキーとドナルド マジカルアドベンチャー3",
-    "en": "Magical Quest 3: Starring Mickey and Donald",
+    "en": "Disney's Magical Quest 3 starring Mickey and Donald",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/446313975_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/magical_quest_3_starring_mickey_and_donald",
     "SGDQ2026": {
@@ -707,7 +707,7 @@
       ]
     }
   },
-  "Isopod": {
+  "Isopod: A Webbed Spin-off": {
     "tw": "等足目：Webbed 外傳",
     "jp": null,
     "en": "Isopod: A Webbed Spin-off",
@@ -793,10 +793,10 @@
       ]
     }
   },
-  "Star Wars Jedi Fallen Order": {
+  "STAR WARS Jedi: Fallen Order": {
     "tw": "星際大戰 絕地：組織殞落",
     "jp": null,
-    "en": "Star Wars Jedi Fallen Order",
+    "en": "STAR WARS Jedi: Fallen Order",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/503446_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/jfo",
     "SGDQ2026": {
@@ -1427,10 +1427,10 @@
       ]
     }
   },
-  "Zelda: Wand of Gamelon": {
+  "Zelda: The Wand of Gamelon": {
     "tw": "薩爾達：伽美隆之杖 (CD-i 第二部)",
     "jp": null,
-    "en": "Zelda: Wand of Gamelon",
+    "en": "Zelda: The Wand of Gamelon",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/16246_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/wandofgamelon",
     "SGDQ2026": {
@@ -1849,10 +1849,10 @@
       ]
     }
   },
-  "Fubuki ~zero in on Holoearth": {
+  "Fubuki: Zero in on Holoearth": {
     "tw": "白上吹雪～在 Holoearth 集中砲火～",
     "jp": null,
-    "en": "FUBUKI ～zero in on Holoearth～ HOLOLIVE ALTERNATIVE",
+    "en": "Fubuki: Zero in on Holoearth",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/812858681_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/FUBUKI_zero_in_on_Holoearth_HOLOLIVE_ALTERNATIVE",
     "SGDQ2026": {
@@ -2019,10 +2019,10 @@
   },
 
 
-  "Mouse P.I. For Hire": {
+  "MOUSE: P.I. For Hire": {
     "tw": "鼠探：私家偵探",
     "jp": null,
-    "en": "Mouse P.I. For Hire",
+    "en": "MOUSE: P.I. For Hire",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/2080936601_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/Mouse_PI_For_Hire",
     "SGDQ2026": {
@@ -2047,10 +2047,10 @@
       ]
     }
   },
-  "Kingdom Hearts 2: Final Mix": {
+  "Kingdom Hearts II: Final Mix": {
     "tw": "王國之心II Final Mix",
     "jp": "キングダム ハーツII ファイナル ミックス",
-    "en": "Kingdom Hearts 2: Final Mix",
+    "en": "Kingdom Hearts II: Final Mix",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/116910466_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/kh2fm",
     "SGDQ2026": {
