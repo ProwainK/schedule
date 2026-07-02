@@ -66,10 +66,10 @@
       ]
     }
   },
-  "The Rundown (Monday)": {
+  "The Rundown — Monday": {
     "tw": "每日簡報",
     "jp": null,
-    "en": "The Rundown (Monday)",
+    "en": "The Rundown — Monday",
     "boxart": "https://gdq-assets.gamesdonequick.com/assets/logos/rundown-transparent.webp",
     "SGDQ2026": {
       "Monday": [
@@ -79,10 +79,10 @@
       ]
     }
   },
-  "The Rundown (Tuesday)": {
+  "The Rundown — Tuesday": {
     "tw": "每日簡報",
     "jp": null,
-    "en": "The Rundown (Tuesday)",
+    "en": "The Rundown — Tuesday",
     "boxart": "https://gdq-assets.gamesdonequick.com/assets/logos/rundown-transparent.webp",
     "SGDQ2026": {
       "Tuesday": [
@@ -92,10 +92,10 @@
       ]
     }
   },
-  "The Rundown (Wednesday)": {
+  "The Rundown — Wednesday": {
     "tw": "每日簡報",
     "jp": null,
-    "en": "The Rundown (Wednesday)",
+    "en": "The Rundown — Wednesday",
     "boxart": "https://gdq-assets.gamesdonequick.com/assets/logos/rundown-transparent.webp",
     "SGDQ2026": {
       "Wednesday": [
@@ -105,10 +105,10 @@
       ]
     }
   },
-  "The Silly Rundown (Thursday)": {
+  "The Silly Rundown — Thursday": {
     "tw": "傻瓜簡報",
     "jp": null,
-    "en": "The Silly Rundown (Thursday)",
+    "en": "The Silly Rundown — Thursday",
     "boxart": "https://gdq-assets.gamesdonequick.com/assets/logos/rundown-transparent.webp",
     "SGDQ2026": {
       "Thursday": [
@@ -118,10 +118,10 @@
       ]
     }
   },
-  "The Rundown (Friday)": {
+  "The Rundown — Friday": {
     "tw": "每日簡報",
     "jp": null,
-    "en": "The Rundown (Friday)",
+    "en": "The Rundown — Friday",
     "boxart": "https://gdq-assets.gamesdonequick.com/assets/logos/rundown-transparent.webp",
     "SGDQ2026": {
       "Friday": [
@@ -131,10 +131,10 @@
       ]
     }
   },
-  "The Rundown (Saturday)": {
+  "The Rundown — Saturday": {
     "tw": "每日簡報",
     "jp": null,
-    "en": "The Rundown (Saturday)",
+    "en": "The Rundown — Saturday",
     "boxart": "https://gdq-assets.gamesdonequick.com/assets/logos/rundown-transparent.webp",
     "SGDQ2026": {
       "Saturday": [
@@ -539,7 +539,7 @@
       ]
     }
   },
-  "BONUS GAME 1 - Hey You, Pikachu!": {
+  "BONUS GAME — Hey You, Pikachu!": {
     "tw": "皮卡丘啾有精神",
     "jp": "ピカチュウげんきでちゅう",
     "en": "Hey You, Pikachu!",
@@ -609,7 +609,7 @@
       ]
     }
   },
-  "Star Wars: Jedi Knight - Dark Forces II": {
+  "Star Wars: Jedi Knight — Dark Forces II": {
     "tw": "星際大戰 絕地武士：黑暗力量II",
     "jp": null,
     "en": "Star Wars: Jedi Knight - Dark Forces II",
@@ -1089,7 +1089,7 @@
       ]
     }
   },
-  "BONUS GAME 2 - Wii Sports": {
+  "BONUS GAME 2 — Wii Sports": {
     "tw": "Wii 運動",
     "jp": null,
     "en": "Wii Sports",
@@ -1099,6 +1099,20 @@
       "GDQ Sports": [
         null,
         "加碼遊戲 BONUS GAME 2",
+        null
+      ]
+    }
+  },
+  "EarthBound Beginnings": {
+    "tw": "地球冒險",
+    "jp": null,
+    "en": "MOTHER (EarthBound Beginnings)",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/793447520_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/mother1",
+    "SGDQ2026": {
+      "Any%": [
+        null,
+        null,
         null
       ]
     }
@@ -1139,6 +1153,20 @@
     "leaderboard": "https://www.speedrun.com/ylil",
     "SGDQ2026": {
       "Any%": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Sheepy: A Short Adventure": {
+    "tw": null,
+    "jp": null,
+    "en": "Sheepy: A Short Adventure",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/726310368_IGDB.jpg",
+    "leaderboard": "https://www.speedrun.com/sheepy_a_short_adventure",
+    "SGDQ2026": {
+      "Glitchless%": [
         null,
         null,
         null
@@ -1779,7 +1807,7 @@
       ]
     }
   },
-  "BONUS GAME 3 - Resident Evil 3: Nemesis": {
+  "BONUS GAME 3 — Resident Evil 3: Nemesis": {
     "tw": "惡靈古堡3 (1999)",
     "jp": "バイオハザード3 LAST ESCAPE",
     "en": "Resident Evil 3: Nemesis",
@@ -2089,7 +2117,7 @@
       ]
     }
   },
-  "BONUS GAME 4 - Super Dram World 3": {
+  "BONUS GAME 4 — Super Dram World 3": {
     "tw": null,
     "jp": null,
     "en": "Super Dram World 3",
