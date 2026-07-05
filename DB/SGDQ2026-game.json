@@ -595,7 +595,7 @@
       ]
     }
   },
-  "System Shock 2 (1999)": {
+  "System Shock 2": {
     "tw": "網絡奇兵2",
     "jp": null,
     "en": "System Shock 2 (1999)",
@@ -609,10 +609,10 @@
       ]
     }
   },
-  "Star Wars: Jedi Knight — Dark Forces II": {
+  "Star Wars Jedi Knight: Dark Forces II": {
     "tw": "星際大戰 絕地武士：黑暗力量II",
     "jp": null,
-    "en": "Star Wars: Jedi Knight - Dark Forces II",
+    "en": "Star Wars Jedi Knight: Dark Forces II",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/6795_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/jkdf2",
     "SGDQ2026": {
@@ -637,10 +637,10 @@
       ]
     }
   },
-  "Disney's Magical Quest 3 starring Mickey and Donald": {
+  "Disney's Magical Quest 3 starring Mickey & Donald": {
     "tw": "米老鼠與唐老鴨魔幻冒險3",
     "jp": "ミッキーとドナルド マジカルアドベンチャー3",
-    "en": "Disney's Magical Quest 3 starring Mickey and Donald",
+    "en": "Disney's Magical Quest 3 starring Mickey & Donald",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/446313975_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/magical_quest_3_starring_mickey_and_donald",
     "SGDQ2026": {
@@ -793,10 +793,10 @@
       ]
     }
   },
-  "STAR WARS Jedi: Fallen Order": {
+  "Star Wars Jedi: Fallen Order": {
     "tw": "星際大戰 絕地：組織殞落",
     "jp": null,
-    "en": "STAR WARS Jedi: Fallen Order",
+    "en": "Star Wars Jedi: Fallen Order",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/503446_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/jfo",
     "SGDQ2026": {
@@ -1243,7 +1243,7 @@
       ]
     }
   },
-  "Snoopy (C64)": {
+  "Snoopy": {
     "tw": "史努比",
     "jp": null,
     "en": "Snoopy (C64)",
@@ -1737,14 +1737,14 @@
       ]
     }
   },
-  "Slay the Spire 2": {
+  "Slay the Spire II": {
     "tw": "殺戮尖塔2",
     "jp": null,
-    "en": "Slay the Spire 2",
+    "en": "Slay the Spire II",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1435206302_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/Slay_the_Spire_2",
     "SGDQ2026": {
-      "Skeleton War (4 Player, Glitchless, Unseeded)": [
+      "Skeleton War (Glitchless, Unseeded)": [
         null,
         null,
         null
@@ -1835,7 +1835,7 @@
       ]
     }
   },
-  "Ghosts 'n Goblins (Arcade) (JP)": {
+  "Ghosts 'n Goblins": {
     "tw": "魔界村",
     "jp": null,
     "en": "Ghosts 'n Goblins",
@@ -1843,7 +1843,7 @@
     "leaderboard": "https://www.speedrun.com/ghosts_n_goblins",
     "SGDQ2026": {
       "1CC": [
-        "日版一幣通關",
+        "日版一幣通關，使用街機移植 PS3 版",
         null,
         null
       ]
