@@ -11,7 +11,7 @@
       "Pre-Show": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=OyinOZGPLtY"
       ]
     }
   },
@@ -192,7 +192,7 @@
       "102%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=YeR1Laks_Y4"
       ]
     }
   },
@@ -206,7 +206,7 @@
       "All Sigils": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=zNRD4q91Udc"
       ]
     }
   },
@@ -220,7 +220,7 @@
       "Blue Lions — NG+ (Azure Moon)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=eaSrhSRfVPQ"
       ]
     }
   },
@@ -234,7 +234,7 @@
       "All Story Levels (100%)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=JKQoepm1cmI"
       ]
     }
   },
@@ -248,7 +248,7 @@
       "NG (Human)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=zC4l_Wp4weI"
       ]
     }
   },
@@ -262,7 +262,7 @@
       "Any% (Luck Mode)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=QBGBBRH2_ZY"
       ]
     }
   },
@@ -276,7 +276,7 @@
       "Air Ride — All Tracks": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=oAFHR5Yjpbc"
       ]
     }
   },
@@ -290,7 +290,7 @@
       "Story Mode": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=n4go0Bi4LFo"
       ]
     }
   },
@@ -304,7 +304,7 @@
       "Spyro 3 Race": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=Pj87jNaBfOo"
       ]
     }
   },
@@ -318,7 +318,7 @@
       "Any% NG+ (Bitter)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=au1S7EOHuCs"
       ]
     }
   },
@@ -332,7 +332,7 @@
       "Any% (Glitchless)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=QjzmXpw7D90"
       ]
     }
   },
@@ -346,7 +346,7 @@
       "Any%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=ZbSyN8fxkyM"
       ]
     }
   },
@@ -360,7 +360,7 @@
       "Copper Pass Race": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=XgOztm17qiQ"
       ]
     }
   },
@@ -374,7 +374,7 @@
       "True Ending (Restricted)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=MfcLBHsUQLo"
       ]
     }
   },
@@ -385,10 +385,10 @@
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/79499989_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/Absolum",
     "SGDQ2026": {
-      "One Clear Warpless Co-Op": [
+      "Co-Op (Warpless)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=z2-diB5KvWw"
       ]
     }
   },
@@ -402,7 +402,7 @@
       "Any% (NMG)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=DeJLAkwz0dE"
       ]
     }
   },
@@ -416,7 +416,7 @@
       "Sword of Light%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=uu1RIqOqJT4"
       ]
     }
   },
@@ -430,7 +430,7 @@
       "Any%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=BuBOWo2rkRM"
       ]
     }
   },
@@ -443,10 +443,10 @@
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/17222_IGDB.jpg",
     "leaderboard": null,
     "SGDQ2026": {
-      "All Races (No Wormholes)": [
+      "All Races (No Major Glitches)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=sEo5kqjnh8o"
       ]
     }
   },
@@ -460,7 +460,7 @@
       "Any% (Inbounds)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=RtN3-WWtDeA"
       ]
     }
   },
@@ -474,7 +474,7 @@
       "All Stunt Goals": [
         null,
         "GC《超級猴子球2》改造版",
-        null
+        "https://www.youtube.com/watch?v=nSHX9l7UAOY"
       ]
     }
   },
@@ -485,15 +485,15 @@
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/498215_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/UFO_50",
     "SGDQ2026": {
-      "Rail Heist - Gold": [
+      "Rail Heist — Gold": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=S_wcLslgPK8"
       ],
-      "Vainger - Cherry": [
+      "Vainger — Cherry": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=Y548Ker1cmE"
       ]
     }
   },
@@ -507,7 +507,7 @@
       "100%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=jY-sZ4gkZ5c"
       ]
     }
   },
@@ -521,7 +521,7 @@
       "100% (NMG)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=kkDskxbTz3M"
       ]
     }
   },
@@ -535,7 +535,7 @@
       "All Story Moons": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=E-hAWQGRtik"
       ]
     }
   },
@@ -549,7 +549,7 @@
       "Discovery Days Race": [
         null,
         "加碼遊戲 BONUS GAME 1",
-        null
+        "https://www.youtube.com/watch?v=C2kAqCWJm8E"
       ]
     }
   },
@@ -563,7 +563,7 @@
       "All Gold Bolts": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=e9_BcwI4PSk"
       ]
     }
   },
@@ -577,7 +577,7 @@
       "No LTS": [
         null,
         "PS2《傑克與達斯特》粉絲移植 PC 版 + MOD 改造",
-        null
+        "https://www.youtube.com/watch?v=1-vD-V0T1JU"
       ]
     }
   },
@@ -591,7 +591,7 @@
       "Any% (HRH Mod)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=Uhx0RHrrMx0"
       ]
     }
   },
@@ -605,7 +605,7 @@
       "Any%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=EVGrgqdv2eI"
       ]
     }
   },
@@ -619,7 +619,7 @@
       "Any%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=Xdt_gFcKfP4"
       ]
     }
   },
@@ -633,7 +633,7 @@
       "Any%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=iDz9IyXkX4k"
       ]
     }
   },
@@ -647,7 +647,7 @@
       "Any% (Mickey)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=cHR0dG4ZpKU"
       ]
     }
   },
@@ -661,7 +661,7 @@
       "Normal": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=8I18R8EyQgI"
       ]
     }
   },
@@ -675,7 +675,7 @@
       "Hardest%": [
         null,
         "MD《怒之鐵拳II》粉絲移植 PC 版",
-        null
+        "https://www.youtube.com/watch?v=i2483KQMqvA"
       ]
     }
   },
@@ -689,7 +689,7 @@
       "Any%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=kiG26UOUJGM"
       ]
     }
   },
@@ -703,7 +703,7 @@
       "Any%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=W5rs1REpvkM"
       ]
     }
   },
@@ -731,7 +731,7 @@
       "Any% (All Worlds)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=JQ5i1CL0l10"
       ]
     }
   },
@@ -745,7 +745,7 @@
       "Any%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=--qQwD0Y3g0"
       ]
     }
   },
@@ -759,7 +759,7 @@
       "Any% (Normal Courses)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=vPYjwYNFEms"
       ]
     }
   },
@@ -775,7 +775,7 @@
       "Mines vs. Crafts Room Race": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=aVPM6GsbjVY"
       ]
     }
   },
@@ -789,7 +789,7 @@
       "Beat The Game — Glitched (Sonic)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=_hK-a-OsWeE"
       ]
     }
   },
@@ -803,7 +803,7 @@
       "Any% (Unrestricted)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=-8n_s8vzV0g"
       ]
     }
   },
@@ -817,12 +817,12 @@
       "Any%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=ZKJF94cK7Fg"
       ]
     }
   },
   "Super Meat Boy 3D": {
-    "tw": "超級肉肉哥 3D",
+    "tw": "超級肉肉男孩 3D",
     "jp": null,
     "en": "Super Meat Boy 3D",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1050659518_IGDB.jpg",
@@ -831,7 +831,7 @@
       "Any% (Meat Boy 64)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=Mk-tJKqjBok"
       ]
     }
   },
@@ -845,7 +845,7 @@
       "Awoo% (All Fleas)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=jUf7ZLCpong"
       ]
     }
   },
@@ -859,7 +859,7 @@
       "Pick My Weapon — Storyless Any%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=2YbVfA5UjOE"
       ]
     }
   },
@@ -873,7 +873,7 @@
       "Any% (Inbounds)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=8gCIZl0Cei8"
       ]
     }
   },
@@ -887,7 +887,7 @@
       "Any% (Casual)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=VttCZp1eOLQ"
       ]
     }
   },
@@ -901,7 +901,7 @@
       "Any% (NG+, No Intro)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=5T0dJiceyhE"
       ]
     }
   },
@@ -915,7 +915,7 @@
       "Any%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=QV37wjrS3QM"
       ]
     }
   },
@@ -929,7 +929,7 @@
       "Yin Phase": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=HlemOdhTaV8"
       ]
     }
   },
@@ -943,7 +943,7 @@
       "Any%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=UaHv36S-6zM"
       ]
     }
   },
@@ -957,7 +957,7 @@
       "Story — Single Character (Hard)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=1N9vdhTkE6o"
       ]
     }
   },
@@ -971,7 +971,7 @@
       "All Artifacts (Speedrun Mod)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=rCTIXMzBrY8"
       ]
     }
   },
@@ -985,7 +985,7 @@
       "Any%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=mVY3eCOQVvk"
       ]
     }
   },
@@ -999,7 +999,7 @@
       "Speedrun Mode": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=5j7WM_9SJQw"
       ]
     }
   },
@@ -1013,7 +1013,7 @@
       "Peak% (NMG, Solo)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=Uom1Sr_yjLw"
       ]
     }
   },
@@ -1027,7 +1027,7 @@
       "Warpless": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=Cb0YUb4wa8w"
       ]
     }
   },
@@ -1043,7 +1043,7 @@
       "Any%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=Yx8vq2lLXLg"
       ]
     }
   },
@@ -1057,7 +1057,7 @@
       "Autobot vs. Decepticon Campaign": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=OEEXJk-oBoA"
       ]
     }
   },
@@ -1071,7 +1071,7 @@
       "Elite Four Round 2": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=m-U9KVXeyDM"
       ]
     }
   },
@@ -1082,10 +1082,24 @@
     "boxart": "https://i.ytimg.com/vi/mYv_ZqvtcDI/maxresdefault.jpg",
     "leaderboard": null,
     "SGDQ2026": {
-      "First Playthrough — All Exits Race": [
+      "1st Playthrough — All Exits": [
         null,
         "SFC《超級瑪利歐世界》Kaizo 改造版",
-        null
+        "https://www.youtube.com/watch?v=2VzC9SexNzo"
+      ]
+    }
+  },
+  "Quickie World": {
+    "tw": null,
+    "jp": null,
+    "en": "Quickie World",
+    "boxart": "https://www.speedrun.com/static/game/k6q49vod/cover.png",
+    "leaderboard": "https://www.speedrun.com/quickie_world",
+    "SGDQ2026": {
+      "Encore Race": [
+        null,
+        "SFC《超級瑪利歐世界》Kaizo 改造版",
+        "https://www.youtube.com/watch?v=ldRQ5iv-yz4"
       ]
     }
   },
@@ -1099,7 +1113,7 @@
       "GDQ Sports": [
         null,
         "加碼遊戲 BONUS GAME 2",
-        null
+        "https://www.youtube.com/watch?v=KYh-jQgxOaY"
       ]
     }
   },
@@ -1113,7 +1127,7 @@
       "Any%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=3zmmG0FIDN4"
       ]
     }
   },
@@ -1127,7 +1141,7 @@
       "Any% (No OoB)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=Ux75QLnoMhw"
       ]
     }
   },
@@ -1141,7 +1155,7 @@
       "Any% (No Bitclips)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=64yj6yukXWc"
       ]
     }
   },
@@ -1169,7 +1183,7 @@
       "Glitchless%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=m_1WHN9x0u8"
       ]
     }
   },
@@ -1183,7 +1197,7 @@
       "Good Ending": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=CePiIKa7V4Q"
       ]
     }
   },
@@ -1197,7 +1211,7 @@
       "Any%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=4dr1C-Vyn6I"
       ]
     }
   },
@@ -1211,7 +1225,7 @@
       "All Bosses": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=JsiWcRDhD84"
       ]
     }
   },
@@ -1225,7 +1239,7 @@
       "Any%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=wmVa5H0D1uE"
       ]
     }
   },
@@ -1253,7 +1267,7 @@
       "9 Loops": [
         null,
         "Silly Game 傻瓜遊戲專區～開始！",
-        null
+        "https://www.youtube.com/watch?v=HaNZEnloy_U"
       ]
     }
   },
@@ -1267,7 +1281,7 @@
       "Cutscene%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=VMrgz9Pfl1I"
       ]
     }
   },
@@ -1281,7 +1295,7 @@
       "Low%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=RawxnJ-hSfU"
       ]
     }
   },
@@ -1295,7 +1309,7 @@
       "Any%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=4WS4eUIko-Q"
       ]
     }
   },
@@ -1309,7 +1323,7 @@
       "All Main Tasks": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=rlR7fLqV70Q"
       ]
     }
   },
@@ -1323,7 +1337,7 @@
       "All Minigames": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=lZBrqh7x-OQ"
       ]
     }
   },
@@ -1337,7 +1351,7 @@
       "Any%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=jD5MaMUaCaU"
       ]
     }
   },
@@ -1351,7 +1365,7 @@
       "Slime Time! — Any%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=kVPxRH85m8Y"
       ]
     }
   },
@@ -1365,7 +1379,7 @@
       "Any%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=bxFjU2aRSxM"
       ]
     }
   },
@@ -1376,10 +1390,10 @@
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/16572_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/cyberia1",
     "SGDQ2026": {
-      "All Unique Deaths (No Turret, No TF22)": [
+      "All Unique Deaths (No TF-22)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=NK9FhhUO9Z0"
       ]
     }
   },
@@ -1395,7 +1409,7 @@
       "Any%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=TdJlNnYtxio"
       ]
     }
   },
@@ -1409,7 +1423,7 @@
       "Any% Race": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=1W5MaSkqrrI"
       ]
     }
   },
@@ -1423,7 +1437,7 @@
       "Any%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=PUP5xasXEH4"
       ]
     }
   },
@@ -1437,7 +1451,7 @@
       "All Subjects": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=2-xlq4cF9J4"
       ]
     }
   },
@@ -1451,7 +1465,7 @@
       "Buster Only": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=W1-PxuybZaw"
       ]
     }
   },
@@ -1465,7 +1479,7 @@
       "Any%": [
         null,
         "Silly Game 傻瓜遊戲專區～結束！",
-        null
+        "https://www.youtube.com/watch?v=NDdufY2ttKs"
       ]
     }
   },
@@ -1479,7 +1493,7 @@
       "Any% (Glitchless)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=64kkmokdyKQ"
       ]
     }
   },
@@ -1507,7 +1521,7 @@
       "9 Reactors": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=4FHv0KH94ys"
       ]
     }
   },
@@ -1518,10 +1532,10 @@
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/933203405_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/sdt",
     "SGDQ2026": {
-      "Adventure — Any%": [
+      "Adventure — Any% Race": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=4b5JT33N8r8"
       ]
     }
   },
@@ -1532,7 +1546,7 @@
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/512953_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/eldenring",
     "SGDQ2026": {
-      "All Bosses (4 Players)": [
+      "All Bosses Co-op": [
         null,
         null,
         null
