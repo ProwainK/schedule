@@ -24,7 +24,7 @@
       "The End": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=YRzvcMrfah4"
       ]
     }
   },
@@ -717,7 +717,7 @@
       "Any% (NMG)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=vFM46OhiBX4"
       ]
     }
   },
@@ -1169,7 +1169,7 @@
       "Any%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=EMKfnVHUA6Q"
       ]
     }
   },
@@ -1253,7 +1253,7 @@
       "All Friends (NG+)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=i0KmQ4VM20M"
       ]
     }
   },
@@ -1507,7 +1507,7 @@
       "Arcade Mode — Showcase": [
         null,
         "節奏遊戲表演",
-        null
+        "https://www.youtube.com/watch?v=jAJBIZGXIKo"
       ]
     }
   },
@@ -1549,7 +1549,7 @@
       "All Bosses Co-op": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=S0kR-n2q6mg"
       ]
     }
   },
@@ -1563,7 +1563,7 @@
       "All Bosses (Unrestricted)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=y4xygz_zcU0"
       ]
     }
   },
@@ -1574,10 +1574,10 @@
     "boxart": "https://www.speedrun.com/static/game/m1zjprz6/cover.png",
     "leaderboard": "https://www.speedrun.com/puyo_puyo_2_sega_ages",
     "SGDQ2026": {
-      "Endurance Mode (Puyo Puyo 2)": [
+      "Puyo Puyo 2 — Endurance Mode": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=4Q68As2JOhY"
       ]
     }
   },
@@ -1591,7 +1591,7 @@
       "All Chapters": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=lJH6uIpg-V4"
       ]
     }
   },
@@ -1605,7 +1605,7 @@
       "Preacher/Mercenary (Co-op)": [
         null,
         "原版 Amiga 平台移植上 PC",
-        null
+        "https://www.youtube.com/watch?v=c7lzomYKtZY"
       ]
     }
   },
@@ -1616,10 +1616,10 @@
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1207546328_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/Abyssus_",
     "SGDQ2026": {
-      "All Bosses": [
+      "True Ending": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=e5MyqrNKYBA"
       ]
     }
   },
@@ -1633,7 +1633,7 @@
       "Any% (1P1C)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=vIaPTIghV-Q"
       ]
     }
   },
@@ -1647,7 +1647,7 @@
       "Any%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=XRVzt9AqFCg"
       ]
     }
   },
@@ -1661,7 +1661,7 @@
       "Epic Battle Fantasy 1&2 Biathalon": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=ROP0-Mae70A"
       ]
     }
   },
@@ -1672,10 +1672,10 @@
     "boxart": "https://www.speedrun.com/static/game/369w5r8d/cover.jpg",
     "leaderboard": "https://www.speedrun.com/Sworn",
     "SGDQ2026": {
-      "Any%": [
+      "Any% (Sovereign)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=qTTJXSH2SbQ"
       ]
     }
   },
@@ -1689,7 +1689,7 @@
       "Any% Race": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=ck7zzg99f3w"
       ]
     }
   },
@@ -1703,21 +1703,7 @@
       "Rick%": [
         null,
         null,
-        null
-      ]
-    }
-  },
-  "StarCraft": {
-    "tw": "星海爭霸",
-    "jp": null,
-    "en": "StarCraft",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/11989_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/sc1",
-    "SGDQ2026": {
-      "Terran Campaign": [
-        null,
-        null,
-        null
+        "https://www.youtube.com/watch?v=35Vwil7Rwvs"
       ]
     }
   },
@@ -1731,7 +1717,7 @@
       "Randomizer — Co-op": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=zA6-lU6P_nc"
       ]
     }
   },
@@ -1747,7 +1733,7 @@
       "NG+ (All Bosses)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=MevXnOqHPqI"
       ]
     }
   },
@@ -1758,10 +1744,10 @@
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1435206302_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/Slay_the_Spire_2",
     "SGDQ2026": {
-      "Skeleton War (Glitchless, Unseeded)": [
+      "Skeleton War (Ascension 10, Glitchless, Unseeded)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=5WgKJpKFk9A"
       ]
     }
   },
@@ -1775,7 +1761,7 @@
       "naneinf": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=A7Go7IXlYLg"
       ]
     }
   },
@@ -1786,10 +1772,10 @@
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1835475218_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/tetrisnes",
     "SGDQ2026": {
-      "Tetris (NES) Tournament Finals Match": [
+      "Tournament Finals": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=Iuq2uZ5sr5s"
       ]
     }
   },
@@ -1800,10 +1786,10 @@
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/511399_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/smm2",
     "SGDQ2026": {
-      "Troll Race": [
+      "Troll Showcase": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=hkIwSRSIRGU"
       ]
     }
   },
@@ -1817,7 +1803,7 @@
       "New Game (Casual, No Intro)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=3KaxHiGka5s"
       ]
     }
   },
@@ -1831,7 +1817,7 @@
       "Crkd Guitar Controller — Nemesis% (Heavy, REbirth)": [
         "追跡者全擊殺 ft. CRKD 吉他控制器",
         "加碼遊戲 BONUS GAME 3",
-        null
+        "https://www.youtube.com/watch?v=i4Zk2lA3KLE"
       ]
     }
   },
@@ -1845,7 +1831,7 @@
       "Any% HSG": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=J5UzGqxzFpI"
       ]
     }
   },
@@ -1856,10 +1842,10 @@
     "boxart": "https://www.speedrun.com/static/game/nd2eo5d0/cover.png",
     "leaderboard": "https://www.speedrun.com/ghosts_n_goblins",
     "SGDQ2026": {
-      "1CC": [
+      "1CC (Arcade, JP)": [
         "日版一幣通關，使用街機移植 PS3 版",
         null,
-        null
+        "https://www.youtube.com/watch?v=Hp2Xj442H2Q"
       ]
     }
   },
@@ -1873,7 +1859,7 @@
       "Good Ending": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=hWmSJ2f6eAw"
       ]
     }
   },
@@ -1887,7 +1873,7 @@
       "Any%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=79SlVAkUhKI"
       ]
     }
   },
@@ -1901,7 +1887,7 @@
       "Any%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=nXYdlltBf-8"
       ]
     }
   },
@@ -1915,7 +1901,7 @@
       "Any% (Inbounds)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=4Z0cpb9btfQ"
       ]
     }
   },
@@ -1929,7 +1915,7 @@
       "Random Seed": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=bYbg9cTjn2c"
       ]
     }
   },
@@ -1943,7 +1929,7 @@
       "Any% (Copen)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=ncp3PNeJU8Q"
       ]
     }
   },
@@ -1957,7 +1943,7 @@
       "Single Suits": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=RhfJctD-3pw"
       ]
     }
   },
@@ -1971,7 +1957,7 @@
       "Any%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=gYBhZdRmHos"
       ]
     }
   },
@@ -1985,7 +1971,7 @@
       "Any%": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=IrC_z0EDcB0"
       ]
     }
   },
@@ -1999,7 +1985,7 @@
       "OHKO": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=7iWN8-v-QkI"
       ]
     }
   },
@@ -2013,7 +1999,7 @@
       "Any% Race (Vers. 1.1)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=1yv-1nzLj2Y"
       ]
     }
   },
@@ -2027,7 +2013,7 @@
       "All Bosses": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=HE-btHcPuPA"
       ]
     }
   },
@@ -2041,7 +2027,7 @@
       "All Scams": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=lMt97L9UhDc"
       ]
     }
   },
@@ -2055,7 +2041,7 @@
       "Any% (Swap Mode 2P, NMG)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=pW6Hbxjipf0"
       ]
     }
   },
@@ -2071,7 +2057,7 @@
       "Any% (No 20FPS)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=gNZ1VS96GJk"
       ]
     }
   },
@@ -2085,7 +2071,7 @@
       "Any% (Mod)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=godaRW20tu8"
       ]
     }
   },
@@ -2099,7 +2085,21 @@
       "Randomizer — Hitlist Co-op": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=ttJw9Wm1Bvg"
+      ]
+    }
+  },
+  "Rift of the NecroDancer": {
+    "tw": "節奏裂隙",
+    "jp": null,
+    "en": "Rift of the NecroDancer",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/28200239_IGDB.jpg",
+    "leaderboard": null,
+    "SGDQ2026": {
+      "Impossible Showcase": [
+        null,
+        null,
+        "https://www.youtube.com/watch?v=wDglIkrmnTQ"
       ]
     }
   },
@@ -2113,7 +2113,7 @@
       "120 Star TAS": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=9JhYbnx_h0w"
       ]
     }
   },
@@ -2127,7 +2127,7 @@
       "All Dungeons (Restricted Major Glitches)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=q4vXYQeWD_Y"
       ]
     }
   },
@@ -2141,7 +2141,7 @@
       "Any%": [
         null,
         "加碼遊戲 BONUS GAME 4",
-        null
+        "https://www.youtube.com/watch?v=Y1jwZekUBjo"
       ]
     }
   },
@@ -2151,27 +2151,11 @@
     "en": "Clair Obscur: Expedition 33",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/36799602_IGDB.jpg",
     "leaderboard": "https://www.speedrun.com/coe33",
-    "AGDQ2026": {
-      "Any% Restricted": [
-        null,
-        null,
-        null
-      ]
-    }
-  },
-
-
-  "AI Limit": {
-    "tw": "無限機兵",
-    "jp": null,
-    "en": "AI Limit",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/511668_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/AI_LIMIT",
     "SGDQ2026": {
-      "Any% Unrestricted": [
+      "Any% (Restricted)": [
         null,
         null,
-        null
+        "https://www.youtube.com/watch?v=E7Y0yy3UDUI"
       ]
     }
   },

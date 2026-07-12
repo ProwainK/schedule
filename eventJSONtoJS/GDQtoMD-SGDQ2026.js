@@ -2,7 +2,7 @@
 const fs = require('fs');
 // const renameDB = require('./renameDB.js');
 
-let event_url = 'https://gamesdonequick.com/api/schedule/62';
+let event_url = 'https://gamesdonequick.com/api/schedule/66';
 let event_data;
 let event_rawdata;
 let gamedb_rawdata;
@@ -22,7 +22,7 @@ function asioxGetJSON() {
     }).then((event_rawdata) => {
       // console.log(event_rawdata);
       event_data = event_rawdata;
-      gamedb_rawdata = fs.readFileSync('../DB/AGDQ2026-game.json');
+      gamedb_rawdata = fs.readFileSync('../DB/SGDQ2026-game.json');
       gamedb_data = JSON.parse(gamedb_rawdata);
       // Write Start
       writeStream = fs.createWriteStream("GDQtoMD-SGDQ2026.txt");
@@ -156,8 +156,8 @@ function myFunction(item, index) {
   // VOD 連結
   writeStream.write('| ');
   try {
-    if (gamedb_data[game_name]["AGDQ2026"][game_rule][2] != null) {
-      writeStream.write('[VOD](' + gamedb_data[game_name]["AGDQ2026"][game_rule][2] + ') ');
+    if (gamedb_data[game_name]["SGDQ2026"][game_rule][2] != null) {
+      writeStream.write('[VOD](' + gamedb_data[game_name]["SGDQ2026"][game_rule][2] + ') ');
     }
   } catch (error) {
     console.log(error);
@@ -212,17 +212,17 @@ function myFunction(item, index) {
 
 function eventInfo() {
   writeStream.write("---\r\n");
-  writeStream.write("title: Awesome Games Done Quick 2026 時程表翻譯 ლ(╹◡╹ლ)\r\n");
+  writeStream.write("title: Summer Games Done Quick 2026 時程表翻譯 ლ(╹◡╹ლ)\r\n");
   writeStream.write("description: GDQ HYPE!!\r\n");
   writeStream.write("---\r\n");
   writeStream.write("\r\n");
   writeStream.write("{%hackmd @ProwainK/Bk2lhGxVex %}\r\n");
   writeStream.write("\r\n");
-  writeStream.write("# Awesome Games Done Quick 2026 時程表翻譯 ლ(╹◡╹ლ)\r\n");
+  writeStream.write("# Summer Games Done Quick 2026 時程表翻譯 ლ(╹◡╹ლ)\r\n");
   writeStream.write("\r\n");
-  writeStream.write("## 台灣時間 2026 01/05 00:30 ~ 01/11 (UTC+08:00)\r\n");
+  writeStream.write("## 台灣時間 2026 07/06 00:30 ~ 07/12 (UTC+08:00)\r\n");
   writeStream.write("\r\n");
-  writeStream.write("![](https://pbs.twimg.com/media/G8A4smBXkAMICnr?format=jpg)\r\n");
+  writeStream.write("![](https://pbs.twimg.com/media/HK4hxeWbQAA5PUl?format=jpg)\r\n");
   writeStream.write("\r\n");
   writeStream.write("# 相關連結\r\n");
   writeStream.write("\r\n");
@@ -230,11 +230,12 @@ function eventInfo() {
   writeStream.write("日語轉播：https://www.twitch.tv/japanese_restream  \r\n");
   writeStream.write("活動資訊：https://gamesdonequick.com  \r\n");
   writeStream.write("跑者投稿：https://submissions.gamesdonequick.com/  \r\n");
-  writeStream.write("抖內項目：https://tracker.gamesdonequick.com/tracker/event/AGDQ2026  \r\n");
+  writeStream.write("抖內項目：https://tracker.gamesdonequick.com/tracker/event/sgdq2026  \r\n");
   writeStream.write("Yetee 週邊商品：https://theyetee.com  \r\n");
-  writeStream.write("Speedrun VOD Club：https://vods.speedrun.club/  \r\n");
+  writeStream.write("Speedrun VOD Club：https://vods.speedrun.club/event/gdq/sgdq2026  \r\n");
   writeStream.write("官方推特 (X)：https://x.com/GamesDoneQuick  \r\n");
-  writeStream.write("官方時程表：https://gamesdonequick.com/schedule/62  \r\n");
+  writeStream.write("官方時程表：https://gamesdonequick.com/schedule/66  \r\n");
+  writeStream.write("官方 VOD List：https://www.youtube.com/playlist?list=PLW3U8SGusXrs  \r\n");
   writeStream.write("\r\n");
 }
 
