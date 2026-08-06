@@ -144,7 +144,7 @@ const eventLocalSchedule = {
     "category": "1.1.0 All Anomalies(劇場版追加異変全確認)",
     "scheduled": "08/09 20:00",
     "estimate": "20 分鐘",
-    "console": "Unknown",
+    "console": "PC",
     "runner": "キルクロ・S・モルガ"
   },
 
@@ -157,7 +157,7 @@ const eventLocalSchedule = {
     "category": "1 Player",
     "scheduled": "08/09 20:34",
     "estimate": "20 分鐘",
-    "console": "Unknown",
+    "console": "PC (Emu)",
     "runner": "Udontgain"
   },
 
@@ -170,7 +170,7 @@ const eventLocalSchedule = {
     "category": "Any% RTA With Glitches",
     "scheduled": "08/09 21:08",
     "estimate": "1 小時 5 分鐘",
-    "console": "Unknown",
+    "console": "PC",
     "runner": "89mai_sakasa"
   },
 
@@ -183,7 +183,7 @@ const eventLocalSchedule = {
     "category": "Any% (Nomal)",
     "scheduled": "08/09 22:27",
     "estimate": "1 小時 15 分鐘",
-    "console": "Unknown",
+    "console": "PS2",
     "runner": "揺らぎ"
   },
 
@@ -196,7 +196,7 @@ const eventLocalSchedule = {
     "category": "Any%",
     "scheduled": "08/09 23:56",
     "estimate": "40 分鐘",
-    "console": "Unknown",
+    "console": "PC",
     "runner": "羽柴茶おきな"
   },
 
@@ -209,7 +209,7 @@ const eventLocalSchedule = {
     "category": "Any% Glitchless バッチリ固定",
     "scheduled": "08/10 00:50",
     "estimate": "6 小時",
-    "console": "Unknown",
+    "console": "PC",
     "runner": "夜凪"
   },
 
@@ -222,7 +222,7 @@ const eventLocalSchedule = {
     "category": "All Sources",
     "scheduled": "08/10 07:04",
     "estimate": "2 小時 20 分鐘",
-    "console": "Unknown",
+    "console": "PC",
     "runner": "れすと"
   },
 
@@ -235,7 +235,7 @@ const eventLocalSchedule = {
     "category": "Any%",
     "scheduled": "08/10 09:38",
     "estimate": "30 分鐘",
-    "console": "Unknown",
+    "console": "Xbox Series S",
     "runner": "Harutomo"
   },
 
@@ -248,7 +248,7 @@ const eventLocalSchedule = {
     "category": "Eternal Core (All PM)",
     "scheduled": "08/10 10:22",
     "estimate": "33 分鐘",
-    "console": "Unknown",
+    "console": "iOS",
     "runner": "洒堂 でぃおん"
   },
 
@@ -261,7 +261,7 @@ const eventLocalSchedule = {
     "category": "Any%",
     "scheduled": "08/10 11:09",
     "estimate": "28 分鐘",
-    "console": "Unknown",
+    "console": "PC",
     "runner": "＠らんたん"
   },
 
