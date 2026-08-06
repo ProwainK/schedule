@@ -4,6 +4,10 @@
 
 ## RTA in Japan
   
+RTAちゃんの夏休み (2026)  
+https://prowaink.github.io/schedule/rijchans2026  
+08/09 - 08/15 (UTC+8)  
+  
 RTA in Japan Winter 2025  
 https://prowaink.github.io/schedule/rijw2025  
 12/24 - 12/31 (UTC+8)  
