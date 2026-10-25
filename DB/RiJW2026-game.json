@@ -173,14 +173,14 @@
     }
   },
   "ソニックと秘密のリング": {
-    "tw": "音速小子與秘密之環",
+    "tw": "音速小子與秘密戒指",
     "jp": "ソニックと秘密のリング",
     "en": "Sonic and the Secret Rings",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/2312_IGDB.jpg",
     "leaderboard": null,
     "RiJW2026": {
       "Any% NG+ (No Tutorial Stages)": [
-        "任意要素通關（二週目 New Game+、不含教學關卡）",
+        "任意要素通關（New Game+、不含教學關卡）",
         null,
         null
       ]
