@@ -1,18 +1,27 @@
 {
-  "RTA in Japan Winter 2026": {"tw": null, "jp": null, "en": null},
-
-
+  "RTA in Japan Winter 2026": {
+    "tw": "RTA in Japan 冬季 2026",
+    "jp": "RTA in Japan Winter 2026",
+    "en": "RTA in Japan Winter 2026",
+    "event": {
+      "source": "https://rtain.jp/schedule/data/rtaijw2026.json",
+      "timezone": "Asia/Tokyo",
+      "startsAt": "2026-12-25T06:00:00.000Z",
+      "updatedAt": "2026-10-25T11:20:30.448Z",
+      "runCount": 90
+    }
+  },
   "ロックマンエグゼ4": {
     "tw": "洛克人 EXE 4",
     "jp": "ロックマンエグゼ4",
     "en": "Mega Man Battle Network 4",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1262582393_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/krtdldx",
+    "boxart": null,
+    "leaderboard": null,
     "RiJW2026": {
       "Any%": [
-        "魔法洛亞後記，跑完全關卡",
-        "活動第一棒擔當！任天堂作品重返 RiJ",
-        "https://www.youtube.com/watch?v=VpuNiG6HU2Q"
+        "Any%",
+        "賽事編號：run-001；平台：GBA；跑者：ｸﾘﾎﾞｰ；類型：單人; 預估遊玩時間：2 小時 5 分鐘。",
+        null
       ]
     }
   },
@@ -20,1289 +29,1246 @@
     "tw": "星之卡比 三重豪華版",
     "jp": "星のカービィ トリプルデラックス",
     "en": "Kirby: Triple Deluxe",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1774510513_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/pizza_tower",
+    "boxart": null,
+    "leaderboard": null,
     "RiJW2026": {
       "Any%": [
-        "使用角色「佩皮諾」完成 100% 全收集",
-        null,
-        "https://www.youtube.com/watch?v=oY7FLPYc2Lg"
+        "Any%",
+        "賽事編號：run-002；平台：3DS；跑者：おおいぬ；類型：單人; 預估遊玩時間：1 小時 55 分鐘。",
+        null
       ]
     }
   },
-  "GS美神 ～除霊師はナイスバディ～": {
-    "tw": "GS美神 ～Nice Body 除靈師～",
-    "jp": "GS美神 ～除霊師はナイスバディ～",
-    "en": "Ghost Sweeper Mikami: Joreishi wa Nice Body",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/30340_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/nice_body",
-    "RiJW2025": {
-      "Any%": [
-        "【競速 Race】Any%",
-        "漫畫《GS 美神 極樂大作戰！！》改編遊戲<br>性感美腿風格的電視 CM 真的沒問題 (?)",
-        "https://www.youtube.com/watch?v=djlT7722mco"
-      ]
-    }
-  },
-  "ゴミ箱 -GOMIBAKO-": {
-    "tw": "垃圾桶 -GOMIBAKO-",
-    "jp": "ゴミ箱 -GOMIBAKO-",
-    "en": "Trash Panic",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/21792_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/thpn",
-    "RiJW2025": {
-      "Hellish Shining Gold Can": [
-        "地獄級金色罐罐",
-        "PS3 時期的西瓜遊戲！？<br>挑戰最上級難度 x 最高評價",
-        "https://www.youtube.com/watch?v=36MI58EjdD8"
-      ]
-    }
-  },
-  "ポケモンでパネポン": {
-    "tw": "寶可夢拼圖挑戰",
-    "jp": "ポケモンでパネポン",
-    "en": "Pokémon Puzzle Challenge",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/8038_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/pokemon_puzzle_challenge",
-    "RiJW2025": {
-      "VS COM EASY - V-HARD(ばくはつせりあげOFF)": [
-        "擊敗全難度 CPU<br>消除期間也能進行堆疊的「爆發堆疊」功能 OFF",
-        "以 GB《ヨッシーのパネポン》(耀西的面板方塊) 為基礎製作<br>角色採用寶可夢金銀版，並且改善了操作性，作為掌機版表現相當不錯",
-        "https://www.youtube.com/watch?v=QUfLajTNvUU"
-      ]
-    }
-  },
-  "アケアカNEOGEO パズルボブル2": {
-    "tw": "ACA NEOGEO 泡泡龍2",
-    "jp": "アケアカNEOGEO パズルボブル2",
-    "en": "Puzzle Bobble 2 / Bust-A-Move Again",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1035907636_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/puzzle_bobble_2_arcade",
-    "RiJW2025": {
-      "Puzzle": [
-        "【競速 Race】Puzzle",
-        null,
-        "https://www.youtube.com/watch?v=MofrknZ0vQ0"
-      ]
-    }
-  },
-  "月光妖怪": {
-    "tw": "月光妖怪",
-    "jp": null,
-    "en": "Moonlight Ghost",
-    "boxart": "https://www.speedrun.com/static/game/3dxkjyv1/cover.png",
-    "leaderboard": "https://www.speedrun.com/moonlight_ghost",
-    "RiJW2025": {
-      "Any% 4chapter": [
-        null,
-        "RPG Maker x 逆恐怖遊戲",
-        "https://www.youtube.com/watch?v=fP9J-InBBwg"
-      ]
-    }
-  },
-  "東方紅魔郷 〜 the Embodiment of Scarlet Devil.": {
-    "tw": "東方紅魔鄉",
-    "jp": "東方紅魔郷 〜 the Embodiment of Scarlet Devil.",
-    "en": "Touhou Koumakyou ~ the Embodiment of Scarlet Devil",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/19951_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/eosd",
-    "RiJW2025": {
-      "Lunatic スコアアタック": [
-        "Lunatic 模式 + 刷分挑戰 Score Attack",
-        "ZUN 首次以「上海愛麗絲幻樂團」名義發佈的遊戲作品<br>在華麗彈幕下極限擦彈賺分",
-        "https://www.youtube.com/watch?v=hTl9zSyX4L8"
-      ]
-    }
-  },
-  "PUNCH-OUT!!": {
-    "tw": "擊拳熱鬥！！",
-    "jp": null,
-    "en": "PUNCH-OUT!! (2009)",
-    "boxart": "https://www.speedrun.com/static/game/9d37o96l/cover.png",
-    "leaderboard": "https://www.speedrun.com/powii",
-    "RiJW2025": {
-      "All Fights（目隠し）": [
-        "blindfold 蒙眼挑戰，打倒所有拳手",
-        "盲拳打死老師傅...你是說真的看不到！？",
-        "https://www.youtube.com/watch?v=WkSJIkVWLIk"
-      ]
-    }
-  },
-  "世界樹の迷宮Ⅳ 伝承の巨神": {
-    "tw": "世界樹迷宮IV 傳承的巨神",
-    "jp": "世界樹の迷宮IV 伝承の巨神",
-    "en": "Etrian Odyssey IV: Legends of the Titan",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/33691_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/eo4",
-    "RiJW2025": {
-      "Any%": [
-        null,
-        "「世界樹に至り、その真実を解明せよ！」<br>「抵達世界樹，揭開真相吧！」",
-        "https://www.youtube.com/watch?v=gHo9yyqCWNU"
-      ]
-    }
-  },
-
-
-  "Aliens: Colonial Marines": {
-    "tw": "異形：殖民戰隊",
-    "jp": null,
-    "en": "Aliens: Colonial Marines",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/19100_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/acm",
-    "RiJW2025": {
-      "Any%": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=IOHoAKNDv6g"
-      ]
-    }
-  },
-  "リトルタウンヒーロー": {
-    "tw": "小鎮英雄",
-    "jp": "リトルタウンヒーロー",
-    "en": "Little Town Hero",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1876836402_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/little_town_hero",
-    "RiJW2025": {
-      "Any% - Difficulty Hard": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=9xo2T57GVPM"
-      ]
-    }
-  },
-  "桃太郎電鉄ワールド〜地球は希望でまわってる！〜": {
-    "tw": "桃太郎電鐵世界",
-    "jp": "桃太郎電鉄ワールド〜地球は希望でまわってる！〜",
-    "en": "Momotaro Dentetsu World: Chikyuu ha Kibou de Mawatteru!",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1972874741_IGDB.jpg",
+  "Lil Gator Game": {
+    "tw": "Lil Gator Game",
+    "jp": "Lil Gator Game",
+    "en": "Lil Gator Game",
+    "boxart": null,
     "leaderboard": null,
-    "RiJW2025": {
-      "Get Momotaro Land(With Save)": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=ZJ-poPmJFh0"
+    "RiJW2026": {
+      "All Friends (Base Game)": [
+        "All Friends (Base Game)",
+        "賽事編號：run-003；平台：PC；跑者：ねいがー；類型：單人; 預估遊玩時間：0 小時 40 分鐘。",
+        null
       ]
     }
   },
-  "BORDER BREAK(PS4)": {
-    "tw": "邊境保衛戰",
-    "jp": null,
-    "en": "Border Break",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/22813_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/border_break",
-    "RiJW2025": {
-      "MainScenario(episode 1 - episode 16) ALL A(1Hangar)": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=aceIadDKCVI"
-      ]
-    }
-  },
-  "精霊機フレイリート": {
-    "tw": "精靈機弗烈利特",
-    "jp": "精霊機フレイリート",
-    "en": "Divine Dynamo Flamefrit",
-    "boxart": "https://www.speedrun.com/static/game/9d3wnq91/cover.png",
-    "leaderboard": "https://www.speedrun.com/Divine_Dynamo_Flamefrit",
-    "RiJW2025": {
-      "Any%": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=4S0w4QgLEt8"
-      ]
-    }
-  },
-  "スターフォックス64": {
-    "tw": "星際火狐64",
-    "jp": "スターフォックス64",
-    "en": "Star Fox 64",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/17586_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/sf64",
-    "RiJW2025": {
-      "Any%": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=VFLyAn6b_0w"
-      ]
-    }
-  },
-  "BLADE CHIMERA - ブレードキメラ": {
-    "tw": "幻刃奇美拉",
-    "jp": "ブレードキメラ",
-    "en": "BLADE CHIMERA",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1982133350_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/BLADE_CHIMERA",
-    "RiJW2025": {
-      "Any%": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=0-DmJl5Wfbc"
-      ]
-    }
-  },
-  "MOMIBOSU": {
-    "tw": null,
-    "jp": "モミボス",
-    "en": "MOMIBOSU",
-    "boxart": "https://www.speedrun.com/static/game/9doxeq7d/cover.jpg",
-    "leaderboard": "https://www.speedrun.com/MOMIBOSU",
-    "RiJW2025": {
-      "All Keys": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=86uwGrTSOlA"
-      ]
-    }
-  },
-  "Lonely Mountains: Snow Riders": {
-    "tw": null,
-    "jp": null,
-    "en": "Lonely Mountains: Snow Riders",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/2109314477_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/Lonely_Mountains_Snow_Riders",
-    "RiJW2025": {
-      "24 Trails": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=FTEbzTMR2lg"
-      ]
-    }
-  },
-  "マリオカート8": {
-    "tw": "瑪利歐賽車8",
-    "jp": "マリオカート8",
-    "en": "Mario Kart 8",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/369588_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/mk8",
-    "RiJW2025": {
-      "48 Tracks": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=GGgX5m9Hdak"
-      ]
-    }
-  },
-  "首都高バトル": {
-    "tw": "首都高賽車",
-    "jp": "首都高バトル",
-    "en": "Shutokou Battle / Tokyo Xtreme Racer",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/6408_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/tokyo_xtreme_racer",
-    "RiJW2025": {
-      "Beat All the Devas": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=_6WjsbcUkqs"
-      ]
-    }
-  },
-  "モンスターハンターワイルズ": {
-    "tw": "魔物獵人荒野",
-    "jp": "モンスターハンターワイルズ",
-    "en": "Monster Hunter Wilds",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1286077738_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/mhwilds",
-    "RiJW2025": {
-      "Any%": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=Yp86usDxocI"
-      ]
-    }
-  },
-  "オウガバトル64 Person of Lordly Caliber": {
-    "tw": "皇家騎士團64",
-    "jp": "オウガバトル64 Person of Lordly Caliber",
-    "en": "Ogre Battle 64: Person of Lordly Caliber",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/13310_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/ogre_battle_64_person_of_lordly_caliber",
-    "RiJW2025": {
-      "Any%": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=DwdY5E9lGRY"
-      ]
-    }
-  },
-  "シャドウジェネレーションズ": {
-    "tw": "夏特 世代",
-    "jp": "シャドウジェネレーションズ",
-    "en": "Shadow Generations",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1775804061_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/shadow_generations",
-    "RiJW2025": {
+  "Sea Fantasy": {
+    "tw": "Sea Fantasy",
+    "jp": "Sea Fantasy",
+    "en": "Sea Fantasy",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
       "Any%": [
         "Any%",
-        "黑暗英雄「夏特」肆意奔馳的完全新作",
-        "https://www.youtube.com/watch?v=ovUwvP8tYgI"
+        "賽事編號：run-004；平台：PC；跑者：ふぃそふぃー；類型：單人; 預估遊玩時間：1 小時 0 分鐘。",
+        null
       ]
     }
   },
-  "Super High Ball: Pinball Platformer": {
-    "tw": null,
-    "jp": null,
-    "en": "Super High Ball: Pinball Platformer",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/517418_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/super_high_ball_pinball_platformer",
-    "RiJW2025": {
-      "All Levels": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=Jm44iJaa90I"
-      ]
-    }
-  },
-  "グレゴリーホラーショー ソウルコレクター": {
-    "tw": "葛瑞格利驚悚秀",
-    "jp": "グレゴリーホラーショー ソウルコレクター",
-    "en": "Gregory Horror Show",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/6366_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/gregory_horror_show",
-    "RiJW2025": {
-      "Any%(Normal)": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=rZeACGWN7S4"
-      ]
-    }
-  },
-  "マリオゴルフGB": {
-    "tw": "瑪利歐高爾夫GB",
-    "jp": "マリオゴルフGB",
-    "en": "Mario Golf (Game Boy Color)",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/18042_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/mariogolf",
-    "RiJW2025": {
-      "Story Mode - All Courses（Switch版）": [
-        "故事模式真結局 (Switch 版)",
-        "包含原創角色、養成要素和故事模式的異色作品",
-        "https://www.youtube.com/watch?v=PaUFxKRe7ms"
-      ]
-    }
-  },
-  "Refind Self: 性格診断ゲーム": {
-    "tw": "憶我：一個性格測試遊戲",
-    "jp": "Refind Self: 性格診断ゲーム",
-    "en": "Refind Self: The Personality Test Game",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/235446742_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/Refind_Self_The_Personality_Test_Game",
-    "RiJW2025": {
-      "All Personalities": [
-        "全性格取得",
-        "「遊戲能夠展現一個人的個性吧？」<br>...可是這款遊戲全部有 23 種性格啊？",
-        "https://www.youtube.com/watch?v=zd2gpUyJoo0"
-      ]
-    }
-  },
-  "マリオストーリー": {
-    "tw": "紙片瑪利歐",
-    "jp": "マリオストーリー",
-    "en": "Paper Mario",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/18231_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/pm64",
-    "RiJW2025": {
-      "Any%(NoACE)": [
-        null,
-        "在如同繪本般的世界中，瑪利歐大顯身手！",
-        "https://www.youtube.com/watch?v=RocEKEsTEjA"
-      ]
-    }
-  },
-  "エイリアンVSプレデター": {
-    "tw": "異形戰場",
-    "jp": "エイリアンVSプレデター",
-    "en": "Alien Vs Predator",
-    "boxart": "https://www.speedrun.com/static/game/46wjw7dr/cover.jpg",
-    "leaderboard": "https://www.speedrun.com/avparcade",
-    "RiJW2025": {
-      "Schaefer Any%": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=1Z12voP45RY"
-      ]
-    }
-  },
-  "キャッスルヴァニア": {
-    "tw": "惡魔城 無罪的嘆息",
-    "jp": "キャッスルヴァニア",
-    "en": "Castlevania: Lament of Innocence",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/14478_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/loi",
-    "RiJW2025": {
-      "Any% Crazy": [
-        null,
-        "惡魔城系列首次登上 PS2<br>新要素「效果寶珠系統」打造出多樣的攻擊方式",
-        "https://www.youtube.com/watch?v=GYRG6CYTxTU"
-      ]
-    }
-  },
-  "小鳩ヶ丘高校女子ぐろ〜部 Gleam of Force": {
-    "tw": "小鳩鳩丘高校女子拳鬥部",
-    "jp": "小鳩ヶ丘高校女子ぐろ〜部 Gleam of Force",
-    "en": "Glove on Fight 2: Gleam of Force",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/495119_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/glove_on_fight_2__gleam_of_force",
-    "RiJW2025": {
-      "STORY HELL%": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=PTaBqdyFjfA"
-      ]
-    }
-  },
-  "Sclash": {
-    "tw": null,
-    "jp": "スクラシュ",
-    "en": "Sclash",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1166390225_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/Sclash",
-    "RiJW2025": {
-      "Classique": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=CGWVLvBeW70"
-      ]
-    }
-  },
-  "Vectronom": {
-    "tw": null,
-    "jp": null,
-    "en": "Vectronom",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/512812_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/vectronom",
-    "RiJW2025": {
-      "All Pickups": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=cJ8WYD0xri8"
-      ]
-    }
-  },
-  "A Dance of Fire and Ice": {
-    "tw": "冰與火之舞",
-    "jp": null,
-    "en": "A Dance of Fire and Ice",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/511183_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/adofai",
-    "RiJW2025": {
-      "100% Pure Perfect": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=EgGj2FUDRKk"
-      ]
-    }
-  },
-  "星のカービィ ウルトラスーパーデラックス": {
-    "tw": "星之卡比 超究極豪華版",
-    "jp": "星のカービィ ウルトラスーパーデラックス",
-    "en": "Kirby Super Star Ultra",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1146782253_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/kssu",
-    "RiJW2025": {
-      "Beat RotK": [
-        "【競速 Race】章節「大王的逆襲」破關",
-        "4 人 4 主機同台競速！",
-        "https://www.youtube.com/watch?v=JCW04N5qK_Y"
-      ]
-    }
-  },
-  "星のカービィ2": {
-    "tw": "星之卡比2",
-    "jp": "星のカービィ2",
-    "en": "Kirby's Dream Land 2",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/4089_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/kdl2",
-    "RiJW2025": {
-      "Best Ending": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=8K572NijhmI"
-      ]
-    }
-  },
-  "ゼルダ": {
-    "tw": "薩爾達",
-    "jp": "ゼルダ",
-    "en": "Zelda (Game & Watch)",
-    "boxart": "https://i.ytimg.com/vi/k7EgqUZ8TBY/maxresdefault.jpg",
-    "leaderboard": "https://www.speedrun.com/zelda_game_and_watch",
-    "RiJW2025": {
-      "Any%": [
-        null,
-        "1980 年代任天堂推出的攜帶型掌機，一機一款特定遊戲<br>這次要玩的是 GBA 移植復刻版",
-        "https://www.youtube.com/watch?v=F4X79oqKFMQ"
-      ]
-    }
-  },
-  "ゼルダの伝説 時のオカリナ": {
-    "tw": "薩爾達傳說 時之笛",
-    "jp": "ゼルダの伝説 時のオカリナ",
-    "en": "The Legend of Zelda: Ocarina of Time",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/11557_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/oot",
-    "RiJW2025": {
-      "MST": [
-        "禁止 BUG 直接生成主線關鍵物品",
-        "不過闖關期間的各種漏洞技巧是自由的，敬請期待",
-        "https://www.youtube.com/watch?v=5ZzM5AOjbYg"
-      ]
-    }
-  },
-  "サラダの国のトマト姫": {
-    "tw": "沙拉王國的番茄公主",
-    "jp": "サラダの国のトマト姫",
-    "en": "Princess Tomato in the Salad Kingdom",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/4164_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/princess_tomato_in_the_salad_kingdom",
-    "RiJW2025": {
-      "Beat The Game": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=D9XqYU8SaIw"
-      ]
-    }
-  },
-
-
-  "トマトアドベンチャー": {
-    "tw": "蕃茄冒險記",
-    "jp": "トマトアドベンチャー",
-    "en": "Tomato Adventure",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/19331_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/tomato_adventure",
-    "RiJW2025": {
-      "Any%": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=vdGto8tgd5g"
-      ]
-    }
-  },
-  "不思議のダンジョン 風来のシレン6 とぐろ島探検録": {
-    "tw": "千變的迷宮 風來的希煉6 蛇蜷島探險譚",
-    "jp": "不思議のダンジョン 風来のシレン6 とぐろ島探検録",
-    "en": "Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/422208436_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/shiren6",
-    "RiJW2025": {
-      "超・神髄TA": [
-        "【競速 Race】超・神髄TA",
-        null,
-        "https://www.youtube.com/watch?v=FmMR3oIw5zM"
-      ]
-    }
-  },
-  "ドラゴンクエストキャラクターズ トルネコの大冒険2 不思議のダンジョン": {
-    "tw": "特魯內克大冒險2 不思議的迷宮",
-    "jp": "ドラゴンクエストキャラクターズ トルネコの大冒険2 不思議のダンジョン",
-    "en": "Torneko: The Last Hope",
-    "boxart": "https://www.speedrun.com/static/game/4d73x317/cover.jpg",
-    "leaderboard": "https://www.speedrun.com/tornekolasthope",
-    "RiJW2025": {
-      "Any%": [
-        "【競速 Race】Any%",
-        null,
-        "https://www.youtube.com/watch?v=pV0Izaa5kgE"
-      ]
-    }
-  },
-  "スペルトナエル": {
-    "tw": "咒語詠唱",
-    "jp": "スペルトナエル",
-    "en": "Spell Tonaeru",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/438177464_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/SpellTonaeru",
-    "RiJW2025": {
-      "Perfect All Endings": [
-        null,
-        "利用日文五十音文字組合自創魔法",
-        "https://www.youtube.com/watch?v=1BswCr1xO78"
-      ]
-    }
-  },
-  "カエルの為に鐘は鳴る": {
-    "tw": "鐘為蛙鳴 / 鐘為青蛙而響",
-    "jp": "カエルの為に鐘は鳴る",
-    "en": "Kaeru no Tame ni Kane wa Naru",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/9361_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/kaeru",
-    "RiJW2025": {
-      "Any%": [
-        null,
-        "「表面看起來像是普通的 RPG」",
-        "https://www.youtube.com/watch?v=MEjFJslSpbA"
-      ]
-    }
-  },
-  "ピクミン4": {
-    "tw": "皮克敏4",
-    "jp": "ピクミン4",
-    "en": "Pikmin 4",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/494998_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/pikmin4",
-    "RiJW2025": {
-      "Rescue Olimar": [
-        "【競速 Race】Rescue Olimar",
-        null,
-        "https://www.youtube.com/watch?v=E8VbGJJWXag"
-      ]
-    }
-  },
-  "Crab Champions": {
-    "tw": "螃蟹冠軍",
-    "jp": null,
-    "en": "Crab Champions",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1754564141_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/crab_champions",
-    "RiJW2025": {
-      "Normal Any% No Key Totem(v2194+)": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=Ozq1QZvVIWg"
-      ]
-    }
-  },
-  "スーパーマリオワールド": {
-    "tw": "超級瑪利歐世界",
-    "jp": "スーパーマリオワールド",
-    "en": "Super Mario World",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1229_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/smw",
-    "RiJW2025": {
-      "Small Only": [
-        null,
-        "小隻瑪利歐向前衝！",
-        "https://www.youtube.com/watch?v=2FNES1duRc8"
-      ]
-    }
-  },
-  "スーパーマリオメーカー 2": {
-    "tw": "超級瑪利歐創作家 2",
-    "jp": "スーパーマリオメーカー 2",
-    "en": "Super Mario Maker 2",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/511399_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/smm2",
-    "RiJW2025": {
-      "Endless Mode - All Difficulties": [
-        "耐力挑戰模式，全難度破關",
-        null,
-        "https://www.youtube.com/watch?v=QL3jGIPTjAs"
-      ]
-    }
-  },
-  "スーパーマリオギャラクシー": {
-    "tw": "超級瑪利歐銀河",
-    "jp": "スーパーマリオギャラクシー",
-    "en": "Super Mario Galaxy",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/14766_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/smg1",
-    "RiJW2025": {
-      "Any% Luigi 1P": [
-        "使用角色「路易吉」破關，僅用 1P 手把",
-        null,
-        "https://www.youtube.com/watch?v=o4tDsrLeY5w"
-      ]
-    }
-  },
-  "フィズとにじいろの星": {
-    "tw": "菲茲與彩虹星",
-    "jp": "フィズとにじいろの星",
-    "en": "Fiz and the Rainbow Planet",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/534683438_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/Fiz_and_the_Rainbow_Planet",
-    "RiJW2025": {
-      "Any%": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=H6eQVYuCjTk"
-      ]
-    }
-  },
-  "SONOKUNI": {
-    "tw": null,
-    "jp": null,
-    "en": "SONOKUNI",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/429213682_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/SONOKUNI",
-    "RiJW2025": {
-      "Speedrun Mode Hard": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=IfTqH6336GA"
-      ]
-    }
-  },
-  "朧村正 - 元禄怪奇譚": {
-    "tw": "朧村正 元禄怪奇譚",
-    "jp": null,
-    "en": "Muramasa Rebirth: Genroku Legends",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/21767_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/muramasa",
-    "RiJW2025": {
-      "Okoi Any%": [
-        "化貓篇 Any%",
-        "承襲本篇的超高速戰鬥快感，不過這次是貓貓風格",
-        "https://www.youtube.com/watch?v=daalc0FIvd0"
-      ]
-    }
-  },
-  "Death's Door": {
-    "tw": "死亡之門",
-    "jp": null,
-    "en": "Death's Door",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1566403385_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/deaths_door",
-    "RiJW2025": {
-      "Unrestricted Latest Patch Any Weapon": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=lQkXjlrKJFk"
-      ]
-    }
-  },
-
-
-  "Smash T.V.": {
-    "tw": null,
-    "jp": null,
-    "en": "Smash T.V.",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/14849_IGDB.jpg",
+  "蒼き雷霆ガンヴォルト爪": {
+    "tw": "蒼藍雷霆 鋼伏特 爪",
+    "jp": "蒼き雷霆ガンヴォルト爪",
+    "en": "Azure Striker Gunvolt 2",
+    "boxart": null,
     "leaderboard": null,
-    "RiJW2025": {
-      "ノーコンティニューRTA": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=WVisXxYkJvU"
+    "RiJW2026": {
+      "Speedrun Mode Gunvolt": [
+        "Speedrun Mode Gunvolt",
+        "賽事編號：run-005；平台：PC；跑者：レトルネア；類型：單人; 預估遊玩時間：0 小時 45 分鐘。",
+        null
       ]
     }
   },
-  "近畿霊務局 - Kinki Spiritual Affairs Bureau": {
-    "tw": "近畿靈務局",
-    "jp": null,
-    "en": "Kinki Spiritual Affairs Bureau",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/936475509_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/Kinki_Spiritual_Affairs_Bureau",
-    "RiJW2025": {
-      "［任意の難易度］Any%": [
-        null,
-        "痛揍違法阿飄的背後卻有意外精彩的劇情",
-        "https://www.youtube.com/watch?v=BjfL3eWxNTQ"
-      ]
-    }
-  },
-  "サモンナイト3(PS2版)": {
-    "tw": "召喚夜響曲3",
-    "jp": "サモンナイト3",
-    "en": "Summon Night 3",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/2792_IGDB.jpg",
+  "天外魔境ZERO": {
+    "tw": "天外魔境 ZERO",
+    "jp": "天外魔境ZERO",
+    "en": "Tengai Makyo Zero",
+    "boxart": null,
     "leaderboard": null,
-    "RiJW2025": {
-      "NG 通常ルート Any%": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=xTP59yYUSCo"
+    "RiJW2026": {
+      "Any% 連射機あり": [
+        "Any% 連射機あり",
+        "賽事編號：run-006；平台：SFC；跑者：塩化コボルト；類型：單人; 預估遊玩時間：5 小時 10 分鐘。",
+        null
       ]
     }
   },
-  "ゼルダの伝説 神々のトライフォース2": {
-    "tw": "薩爾達傳說 眾神的三角神力2",
-    "jp": "ゼルダの伝説 神々のトライフォース2",
-    "en": "The Legend of Zelda: A Link Between Worlds",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/369088_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/albw",
-    "RiJW2025": {
-      "Any%": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=pHIXeQdpb00"
-      ]
-    }
-  },
-  "ゼルダの伝説 風のタクト": {
-    "tw": "薩爾達傳說 風之律動",
-    "jp": "ゼルダの伝説 風のタクト",
-    "en": "The Legend of Zelda: The Wind Waker",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/16967_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/tww",
-    "RiJW2025": {
-      "All Dungeons": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=3QFmukJRgLc"
-      ]
-    }
-  },
-  "ゼルダの伝説 知恵のかりもの": {
-    "tw": "薩爾達傳說 智慧的再現",
-    "jp": "ゼルダの伝説 知恵のかりもの",
-    "en": "The Legend of Zelda: Echoes of Wisdom",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1290989747_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/eow",
-    "RiJW2025": {
-      "Glitchless": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=UlbPgOoD4E8"
-      ]
-    }
-  },
-  "エスパ冒険隊 魔王の砦": {
-    "tw": "超能力冒險隊 魔王的城寨",
-    "jp": "エスパ冒険隊 魔王の砦",
-    "en": "Esper Boukentai",
-    "boxart": "https://www.speedrun.com/static/game/pdvon91w/cover.png",
-    "leaderboard": "https://www.speedrun.com/esper_boukentai",
-    "RiJW2025": {
-      "Any%": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=NdTiIzFCf8w"
-      ]
-    }
-  },
-  "ロマンシング サガ2 リベンジオブザセブン": {
-    "tw": "復活邪神2 七英雄的復仇",
-    "jp": "ロマンシング サガ2 リベンジオブザセブン",
-    "en": "Romancing SaGa 2: Revenge of the Seven",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1990731722_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/Romancing_Saga_2_Revenge_of_the_Seven",
-    "RiJW2025": {
-      "CASUAL Ver1.1.0": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=uIfddH3zRo0"
-      ]
-    }
-  },
-  "イレギュラーハンターX": {
-    "tw": "反亂獵人X",
-    "jp": "イレギュラーハンターX",
-    "en": "Irregular Hunter X / Mega Man Maverick Hunter X",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/347261884_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/megaman_maverick_hunter_x",
-    "RiJW2025": {
-      "VAVA Hard 100%": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=aGj09_owfrU"
-      ]
-    }
-  },
-  "ロックマンX3": {
-    "tw": "洛克人X3",
-    "jp": "ロックマンX3",
-    "en": "Rockman X3 / Mega Man X3",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/15538_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/mmx3",
-    "RiJW2025": {
-      "Any%": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=R8UeqjU_F_k"
-      ]
-    }
-  },
-  "ドンキーコング リターンズ HD": {
-    "tw": "咚奇剛歸來HD",
-    "jp": "ドンキーコング リターンズ HD",
-    "en": "Donkey Kong Country Returns HD",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/478131056_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/dkcrhd",
-    "RiJW2025": {
-      "Any% Modern Mode": [
-        "【競速 Race】Any% Modern Mode",
-        null,
-        "https://www.youtube.com/watch?v=-RJEPEbRZs4"
-      ]
-    }
-  },
-  "罪と罰 〜地球の継承者〜": {
-    "tw": "罪與罰 ～地球的繼承者～",
-    "jp": "罪と罰 〜地球の継承者〜",
-    "en": "Sin and Punishment",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/6772_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/sandp",
-    "RiJW2025": {
-      "Any% Hard": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=oezPzQwVGTU"
-      ]
-    }
-  },
-  "Final Fantasy 1 Pixel Remaster": {
-    "tw": "Final Fantasy 1 像素複刻版",
-    "jp": null,
-    "en": "Final Fantasy 1 Pixel Remaster",
-    "boxart": "https://www.speedrun.com/static/game/ldeyrj13/cover.png",
-    "leaderboard": "https://www.speedrun.com/ff1",
-    "RiJW2025": {
-      "Any% (No QS Manip)": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=LGuiKafcCms"
-      ]
-    }
-  },
-  "ドラゴンクエストモンスターズ テリーのワンダーランド3D": {
-    "tw": "勇者鬥惡龍 怪獸仙境 泰瑞的仙境3D",
-    "jp": "ドラゴンクエストモンスターズ テリーのワンダーランド3D",
-    "en": "Dragon Quest Monsters: Terry no Wonderland 3D",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1105212777_IGDB.jpg",
+  "Hollow Knight: Silksong": {
+    "tw": "空洞騎士：絲之歌",
+    "jp": "Hollow Knight: Silksong",
+    "en": "Hollow Knight: Silksong",
+    "boxart": null,
     "leaderboard": null,
-    "RiJW2025": {
-      "Any%": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=oBLwFJ-5qw4"
+    "RiJW2026": {
+      "Any% (NMG, Cloak)": [
+        "Any% (NMG, Cloak)",
+        "賽事編號：run-007；平台：PC；跑者：さわよし；類型：單人; 預估遊玩時間：1 小時 5 分鐘。",
+        null
       ]
     }
   },
-
-
-  "ポケットモンスター スカーレット・バイオレット": {
-    "tw": "寶可夢 朱／紫",
-    "jp": "ポケットモンスター スカーレット・バイオレット",
-    "en": "Pokémon Scarlet and Violet",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/670867987.jpg",
-    "leaderboard": "https://www.speedrun.com/pkmnscarletviolet",
-    "RiJW2025": {
+  "Dungeon Munchies": {
+    "tw": "地城食材 Munchies",
+    "jp": "Dungeon Munchies",
+    "en": "Dungeon Munchies",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "Any% Fresh Save": [
+        "Any% Fresh Save",
+        "賽事編號：run-008；平台：PC；跑者：マックス；類型：單人; 預估遊玩時間：1 小時 30 分鐘。",
+        null
+      ]
+    }
+  },
+  "New スーパーマリオブラザーズ": {
+    "tw": "新超級瑪利歐兄弟",
+    "jp": "New スーパーマリオブラザーズ",
+    "en": "New Super Mario Bros.",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "100%": [
+        "100%",
+        "賽事編號：run-009；平台：DS；跑者：akimaro；類型：單人; 預估遊玩時間：2 小時 45 分鐘。",
+        null
+      ]
+    }
+  },
+  "マリオカートアドバンス": {
+    "tw": "瑪利歐賽車 Advance",
+    "jp": "マリオカートアドバンス",
+    "en": "Mario Kart: Super Circuit",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "モバイルランキング1位全撃破": [
+        "モバイルランキング1位全撃破",
+        "賽事編號：run-010；平台：GBA；跑者：Su_cstrakm；類型：單人; 預估遊玩時間：1 小時 15 分鐘。",
+        null
+      ]
+    }
+  },
+  "Civilization VII": {
+    "tw": "文明帝國 VII",
+    "jp": "Civilization VII",
+    "en": "Civilization VII",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "Vanilla,ScienceVictory,AntiquityStart,Deity": [
+        "Vanilla,ScienceVictory,AntiquityStart,Deity",
+        "賽事編號：run-011；平台：PC；跑者：としお；類型：單人; 預估遊玩時間：0 小時 40 分鐘。",
+        null
+      ]
+    }
+  },
+  "Bomb Rush Cyberfunk": {
+    "tw": "Bomb Rush Cyberfunk",
+    "jp": "Bomb Rush Cyberfunk",
+    "en": "Bomb Rush Cyberfunk",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
       "Any% Glitchless": [
-        "【競速 Race】Any% Glitchless",
-        null,
-        "https://www.youtube.com/watch?v=P2s70d55tbE"
+        "Any% Glitchless",
+        "賽事編號：run-012；平台：PC；跑者：ヒエショー³；類型：單人; 預估遊玩時間：1 小時 32 分鐘。",
+        null
       ]
     }
   },
-  "リトルウィッチノベタ": {
-    "tw": "小魔女諾貝塔",
-    "jp": "リトルウィッチノベタ",
-    "en": "Little Witch Nobeta",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/515621_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/little_witch_nobeta",
-    "RiJW2025": {
-      "NewGame, Unrestricted, STANDARD, \u0022All-Items\u0022": [
-        "全物品收集 (一週目 / BUG 無限制 / Standard 難度)",
-        null,
-        "https://www.youtube.com/watch?v=hKcZN2L-bNI"
-      ]
-    }
-  },
-  "Ambidextro": {
-    "tw": null,
-    "jp": null,
-    "en": "Ambidextro",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1427281643_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/Ambidextro",
-    "RiJW2025": {
-      "Any% No Major Glitches": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=T_cl9Ye23Aw"
-      ]
-    }
-  },
-  "そろそろ寿司を食べないと死ぬぜ！ユニバース": {
-    "tw": "壽司靈魂宇宙",
-    "jp": "そろそろ寿司を食べないと死ぬぜ！ユニバース",
-    "en": "Sushi Soul Universe",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/19293055_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/SUSHI_SOUL_UNIVERSE",
-    "RiJW2025": {
-      "Any%": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=JmveNp_jSJ4"
-      ]
-    }
-  },
-  "カドゥケウスZ 2つの超執刀": {
-    "tw": "神使之杖Z 雙超執刀",
-    "jp": "カドゥケウスZ 2つの超執刀",
-    "en": "Trauma Center: Second Opinion",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/540860743_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/tcso",
-    "RiJW2025": {
-      "Any% Normal": [
-        null,
-        "使用 Wii 控制器開刀、縫合<br>對上搞人心態的超科幻系病毒，甚至還要拆炸彈 (?)",
-        "https://www.youtube.com/watch?v=V0xnuzPBiC4"
-      ]
-    }
-  },
-  "ゼノブレイド3 新たなる未来": {
-    "tw": "異度神劍3 嶄新的未來",
-    "jp": "ゼノブレイド3 新たなる未来",
-    "en": "Xenoblade Chronicles 3: Future Redeemed",
-    "boxart": "https://www.speedrun.com/static/game/v1pxn346/cover.jpg",
-    "leaderboard": "https://www.speedrun.com/xcfr",
-    "RiJW2025": {
-      "Any% - Easy": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=Q6G2Qve1VMI"
-      ]
-    }
-  },
-  "ディディーコングレーシング": {
-    "tw": "迪迪剛賽車",
-    "jp": "ディディーコングレーシング",
-    "en": "Diddy Kong Racing",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/14660_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/dkr",
-    "RiJW2025": {
-      "100%": [
-        "【競速 Race】100%",
-        null,
-        "https://www.youtube.com/watch?v=bwjwNNCxIHw"
-      ]
-    }
-  },
-  "魂斗羅 オペレーション ガルガ": {
-    "tw": "魂斗羅：加盧加行動",
-    "jp": "ディディーコングレーシング",
-    "en": "Contra: Operation Galuga",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/537410450_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/Contra_Operation_Galuga",
-    "RiJW2025": {
-      "Any% Arcade/Bill Rizer/Normal/Health Meter/Perks": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=7Twbm954AZs"
-      ]
-    }
-  },
-  "バベルの塔": {
-    "tw": "巴比倫塔",
-    "jp": "バベルの塔",
-    "en": "Tower of Babel",
-    "boxart": "https://www.speedrun.com/static/game/j1n82gl1/cover.jpg",
-    "leaderboard": "https://www.speedrun.com/the_tower_of_babel",
-    "RiJW2025": {
-      "Pro (Original Version)": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=7FvmPeY5jZY"
-      ]
-    }
-  },
-  "Good Job!": {
-    "tw": null,
-    "jp": null,
-    "en": "Good Job!",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/516848_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/good_job",
-    "RiJW2025": {
-      "New Game Any% Damageless": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=G-QLb4IDBlU"
-      ]
-    }
-  },
-  "A Tiny Sticker Tale": {
-    "tw": "小貼紙故事",
-    "jp": null,
-    "en": "A Tiny Sticker Tale",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/910625605_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/a_tiny_Sticker_Tale",
-    "RiJW2025": {
-      "All Stickers": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=JEp27ZWU8jM"
-      ]
-    }
-  },
-  "遊☆戯☆王デュエルモンスターズ4 最強決闘者戦記": {
-    "tw": "遊戲王 怪獸之決鬥4 最強決鬥者戰記",
-    "jp": "遊☆戯☆王デュエルモンスターズ4 最強決闘者戦記",
-    "en": "Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelist",
-    "boxart": "https://www.speedrun.com/static/game/3dxk09g1/cover.jpg",
-    "leaderboard": "https://www.speedrun.com/yugiohdm4",
-    "RiJW2025": {
-      "Any%": [
-        "【競速 Race】Any%",
-        null,
-        "https://www.youtube.com/watch?v=dFsqXYVPZlg"
-      ]
-    }
-  },
-  "ペルソナ4 ザ・ゴールデン": {
-    "tw": "女神異聞錄4 黃金版",
-    "jp": "ペルソナ4 ザ・ゴールデン",
-    "en": "Persona 4 Golden",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/32542_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/p4g",
-    "RiJW2025": {
-      "Hard Golden Ending NMG": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=78kVdzaEccw"
-      ]
-    }
-  },
-
-
-  "Bat to the Heavens": {
-    "tw": null,
-    "jp": null,
-    "en": "Bat to the Heavens",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1233823310_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/Bat_to_the_Heavens",
-    "RiJW2025": {
-      "54 Lantern": [
-        null,
-        "使用 beatmania IIDX 控制器遊玩 2D 動作遊戲",
-        "https://www.youtube.com/watch?v=FVdf7h30B7E"
-      ]
-    }
-  },
-  "ヨッシーのクッキー": {
-    "tw": "耀西的餅乾",
-    "jp": "ヨッシーのクッキー",
-    "en": "Yoshi's Cookie",
-    "boxart": "https://www.speedrun.com/static/game/o6g2m812/cover.png",
-    "leaderboard": "https://www.speedrun.com/yoshis_cookie_snes",
-    "RiJW2025": {
-      "VS Mode": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=plRppRaEnak"
-      ]
-    }
-  },
-  "スーパーマリオパーティ ジャンボリー": {
-    "tw": "超級瑪利歐派對 空前盛會",
-    "jp": "スーパーマリオパーティ ジャンボリー",
-    "en": "Super Mario Party Jamboree",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1471610418_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/supermariopartyjamboree",
-    "RiJW2025": {
-      "Party-Planner Trek Any%": [
-        "【競速 Race】Party-Planner Trek Any%",
-        null,
-        "https://www.youtube.com/watch?v=8xqXGleHwdI"
-      ]
-    }
-  },
-  "スプラトゥーン3 サイド・オーダー": {
-    "tw": "斯普拉遁3：秩序篇",
-    "jp": "スプラトゥーン3 サイド・オーダー",
-    "en": "Splatoon 3: Side Order",
-    "boxart": "https://www.speedrun.com/static/game/k6qp2pmd/cover.png",
-    "leaderboard": "https://www.speedrun.com/SideOrder",
-    "RiJW2025": {
-      "Any%": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=G7EokRVYNZ0"
-      ]
-    }
-  },
-  "Pump It Up Phoenix": {
-    "tw": null,
-    "jp": null,
-    "en": "Pump It Up Phoenix",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1078451966_IGDB.jpg",
+  "ソニックと秘密のリング": {
+    "tw": "音速小子與秘密之環",
+    "jp": "ソニックと秘密のリング",
+    "en": "Sonic and the Secret Rings",
+    "boxart": null,
     "leaderboard": null,
-    "RiJW2025": {
-      "Showcase": [
-        "音樂節奏遊戲表演",
-        null,
-        "https://www.youtube.com/watch?v=mBjPeh1IJ7I"
+    "RiJW2026": {
+      "Any% NG+ (No Tutorial Stages)": [
+        "Any% NG+ (No Tutorial Stages)",
+        "賽事編號：run-013；平台：Wii；跑者：ダリ；類型：單人; 預估遊玩時間：1 小時 6 分鐘。",
+        null
       ]
     }
   },
-  "ENDER MAGNOLIA: Bloom in the Mist": {
-    "tw": "終結者瑪格諾莉亞",
-    "jp": null,
-    "en": "ENDER MAGNOLIA: Bloom in the Mist",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/838184267_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/endermagnolia",
-    "RiJW2025": {
-      "Any% Ending A - Normal": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=jQI_xftN6mI"
+  "ドンキーコングジャングルクライマー": {
+    "tw": "咚奇剛叢林攀爬者",
+    "jp": "ドンキーコングジャングルクライマー",
+    "en": "Donkey Kong: Jungle Climber",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "All Stages": [
+        "All Stages",
+        "賽事編號：run-014；平台：WiiU；跑者：りふ；類型：單人; 預估遊玩時間：1 小時 5 分鐘。",
+        null
       ]
     }
   },
-  "イースⅡクロニクルズ": {
-    "tw": "伊蘇II 編年史",
-    "jp": "イースII クロニクルズ",
-    "en": "Ys II Chronicles",
-    "boxart": "https://www.speedrun.com/static/game/nd2nmrd0/cover.png",
-    "leaderboard": "https://www.speedrun.com/ysiic",
-    "RiJW2025": {
-      "Easy Any% (No Time Attack glitch)": [
-        null,
-        null,
-        "https://www.youtube.com/watch?v=DQm1wh7jtGI"
+  "ドンキーコング64": {
+    "tw": "咚奇剛 64",
+    "jp": "ドンキーコング64",
+    "en": "Donkey Kong 64",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "0.0% (Low%)": [
+        "0.0% (Low%)",
+        "賽事編號：run-015；平台：N64 (Nintendo Switch Online)；跑者：signakong；類型：單人; 預估遊玩時間：0 小時 35 分鐘。",
+        null
       ]
     }
   },
-  "スーパーメトロイド": {
-    "tw": "超級銀河戰士",
-    "jp": "スーパーメトロイド",
-    "en": "Super Metroid",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/7595_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/supermetroid",
-    "RiJW2025": {
-      "Reverse Boss Order": [
-        "逆順序擊敗四大頭目",
-        null,
-        "https://www.youtube.com/watch?v=7PnORz463Ho"
+  "クライムクラッカーズ": {
+    "tw": "Crime Crackers",
+    "jp": "クライムクラッカーズ",
+    "en": "Crime Crackers",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "Any%": [
+        "Any%",
+        "賽事編號：run-016；平台：PlayStation；跑者：ゐゐゑび；類型：單人; 預估遊玩時間：2 小時 15 分鐘。",
+        null
       ]
     }
   },
-
-
-  "【バックアップ】Untitled Goose Game 〜いたずらガチョウがやって来た！〜": {
-    "tw": "無名鵝愛搗蛋",
-    "jp": "Untitled Goose Game 〜いたずらガチョウがやって来た！〜",
-    "en": "Untitled Goose Game",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/499537_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/goose",
-    "RiJW2025": {
+  "メトロイドプライム リマスタード": {
+    "tw": "密特羅德 Prime 重製版",
+    "jp": "メトロイドプライム リマスタード",
+    "en": "Metroid Prime Remastered",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "Any% Casual": [
+        "Any% Casual",
+        "賽事編號：run-017；平台：Switch；跑者：いわび；類型：單人; 預估遊玩時間：1 小時 45 分鐘。",
+        null
+      ]
+    }
+  },
+  "Space Invaders Extreme": {
+    "tw": "Space Invaders Extreme",
+    "jp": "Space Invaders Extreme",
+    "en": "Space Invaders Extreme",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "Extreme": [
+        "Extreme",
+        "賽事編號：run-018；平台：PC；跑者：むんべちゃん；類型：單人; 預估遊玩時間：0 小時 25 分鐘。",
+        null
+      ]
+    }
+  },
+  "Final Fantasy XVI": {
+    "tw": "Final Fantasy XVI",
+    "jp": "Final Fantasy XVI",
+    "en": "Final Fantasy XVI",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "NewGame Story": [
+        "NewGame Story",
+        "賽事編號：run-019；平台：PlayStation 5；跑者：カナヤミ；類型：單人; 預估遊玩時間：7 小時 0 分鐘。",
+        null
+      ]
+    }
+  },
+  "FINAL FANTASY TACTICS - The Ivalice Chronicles": {
+    "tw": "Final Fantasy Tactics - The Ivalice Chronicles",
+    "jp": "FINAL FANTASY TACTICS - The Ivalice Chronicles",
+    "en": "Final Fantasy Tactics: The Ivalice Chronicles",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "No Math%": [
+        "No Math%",
+        "賽事編號：run-020；平台：PC；跑者：カエル候；類型：單人; 預估遊玩時間：2 小時 10 分鐘。",
+        null
+      ]
+    }
+  },
+  "ファイアーエムブレム　暁の女神": {
+    "tw": "聖火降魔錄 曉之女神",
+    "jp": "ファイアーエムブレム　暁の女神",
+    "en": "Fire Emblem: Radiant Dawn",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "Easy Mode（Not Transfers）": [
+        "Easy Mode（Not Transfers）",
+        "賽事編號：run-021；平台：Wii；跑者：ヤシ；類型：單人; 預估遊玩時間：3 小時 20 分鐘。",
+        null
+      ]
+    }
+  },
+  "遊☆戯☆王 真デュエルモンスターズ 封印されし記憶": {
+    "tw": "遊戲王 真・決鬥怪獸 封印的記憶",
+    "jp": "遊☆戯☆王 真デュエルモンスターズ 封印されし記憶",
+    "en": "Yu-Gi-Oh! Forbidden Memories",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "Any% (Trading, No Pocketstation)": [
+        "Any% (Trading, No Pocketstation)",
+        "賽事編號：run-022；平台：PlayStation；跑者：Arus、AsneL、もず；類型：競速對決; 預估遊玩時間：2 小時 0 分鐘。",
+        null
+      ]
+    }
+  },
+  "ウマ娘 プリティーダービー 熱血ハチャメチャ大感謝祭！": {
+    "tw": "賽馬娘 熱血喧鬧大感謝祭！",
+    "jp": "ウマ娘 プリティーダービー 熱血ハチャメチャ大感謝祭！",
+    "en": "Umamusume: Pretty Derby – Party Dash",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "Team Rose All Win": [
+        "Team Rose All Win",
+        "賽事編號：run-023；平台：PC；跑者：テーザント；類型：單人; 預估遊玩時間：0 小時 30 分鐘。",
+        null
+      ]
+    }
+  },
+  "あつまれ どうぶつの森": {
+    "tw": "集合啦！動物森友會",
+    "jp": "あつまれ どうぶつの森",
+    "en": "Animal Crossing: New Horizons",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "Credits": [
+        "Credits",
+        "賽事編號：run-024；平台：Switch；跑者：篠崎青葉；類型：單人; 預估遊玩時間：2 小時 0 分鐘。",
+        null
+      ]
+    }
+  },
+  "F-ZERO": {
+    "tw": "F-ZERO",
+    "jp": "F-ZERO",
+    "en": "F-ZERO",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "Grand Prix Fire stingray": [
+        "Grand Prix Fire stingray",
+        "賽事編號：run-025；平台：SFC；跑者：FAL；類型：單人; 預估遊玩時間：0 小時 50 分鐘。",
+        null
+      ]
+    }
+  },
+  "スーパーボンバーマンぱにっくボンバーW": {
+    "tw": "超級炸彈人：Panic Bomber W",
+    "jp": "スーパーボンバーマンぱにっくボンバーW",
+    "en": "Super Bomberman: Panic Bomber W",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "Any%": [
+        "Any%",
+        "賽事編號：run-026；平台：SFC；跑者：せんノ利休；類型：單人; 預估遊玩時間：0 小時 18 分鐘。",
+        null
+      ]
+    }
+  },
+  "ロックマン＆フォルテ": {
+    "tw": "洛克人與佛魯迪",
+    "jp": "ロックマン＆フォルテ",
+    "en": "Mega Man & Bass",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "Any% (Forte)": [
+        "Any% (Forte)",
+        "賽事編號：run-027；平台：SFC；跑者：SCRB；類型：單人; 預估遊玩時間：0 小時 40 分鐘。",
+        null
+      ]
+    }
+  },
+  "ロックマン11 運命の歯車!!": {
+    "tw": "洛克人 11 命運的齒輪！！",
+    "jp": "ロックマン11 運命の歯車!!",
+    "en": "Mega Man 11",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "Any% No OoB (Normal)": [
+        "Any% No OoB (Normal)",
+        "賽事編號：run-028；平台：PC；跑者：ふぁいる；類型：單人; 預估遊玩時間：0 小時 38 分鐘。",
+        null
+      ]
+    }
+  },
+  "星のカービィ 20周年スペシャルコレクション": {
+    "tw": "星之卡比 20 週年特別收藏集",
+    "jp": "星のカービィ 20周年スペシャルコレクション",
+    "en": "Kirby's Dream Collection",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "King Trophy": [
+        "King Trophy",
+        "賽事編號：run-029；平台：Wii；跑者：shiro；類型：單人; 預估遊玩時間：0 小時 30 分鐘。",
+        null
+      ]
+    }
+  },
+  "星のカービィ 参上!ドロッチェ団": {
+    "tw": "星之卡比 參上！多洛奇團",
+    "jp": "星のカービィ 参上!ドロッチェ団",
+    "en": "Kirby: Squeak Squad",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
       "100%": [
-        "【備選節目 Backup】100%",
-        "HOOK～！",
-        "https://www.youtube.com/watch?v=FhQKq-XBu0s"
+        "100%",
+        "賽事編號：run-030；平台：DS；跑者：Cabbage；類型：單人; 預估遊玩時間：1 小時 0 分鐘。",
+        null
       ]
     }
   },
-  "【バックアップ】FINAL FANTASY XV WINDOWS EDITION": {
-    "tw": null,
-    "jp": null,
-    "en": "Final Fantasy XV Windows Edition",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/19180_IGDB.jpg",
-    "leaderboard": "https://www.speedrun.com/ffxv",
-    "RiJW2025": {
+  "Super Meat Boy 3D": {
+    "tw": "Super Meat Boy 3D",
+    "jp": "Super Meat Boy 3D",
+    "en": "Super Meat Boy 3D",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "Any%": [
+        "Any%",
+        "賽事編號：run-031；平台：PC；跑者：kazudeath4；類型：單人; 預估遊玩時間：0 小時 30 分鐘。",
+        null
+      ]
+    }
+  },
+  "StepManiaX": {
+    "tw": "StepManiaX",
+    "jp": "StepManiaX",
+    "en": "StepManiaX",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "Team Showcase": [
+        "Team Showcase",
+        "賽事編號：run-032；平台：Arcade；跑者：quino、YUDAI；類型：合作表演; 預估遊玩時間：1 小時 0 分鐘。",
+        null
+      ]
+    }
+  },
+  "UNBEATABLE": {
+    "tw": "UNBEATABLE",
+    "jp": "UNBEATABLE",
+    "en": "UNBEATABLE",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "Arcade Mode Showcase": [
+        "Arcade Mode Showcase",
+        "賽事編號：run-033；平台：PC；跑者：ふーにゃん；類型：單人; 預估遊玩時間：0 小時 50 分鐘。",
+        null
+      ]
+    }
+  },
+  "オーライル": {
+    "tw": "オーライル",
+    "jp": "オーライル",
+    "en": "Oarile",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "Any%": [
+        "Any%",
+        "賽事編號：run-034；平台：Arcade；跑者：よりぬき；類型：單人; 預估遊玩時間：0 小時 35 分鐘。",
+        null
+      ]
+    }
+  },
+  "Momodora: 月影のエンドロール": {
+    "tw": "Momodora：月下告別曲",
+    "jp": "Momodora: 月影のエンドロール",
+    "en": "Momodora: Moonlit Farewell",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "NMG Light": [
+        "NMG Light",
+        "賽事編號：run-035；平台：PC；跑者：敷き紙；類型：單人; 預估遊玩時間：1 小時 15 分鐘。",
+        null
+      ]
+    }
+  },
+  "Gimmick! 2": {
+    "tw": "Gimmick! 2",
+    "jp": "Gimmick! 2",
+    "en": "Gimmick! 2",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "Any% (Gimmick!)": [
+        "Any% (Gimmick!)",
+        "賽事編號：run-036；平台：PC；跑者：beco；類型：單人; 預估遊玩時間：0 小時 35 分鐘。",
+        null
+      ]
+    }
+  },
+  "ドラゴンクエストモンスターズ ジョーカー": {
+    "tw": "勇者鬥惡龍 怪獸仙境 Joker",
+    "jp": "ドラゴンクエストモンスターズ ジョーカー",
+    "en": "Dragon Quest Monsters: Joker",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "Any%（ガルマッゾ撃破まで）": [
+        "Any%（ガルマッゾ撃破まで）",
+        "賽事編號：run-037；平台：DS；跑者：バルタン；類型：單人; 預估遊玩時間：3 小時 45 分鐘。",
+        null
+      ]
+    }
+  },
+  "クロックタワー2": {
+    "tw": "鐘樓 2",
+    "jp": "クロックタワー2",
+    "en": "Clock Tower 2",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "Jennifer 100%": [
+        "Jennifer 100%",
+        "賽事編號：run-038；平台：PlayStation；跑者：ばたけ。；類型：單人; 預估遊玩時間：0 小時 55 分鐘。",
+        null
+      ]
+    }
+  },
+  "カービィのエアライダー": {
+    "tw": "星之卡比 飛天騎士",
+    "jp": "カービィのエアライダー",
+    "en": "Kirby Air Riders",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "ロードトリップ Any% スーパーハード": [
+        "ロードトリップ Any% スーパーハード",
+        "賽事編號：run-039；平台：Switch2；跑者：ACAあか；類型：單人; 預估遊玩時間：1 小時 55 分鐘。",
+        null
+      ]
+    }
+  },
+  "ポケットモンスター ソード": {
+    "tw": "寶可夢 劍",
+    "jp": "ポケットモンスター ソード",
+    "en": "Pokémon Sword",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "Any%": [
+        "Any%",
+        "賽事編號：run-040；平台：Switch；跑者：yuki；類型：單人; 預估遊玩時間：4 小時 5 分鐘。",
+        null
+      ]
+    }
+  },
+  "萬手一体": {
+    "tw": "萬手一體",
+    "jp": "萬手一体",
+    "en": "Banshou Ittai",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "Any% GreenEnding": [
+        "Any% GreenEnding",
+        "賽事編號：run-041；平台：PC；跑者：藍川睦月；類型：單人; 預估遊玩時間：0 小時 47 分鐘。",
+        null
+      ]
+    }
+  },
+  "ザ・キングオブドラゴンズ": {
+    "tw": "龍王戰士",
+    "jp": "ザ・キングオブドラゴンズ",
+    "en": "The King of Dragons",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "Any%": [
+        "Any%",
+        "賽事編號：run-042；平台：PlayStation 4；跑者：サトシー；類型：單人; 預估遊玩時間：0 小時 29 分鐘。",
+        null
+      ]
+    }
+  },
+  "スーパーマリオランド2 6つの金貨": {
+    "tw": "超級瑪利歐樂園 2 六枚金幣",
+    "jp": "スーパーマリオランド2 6つの金貨",
+    "en": "Super Mario Land 2: 6 Golden Coins",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "Any% Glitchless": [
+        "Any% Glitchless",
+        "賽事編號：run-043；平台：GB；跑者：EiP；類型：單人; 預估遊玩時間：0 小時 30 分鐘。",
+        null
+      ]
+    }
+  },
+  "Terraria": {
+    "tw": "Terraria",
+    "jp": "Terraria",
+    "en": "Terraria",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "Reduced All Achievements": [
+        "Reduced All Achievements",
+        "賽事編號：run-044；平台：PC；跑者：Camel；類型：單人; 預估遊玩時間：1 小時 35 分鐘。",
+        null
+      ]
+    }
+  },
+  "わびさび寿司ダービー": {
+    "tw": "侘寂壽司賽馬",
+    "jp": "わびさび寿司ダービー",
+    "en": "Wabi-Sabi Sushi Derby",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "Any% Normal （Ver.1.0.0‐1.0.2）": [
+        "Any% Normal （Ver.1.0.0‐1.0.2）",
+        "賽事編號：run-045；平台：PC；跑者：だぶちっく、だんごむし；類型：競速對決; 預估遊玩時間：0 小時 20 分鐘。",
+        null
+      ]
+    }
+  },
+  "スター・ウォーズ ローグ スコードロン III：レベルストライク": {
+    "tw": "星際大戰：俠盜中隊 III：叛軍突擊",
+    "jp": "スター・ウォーズ ローグ スコードロン III：レベルストライク",
+    "en": "Star Wars Rogue Squadron III: Rebel Strike",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "NG+ All Missions": [
+        "NG+ All Missions",
+        "賽事編號：run-046；平台：GCN；跑者：PYONKICHI；類型：單人; 預估遊玩時間：1 小時 40 分鐘。",
+        null
+      ]
+    }
+  },
+  "クレイジータクシー": {
+    "tw": "瘋狂計程車",
+    "jp": "クレイジータクシー",
+    "en": "Crazy Taxi",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "Crazy Box NG+": [
+        "Crazy Box NG+",
+        "賽事編號：run-047；平台：DC；跑者：ユタポン；類型：單人; 預估遊玩時間：0 小時 20 分鐘。",
+        null
+      ]
+    }
+  },
+  "ベヨネッタ2": {
+    "tw": "魔兵驚天錄 2",
+    "jp": "ベヨネッタ2",
+    "en": "Bayonetta 2",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "Any% Rosa ∞ Climax": [
+        "Any% Rosa ∞ Climax",
+        "賽事編號：run-048；平台：Switch；跑者：一人称；類型：單人; 預估遊玩時間：1 小時 30 分鐘。",
+        null
+      ]
+    }
+  },
+  "東方地霊殿 〜 Subterranean Animism.": {
+    "tw": "東方地靈殿 ～ Subterranean Animism",
+    "jp": "東方地霊殿 〜 Subterranean Animism.",
+    "en": "Touhou Chireiden ~ Subterranean Animism",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "Lunatic スコアアタック": [
+        "Lunatic スコアアタック",
+        "賽事編號：run-049；平台：PC；跑者：かも猫；類型：單人; 預估遊玩時間：0 小時 47 分鐘。",
+        null
+      ]
+    }
+  },
+  "Öoo": {
+    "tw": "Öoo",
+    "jp": "Öoo",
+    "en": "Öoo",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "Any%": [
+        "Any%",
+        "賽事編號：run-050；平台：PC；跑者：前髪が長い；類型：單人; 預估遊玩時間：0 小時 15 分鐘。",
+        null
+      ]
+    }
+  },
+  "Pogostuck: Rage With Your Friends": {
+    "tw": "Pogostuck: Rage With Your Friends",
+    "jp": "Pogostuck: Rage With Your Friends",
+    "en": "Pogostuck: Rage With Your Friends",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "17 Maps": [
+        "17 Maps",
+        "賽事編號：run-051；平台：PC；跑者：suwa_xa；類型：單人; 預估遊玩時間：0 小時 56 分鐘。",
+        null
+      ]
+    }
+  },
+  "続ボクらの太陽太陽少年ジャンゴ (Boktai 2: Solar Boy Django)": {
+    "tw": "我們的太陽 2：太陽少年強哥",
+    "jp": "続ボクらの太陽太陽少年ジャンゴ (Boktai 2: Solar Boy Django)",
+    "en": "Boktai 2: Solar Boy Django",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "Any%": [
+        "Any%",
+        "賽事編號：run-052；平台：GBA；跑者：Drakodan；類型：單人; 預估遊玩時間：1 小時 55 分鐘。",
+        null
+      ]
+    }
+  },
+  "スーパーマリオ64": {
+    "tw": "超級瑪利歐 64",
+    "jp": "スーパーマリオ64",
+    "en": "Super Mario 64",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "目隠し 9枚": [
+        "目隠し 9枚",
+        "賽事編號：run-053；平台：N64 (Wii VC)；跑者：Bubzia；類型：單人; 預估遊玩時間：0 小時 20 分鐘。",
+        null
+      ]
+    }
+  },
+  "ゼルダの伝説 トワイライトプリンセスHD": {
+    "tw": "薩爾達傳說 黃昏公主 HD",
+    "jp": "ゼルダの伝説 トワイライトプリンセスHD",
+    "en": "The Legend of Zelda: Twilight Princess HD",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "Any%": [
+        "Any%",
+        "賽事編號：run-054；平台：WiiU；跑者：すわん。；類型：單人; 預估遊玩時間：3 小時 25 分鐘。",
+        null
+      ]
+    }
+  },
+  "ゼルダの伝説 スカイウォードソード": {
+    "tw": "薩爾達傳說 天空之劍",
+    "jp": "ゼルダの伝説 スカイウォードソード",
+    "en": "The Legend of Zelda: Skyward Sword",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "Any%": [
+        "Any%",
+        "賽事編號：run-055；平台：Wii；跑者：サンダーボルト；類型：單人; 預估遊玩時間：1 小時 18 分鐘。",
+        null
+      ]
+    }
+  },
+  "ゼルダの伝説1": {
+    "tw": "薩爾達傳說",
+    "jp": "ゼルダの伝説1",
+    "en": "The Legend of Zelda",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "Swordless First Quest": [
+        "Swordless First Quest",
+        "賽事編號：run-056；平台：FC；跑者：cron；類型：單人; 預估遊玩時間：0 小時 44 分鐘。",
+        null
+      ]
+    }
+  },
+  "EASTWARD": {
+    "tw": "Eastward",
+    "jp": "EASTWARD",
+    "en": "Eastward",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "Any% FGS": [
+        "Any% FGS",
+        "賽事編號：run-057；平台：PC；跑者：ひなめが；類型：單人; 預估遊玩時間：2 小時 40 分鐘。",
+        null
+      ]
+    }
+  },
+  "聴音RPG【失われた音問村】": {
+    "tw": "聽音 RPG【失落的音問村】",
+    "jp": "聴音RPG【失われた音問村】",
+    "en": "Listening RPG: The Lost Sound Village",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "Any%": [
+        "Any%",
+        "賽事編號：run-058；平台：Web；跑者：まっつ；類型：單人; 預估遊玩時間：0 小時 42 分鐘。",
+        null
+      ]
+    }
+  },
+  "亜電": {
+    "tw": "亞電",
+    "jp": "亜電",
+    "en": "Aden",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "Hard 100%": [
+        "Hard 100%",
+        "賽事編號：run-059；平台：PC；跑者：369；類型：單人; 預估遊玩時間：1 小時 50 分鐘。",
+        null
+      ]
+    }
+  },
+  "マリオ&ルイージRPG2": {
+    "tw": "瑪利歐與路易吉 RPG 2",
+    "jp": "マリオ&ルイージRPG2",
+    "en": "Mario & Luigi: Partners in Time",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "Any%": [
+        "Any%",
+        "賽事編號：run-060；平台：DS；跑者：とんこつ；類型：單人; 預估遊玩時間：2 小時 25 分鐘。",
+        null
+      ]
+    }
+  },
+  "悪魔城ドラキュラ Revisited": {
+    "tw": "惡魔城 Revisited",
+    "jp": "悪魔城ドラキュラ Revisited",
+    "en": "Castlevania Revisited",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "Any% Easy": [
+        "Any% Easy",
+        "賽事編號：run-061；平台：PC/XboxSeriesS；跑者：SAS、偏差値60；類型：競速對決; 預估遊玩時間：0 小時 16 分鐘。",
+        null
+      ]
+    }
+  },
+  "Isopod: A Webbed Spin-off": {
+    "tw": "Isopod: A Webbed Spin-off",
+    "jp": "Isopod: A Webbed Spin-off",
+    "en": "Isopod: A Webbed Spin-off",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "Any% NMG": [
+        "Any% NMG",
+        "賽事編號：run-062；平台：PC；跑者：さっぼますたぁ；類型：單人; 預估遊玩時間：0 小時 45 分鐘。",
+        null
+      ]
+    }
+  },
+  "ポケモンスナップ": {
+    "tw": "寶可夢隨樂拍",
+    "jp": "ポケモンスナップ",
+    "en": "Pokémon Snap",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "100%": [
+        "100%",
+        "賽事編號：run-063；平台：N64；跑者：aKaFuKu(キイ)；類型：單人; 預估遊玩時間：0 小時 28 分鐘。",
+        null
+      ]
+    }
+  },
+  "モンスターハンター4G": {
+    "tw": "魔物獵人 4G",
+    "jp": "モンスターハンター4G",
+    "en": "Monster Hunter 4 Ultimate",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "Caravan Any% (Shagaru Magala)": [
+        "Caravan Any% (Shagaru Magala)",
+        "賽事編號：run-064；平台：3DS；跑者：mosstkm(もす)；類型：單人; 預估遊玩時間：3 小時 30 分鐘。",
+        null
+      ]
+    }
+  },
+  "Do You even Forklift?": {
+    "tw": "Do You even Forklift?",
+    "jp": "Do You even Forklift?",
+    "en": "Do You even Forklift?",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "Any%": [
+        "Any%",
+        "賽事編號：run-065；平台：PC；跑者：カゲタロ；類型：單人; 預估遊玩時間：0 小時 28 分鐘。",
+        null
+      ]
+    }
+  },
+  "マイティ・グース": {
+    "tw": "Mighty Goose",
+    "jp": "マイティ・グース",
+    "en": "Mighty Goose",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "Any% - Normal": [
+        "Any% - Normal",
+        "賽事編號：run-066；平台：PC；跑者：Keiichi；類型：單人; 預估遊玩時間：0 小時 35 分鐘。",
+        null
+      ]
+    }
+  },
+  "シャドウゲイト": {
+    "tw": "Shadowgate",
+    "jp": "シャドウゲイト",
+    "en": "Shadowgate",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "Glitched": [
+        "Glitched",
+        "賽事編號：run-067；平台：FC；跑者：コーリャン；類型：單人; 預估遊玩時間：0 小時 12 分鐘。",
+        null
+      ]
+    }
+  },
+  "ドンキーコング バナンザ": {
+    "tw": "咚奇剛 蕉力全開",
+    "jp": "ドンキーコング バナンザ",
+    "en": "Donkey Kong Bananza",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "Any% Restricted 1P": [
+        "Any% Restricted 1P",
+        "賽事編號：run-068；平台：Switch2；跑者：Ath、Haitex；類型：競速對決; 預估遊玩時間：1 小時 20 分鐘。",
+        null
+      ]
+    }
+  },
+  "スーパードンキーコング2 ディクシー&ディディー": {
+    "tw": "超級咚奇剛 2 迪克西與迪迪",
+    "jp": "スーパードンキーコング2 ディクシー&ディディー",
+    "en": "Donkey Kong Country 2: Diddy's Kong Quest",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "True Ending": [
+        "True Ending",
+        "賽事編號：run-069；平台：SFC；跑者：Leftover；類型：單人; 預估遊玩時間：0 小時 36 分鐘。",
+        null
+      ]
+    }
+  },
+  "タイムクライシス2": {
+    "tw": "危機時刻 2",
+    "jp": "タイムクライシス2",
+    "en": "Time Crisis 2",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "Single_Controller_Ammo:Normal": [
+        "Single_Controller_Ammo:Normal",
+        "賽事編號：run-070；平台：PlayStation 2；跑者：いいだ先生；類型：單人; 預估遊玩時間：0 小時 20 分鐘。",
+        null
+      ]
+    }
+  },
+  "Doom 64 (2020)": {
+    "tw": "Doom 64 (2020)",
+    "jp": "Doom 64 (2020)",
+    "en": "Doom 64 (2020)",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "Watch Me Die-Max": [
+        "Watch Me Die-Max",
+        "賽事編號：run-071；平台：PC；跑者：ZELLLOOO；類型：單人; 預估遊玩時間：1 小時 35 分鐘。",
+        null
+      ]
+    }
+  },
+  "リング": {
+    "tw": "リング",
+    "jp": "リング",
+    "en": "RING",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "Any%": [
+        "Any%",
+        "賽事編號：run-072；平台：DC；跑者：opi_pie_sunpaul；類型：單人; 預估遊玩時間：1 小時 15 分鐘。",
+        null
+      ]
+    }
+  },
+  "九日ナインソール": {
+    "tw": "九日",
+    "jp": "九日ナインソール",
+    "en": "Nine Sols",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "Any% Restricted": [
+        "Any% Restricted",
+        "賽事編號：run-073；平台：PC；跑者：ぽちるが；類型：單人; 預估遊玩時間：1 小時 10 分鐘。",
+        null
+      ]
+    }
+  },
+  "マリオパーティDS": {
+    "tw": "瑪利歐派對 DS",
+    "jp": "マリオパーティDS",
+    "en": "Mario Party DS",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "Story Mode": [
+        "Story Mode",
+        "賽事編號：run-074；平台：DS；跑者：じっくりアルゴン；類型：單人; 預估遊玩時間：2 小時 50 分鐘。",
+        null
+      ]
+    }
+  },
+  "ポケモン不思議のダンジョン 空の探検隊": {
+    "tw": "寶可夢不思議迷宮：天空探險隊",
+    "jp": "ポケモン不思議のダンジョン 空の探検隊",
+    "en": "Pokémon Mystery Dungeon: Explorers of Sky",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "Any% No-WM": [
+        "Any% No-WM",
+        "賽事編號：run-075；平台：WiiUVC；跑者：イカロす；類型：單人; 預估遊玩時間：4 小時 55 分鐘。",
+        null
+      ]
+    }
+  },
+  "New スーパーマリオブラザーズ Wii": {
+    "tw": "新超級瑪利歐兄弟 Wii",
+    "jp": "New スーパーマリオブラザーズ Wii",
+    "en": "New Super Mario Bros. Wii",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "Any%": [
+        "Any%",
+        "賽事編號：run-076；平台：Wii；跑者：Karume、MW、Noz、sunflower；類型：競速對決; 預估遊玩時間：0 小時 30 分鐘。",
+        null
+      ]
+    }
+  },
+  "奇々怪界　黒マントの謎": {
+    "tw": "奇奇怪界 黑斗篷之謎",
+    "jp": "奇々怪界　黒マントの謎",
+    "en": "Pocky & Rocky Reshrined",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "Story Mode Normal": [
+        "Story Mode Normal",
+        "賽事編號：run-077；平台：PC；跑者：ルナ太；類型：單人; 預估遊玩時間：0 小時 35 分鐘。",
+        null
+      ]
+    }
+  },
+  "悪魔城ドラキュラ 奪われた刻印": {
+    "tw": "惡魔城 被奪走的刻印",
+    "jp": "悪魔城ドラキュラ 奪われた刻印",
+    "en": "Castlevania: Order of Ecclesia",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "Shanoa Any% No Ace": [
+        "Shanoa Any% No Ace",
+        "賽事編號：run-078；平台：PC；跑者：シャーフ；類型：單人; 預估遊玩時間：0 小時 35 分鐘。",
+        null
+      ]
+    }
+  },
+  "ファイナルファンタジーIVピクセルリマスター": {
+    "tw": "Final Fantasy IV 像素複刻版",
+    "jp": "ファイナルファンタジーIVピクセルリマスター",
+    "en": "Final Fantasy IV Pixel Remaster",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "Any%": [
+        "Any%",
+        "賽事編號：run-079；平台：PC；跑者：かしわ親方；類型：單人; 預估遊玩時間：2 小時 45 分鐘。",
+        null
+      ]
+    }
+  },
+  "バイオハザード ヴィレッジ": {
+    "tw": "惡靈古堡 村莊",
+    "jp": "バイオハザード ヴィレッジ",
+    "en": "Resident Evil Village",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "VR Mode NG Glitchless": [
+        "VR Mode NG Glitchless",
+        "賽事編號：run-080；平台：PlayStation 5；跑者：したい；類型：單人; 預估遊玩時間：1 小時 50 分鐘。",
+        null
+      ]
+    }
+  },
+  "Resident Evil Gaiden": {
+    "tw": "Resident Evil Gaiden",
+    "jp": "Resident Evil Gaiden",
+    "en": "Resident Evil Gaiden",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "Any%": [
+        "Any%",
+        "賽事編號：run-081；平台：GBC；跑者：いそがい、ソードフィッシュ；類型：競速對決; 預估遊玩時間：0 小時 40 分鐘。",
+        null
+      ]
+    }
+  },
+  "レミングス2 ザ・トライブス": {
+    "tw": "百戰小旅鼠 2：部族",
+    "jp": "レミングス2 ザ・トライブス",
+    "en": "Lemmings 2: The Tribes",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "All Levels \"Gold%\"": [
+        "All Levels \"Gold%\"",
+        "賽事編號：run-082；平台：MS-DOS；跑者：ピロ彦；類型：單人; 預估遊玩時間：2 小時 10 分鐘。",
+        null
+      ]
+    }
+  },
+  "JUMP KING QUEST": {
+    "tw": "JUMP KING QUEST",
+    "jp": "JUMP KING QUEST",
+    "en": "JUMP KING QUEST",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "Any%": [
+        "Any%",
+        "賽事編號：run-083；平台：PC；跑者：らー油まん；類型：單人; 預估遊玩時間：0 小時 50 分鐘。",
+        null
+      ]
+    }
+  },
+  "キングダム ハーツIII": {
+    "tw": "王國之心 III",
+    "jp": "キングダム ハーツIII",
+    "en": "Kingdom Hearts III",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "Any%, New Game, Critical": [
+        "Any%, New Game, Critical",
+        "賽事編號：run-084；平台：PC；跑者：あみあ；類型：單人; 預估遊玩時間：3 小時 0 分鐘。",
+        null
+      ]
+    }
+  },
+  "サイレントヒルf": {
+    "tw": "沉默之丘 f",
+    "jp": "サイレントヒルf",
+    "en": "Silent Hill f",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "NG Casual Any%": [
+        "NG Casual Any%",
+        "賽事編號：run-085；平台：PC；跑者：志々島；類型：單人; 預估遊玩時間：1 小時 40 分鐘。",
+        null
+      ]
+    }
+  },
+  "妖怪ウォッチ2": {
+    "tw": "妖怪手錶 2",
+    "jp": "妖怪ウォッチ2",
+    "en": "Yo-kai Watch 2",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "Any% No Passwords/QR Codes/Trading": [
+        "Any% No Passwords/QR Codes/Trading",
+        "賽事編號：run-086；平台：3DS；跑者：ぺぺん；類型：單人; 預估遊玩時間：3 小時 30 分鐘。",
+        null
+      ]
+    }
+  },
+  "Final Fantasy 2 Pixel Remaster": {
+    "tw": "Final Fantasy II 像素複刻版",
+    "jp": "Final Fantasy 2 Pixel Remaster",
+    "en": "Final Fantasy II Pixel Remaster",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "Any%": [
+        "Any%",
+        "賽事編號：run-087；平台：PC；跑者：家具埜箪笥；類型：單人; 預估遊玩時間：2 小時 15 分鐘。",
+        null
+      ]
+    }
+  },
+  "まつけけBURST!": {
+    "tw": "まつけけBURST!",
+    "jp": "まつけけBURST!",
+    "en": "Matsukeke BURST!",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "ストーリーモード7キャラ": [
+        "ストーリーモード7キャラ",
+        "賽事編號：run-088；平台：Switch；跑者：ざらき；類型：單人; 預估遊玩時間：0 小時 40 分鐘。",
+        null
+      ]
+    }
+  },
+  "スターオーシャン Till the End of Time ディレクターズカット": {
+    "tw": "星海遊俠 3：直到時間盡頭 導演版",
+    "jp": "スターオーシャン Till the End of Time ディレクターズカット",
+    "en": "Star Ocean: Till the End of Time Director's Cut",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
+      "Any%": [
+        "Any%",
+        "賽事編號：run-089；平台：PlayStation 2；跑者：あまえ；類型：單人; 預估遊玩時間：3 小時 30 分鐘。",
+        null
+      ]
+    }
+  },
+  "イースⅥ-ナピシュテムの匣-": {
+    "tw": "伊蘇 VI：納比斯汀的方舟",
+    "jp": "イースⅥ-ナピシュテムの匣-",
+    "en": "Ys VI: The Ark of Napishtim",
+    "boxart": null,
+    "leaderboard": null,
+    "RiJW2026": {
       "Any% Normal": [
-        "【備選節目 Backup】Any% Normal",
-        "雖然是超大型作品，但破關時間只要 34 分鐘！？",
-        "https://www.youtube.com/watch?v=hNyDbOasPT4"
+        "Any% Normal",
+        "賽事編號：run-090；平台：PC；跑者：なずな、海苔；類型：競速對決; 預估遊玩時間：1 小時 20 分鐘。",
+        null
       ]
     }
-  },
-  "【バックアップ】CALLING ～黒き着信～": {
-    "tw": "恐怖電話～不祥鈴聲～",
-    "jp": "CALLING ～黒き着信～",
-    "en": "Calling",
-    "boxart": "https://www.speedrun.com/static/game/4d75gn67/cover.png",
-    "leaderboard": "https://www.speedrun.com/calling",
-    "RiJW2025": {
-      "New Game+ True Ending": [
-        "【備選節目 Backup】New Game+ True Ending",
-        null,
-        "https://www.youtube.com/watch?v=H3s5SuVUcX8"
-      ]
-    }
-  },
-
-
-  "See You Next Time": {"tw": null, "jp": null, "en": null }
+  }
 }
