@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-<title>RTA in Japan Winter 2025 時程表翻譯 ლ(╹◡╹ლ)</title>
+<title>RTA in Japan Winter 2026 時程表翻譯 ლ(╹◡╹ლ)</title>
 
 <link href="https://fonts.googleapis.com/css2?family=Klee+One&display=swap" rel="stylesheet">
 <!-- <link href="https://unpkg.com/embla-carousel/embla-carousel.css" rel="stylesheet" /> -->
@@ -305,53 +305,145 @@ async function init() {
 
 
 
-  let json = null;
+  try {
+    const res = await fetch('./DB/RiJW2026-schedule.json');
+    if (!res.ok) {
+      throw new Error(`賽程 JSON 載入失敗：HTTP ${res.status}`);
+    }
 
-    try {
+    const data = await res.json();
+    console.log("📦 RiJW2026-schedule.json 頂層欄位：", Object.keys(data ?? {}));
 
-      let json = null;
+    // 支援舊版 GitHub Actions 格式，以及官方 RTA JSON 的 runs 格式。
+    let sourceRuns = [];
+    let isLegacyItems = false;
 
-      // 已經抓好的 JS 檔 (GitHub Actions 自動抓)
-      if (json == null) {
+    if (Array.isArray(data?.data?.items)) {
+      sourceRuns = data.data.items;
+      isLegacyItems = true;
+    } else if (Array.isArray(data?.runs)) {
+      sourceRuns = data.runs;
+    } else if (Array.isArray(data?.results)) {
+      sourceRuns = data.results;
+    } else if (Array.isArray(data?.items)) {
+      sourceRuns = data.items;
+    } else if (Array.isArray(data?.data)) {
+      sourceRuns = data.data;
+    }
 
-        try {
+    if (!sourceRuns.length) {
+      throw new Error(
+        `找不到可用的賽程陣列。頂層欄位：${Object.keys(data ?? {}).join(', ')}`
+      );
+    }
 
-          const res = await fetch('./DB/RiJW2026-schedule.json');
-          const data = await res.json();
-          // console.log(data);
+    const durationToSeconds = value => {
+      if (typeof value === 'number' && Number.isFinite(value)) return value;
+      if (typeof value !== 'string') return 0;
 
-          // 轉換格式
-          json = {
-            results: data.data.items.map(item => ({
-              name: item.data[0],
-              category: item.data[1],
-              runners: item.data[4],
-              console: item.data[3],
-              starttime: item.scheduled,
-              run_time: item.length,
-              type: 'speedrun'        
-            }))
-          };
-          console.log("GitHub Actions JSON Success");
-
-        } catch (e) {
-          console.error("GitHub Actions JSON Error：", e);
-        }
-
+      // ISO 8601 duration，例如 PT1H05M 或 PT90M
+      const match = value.match(/^PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?$/);
+      if (match) {
+        return Number(match[1] || 0) * 3600 +
+               Number(match[2] || 0) * 60 +
+               Number(match[3] || 0);
       }
 
+      const numeric = Number(value);
+      return Number.isFinite(numeric) ? numeric : 0;
+    };
 
-    // 資料轉換：統一成你要用的格式
-    allRuns = json.results
-      .filter(r => r.type === 'speedrun' || r.name) // local JS 沒有 type 也接受
-      .map(r => ({
-        game: r.name,
-        category: r.category,
-        runners: Array.isArray(r.runners) ? r.runners.map(rr => rr.name).join(', ') : r.runners,
-        start: new Date(r.starttime),
-        estimate: r.run_time,
-        console: r.console,
-      }));
+    const eventStartValue =
+      data?.event?.startsAt ??
+      data?.event?.startTime ??
+      data?.startsAt ??
+      data?.startTime ??
+      null;
+
+    let nextCalculatedStart = eventStartValue ? new Date(eventStartValue) : null;
+
+    allRuns = sourceRuns.map(item => {
+      let name, category, runners, consoleName, startValue, estimate, setupSeconds, type;
+
+      if (isLegacyItems) {
+        // 舊版 GitHub Actions 資料：欄位放在 item.data 的索引中
+        name = item?.data?.[0];
+        category = item?.data?.[1];
+        consoleName = item?.data?.[3];
+        runners = item?.data?.[4];
+        startValue = item?.scheduled;
+        estimate = item?.length;
+        setupSeconds = 0;
+        type = 'speedrun';
+      } else {
+        name = item?.name ?? item?.game?.name ?? item?.game;
+        category = item?.category;
+        runners = item?.runners;
+        consoleName = item?.console ?? item?.platform;
+        startValue =
+          item?.scheduled ??
+          item?.scheduledAt ??
+          item?.starttime ??
+          item?.startTime ??
+          item?.startsAt ??
+          null;
+        estimate =
+          item?.run_time ??
+          item?.length ??
+          item?.estimateSeconds ??
+          item?.estimate ??
+          null;
+        setupSeconds = Number(item?.setupSeconds ?? 0);
+        type = item?.type ?? item?.runType ?? 'speedrun';
+      }
+
+      let start;
+      if (startValue) {
+        start = new Date(startValue);
+      } else if (nextCalculatedStart && !Number.isNaN(nextCalculatedStart.getTime())) {
+        start = new Date(nextCalculatedStart);
+      } else {
+        start = new Date(NaN);
+      }
+
+      // 若來源沒有每場的固定時間，從活動起始時間依預估時長及設定時間推算。
+      if (!Number.isNaN(start.getTime())) {
+        nextCalculatedStart = new Date(
+          start.getTime() +
+          durationToSeconds(estimate) * 1000 +
+          Math.max(0, setupSeconds) * 1000
+        );
+      }
+
+      const runnerText = Array.isArray(runners)
+        ? runners.map(runner =>
+            typeof runner === 'string' ? runner : (runner?.name ?? '')
+          ).filter(Boolean).join(', ')
+        : (runners ?? '');
+
+      return {
+        game: typeof name === 'string' ? name : (name?.name ?? ''),
+        category: category ?? '',
+        runners: runnerText,
+        start,
+        estimate,
+        console: consoleName ?? '',
+        type
+      };
+    }).filter(run =>
+      (run.type === 'speedrun' || run.game) &&
+      run.game &&
+      !Number.isNaN(run.start.getTime())
+    );
+
+    if (!allRuns.length) {
+      throw new Error(
+        '已讀取 JSON，但無法產生有效賽程。請確認每場賽事有遊戲名稱及開始時間，或資料包含 event.startsAt。'
+      );
+    }
+
+    console.log(`✅ 賽程正規化完成：${allRuns.length} 場`);
+
 
     createDayButtons(); // 建立上方的日期選單
 
@@ -369,6 +461,8 @@ async function init() {
         .sort((a, b) => a.start - b.start);
 
       // 取最後一個節目的開始時間（毫秒）
+      if (!sorted.length) return null;
+
       const lastRunStart = sorted[sorted.length - 1].start.getTime();
 
       // 如果現在時間已超過最後節目開始時間一小時(3600000毫秒)，表示沒節目進行中
@@ -432,7 +526,7 @@ async function init() {
 
   } catch (e) {
     // 整體流程錯誤，顯示錯誤訊息
-    document.body.innerHTML = '<p style="color:red; text-align:center; margin-top:2rem;">賽程載入失敗</p>';
+    if (loadingEl) { loadingEl.textContent = '賽程載入失敗，請查看 Console 診斷訊息。'; }
     console.error(e);
   } finally {
     // 不論成功與否，都移除 loading 畫面
@@ -443,22 +537,31 @@ async function init() {
 
 // EST Time 預計長度格式轉換 (PT1H05M → 1 小時 5 分鐘)
 function formatISODuration(duration) {
-  if (!duration || typeof duration !== 'string') return '';
+  if (duration == null || duration === '') return '';
 
-  const match = duration.match(/^PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?$/);
+  let totalSeconds;
+  if (typeof duration === 'number' && Number.isFinite(duration)) {
+    totalSeconds = Math.max(0, Math.floor(duration));
+  } else if (typeof duration === 'string') {
+    const match = duration.match(/^PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?$/);
+    if (!match) return duration;
 
-  if (!match) return duration; // fallback 顯示原始字串
+    totalSeconds =
+      parseInt(match[1] || '0', 10) * 3600 +
+      parseInt(match[2] || '0', 10) * 60 +
+      parseInt(match[3] || '0', 10);
+  } else {
+    return '';
+  }
 
-  const hours = parseInt(match[1] || '0', 10);
-  const minutes = parseInt(match[2] || '0', 10);
-  const seconds = parseInt(match[3] || '0', 10);
-
+  const hours = Math.floor(totalSeconds / 3600);
+  const minutes = Math.floor((totalSeconds % 3600) / 60);
+  const seconds = totalSeconds % 60;
   const parts = [];
   if (hours > 0) parts.push(`${hours} 小時`);
   if (minutes > 0) parts.push(`${minutes} 分鐘`);
-  if (hours === 0 && minutes === 0 && seconds > 0) parts.push(`${seconds} 秒`);
-
-  return parts.join(' ');
+  if (seconds > 0 && hours === 0) parts.push(`${seconds} 秒`);
+  return parts.join(' ') || '0 分鐘';
 }
 
 
@@ -474,6 +577,7 @@ function formatISODuration(duration) {
 
   function createDayButtons() {
     const container = document.getElementById('daySelector');
+    if (!container) { console.error('找不到日期選單容器 #daySelector'); return; }
     container.innerHTML = '';
     const labelFmt = new Intl.DateTimeFormat("zh-TW", {
       timeZone: 'Asia/Taipei',
@@ -571,7 +675,7 @@ if (window.innerHeight > window.innerWidth) {
       // console.log(item.game);
       //const info = window.gameDB[item.game] || {};
       const info = gameDB[item.game] || {};
-      const details = (info.RiJW2025 && info.RiJW2025[item.category]) || [null, null];
+      const details = (info.RiJW2026 && info.RiJW2026[item.category]) || (info.RiJW2025 && info.RiJW2025[item.category]) || [null, null];
 
       // 主輪播 slide
       const slide = document.createElement('div');
@@ -683,7 +787,7 @@ window.addEventListener('resize', () => {
   const currentActive = document.querySelector('.day-button.active');
   const selectedDateStr = currentActive?.textContent?.replace(/\D/g, '');
 
-  createDayButtons();
+  if (allRuns.length && document.getElementById('daySelector')) createDayButtons();
 
   // 保留使用者目前選擇的日期按鈕
   const buttons = document.querySelectorAll('.day-button');
