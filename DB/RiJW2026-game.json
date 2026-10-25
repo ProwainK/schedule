@@ -1,26 +1,17 @@
 {
-  "RTA in Japan Winter 2026": {
-    "tw": "RTA in Japan 冬季 2026",
-    "jp": "RTA in Japan Winter 2026",
-    "en": "RTA in Japan Winter 2026",
-    "event": {
-      "source": "https://rtain.jp/schedule/data/rtaijw2026.json",
-      "timezone": "Asia/Tokyo",
-      "startsAt": "2026-12-25T06:00:00.000Z",
-      "updatedAt": "2026-10-25T11:20:30.448Z",
-      "runCount": 90
-    }
-  },
+  "RTA in Japan Winter 2026": {"tw": null, "jp": null, "en": null},
+
+
   "ロックマンエグゼ4": {
     "tw": "洛克人 EXE 4",
     "jp": "ロックマンエグゼ4",
     "en": "Mega Man Battle Network 4",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/3108_IGDB.jpg",
     "leaderboard": null,
     "RiJW2026": {
       "Any%": [
-        "Any%",
-        "賽事編號：run-001；平台：GBA；跑者：ｸﾘﾎﾞｰ；類型：單人; 預估遊玩時間：2 小時 5 分鐘。",
+        null,
+        "賽事編號：run-001",
         null
       ]
     }
@@ -29,40 +20,40 @@
     "tw": "星之卡比 三重豪華版",
     "jp": "星のカービィ トリプルデラックス",
     "en": "Kirby: Triple Deluxe",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/415205_IGDB.jpg",
     "leaderboard": null,
     "RiJW2026": {
       "Any%": [
-        "Any%",
-        "賽事編號：run-002；平台：3DS；跑者：おおいぬ；類型：單人; 預估遊玩時間：1 小時 55 分鐘。",
+        null,
+        "賽事編號：run-002",
         null
       ]
     }
   },
   "Lil Gator Game": {
-    "tw": "Lil Gator Game",
-    "jp": "Lil Gator Game",
+    "tw": "小鱷魚遊戲",
+    "jp": null,
     "en": "Lil Gator Game",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1632379839_IGDB.jpg",
     "leaderboard": null,
     "RiJW2026": {
       "All Friends (Base Game)": [
-        "All Friends (Base Game)",
-        "賽事編號：run-003；平台：PC；跑者：ねいがー；類型：單人; 預估遊玩時間：0 小時 40 分鐘。",
+        null,
+        "賽事編號：run-003",
         null
       ]
     }
   },
   "Sea Fantasy": {
-    "tw": "Sea Fantasy",
-    "jp": "Sea Fantasy",
+    "tw": "海洋幻想",
+    "jp": null,
     "en": "Sea Fantasy",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/469455346_IGDB.jpg",
     "leaderboard": null,
     "RiJW2026": {
       "Any%": [
-        "Any%",
-        "賽事編號：run-004；平台：PC；跑者：ふぃそふぃー；類型：單人; 預估遊玩時間：1 小時 0 分鐘。",
+        null,
+        "賽事編號：run-004",
         null
       ]
     }
@@ -71,46 +62,46 @@
     "tw": "蒼藍雷霆 鋼伏特 爪",
     "jp": "蒼き雷霆ガンヴォルト爪",
     "en": "Azure Striker Gunvolt 2",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/489057_IGDB.jpg",
     "leaderboard": null,
     "RiJW2026": {
       "Speedrun Mode Gunvolt": [
-        "Speedrun Mode Gunvolt",
-        "賽事編號：run-005；平台：PC；跑者：レトルネア；類型：單人; 預估遊玩時間：0 小時 45 分鐘。",
+        null,
+        "賽事編號：run-005",
         null
       ]
     }
   },
   "天外魔境ZERO": {
     "tw": "天外魔境 ZERO",
-    "jp": "天外魔境ZERO",
+    "jp": null,
     "en": "Tengai Makyo Zero",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/958788473_IGDB.jpg",
     "leaderboard": null,
     "RiJW2026": {
       "Any% 連射機あり": [
-        "Any% 連射機あり",
-        "賽事編號：run-006；平台：SFC；跑者：塩化コボルト；類型：單人; 預估遊玩時間：5 小時 10 分鐘。",
+        null,
+        "賽事編號：run-006",
         null
       ]
     }
   },
   "Hollow Knight: Silksong": {
     "tw": "空洞騎士：絲之歌",
-    "jp": "Hollow Knight: Silksong",
+    "jp": null,
     "en": "Hollow Knight: Silksong",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/511391_IGDB.jpg",
     "leaderboard": null,
     "RiJW2026": {
       "Any% (NMG, Cloak)": [
-        "Any% (NMG, Cloak)",
-        "賽事編號：run-007；平台：PC；跑者：さわよし；類型：單人; 預估遊玩時間：1 小時 5 分鐘。",
+        null,
+        "賽事編號：run-007",
         null
       ]
     }
   },
   "Dungeon Munchies": {
-    "tw": "地城食材 Munchies",
+    "tw": "Dungeon Munchies",
     "jp": "Dungeon Munchies",
     "en": "Dungeon Munchies",
     "boxart": null,
@@ -198,7 +189,7 @@
     "jp": "ドンキーコングジャングルクライマー",
     "en": "Donkey Kong: Jungle Climber",
     "boxart": null,
-    "leaderboard": null,
+    "leaderboard": "https://www.speedrun.com/dk_jungle_climber",
     "RiJW2026": {
       "All Stages": [
         "All Stages",
@@ -212,7 +203,7 @@
     "jp": "ドンキーコング64",
     "en": "Donkey Kong 64",
     "boxart": null,
-    "leaderboard": null,
+    "leaderboard": "https://www.speedrun.com/dk64",
     "RiJW2026": {
       "0.0% (Low%)": [
         "0.0% (Low%)",
@@ -338,7 +329,7 @@
     "jp": "あつまれ どうぶつの森",
     "en": "Animal Crossing: New Horizons",
     "boxart": null,
-    "leaderboard": null,
+    "leaderboard": "https://www.speedrun.com/acnh",
     "RiJW2026": {
       "Credits": [
         "Credits",
@@ -604,7 +595,7 @@
     "jp": "スーパーマリオランド2 6つの金貨",
     "en": "Super Mario Land 2: 6 Golden Coins",
     "boxart": null,
-    "leaderboard": null,
+    "leaderboard": "https://www.speedrun.com/sml2",
     "RiJW2026": {
       "Any% Glitchless": [
         "Any% Glitchless",
@@ -618,7 +609,7 @@
     "jp": "Terraria",
     "en": "Terraria",
     "boxart": null,
-    "leaderboard": null,
+    "leaderboard": "https://www.speedrun.com/terraria",
     "RiJW2026": {
       "Reduced All Achievements": [
         "Reduced All Achievements",
@@ -743,8 +734,8 @@
     "tw": "超級瑪利歐 64",
     "jp": "スーパーマリオ64",
     "en": "Super Mario 64",
-    "boxart": null,
-    "leaderboard": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/2692_IGDB-600x800.jpg",
+    "leaderboard": "https://www.speedrun.com/sm64",
     "RiJW2026": {
       "目隠し 9枚": [
         "目隠し 9枚",
@@ -758,7 +749,7 @@
     "jp": "ゼルダの伝説 トワイライトプリンセスHD",
     "en": "The Legend of Zelda: Twilight Princess HD",
     "boxart": null,
-    "leaderboard": null,
+    "leaderboard": "https://www.speedrun.com/tphd",
     "RiJW2026": {
       "Any%": [
         "Any%",
@@ -772,7 +763,7 @@
     "jp": "ゼルダの伝説 スカイウォードソード",
     "en": "The Legend of Zelda: Skyward Sword",
     "boxart": null,
-    "leaderboard": null,
+    "leaderboard": "https://www.speedrun.com/lozss",
     "RiJW2026": {
       "Any%": [
         "Any%",
@@ -884,7 +875,7 @@
     "jp": "ポケモンスナップ",
     "en": "Pokémon Snap",
     "boxart": null,
-    "leaderboard": null,
+    "leaderboard": "https://www.speedrun.com/pkmnsnap",
     "RiJW2026": {
       "100%": [
         "100%",
@@ -1024,7 +1015,7 @@
     "jp": "九日ナインソール",
     "en": "Nine Sols",
     "boxart": null,
-    "leaderboard": null,
+    "leaderboard": "https://www.speedrun.com/nine_sols",
     "RiJW2026": {
       "Any% Restricted": [
         "Any% Restricted",
@@ -1066,7 +1057,7 @@
     "jp": "New スーパーマリオブラザーズ Wii",
     "en": "New Super Mario Bros. Wii",
     "boxart": null,
-    "leaderboard": null,
+    "leaderboard": "https://www.speedrun.com/nsmbw",
     "RiJW2026": {
       "Any%": [
         "Any%",
@@ -1094,7 +1085,7 @@
     "jp": "悪魔城ドラキュラ 奪われた刻印",
     "en": "Castlevania: Order of Ecclesia",
     "boxart": null,
-    "leaderboard": null,
+    "leaderboard": "https://www.speedrun.com/ooe",
     "RiJW2026": {
       "Shanoa Any% No Ace": [
         "Shanoa Any% No Ace",
@@ -1178,7 +1169,7 @@
     "jp": "キングダム ハーツIII",
     "en": "Kingdom Hearts III",
     "boxart": null,
-    "leaderboard": null,
+    "leaderboard": "https://www.speedrun.com/kh3",
     "RiJW2026": {
       "Any%, New Game, Critical": [
         "Any%, New Game, Critical",
@@ -1270,5 +1261,8 @@
         null
       ]
     }
-  }
+  },
+
+
+  "See You Next Time": {"tw": null, "jp": null, "en": null }
 }
