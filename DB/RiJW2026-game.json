@@ -139,7 +139,7 @@
     "RiJW2026": {
       "モバイルランキング1位全撃破": [
         "打破當年 (2002 年) 官方排行榜上所有賽道的榜一紀錄",
-        "任天堂曾推出的 Mobile System GB 周邊服務<br>透過手機上傳 GBA 成績到官方線上排行榜<br>https://pbs.twimg.com/media/HU68l7WaUAAV-ez?format=png",
+        "任天堂曾推出的 Mobile System GB 周邊服務<br>透過手機上傳 GBA 成績到官方線上排行榜<br><a href="https://pbs.twimg.com/media/HU68l7WaUAAV-ez?format=png">https://pbs.twimg.com/media/HU68l7WaUAAV-ez?format=png</a>",
         null
       ]
     }
@@ -270,6 +270,8 @@
       ]
     }
   },
+
+
   "FINAL FANTASY TACTICS - The Ivalice Chronicles": {
     "tw": "Final Fantasy 戰略版：伊瓦利斯編年史",
     "jp": "ファイナルファンタジータクティクス - イヴァリース クロニクルズ",
@@ -288,12 +290,12 @@
     "tw": "聖火降魔錄 曉之女神",
     "jp": "ファイアーエムブレム　暁の女神",
     "en": "Fire Emblem: Radiant Dawn",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/13299_IGDB.jpg",
     "leaderboard": null,
     "RiJW2026": {
       "Easy Mode（Not Transfers）": [
-        "Easy Mode（Not Transfers）",
-        "賽事編號：run-021；平台：Wii；跑者：ヤシ；類型：單人; 預估遊玩時間：3 小時 20 分鐘。",
+        null,
+        null,
         null
       ]
     }
@@ -302,26 +304,26 @@
     "tw": "遊戲王 真・決鬥怪獸 封印的記憶",
     "jp": "遊☆戯☆王 真デュエルモンスターズ 封印されし記憶",
     "en": "Yu-Gi-Oh! Forbidden Memories",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/207_IGDB.jpg",
     "leaderboard": null,
     "RiJW2026": {
       "Any% (Trading, No Pocketstation)": [
-        "Any% (Trading, No Pocketstation)",
-        "賽事編號：run-022；平台：PlayStation；跑者：Arus、AsneL、もず；類型：競速對決; 預估遊玩時間：2 小時 0 分鐘。",
+        null,
+        null,
         null
       ]
     }
   },
   "ウマ娘 プリティーダービー 熱血ハチャメチャ大感謝祭！": {
-    "tw": "賽馬娘 熱血喧鬧大感謝祭！",
+    "tw": "賽馬娘 Pretty Derby 熱血喧鬧大感謝祭！",
     "jp": "ウマ娘 プリティーダービー 熱血ハチャメチャ大感謝祭！",
     "en": "Umamusume: Pretty Derby – Party Dash",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1856106566_IGDB.jpg",
     "leaderboard": null,
     "RiJW2026": {
       "Team Rose All Win": [
-        "Team Rose All Win",
-        "賽事編號：run-023；平台：PC；跑者：テーザント；類型：單人; 預估遊玩時間：0 小時 30 分鐘。",
+        null,
+        null,
         null
       ]
     }
@@ -330,26 +332,26 @@
     "tw": "集合啦！動物森友會",
     "jp": "あつまれ どうぶつの森",
     "en": "Animal Crossing: New Horizons",
-    "boxart": null,
-    "leaderboard": "https://www.speedrun.com/acnh",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/509538_IGDB.jpg",
+    "leaderboard": null,
     "RiJW2026": {
       "Credits": [
-        "Credits",
-        "賽事編號：run-024；平台：Switch；跑者：篠崎青葉；類型：單人; 預估遊玩時間：2 小時 0 分鐘。",
+        null,
+        null,
         null
       ]
     }
   },
   "F-ZERO": {
-    "tw": "F-ZERO",
-    "jp": "F-ZERO",
+    "tw": null,
+    "jp": null,
     "en": "F-ZERO",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/13976_IGDB.jpg",
     "leaderboard": null,
     "RiJW2026": {
       "Grand Prix Fire stingray": [
-        "Grand Prix Fire stingray",
-        "賽事編號：run-025；平台：SFC；跑者：FAL；類型：單人; 預估遊玩時間：0 小時 50 分鐘。",
+        null,
+        null,
         null
       ]
     }
@@ -358,12 +360,12 @@
     "tw": "超級炸彈人：Panic Bomber W",
     "jp": "スーパーボンバーマンぱにっくボンバーW",
     "en": "Super Bomberman: Panic Bomber W",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/639048421_IGDB.jpg",
     "leaderboard": null,
     "RiJW2026": {
       "Any%": [
-        "Any%",
-        "賽事編號：run-026；平台：SFC；跑者：せんノ利休；類型：單人; 預估遊玩時間：0 小時 18 分鐘。",
+        null,
+        null,
         null
       ]
     }
@@ -372,12 +374,12 @@
     "tw": "洛克人與佛魯迪",
     "jp": "ロックマン＆フォルテ",
     "en": "Mega Man & Bass",
-    "boxart": null,
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8p30.webp",
     "leaderboard": null,
     "RiJW2026": {
       "Any% (Forte)": [
-        "Any% (Forte)",
-        "賽事編號：run-027；平台：SFC；跑者：SCRB；類型：單人; 預估遊玩時間：0 小時 40 分鐘。",
+        null,
+        null,
         null
       ]
     }
@@ -386,12 +388,12 @@
     "tw": "洛克人 11 命運的齒輪！！",
     "jp": "ロックマン11 運命の歯車!!",
     "en": "Mega Man 11",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/500560_IGDB.jpg",
     "leaderboard": null,
     "RiJW2026": {
       "Any% No OoB (Normal)": [
-        "Any% No OoB (Normal)",
-        "賽事編號：run-028；平台：PC；跑者：ふぁいる；類型：單人; 預估遊玩時間：0 小時 38 分鐘。",
+        null,
+        null,
         null
       ]
     }
@@ -400,152 +402,154 @@
     "tw": "星之卡比 20 週年特別收藏集",
     "jp": "星のカービィ 20周年スペシャルコレクション",
     "en": "Kirby's Dream Collection",
-    "boxart": null,
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobke5.webp",
     "leaderboard": null,
     "RiJW2026": {
       "King Trophy": [
-        "King Trophy",
-        "賽事編號：run-029；平台：Wii；跑者：shiro；類型：單人; 預估遊玩時間：0 小時 30 分鐘。",
+        null,
+        null,
         null
       ]
     }
   },
   "星のカービィ 参上!ドロッチェ団": {
-    "tw": "星之卡比 參上！多洛奇團",
+    "tw": "星之卡比 怪盜洛切團登場！",
     "jp": "星のカービィ 参上!ドロッチェ団",
     "en": "Kirby: Squeak Squad",
-    "boxart": null,
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8vy2.webp",
     "leaderboard": null,
     "RiJW2026": {
       "100%": [
-        "100%",
-        "賽事編號：run-030；平台：DS；跑者：Cabbage；類型：單人; 預估遊玩時間：1 小時 0 分鐘。",
+        null,
+        null,
         null
       ]
     }
   },
   "Super Meat Boy 3D": {
-    "tw": "Super Meat Boy 3D",
-    "jp": "Super Meat Boy 3D",
+    "tw": "超級肉肉男孩 3D",
+    "jp": null,
     "en": "Super Meat Boy 3D",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1050659518_IGDB.jpg",
     "leaderboard": null,
     "RiJW2026": {
       "Any%": [
-        "Any%",
-        "賽事編號：run-031；平台：PC；跑者：kazudeath4；類型：單人; 預估遊玩時間：0 小時 30 分鐘。",
+        null,
+        null,
         null
       ]
     }
   },
   "StepManiaX": {
-    "tw": "StepManiaX",
-    "jp": "StepManiaX",
+    "tw": null,
+    "jp": null,
     "en": "StepManiaX",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/500593_IGDB.jpg",
     "leaderboard": null,
     "RiJW2026": {
       "Team Showcase": [
-        "Team Showcase",
-        "賽事編號：run-032；平台：Arcade；跑者：quino、YUDAI；類型：合作表演; 預估遊玩時間：1 小時 0 分鐘。",
+        null,
+        null,
         null
       ]
     }
   },
   "UNBEATABLE": {
-    "tw": "UNBEATABLE",
-    "jp": "UNBEATABLE",
+    "tw": null,
+    "jp": null,
     "en": "UNBEATABLE",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1652175477_IGDB.jpg",
     "leaderboard": null,
     "RiJW2026": {
       "Arcade Mode Showcase": [
-        "Arcade Mode Showcase",
-        "賽事編號：run-033；平台：PC；跑者：ふーにゃん；類型：單人; 預估遊玩時間：0 小時 50 分鐘。",
+        null,
+        null,
         null
       ]
     }
   },
   "オーライル": {
-    "tw": "オーライル",
+    "tw": "光環坦克",
     "jp": "オーライル",
-    "en": "Oarile",
-    "boxart": null,
+    "en": "Aurail",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/760314860_IGDB.jpg",
     "leaderboard": null,
     "RiJW2026": {
       "Any%": [
-        "Any%",
-        "賽事編號：run-034；平台：Arcade；跑者：よりぬき；類型：單人; 預估遊玩時間：0 小時 35 分鐘。",
+        null,
+        null,
         null
       ]
     }
   },
   "Momodora: 月影のエンドロール": {
-    "tw": "Momodora：月下告別曲",
+    "tw": "莫莫多拉：月下告別",
     "jp": "Momodora: 月影のエンドロール",
     "en": "Momodora: Moonlit Farewell",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/299613733_IGDB.jpg",
     "leaderboard": null,
     "RiJW2026": {
       "NMG Light": [
-        "NMG Light",
-        "賽事編號：run-035；平台：PC；跑者：敷き紙；類型：單人; 預估遊玩時間：1 小時 15 分鐘。",
+        null,
+        null,
         null
       ]
     }
   },
   "Gimmick! 2": {
-    "tw": "Gimmick! 2",
-    "jp": "Gimmick! 2",
+    "tw": "吉米克！2",
+    "jp": "ギミック! 2",
     "en": "Gimmick! 2",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1060084236_IGDB.jpg",
     "leaderboard": null,
     "RiJW2026": {
       "Any% (Gimmick!)": [
-        "Any% (Gimmick!)",
-        "賽事編號：run-036；平台：PC；跑者：beco；類型：單人; 預估遊玩時間：0 小時 35 分鐘。",
+        null,
+        null,
         null
       ]
     }
   },
+
+
   "ドラゴンクエストモンスターズ ジョーカー": {
     "tw": "勇者鬥惡龍 怪獸仙境 Joker",
     "jp": "ドラゴンクエストモンスターズ ジョーカー",
     "en": "Dragon Quest Monsters: Joker",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/6068_IGDB.jpg",
     "leaderboard": null,
     "RiJW2026": {
       "Any%（ガルマッゾ撃破まで）": [
-        "Any%（ガルマッゾ撃破まで）",
-        "賽事編號：run-037；平台：DS；跑者：バルタン；類型：單人; 預估遊玩時間：3 小時 45 分鐘。",
+        null,
+        null,
         null
       ]
     }
   },
   "クロックタワー2": {
-    "tw": "鐘樓 2",
+    "tw": "時鐘塔 2",
     "jp": "クロックタワー2",
-    "en": "Clock Tower 2",
-    "boxart": null,
+    "en": "Clock Tower 2 (JP) / Clock Tower (US)",
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9wvz.webp",
     "leaderboard": null,
     "RiJW2026": {
       "Jennifer 100%": [
-        "Jennifer 100%",
-        "賽事編號：run-038；平台：PlayStation；跑者：ばたけ。；類型：單人; 預估遊玩時間：0 小時 55 分鐘。",
+        null,
+        null,
         null
       ]
     }
   },
   "カービィのエアライダー": {
-    "tw": "星之卡比 飛天騎士",
+    "tw": "卡比的馭天飛行者",
     "jp": "カービィのエアライダー",
     "en": "Kirby Air Riders",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/2086806174_IGDB.jpg",
     "leaderboard": null,
     "RiJW2026": {
       "ロードトリップ Any% スーパーハード": [
-        "ロードトリップ Any% スーパーハード",
-        "賽事編號：run-039；平台：Switch2；跑者：ACAあか；類型：單人; 預估遊玩時間：1 小時 55 分鐘。",
+        null,
+        null,
         null
       ]
     }
@@ -554,12 +558,12 @@
     "tw": "寶可夢 劍",
     "jp": "ポケットモンスター ソード",
     "en": "Pokémon Sword",
-    "boxart": null,
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/coclo7.webp",
     "leaderboard": null,
     "RiJW2026": {
       "Any%": [
-        "Any%",
-        "賽事編號：run-040；平台：Switch；跑者：yuki；類型：單人; 預估遊玩時間：4 小時 5 分鐘。",
+        null,
+        null,
         null
       ]
     }
@@ -567,27 +571,27 @@
   "萬手一体": {
     "tw": "萬手一體",
     "jp": "萬手一体",
-    "en": "Banshou Ittai",
-    "boxart": null,
+    "en": "Out Of Hands",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1521471455_IGDB.jpg",
     "leaderboard": null,
     "RiJW2026": {
       "Any% GreenEnding": [
-        "Any% GreenEnding",
-        "賽事編號：run-041；平台：PC；跑者：藍川睦月；類型：單人; 預估遊玩時間：0 小時 47 分鐘。",
+        null,
+        null,
         null
       ]
     }
   },
   "ザ・キングオブドラゴンズ": {
-    "tw": "龍王戰士",
+    "tw": "龍王",
     "jp": "ザ・キングオブドラゴンズ",
     "en": "The King of Dragons",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/57558073_IGDB.jpg",
     "leaderboard": null,
     "RiJW2026": {
       "Any%": [
-        "Any%",
-        "賽事編號：run-042；平台：PlayStation 4；跑者：サトシー；類型：單人; 預估遊玩時間：0 小時 29 分鐘。",
+        null,
+        null,
         null
       ]
     }
@@ -596,54 +600,54 @@
     "tw": "超級瑪利歐樂園 2 六枚金幣",
     "jp": "スーパーマリオランド2 6つの金貨",
     "en": "Super Mario Land 2: 6 Golden Coins",
-    "boxart": null,
-    "leaderboard": "https://www.speedrun.com/sml2",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/13243_IGDB.jpg",
+    "leaderboard": null,
     "RiJW2026": {
       "Any% Glitchless": [
-        "Any% Glitchless",
-        "賽事編號：run-043；平台：GB；跑者：EiP；類型：單人; 預估遊玩時間：0 小時 30 分鐘。",
+        null,
+        null,
         null
       ]
     }
   },
   "Terraria": {
-    "tw": "Terraria",
-    "jp": "Terraria",
+    "tw": "泰拉瑞亞",
+    "jp": "テラリア",
     "en": "Terraria",
-    "boxart": null,
-    "leaderboard": "https://www.speedrun.com/terraria",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/31376_IGDB.jpg",
+    "leaderboard": null,
     "RiJW2026": {
       "Reduced All Achievements": [
-        "Reduced All Achievements",
-        "賽事編號：run-044；平台：PC；跑者：Camel；類型：單人; 預估遊玩時間：1 小時 35 分鐘。",
+        null,
+        null,
         null
       ]
     }
   },
   "わびさび寿司ダービー": {
-    "tw": "侘寂壽司賽馬",
+    "tw": "無厘頭壽司奔馳賽",
     "jp": "わびさび寿司ダービー",
     "en": "Wabi-Sabi Sushi Derby",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/690056073_IGDB.jpg",
     "leaderboard": null,
     "RiJW2026": {
       "Any% Normal （Ver.1.0.0‐1.0.2）": [
-        "Any% Normal （Ver.1.0.0‐1.0.2）",
-        "賽事編號：run-045；平台：PC；跑者：だぶちっく、だんごむし；類型：競速對決; 預估遊玩時間：0 小時 20 分鐘。",
+        null,
+        null,
         null
       ]
     }
   },
   "スター・ウォーズ ローグ スコードロン III：レベルストライク": {
-    "tw": "星際大戰：俠盜中隊 III：叛軍突擊",
+    "tw": "星球大戰俠盜中隊 III：義軍突擊",
     "jp": "スター・ウォーズ ローグ スコードロン III：レベルストライク",
     "en": "Star Wars Rogue Squadron III: Rebel Strike",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/3757_IGDB.jpg",
     "leaderboard": null,
     "RiJW2026": {
       "NG+ All Missions": [
-        "NG+ All Missions",
-        "賽事編號：run-046；平台：GCN；跑者：PYONKICHI；類型：單人; 預估遊玩時間：1 小時 40 分鐘。",
+        null,
+        null,
         null
       ]
     }
@@ -652,12 +656,12 @@
     "tw": "瘋狂計程車",
     "jp": "クレイジータクシー",
     "en": "Crazy Taxi",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/8355_IGDB.jpg",
     "leaderboard": null,
     "RiJW2026": {
       "Crazy Box NG+": [
-        "Crazy Box NG+",
-        "賽事編號：run-047；平台：DC；跑者：ユタポン；類型：單人; 預估遊玩時間：0 小時 20 分鐘。",
+        null,
+        null,
         null
       ]
     }
@@ -666,68 +670,68 @@
     "tw": "魔兵驚天錄 2",
     "jp": "ベヨネッタ2",
     "en": "Bayonetta 2",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/68015_IGDB.jpg",
     "leaderboard": null,
     "RiJW2026": {
       "Any% Rosa ∞ Climax": [
-        "Any% Rosa ∞ Climax",
-        "賽事編號：run-048；平台：Switch；跑者：一人称；類型：單人; 預估遊玩時間：1 小時 30 分鐘。",
+        null,
+        null,
         null
       ]
     }
   },
   "東方地霊殿 〜 Subterranean Animism.": {
-    "tw": "東方地靈殿 ～ Subterranean Animism",
-    "jp": "東方地霊殿 〜 Subterranean Animism.",
+    "tw": "東方地靈殿 ～ Subterranean Animism.",
+    "jp": null,
     "en": "Touhou Chireiden ~ Subterranean Animism",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/19440_IGDB.jpg",
     "leaderboard": null,
     "RiJW2026": {
       "Lunatic スコアアタック": [
-        "Lunatic スコアアタック",
-        "賽事編號：run-049；平台：PC；跑者：かも猫；類型：單人; 預估遊玩時間：0 小時 47 分鐘。",
+        null,
+        null,
         null
       ]
     }
   },
   "Öoo": {
-    "tw": "Öoo",
-    "jp": "Öoo",
+    "tw": null,
+    "jp": null,
     "en": "Öoo",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1029574441_IGDB.jpg",
     "leaderboard": null,
     "RiJW2026": {
       "Any%": [
-        "Any%",
-        "賽事編號：run-050；平台：PC；跑者：前髪が長い；類型：單人; 預估遊玩時間：0 小時 15 分鐘。",
+        null,
+        null,
         null
       ]
     }
   },
   "Pogostuck: Rage With Your Friends": {
-    "tw": "Pogostuck: Rage With Your Friends",
-    "jp": "Pogostuck: Rage With Your Friends",
+    "tw": null,
+    "jp": null,
     "en": "Pogostuck: Rage With Your Friends",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/511229_IGDB.jpg",
     "leaderboard": null,
     "RiJW2026": {
       "17 Maps": [
-        "17 Maps",
-        "賽事編號：run-051；平台：PC；跑者：suwa_xa；類型：單人; 預估遊玩時間：0 小時 56 分鐘。",
+        null,
+        null,
         null
       ]
     }
   },
   "続ボクらの太陽太陽少年ジャンゴ (Boktai 2: Solar Boy Django)": {
-    "tw": "我們的太陽 2：太陽少年強哥",
-    "jp": "続ボクらの太陽太陽少年ジャンゴ (Boktai 2: Solar Boy Django)",
+    "tw": "續・我們的太陽 太陽少年強哥",
+    "jp": "続・ボクらの太陽 太陽少年ジャンゴ",
     "en": "Boktai 2: Solar Boy Django",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/13353_IGDB.jpg",
     "leaderboard": null,
     "RiJW2026": {
       "Any%": [
-        "Any%",
-        "賽事編號：run-052；平台：GBA；跑者：Drakodan；類型：單人; 預估遊玩時間：1 小時 55 分鐘。",
+        null,
+        null,
         null
       ]
     }
@@ -736,68 +740,70 @@
     "tw": "超級瑪利歐 64",
     "jp": "スーパーマリオ64",
     "en": "Super Mario 64",
-    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/2692_IGDB-600x800.jpg",
-    "leaderboard": "https://www.speedrun.com/sm64",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/2692_IGDB.jpg",
+    "leaderboard": null,
     "RiJW2026": {
       "目隠し 9枚": [
-        "目隠し 9枚",
-        "賽事編號：run-053；平台：N64 (Wii VC)；跑者：Bubzia；類型：單人; 預估遊玩時間：0 小時 20 分鐘。",
+        null,
+        null,
         null
       ]
     }
   },
+
+
   "ゼルダの伝説 トワイライトプリンセスHD": {
     "tw": "薩爾達傳說 黃昏公主 HD",
     "jp": "ゼルダの伝説 トワイライトプリンセスHD",
     "en": "The Legend of Zelda: Twilight Princess HD",
-    "boxart": null,
-    "leaderboard": "https://www.speedrun.com/tphd",
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob9pj.webp",
+    "leaderboard": null,
     "RiJW2026": {
       "Any%": [
-        "Any%",
-        "賽事編號：run-054；平台：WiiU；跑者：すわん。；類型：單人; 預估遊玩時間：3 小時 25 分鐘。",
+        null,
+        null,
         null
       ]
     }
   },
   "ゼルダの伝説 スカイウォードソード": {
-    "tw": "薩爾達傳說 天空之劍",
+    "tw": "薩爾達傳說 禦天之劍",
     "jp": "ゼルダの伝説 スカイウォードソード",
     "en": "The Legend of Zelda: Skyward Sword",
-    "boxart": null,
-    "leaderboard": "https://www.speedrun.com/lozss",
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5wrk.webp",
+    "leaderboard": null,
     "RiJW2026": {
       "Any%": [
-        "Any%",
-        "賽事編號：run-055；平台：Wii；跑者：サンダーボルト；類型：單人; 預估遊玩時間：1 小時 18 分鐘。",
+        null,
+        null,
         null
       ]
     }
   },
   "ゼルダの伝説1": {
     "tw": "薩爾達傳說",
-    "jp": "ゼルダの伝説1",
+    "jp": "ゼルダの伝説",
     "en": "The Legend of Zelda",
-    "boxart": null,
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5wcp.webp",
     "leaderboard": null,
     "RiJW2026": {
       "Swordless First Quest": [
-        "Swordless First Quest",
-        "賽事編號：run-056；平台：FC；跑者：cron；類型：單人; 預估遊玩時間：0 小時 44 分鐘。",
+        null,
+        null,
         null
       ]
     }
   },
   "EASTWARD": {
-    "tw": "Eastward",
-    "jp": "EASTWARD",
+    "tw": "風來之國",
+    "jp": null,
     "en": "Eastward",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/505766_IGDB.jpg",
     "leaderboard": null,
     "RiJW2026": {
       "Any% FGS": [
-        "Any% FGS",
-        "賽事編號：run-057；平台：PC；跑者：ひなめが；類型：單人; 預估遊玩時間：2 小時 40 分鐘。",
+        null,
+        null,
         null
       ]
     }
@@ -806,12 +812,12 @@
     "tw": "聽音 RPG【失落的音問村】",
     "jp": "聴音RPG【失われた音問村】",
     "en": "Listening RPG: The Lost Sound Village",
-    "boxart": null,
+    "boxart": "https://www.4gamer.net/games/042/G004287/20100525055/SS/001.jpg",
     "leaderboard": null,
     "RiJW2026": {
       "Any%": [
-        "Any%",
-        "賽事編號：run-058；平台：Web；跑者：まっつ；類型：單人; 預估遊玩時間：0 小時 42 分鐘。",
+        null,
+        null,
         null
       ]
     }
@@ -819,13 +825,13 @@
   "亜電": {
     "tw": "亞電",
     "jp": "亜電",
-    "en": "Aden",
-    "boxart": null,
+    "en": "ADEN",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/342375414_IGDB.jpg",
     "leaderboard": null,
     "RiJW2026": {
       "Hard 100%": [
-        "Hard 100%",
-        "賽事編號：run-059；平台：PC；跑者：369；類型：單人; 預估遊玩時間：1 小時 50 分鐘。",
+        null,
+        null,
         null
       ]
     }
@@ -834,40 +840,40 @@
     "tw": "瑪利歐與路易吉 RPG 2",
     "jp": "マリオ&ルイージRPG2",
     "en": "Mario & Luigi: Partners in Time",
-    "boxart": null,
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5fxq.webp",
     "leaderboard": null,
     "RiJW2026": {
       "Any%": [
-        "Any%",
-        "賽事編號：run-060；平台：DS；跑者：とんこつ；類型：單人; 預估遊玩時間：2 小時 25 分鐘。",
+        null,
+        null,
         null
       ]
     }
   },
   "悪魔城ドラキュラ Revisited": {
-    "tw": "惡魔城 Revisited",
+    "tw": "惡魔城 街機版 Revisited",
     "jp": "悪魔城ドラキュラ Revisited",
-    "en": "Castlevania Revisited",
-    "boxart": null,
+    "en": "Haunted Castle Revisited",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1991603986_IGDB.jpg",
     "leaderboard": null,
     "RiJW2026": {
       "Any% Easy": [
-        "Any% Easy",
-        "賽事編號：run-061；平台：PC/XboxSeriesS；跑者：SAS、偏差値60；類型：競速對決; 預估遊玩時間：0 小時 16 分鐘。",
+        null,
+        null,
         null
       ]
     }
   },
   "Isopod: A Webbed Spin-off": {
-    "tw": "Isopod: A Webbed Spin-off",
-    "jp": "Isopod: A Webbed Spin-off",
+    "tw": null,
+    "jp": null,
     "en": "Isopod: A Webbed Spin-off",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/406330408_IGDB.jpg",
     "leaderboard": null,
     "RiJW2026": {
       "Any% NMG": [
-        "Any% NMG",
-        "賽事編號：run-062；平台：PC；跑者：さっぼますたぁ；類型：單人; 預估遊玩時間：0 小時 45 分鐘。",
+        null,
+        null,
         null
       ]
     }
@@ -876,12 +882,12 @@
     "tw": "寶可夢隨樂拍",
     "jp": "ポケモンスナップ",
     "en": "Pokémon Snap",
-    "boxart": null,
-    "leaderboard": "https://www.speedrun.com/pkmnsnap",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/9192_IGDB.jpg",
+    "leaderboard": null,
     "RiJW2026": {
       "100%": [
-        "100%",
-        "賽事編號：run-063；平台：N64；跑者：aKaFuKu(キイ)；類型：單人; 預估遊玩時間：0 小時 28 分鐘。",
+        null,
+        null,
         null
       ]
     }
@@ -890,12 +896,12 @@
     "tw": "魔物獵人 4G",
     "jp": "モンスターハンター4G",
     "en": "Monster Hunter 4 Ultimate",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/417838_IGDB.jpg",
     "leaderboard": null,
     "RiJW2026": {
       "Caravan Any% (Shagaru Magala)": [
-        "Caravan Any% (Shagaru Magala)",
-        "賽事編號：run-064；平台：3DS；跑者：mosstkm(もす)；類型：單人; 預估遊玩時間：3 小時 30 分鐘。",
+        null,
+        null,
         null
       ]
     }
@@ -908,8 +914,8 @@
     "leaderboard": null,
     "RiJW2026": {
       "Any%": [
-        "Any%",
-        "賽事編號：run-065；平台：PC；跑者：カゲタロ；類型：單人; 預估遊玩時間：0 小時 28 分鐘。",
+        null,
+        null,
         null
       ]
     }
@@ -922,8 +928,8 @@
     "leaderboard": null,
     "RiJW2026": {
       "Any% - Normal": [
-        "Any% - Normal",
-        "賽事編號：run-066；平台：PC；跑者：Keiichi；類型：單人; 預估遊玩時間：0 小時 35 分鐘。",
+        null,
+        null,
         null
       ]
     }
@@ -936,8 +942,8 @@
     "leaderboard": null,
     "RiJW2026": {
       "Glitched": [
-        "Glitched",
-        "賽事編號：run-067；平台：FC；跑者：コーリャン；類型：單人; 預估遊玩時間：0 小時 12 分鐘。",
+        null,
+        null,
         null
       ]
     }
@@ -950,8 +956,8 @@
     "leaderboard": null,
     "RiJW2026": {
       "Any% Restricted 1P": [
-        "Any% Restricted 1P",
-        "賽事編號：run-068；平台：Switch2；跑者：Ath、Haitex；類型：競速對決; 預估遊玩時間：1 小時 20 分鐘。",
+        null,
+        null,
         null
       ]
     }
@@ -964,8 +970,8 @@
     "leaderboard": null,
     "RiJW2026": {
       "True Ending": [
-        "True Ending",
-        "賽事編號：run-069；平台：SFC；跑者：Leftover；類型：單人; 預估遊玩時間：0 小時 36 分鐘。",
+        null,
+        null,
         null
       ]
     }
@@ -978,12 +984,14 @@
     "leaderboard": null,
     "RiJW2026": {
       "Single_Controller_Ammo:Normal": [
-        "Single_Controller_Ammo:Normal",
-        "賽事編號：run-070；平台：PlayStation 2；跑者：いいだ先生；類型：單人; 預估遊玩時間：0 小時 20 分鐘。",
+        null,
+        null,
         null
       ]
     }
   },
+
+
   "Doom 64 (2020)": {
     "tw": "Doom 64 (2020)",
     "jp": "Doom 64 (2020)",
@@ -992,8 +1000,8 @@
     "leaderboard": null,
     "RiJW2026": {
       "Watch Me Die-Max": [
-        "Watch Me Die-Max",
-        "賽事編號：run-071；平台：PC；跑者：ZELLLOOO；類型：單人; 預估遊玩時間：1 小時 35 分鐘。",
+        null,
+        null,
         null
       ]
     }
@@ -1006,8 +1014,8 @@
     "leaderboard": null,
     "RiJW2026": {
       "Any%": [
-        "Any%",
-        "賽事編號：run-072；平台：DC；跑者：opi_pie_sunpaul；類型：單人; 預估遊玩時間：1 小時 15 分鐘。",
+        null,
+        null,
         null
       ]
     }
@@ -1020,8 +1028,8 @@
     "leaderboard": "https://www.speedrun.com/nine_sols",
     "RiJW2026": {
       "Any% Restricted": [
-        "Any% Restricted",
-        "賽事編號：run-073；平台：PC；跑者：ぽちるが；類型：單人; 預估遊玩時間：1 小時 10 分鐘。",
+        null,
+        null,
         null
       ]
     }
@@ -1034,8 +1042,8 @@
     "leaderboard": null,
     "RiJW2026": {
       "Story Mode": [
-        "Story Mode",
-        "賽事編號：run-074；平台：DS；跑者：じっくりアルゴン；類型：單人; 預估遊玩時間：2 小時 50 分鐘。",
+        null,
+        null,
         null
       ]
     }
@@ -1048,8 +1056,8 @@
     "leaderboard": null,
     "RiJW2026": {
       "Any% No-WM": [
-        "Any% No-WM",
-        "賽事編號：run-075；平台：WiiUVC；跑者：イカロす；類型：單人; 預估遊玩時間：4 小時 55 分鐘。",
+        null,
+        null,
         null
       ]
     }
@@ -1062,8 +1070,8 @@
     "leaderboard": "https://www.speedrun.com/nsmbw",
     "RiJW2026": {
       "Any%": [
-        "Any%",
-        "賽事編號：run-076；平台：Wii；跑者：Karume、MW、Noz、sunflower；類型：競速對決; 預估遊玩時間：0 小時 30 分鐘。",
+        null,
+        null,
         null
       ]
     }
@@ -1076,8 +1084,8 @@
     "leaderboard": null,
     "RiJW2026": {
       "Story Mode Normal": [
-        "Story Mode Normal",
-        "賽事編號：run-077；平台：PC；跑者：ルナ太；類型：單人; 預估遊玩時間：0 小時 35 分鐘。",
+        null,
+        null,
         null
       ]
     }
@@ -1090,8 +1098,8 @@
     "leaderboard": "https://www.speedrun.com/ooe",
     "RiJW2026": {
       "Shanoa Any% No Ace": [
-        "Shanoa Any% No Ace",
-        "賽事編號：run-078；平台：PC；跑者：シャーフ；類型：單人; 預估遊玩時間：0 小時 35 分鐘。",
+        null,
+        null,
         null
       ]
     }
@@ -1104,8 +1112,8 @@
     "leaderboard": null,
     "RiJW2026": {
       "Any%": [
-        "Any%",
-        "賽事編號：run-079；平台：PC；跑者：かしわ親方；類型：單人; 預估遊玩時間：2 小時 45 分鐘。",
+        null,
+        null,
         null
       ]
     }
@@ -1118,8 +1126,8 @@
     "leaderboard": null,
     "RiJW2026": {
       "VR Mode NG Glitchless": [
-        "VR Mode NG Glitchless",
-        "賽事編號：run-080；平台：PlayStation 5；跑者：したい；類型：單人; 預估遊玩時間：1 小時 50 分鐘。",
+        null,
+        null,
         null
       ]
     }
@@ -1132,8 +1140,8 @@
     "leaderboard": null,
     "RiJW2026": {
       "Any%": [
-        "Any%",
-        "賽事編號：run-081；平台：GBC；跑者：いそがい、ソードフィッシュ；類型：競速對決; 預估遊玩時間：0 小時 40 分鐘。",
+        null,
+        null,
         null
       ]
     }
@@ -1146,8 +1154,8 @@
     "leaderboard": null,
     "RiJW2026": {
       "All Levels \"Gold%\"": [
-        "All Levels \"Gold%\"",
-        "賽事編號：run-082；平台：MS-DOS；跑者：ピロ彦；類型：單人; 預估遊玩時間：2 小時 10 分鐘。",
+        null,
+        null,
         null
       ]
     }
@@ -1160,8 +1168,8 @@
     "leaderboard": null,
     "RiJW2026": {
       "Any%": [
-        "Any%",
-        "賽事編號：run-083；平台：PC；跑者：らー油まん；類型：單人; 預估遊玩時間：0 小時 50 分鐘。",
+        null,
+        null,
         null
       ]
     }
@@ -1170,12 +1178,12 @@
     "tw": "王國之心 III",
     "jp": "キングダム ハーツIII",
     "en": "Kingdom Hearts III",
-    "boxart": null,
-    "leaderboard": "https://www.speedrun.com/kh3",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/369585_IGDB.jpg",
+    "leaderboard": null,
     "RiJW2026": {
       "Any%, New Game, Critical": [
-        "Any%, New Game, Critical",
-        "賽事編號：run-084；平台：PC；跑者：あみあ；類型：單人; 預估遊玩時間：3 小時 0 分鐘。",
+        null,
+        null,
         null
       ]
     }
@@ -1225,8 +1233,8 @@
     }
   },
   "まつけけBURST!": {
-    "tw": null,
-    "jp": "まつけけBURST!",
+    "tw": "まつけけBURST!",
+    "jp": null,
     "en": "Matsukeke BURST!",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/122740362_IGDB.jpg",
     "leaderboard": null,
