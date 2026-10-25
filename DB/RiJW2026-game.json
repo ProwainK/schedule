@@ -38,7 +38,7 @@
     "leaderboard": null,
     "RiJW2026": {
       "All Friends (Base Game)": [
-        "全好友收集 (本體原版)",
+        "全好友收集",
         null,
         null
       ]
@@ -110,7 +110,7 @@
     "leaderboard": null,
     "RiJW2026": {
       "Any% Fresh Save": [
-        null,
+        "任意要素通關，開新存檔出發",
         null,
         null
       ]
@@ -138,36 +138,36 @@
     "leaderboard": null,
     "RiJW2026": {
       "モバイルランキング1位全撃破": [
-        "モバイルランキング1位全撃破",
-        null,
+        "打破當年 (2002 年) 官方排行榜上所有賽道的榜一紀錄",
+        "任天堂曾推出的 Mobile System GB 周邊服務<br>透過手機上傳 GBA 成績到官方線上排行榜<br>https://pbs.twimg.com/media/HU68l7WaUAAV-ez?format=png",
         null
       ]
     }
   },
   "Civilization VII": {
     "tw": "文明帝國 VII",
-    "jp": "Civilization VII",
+    "jp": null,
     "en": "Civilization VII",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/414822821_IGDB.jpg",
     "leaderboard": null,
     "RiJW2026": {
       "Vanilla,ScienceVictory,AntiquityStart,Deity": [
-        "Vanilla,ScienceVictory,AntiquityStart,Deity",
-        "賽事編號：run-011；平台：PC；跑者：としお；類型：單人; 預估遊玩時間：0 小時 40 分鐘。",
+        "原版、科學勝利、古典時代開局、神級難度",
+        null,
         null
       ]
     }
   },
   "Bomb Rush Cyberfunk": {
-    "tw": "Bomb Rush Cyberfunk",
-    "jp": "Bomb Rush Cyberfunk",
+    "tw": null,
+    "jp": null,
     "en": "Bomb Rush Cyberfunk",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/518884_IGDB.jpg",
     "leaderboard": null,
     "RiJW2026": {
       "Any% Glitchless": [
         "Any% Glitchless",
-        "賽事編號：run-012；平台：PC；跑者：ヒエショー³；類型：單人; 預估遊玩時間：1 小時 32 分鐘。",
+        null,
         null
       ]
     }
@@ -176,26 +176,26 @@
     "tw": "音速小子與秘密之環",
     "jp": "ソニックと秘密のリング",
     "en": "Sonic and the Secret Rings",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/2312_IGDB.jpg",
     "leaderboard": null,
     "RiJW2026": {
       "Any% NG+ (No Tutorial Stages)": [
-        "Any% NG+ (No Tutorial Stages)",
-        "賽事編號：run-013；平台：Wii；跑者：ダリ；類型：單人; 預估遊玩時間：1 小時 6 分鐘。",
+        "任意要素通關（二週目 New Game+、不含教學關卡）",
+        null,
         null
       ]
     }
   },
   "ドンキーコングジャングルクライマー": {
-    "tw": "咚奇剛叢林攀爬者",
+    "tw": "咚奇剛 叢林攀爬者",
     "jp": "ドンキーコングジャングルクライマー",
     "en": "Donkey Kong: Jungle Climber",
-    "boxart": null,
-    "leaderboard": "https://www.speedrun.com/dk_jungle_climber",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/17426_IGDB.jpg",
+    "leaderboard": null,
     "RiJW2026": {
       "All Stages": [
-        "All Stages",
-        "賽事編號：run-014；平台：WiiU；跑者：りふ；類型：單人; 預估遊玩時間：1 小時 5 分鐘。",
+        "全關卡擊破",
+        null,
         null
       ]
     }
@@ -204,82 +204,82 @@
     "tw": "咚奇剛 64",
     "jp": "ドンキーコング64",
     "en": "Donkey Kong 64",
-    "boxart": null,
-    "leaderboard": "https://www.speedrun.com/dk64",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/13765_IGDB.jpg",
+    "leaderboard": null,
     "RiJW2026": {
       "0.0% (Low%)": [
-        "0.0% (Low%)",
-        "賽事編號：run-015；平台：N64 (Nintendo Switch Online)；跑者：signakong；類型：單人; 預估遊玩時間：0 小時 35 分鐘。",
+        null,
+        null,
         null
       ]
     }
   },
   "クライムクラッカーズ": {
-    "tw": "Crime Crackers",
+    "tw": "罪惡剋星",
     "jp": "クライムクラッカーズ",
     "en": "Crime Crackers",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/33847_IGDB.jpg",
     "leaderboard": null,
     "RiJW2026": {
       "Any%": [
-        "Any%",
-        "賽事編號：run-016；平台：PlayStation；跑者：ゐゐゑび；類型：單人; 預估遊玩時間：2 小時 15 分鐘。",
+        null,
+        null,
         null
       ]
     }
   },
   "メトロイドプライム リマスタード": {
-    "tw": "密特羅德 Prime 重製版",
+    "tw": "密特羅德 究極 復刻版",
     "jp": "メトロイドプライム リマスタード",
     "en": "Metroid Prime Remastered",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/8570120_IGDB.jpg",
     "leaderboard": null,
     "RiJW2026": {
       "Any% Casual": [
-        "Any% Casual",
-        "賽事編號：run-017；平台：Switch；跑者：いわび；類型：單人; 預估遊玩時間：1 小時 45 分鐘。",
+        null,
+        null,
         null
       ]
     }
   },
   "Space Invaders Extreme": {
-    "tw": "Space Invaders Extreme",
-    "jp": "Space Invaders Extreme",
+    "tw": "太空侵略者 極限 (Steam)",
+    "jp": null,
     "en": "Space Invaders Extreme",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/18739_IGDB.jpg",
     "leaderboard": null,
     "RiJW2026": {
       "Extreme": [
         "Extreme",
-        "賽事編號：run-018；平台：PC；跑者：むんべちゃん；類型：單人; 預估遊玩時間：0 小時 25 分鐘。",
+        null,
         null
       ]
     }
   },
   "Final Fantasy XVI": {
-    "tw": "Final Fantasy XVI",
-    "jp": "Final Fantasy XVI",
+    "tw": null,
+    "jp": null,
     "en": "Final Fantasy XVI",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/2090279789_IGDB.jpg",
     "leaderboard": null,
     "RiJW2026": {
       "NewGame Story": [
-        "NewGame Story",
-        "賽事編號：run-019；平台：PlayStation 5；跑者：カナヤミ；類型：單人; 預估遊玩時間：7 小時 0 分鐘。",
+        null,
+        null,
         null
       ]
     }
   },
   "FINAL FANTASY TACTICS - The Ivalice Chronicles": {
-    "tw": "Final Fantasy Tactics - The Ivalice Chronicles",
-    "jp": "FINAL FANTASY TACTICS - The Ivalice Chronicles",
+    "tw": "Final Fantasy 戰略版：伊瓦利斯編年史",
+    "jp": "ファイナルファンタジータクティクス - イヴァリース クロニクルズ",
     "en": "Final Fantasy Tactics: The Ivalice Chronicles",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/726936393_IGDB.jpg",
     "leaderboard": null,
     "RiJW2026": {
       "No Math%": [
-        "No Math%",
-        "賽事編號：run-020；平台：PC；跑者：カエル候；類型：單人; 預估遊玩時間：2 小時 10 分鐘。",
+        "不使用算術士通關",
+        null,
         null
       ]
     }
