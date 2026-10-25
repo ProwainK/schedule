@@ -11,7 +11,7 @@
     "RiJW2026": {
       "Any%": [
         null,
-        "賽事編號：run-001",
+        null,
         null
       ]
     }
@@ -25,7 +25,7 @@
     "RiJW2026": {
       "Any%": [
         null,
-        "賽事編號：run-002",
+        null,
         null
       ]
     }
@@ -38,8 +38,8 @@
     "leaderboard": null,
     "RiJW2026": {
       "All Friends (Base Game)": [
+        "全好友收集 (本體原版)",
         null,
-        "賽事編號：run-003",
         null
       ]
     }
@@ -53,21 +53,21 @@
     "RiJW2026": {
       "Any%": [
         null,
-        "賽事編號：run-004",
+        null,
         null
       ]
     }
   },
   "蒼き雷霆ガンヴォルト爪": {
-    "tw": "蒼藍雷霆 鋼伏特 爪",
+    "tw": "蒼藍雷霆 GUNVOLT 2",
     "jp": "蒼き雷霆ガンヴォルト爪",
     "en": "Azure Striker Gunvolt 2",
     "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/489057_IGDB.jpg",
     "leaderboard": null,
     "RiJW2026": {
       "Speedrun Mode Gunvolt": [
+        "Speedrun 模式，使用角色「鋼伏特」",
         null,
-        "賽事編號：run-005",
         null
       ]
     }
@@ -80,12 +80,14 @@
     "leaderboard": null,
     "RiJW2026": {
       "Any% 連射機あり": [
+        "任意要素通關，允許使用連射控制器",
         null,
-        "賽事編號：run-006",
         null
       ]
     }
   },
+
+
   "Hollow Knight: Silksong": {
     "tw": "空洞騎士：絲之歌",
     "jp": null,
@@ -95,21 +97,21 @@
     "RiJW2026": {
       "Any% (NMG, Cloak)": [
         null,
-        "賽事編號：run-007",
+        null,
         null
       ]
     }
   },
   "Dungeon Munchies": {
-    "tw": "Dungeon Munchies",
-    "jp": "Dungeon Munchies",
+    "tw": "餐癮地城",
+    "jp": null,
     "en": "Dungeon Munchies",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/512137_IGDB.jpg",
     "leaderboard": null,
     "RiJW2026": {
       "Any% Fresh Save": [
-        "Any% Fresh Save",
-        "賽事編號：run-008；平台：PC；跑者：マックス；類型：單人; 預估遊玩時間：1 小時 30 分鐘。",
+        null,
+        null,
         null
       ]
     }
@@ -118,12 +120,12 @@
     "tw": "新超級瑪利歐兄弟",
     "jp": "New スーパーマリオブラザーズ",
     "en": "New Super Mario Bros.",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/7534_IGDB.jpg",
     "leaderboard": null,
     "RiJW2026": {
       "100%": [
-        "100%",
-        "賽事編號：run-009；平台：DS；跑者：akimaro；類型：單人; 預估遊玩時間：2 小時 45 分鐘。",
+        null,
+        null,
         null
       ]
     }
@@ -132,12 +134,12 @@
     "tw": "瑪利歐賽車 Advance",
     "jp": "マリオカートアドバンス",
     "en": "Mario Kart: Super Circuit",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/15373_IGDB.jpg",
     "leaderboard": null,
     "RiJW2026": {
       "モバイルランキング1位全撃破": [
         "モバイルランキング1位全撃破",
-        "賽事編號：run-010；平台：GBA；跑者：Su_cstrakm；類型：單人; 預估遊玩時間：1 小時 15 分鐘。",
+        null,
         null
       ]
     }
@@ -1178,72 +1180,74 @@
       ]
     }
   },
+
+
   "サイレントヒルf": {
     "tw": "沉默之丘 f",
     "jp": "サイレントヒルf",
     "en": "Silent Hill f",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/848400095_IGDB.jpg",
     "leaderboard": null,
     "RiJW2026": {
       "NG Casual Any%": [
-        "NG Casual Any%",
-        "賽事編號：run-085；平台：PC；跑者：志々島；類型：單人; 預估遊玩時間：1 小時 40 分鐘。",
+        null,
+        null,
         null
       ]
     }
   },
   "妖怪ウォッチ2": {
-    "tw": "妖怪手錶 2",
+    "tw": "妖怪手錶 2 (元祖版)",
     "jp": "妖怪ウォッチ2",
-    "en": "Yo-kai Watch 2",
-    "boxart": null,
+    "en": "Yo-kai Watch 2: Bony Spirits",
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/coccev.webp",
     "leaderboard": null,
     "RiJW2026": {
       "Any% No Passwords/QR Codes/Trading": [
-        "Any% No Passwords/QR Codes/Trading",
-        "賽事編號：run-086；平台：3DS；跑者：ぺぺん；類型：單人; 預估遊玩時間：3 小時 30 分鐘。",
+        null,
+        null,
         null
       ]
     }
   },
   "Final Fantasy 2 Pixel Remaster": {
     "tw": "Final Fantasy II 像素複刻版",
-    "jp": "Final Fantasy 2 Pixel Remaster",
+    "jp": null,
     "en": "Final Fantasy II Pixel Remaster",
-    "boxart": null,
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6pla.webp",
     "leaderboard": null,
     "RiJW2026": {
       "Any%": [
-        "Any%",
-        "賽事編號：run-087；平台：PC；跑者：家具埜箪笥；類型：單人; 預估遊玩時間：2 小時 15 分鐘。",
+        null,
+        null,
         null
       ]
     }
   },
   "まつけけBURST!": {
-    "tw": "まつけけBURST!",
+    "tw": null,
     "jp": "まつけけBURST!",
     "en": "Matsukeke BURST!",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/122740362_IGDB.jpg",
     "leaderboard": null,
     "RiJW2026": {
       "ストーリーモード7キャラ": [
-        "ストーリーモード7キャラ",
-        "賽事編號：run-088；平台：Switch；跑者：ざらき；類型：單人; 預估遊玩時間：0 小時 40 分鐘。",
+        null,
+        null,
         null
       ]
     }
   },
   "スターオーシャン Till the End of Time ディレクターズカット": {
-    "tw": "星海遊俠 3：直到時間盡頭 導演版",
+    "tw": "星海遊俠 直到時間的盡頭 導演剪輯版",
     "jp": "スターオーシャン Till the End of Time ディレクターズカット",
     "en": "Star Ocean: Till the End of Time Director's Cut",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/11117_IGDB.jpg",
     "leaderboard": null,
     "RiJW2026": {
       "Any%": [
-        "Any%",
-        "賽事編號：run-089；平台：PlayStation 2；跑者：あまえ；類型：單人; 預估遊玩時間：3 小時 30 分鐘。",
+        null,
+        null,
         null
       ]
     }
@@ -1252,12 +1256,12 @@
     "tw": "伊蘇 VI：納比斯汀的方舟",
     "jp": "イースⅥ-ナピシュテムの匣-",
     "en": "Ys VI: The Ark of Napishtim",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/17960_IGDB.jpg",
     "leaderboard": null,
     "RiJW2026": {
       "Any% Normal": [
-        "Any% Normal",
-        "賽事編號：run-090；平台：PC；跑者：なずな、海苔；類型：競速對決; 預估遊玩時間：1 小時 20 分鐘。",
+        null,
+        null,
         null
       ]
     }
