@@ -1,0 +1,1569 @@
+{
+  "schemaVersion": 2,
+  "event": {
+    "id": "rtaijw2026",
+    "name": "RTA in Japan Winter 2026",
+    "timezone": "Asia/Tokyo",
+    "startsAt": "2026-12-25T06:00:00.000Z",
+    "description": "- この大会は、任天堂の協賛・提携を受けたものではありません。\n- 任天堂が定める[「コミュニティ大会への出場および観戦に関する規約」](https://www.nintendo.co.jp/tournament_guideline/rules.html)をご確認ください。",
+    "links": {
+      "twitter": "RTAinJapan",
+      "bluesky": "rtainjapan.bsky.social",
+      "youtube": "@rtainjapan",
+      "twitch": "rtainjapan"
+    },
+    "updatedAt": "2026-10-25T11:20:30.448Z",
+    "theme": "rij-winter"
+  },
+  "runs": [
+    {
+      "id": "run-001",
+      "game": "ロックマンエグゼ4",
+      "category": "Any%",
+      "runType": "single",
+      "platform": "GBA",
+      "runners": [
+        {
+          "name": "ｸﾘﾎﾞｰ",
+          "twitch": "https://www.twitch.tv/teragoomba",
+          "x": "https://x.com/Jugoomba",
+          "youtube": "https://www.youtube.com/@jugoomba"
+        }
+      ],
+      "estimateSeconds": 7500,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-002",
+      "game": "星のカービィ トリプルデラックス",
+      "category": "Any%",
+      "runType": "single",
+      "platform": "3DS",
+      "runners": [
+        {
+          "name": "おおいぬ",
+          "twitch": "https://www.twitch.tv/ooinu3",
+          "x": "https://x.com/d6wnk"
+        }
+      ],
+      "estimateSeconds": 6900,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-003",
+      "game": "Lil Gator Game",
+      "category": "All Friends (Base Game)",
+      "runType": "single",
+      "platform": "PC",
+      "runners": [
+        {
+          "name": "ねいがー"
+        }
+      ],
+      "estimateSeconds": 2400,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-004",
+      "game": "Sea Fantasy",
+      "category": "Any%",
+      "runType": "single",
+      "platform": "PC",
+      "runners": [
+        {
+          "name": "ふぃそふぃー",
+          "twitch": "https://www.twitch.tv/sfsf_630",
+          "x": "https://x.com/sfsf_630",
+          "youtube": "https://www.youtube.com/@h_sophy"
+        }
+      ],
+      "estimateSeconds": 3600,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-005",
+      "game": "蒼き雷霆ガンヴォルト爪",
+      "category": "Speedrun Mode Gunvolt",
+      "runType": "single",
+      "platform": "PC",
+      "runners": [
+        {
+          "name": "レトルネア",
+          "x": "https://x.com/retorunea",
+          "youtube": "https://www.youtube.com/@レトルネア"
+        }
+      ],
+      "estimateSeconds": 2700,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-006",
+      "game": "天外魔境ZERO",
+      "category": "Any% 連射機あり",
+      "runType": "single",
+      "platform": "SFC",
+      "runners": [
+        {
+          "name": "塩化コボルト",
+          "twitch": "https://www.twitch.tv/koboldcl2",
+          "x": "https://x.com/koboldcl2",
+          "youtube": "https://www.youtube.com/@koboldcl2"
+        }
+      ],
+      "estimateSeconds": 18600,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-007",
+      "game": "Hollow Knight: Silksong",
+      "category": "Any% (NMG, Cloak)",
+      "runType": "single",
+      "platform": "PC",
+      "runners": [
+        {
+          "name": "さわよし",
+          "twitch": "https://www.twitch.tv/sawayoshiyt",
+          "x": "https://x.com/syytstreams",
+          "youtube": "https://www.youtube.com/@sawayoshisy"
+        }
+      ],
+      "estimateSeconds": 3900,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-008",
+      "game": "Dungeon Munchies",
+      "category": "Any% Fresh Save",
+      "runType": "single",
+      "platform": "PC",
+      "runners": [
+        {
+          "name": "マックス",
+          "twitch": "https://www.twitch.tv/max71ko64",
+          "x": "https://x.com/max71ko64",
+          "youtube": "https://www.youtube.com/@maxko-im7ho"
+        }
+      ],
+      "estimateSeconds": 5400,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-009",
+      "game": "New スーパーマリオブラザーズ",
+      "category": "100%",
+      "runType": "single",
+      "platform": "DS",
+      "runners": [
+        {
+          "name": "akimaro",
+          "twitch": "https://www.twitch.tv/akimaro8318",
+          "youtube": "https://www.youtube.com/@akimaro8318"
+        }
+      ],
+      "estimateSeconds": 9900,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-010",
+      "game": "マリオカートアドバンス",
+      "category": "モバイルランキング1位全撃破",
+      "runType": "single",
+      "platform": "GBA",
+      "runners": [
+        {
+          "name": "Su_cstrakm",
+          "twitch": "https://www.twitch.tv/su_cstrakm",
+          "x": "https://x.com/cstrakm",
+          "youtube": "https://www.youtube.com/@su_cstrakm"
+        }
+      ],
+      "estimateSeconds": 4500,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-011",
+      "game": "Civilization VII",
+      "category": "Vanilla,ScienceVictory,AntiquityStart,Deity",
+      "runType": "single",
+      "platform": "PC",
+      "runners": [
+        {
+          "name": "としお",
+          "youtube": "https://www.youtube.com/@ToshiCivRTA"
+        }
+      ],
+      "estimateSeconds": 2400,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-012",
+      "game": "Bomb Rush Cyberfunk",
+      "category": "Any% Glitchless",
+      "runType": "single",
+      "platform": "PC",
+      "runners": [
+        {
+          "name": "ヒエショー³",
+          "twitch": "https://www.twitch.tv/hiesho3",
+          "x": "https://x.com/1ban_hiesho",
+          "youtube": "https://www.youtube.com/@hiesho3"
+        }
+      ],
+      "estimateSeconds": 5520,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-013",
+      "game": "ソニックと秘密のリング",
+      "category": "Any% NG+ (No Tutorial Stages)",
+      "runType": "single",
+      "platform": "Wii",
+      "runners": [
+        {
+          "name": "ダリ",
+          "twitch": "https://www.twitch.tv/lysandre_20",
+          "x": "https://x.com/Lysandre_20",
+          "youtube": "https://www.youtube.com/@ダリ_Lysandre_20"
+        }
+      ],
+      "estimateSeconds": 3960,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-014",
+      "game": "ドンキーコングジャングルクライマー",
+      "category": "All Stages",
+      "runType": "single",
+      "platform": "WiiU",
+      "runners": [
+        {
+          "name": "りふ",
+          "twitch": "https://www.twitch.tv/ref0417",
+          "x": "https://x.com/ref0417",
+          "youtube": "https://www.youtube.com/@ref0417"
+        }
+      ],
+      "estimateSeconds": 3900,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-015",
+      "game": "ドンキーコング64",
+      "category": "0.0% (Low%)",
+      "runType": "single",
+      "platform": "N64 (Nintendo Switch Online)",
+      "runners": [
+        {
+          "name": "signakong",
+          "twitch": "https://www.twitch.tv/signakong",
+          "x": "https://x.com/signakong",
+          "youtube": "https://www.youtube.com/@signakong"
+        }
+      ],
+      "estimateSeconds": 2100,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-016",
+      "game": "クライムクラッカーズ",
+      "category": "Any%",
+      "runType": "single",
+      "platform": "PlayStation",
+      "runners": [
+        {
+          "name": "ゐゐゑび",
+          "youtube": "https://www.youtube.com/@wyiwyiwyebi"
+        }
+      ],
+      "estimateSeconds": 8100,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-017",
+      "game": "メトロイドプライム リマスタード",
+      "category": "Any% Casual",
+      "runType": "single",
+      "platform": "Switch",
+      "runners": [
+        {
+          "name": "いわび",
+          "twitch": "https://www.twitch.tv/iwabi74",
+          "x": "https://x.com/iwabi74",
+          "youtube": "https://www.youtube.com/@iwabi74"
+        }
+      ],
+      "estimateSeconds": 6300,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-018",
+      "game": "Space Invaders Extreme",
+      "category": "Extreme",
+      "runType": "single",
+      "platform": "PC",
+      "runners": [
+        {
+          "name": "むんべちゃん",
+          "twitch": "https://www.twitch.tv/touhu_dnb",
+          "x": "https://x.com/tozitoziru",
+          "youtube": "https://www.youtube.com/@munbe-chan"
+        }
+      ],
+      "estimateSeconds": 1500,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-019",
+      "game": "Final Fantasy XVI",
+      "category": "NewGame Story",
+      "runType": "single",
+      "platform": "PlayStation 5",
+      "runners": [
+        {
+          "name": "カナヤミ",
+          "twitch": "https://www.twitch.tv/kanayami2525",
+          "x": "https://x.com/Plumeria_kaa"
+        }
+      ],
+      "estimateSeconds": 25200,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-020",
+      "game": "FINAL FANTASY TACTICS - The Ivalice Chronicles",
+      "category": "No Math%",
+      "runType": "single",
+      "platform": "PC",
+      "runners": [
+        {
+          "name": "カエル候",
+          "twitch": "https://www.twitch.tv/kaeru_4tb",
+          "x": "https://x.com/KAERU_KOUSHAKU",
+          "youtube": "https://www.youtube.com/@カエル侯"
+        }
+      ],
+      "estimateSeconds": 7800,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-021",
+      "game": "ファイアーエムブレム　暁の女神",
+      "category": "Easy Mode（Not Transfers）",
+      "runType": "single",
+      "platform": "Wii",
+      "runners": [
+        {
+          "name": "ヤシ",
+          "twitch": "https://www.twitch.tv/deviyasi",
+          "x": "https://x.com/deviyasi"
+        }
+      ],
+      "estimateSeconds": 12000,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-022",
+      "game": "遊☆戯☆王 真デュエルモンスターズ 封印されし記憶",
+      "category": "Any% (Trading, No Pocketstation)",
+      "runType": "race",
+      "platform": "PlayStation",
+      "runners": [
+        {
+          "name": "Arus",
+          "twitch": "https://www.twitch.tv/arus103",
+          "x": "https://x.com/arus103",
+          "youtube": "https://www.youtube.com/@arus9028"
+        },
+        {
+          "name": "AsneL",
+          "twitch": "https://www.twitch.tv/AsneL",
+          "x": "https://x.com/asnel49",
+          "youtube": "https://www.youtube.com/@asnel49"
+        },
+        {
+          "name": "もず",
+          "twitch": "https://www.twitch.tv/arkthunder_",
+          "x": "https://x.com/arkthunder_",
+          "youtube": "https://www.youtube.com/@arkthunder"
+        }
+      ],
+      "estimateSeconds": 7200,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-023",
+      "game": "ウマ娘 プリティーダービー 熱血ハチャメチャ大感謝祭！",
+      "category": "Team Rose All Win",
+      "runType": "single",
+      "platform": "PC",
+      "runners": [
+        {
+          "name": "テーザント",
+          "twitch": "https://www.twitch.tv/tsand128_rta",
+          "x": "https://x.com/sumook128",
+          "youtube": "https://www.youtube.com/@T-sand128"
+        }
+      ],
+      "estimateSeconds": 1800,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-024",
+      "game": "あつまれ どうぶつの森",
+      "category": "Credits",
+      "runType": "single",
+      "platform": "Switch",
+      "runners": [
+        {
+          "name": "篠崎青葉",
+          "x": "https://x.com/ShinosakiAobaV",
+          "youtube": "https://www.youtube.com/@ShinosakiAobaV"
+        }
+      ],
+      "estimateSeconds": 7200,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-025",
+      "game": "F-ZERO",
+      "category": "Grand Prix Fire stingray",
+      "runType": "single",
+      "platform": "SFC",
+      "runners": [
+        {
+          "name": "FAL",
+          "x": "https://x.com/FALCONMk3",
+          "youtube": "https://www.youtube.com/@FAL-YT"
+        }
+      ],
+      "estimateSeconds": 3000,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-026",
+      "game": "スーパーボンバーマンぱにっくボンバーW",
+      "category": "Any%",
+      "runType": "single",
+      "platform": "SFC",
+      "runners": [
+        {
+          "name": "せんノ利休",
+          "twitch": "https://www.twitch.tv/sennorikyu_1522",
+          "x": "https://x.com/sennorikyu_w",
+          "youtube": "https://www.youtube.com/@せんの利休-l1g"
+        }
+      ],
+      "estimateSeconds": 1110,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-027",
+      "game": "ロックマン＆フォルテ",
+      "category": "Any% (Forte)",
+      "runType": "single",
+      "platform": "SFC",
+      "runners": [
+        {
+          "name": "SCRB",
+          "twitch": "https://www.twitch.tv/SCRB_0",
+          "x": "https://x.com/scarab0209",
+          "youtube": "https://www.youtube.com/@scrb9447"
+        }
+      ],
+      "estimateSeconds": 2400,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-028",
+      "game": "ロックマン11 運命の歯車!!",
+      "category": "Any% No OoB (Normal)",
+      "runType": "single",
+      "platform": "PC",
+      "runners": [
+        {
+          "name": "ふぁいる"
+        }
+      ],
+      "estimateSeconds": 2280,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-029",
+      "game": "星のカービィ 20周年スペシャルコレクション",
+      "category": "King Trophy",
+      "runType": "single",
+      "platform": "Wii",
+      "runners": [
+        {
+          "name": "shiro",
+          "twitch": "https://www.twitch.tv/shirokirby",
+          "youtube": "https://www.youtube.com/@shirokirby"
+        }
+      ],
+      "estimateSeconds": 1800,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-030",
+      "game": "星のカービィ 参上!ドロッチェ団",
+      "category": "100%",
+      "runType": "single",
+      "platform": "DS",
+      "runners": [
+        {
+          "name": "Cabbage",
+          "twitch": "https://www.twitch.tv/cabbage_891",
+          "x": "https://x.com/891cabbage",
+          "youtube": "https://www.youtube.com/@Cabbage_891"
+        }
+      ],
+      "estimateSeconds": 3600,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-031",
+      "game": "Super Meat Boy 3D",
+      "category": "Any%",
+      "runType": "single",
+      "platform": "PC",
+      "runners": [
+        {
+          "name": "kazudeath4",
+          "twitch": "https://www.twitch.tv/kazudeath4",
+          "x": "https://x.com/kazudeath4",
+          "youtube": "https://www.youtube.com/@kazudeath4"
+        }
+      ],
+      "estimateSeconds": 1800,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-032",
+      "game": "StepManiaX",
+      "category": "Team Showcase",
+      "runType": "coop",
+      "platform": "Arcade",
+      "runners": [
+        {
+          "name": "quino",
+          "twitch": "https://www.twitch.tv/quino_w",
+          "x": "https://x.com/quino_w",
+          "youtube": "https://www.youtube.com/@quino283"
+        },
+        {
+          "name": "YUDAI",
+          "x": "https://x.com/yudai_jokegamer",
+          "youtube": "https://www.youtube.com/@yudai_jokegamer"
+        }
+      ],
+      "estimateSeconds": 3600,
+      "setupSeconds": 480,
+      "showcase": true
+    },
+    {
+      "id": "run-033",
+      "game": "UNBEATABLE",
+      "category": "Arcade Mode Showcase",
+      "runType": "single",
+      "platform": "PC",
+      "runners": [
+        {
+          "name": "ふーにゃん",
+          "twitch": "https://www.twitch.tv/funya2yan",
+          "x": "https://x.com/sr_funya2yan"
+        }
+      ],
+      "estimateSeconds": 3000,
+      "setupSeconds": 480,
+      "showcase": true
+    },
+    {
+      "id": "run-034",
+      "game": "オーライル",
+      "category": "Any%",
+      "runType": "single",
+      "platform": "Arcade",
+      "runners": [
+        {
+          "name": "よりぬき",
+          "x": "https://x.com/yorinuki9999",
+          "youtube": "https://www.youtube.com/@yorinuki_retroArcade_yukkuri"
+        }
+      ],
+      "estimateSeconds": 2100,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-035",
+      "game": "Momodora: 月影のエンドロール",
+      "category": "NMG Light",
+      "runType": "single",
+      "platform": "PC",
+      "runners": [
+        {
+          "name": "敷き紙",
+          "twitch": "https://www.twitch.tv/houraijin",
+          "x": "https://x.com/HouraijiN",
+          "youtube": "https://www.youtube.com/@Shikigami01"
+        }
+      ],
+      "estimateSeconds": 4500,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-036",
+      "game": "Gimmick! 2",
+      "category": "Any% (Gimmick!)",
+      "runType": "single",
+      "platform": "PC",
+      "runners": [
+        {
+          "name": "beco",
+          "twitch": "https://www.twitch.tv/beco"
+        }
+      ],
+      "estimateSeconds": 2100,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-037",
+      "game": "ドラゴンクエストモンスターズ ジョーカー",
+      "category": "Any%（ガルマッゾ撃破まで）",
+      "runType": "single",
+      "platform": "DS",
+      "runners": [
+        {
+          "name": "バルタン",
+          "x": "https://x.com/balbalgabaltan",
+          "youtube": "https://www.youtube.com/@balbalgabaltan"
+        }
+      ],
+      "estimateSeconds": 13500,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-038",
+      "game": "クロックタワー2",
+      "category": "Jennifer 100%",
+      "runType": "single",
+      "platform": "PlayStation",
+      "runners": [
+        {
+          "name": "ばたけ。",
+          "twitch": "https://www.twitch.tv/batake_",
+          "x": "https://x.com/oimo_batake"
+        }
+      ],
+      "estimateSeconds": 3300,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-039",
+      "game": "カービィのエアライダー",
+      "category": "ロードトリップ Any% スーパーハード",
+      "runType": "single",
+      "platform": "Switch2",
+      "runners": [
+        {
+          "name": "ACAあか",
+          "twitch": "https://www.twitch.tv/umber_aca",
+          "x": "https://x.com/ACA93971908",
+          "youtube": "https://www.youtube.com/@aca220"
+        }
+      ],
+      "estimateSeconds": 6900,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-040",
+      "game": "ポケットモンスター ソード",
+      "category": "Any%",
+      "runType": "single",
+      "platform": "Switch",
+      "runners": [
+        {
+          "name": "yuki",
+          "twitch": "https://www.twitch.tv/yuki_rta",
+          "x": "https://x.com/yuki_RTA",
+          "youtube": "https://www.youtube.com/@yukiRTA"
+        }
+      ],
+      "estimateSeconds": 14700,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-041",
+      "game": "萬手一体",
+      "category": "Any% GreenEnding",
+      "runType": "single",
+      "platform": "PC",
+      "runners": [
+        {
+          "name": "藍川睦月",
+          "twitch": "https://www.twitch.tv/aikawamutsuki",
+          "x": "https://x.com/Mutsukichan_RTA",
+          "youtube": "https://www.youtube.com/@Mutsukichan_RTA"
+        }
+      ],
+      "estimateSeconds": 2820,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-042",
+      "game": "ザ・キングオブドラゴンズ",
+      "category": "Any%",
+      "runType": "single",
+      "platform": "PlayStation 4",
+      "runners": [
+        {
+          "name": "サトシー",
+          "twitch": "https://www.twitch.tv/295emon",
+          "x": "https://x.com/295emon",
+          "youtube": "https://www.youtube.com/@emon295"
+        }
+      ],
+      "estimateSeconds": 1740,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-043",
+      "game": "スーパーマリオランド2 6つの金貨",
+      "category": "Any% Glitchless",
+      "runType": "single",
+      "platform": "GB",
+      "runners": [
+        {
+          "name": "EiP",
+          "twitch": "https://www.twitch.tv/eip25",
+          "x": "https://x.com/smb2_aiai",
+          "youtube": "https://www.youtube.com/@eip2524"
+        }
+      ],
+      "estimateSeconds": 1800,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-044",
+      "game": "Terraria",
+      "category": "Reduced All Achievements",
+      "runType": "single",
+      "platform": "PC",
+      "runners": [
+        {
+          "name": "Camel",
+          "x": "https://x.com/drift3theyou"
+        }
+      ],
+      "estimateSeconds": 5700,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-045",
+      "game": "わびさび寿司ダービー",
+      "category": "Any% Normal （Ver.1.0.0‐1.0.2）",
+      "runType": "race",
+      "platform": "PC",
+      "runners": [
+        {
+          "name": "だぶちっく",
+          "twitch": "https://www.twitch.tv/wchickgames",
+          "x": "https://x.com/tomatomatogame",
+          "youtube": "https://www.youtube.com/@wchickliving"
+        },
+        {
+          "name": "だんごむし",
+          "x": "https://x.com/dangomusi_poke",
+          "youtube": "https://www.youtube.com/@dangomushigame"
+        }
+      ],
+      "estimateSeconds": 1200,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-046",
+      "game": "スター・ウォーズ ローグ スコードロン III：レベルストライク",
+      "category": "NG+ All Missions",
+      "runType": "single",
+      "platform": "GCN",
+      "runners": [
+        {
+          "name": "PYONKICHI",
+          "twitch": "https://www.twitch.tv/pyonkichi_metroid",
+          "x": "https://x.com/guchakichi",
+          "youtube": "https://www.youtube.com/@metroidpyonkichi4189"
+        }
+      ],
+      "estimateSeconds": 6000,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-047",
+      "game": "クレイジータクシー",
+      "category": "Crazy Box NG+",
+      "runType": "single",
+      "platform": "DC",
+      "runners": [
+        {
+          "name": "ユタポン",
+          "twitch": "https://www.twitch.tv/nico_yutapon",
+          "x": "https://x.com/nico_yutapon",
+          "youtube": "https://www.youtube.com/@nicoyutapon"
+        }
+      ],
+      "estimateSeconds": 1200,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-048",
+      "game": "ベヨネッタ2",
+      "category": "Any% Rosa ∞ Climax",
+      "runType": "single",
+      "platform": "Switch",
+      "runners": [
+        {
+          "name": "一人称",
+          "twitch": "https://www.twitch.tv/fp_crimson2051",
+          "x": "https://x.com/nosreP_tsriF",
+          "youtube": "https://www.youtube.com/@1ninsho-w2e"
+        }
+      ],
+      "estimateSeconds": 5400,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-049",
+      "game": "東方地霊殿 〜 Subterranean Animism.",
+      "category": "Lunatic スコアアタック",
+      "runType": "single",
+      "platform": "PC",
+      "runners": [
+        {
+          "name": "かも猫",
+          "twitch": "https://www.twitch.tv/kamoneko_nonaku",
+          "x": "https://x.com/kamoneko_nonaku",
+          "youtube": "https://www.youtube.com/@kamoneko_nonaku"
+        }
+      ],
+      "estimateSeconds": 2820,
+      "setupSeconds": 480,
+      "showcase": true
+    },
+    {
+      "id": "run-050",
+      "game": "Öoo",
+      "category": "Any%",
+      "runType": "single",
+      "platform": "PC",
+      "runners": [
+        {
+          "name": "前髪が長い",
+          "twitch": "https://www.twitch.tv/nagai_megm",
+          "x": "https://x.com/nagai_megm"
+        }
+      ],
+      "estimateSeconds": 900,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-051",
+      "game": "Pogostuck: Rage With Your Friends",
+      "category": "17 Maps",
+      "runType": "single",
+      "platform": "PC",
+      "runners": [
+        {
+          "name": "suwa_xa",
+          "twitch": "https://www.twitch.tv/suwa_xa",
+          "x": "https://x.com/ssarkrk",
+          "youtube": "https://www.youtube.com/@suwa_xa"
+        }
+      ],
+      "estimateSeconds": 3360,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-052",
+      "game": "続ボクらの太陽太陽少年ジャンゴ (Boktai 2: Solar Boy Django)",
+      "category": "Any%",
+      "runType": "single",
+      "platform": "GBA",
+      "runners": [
+        {
+          "name": "Drakodan",
+          "twitch": "https://www.twitch.tv/Drakodan",
+          "x": "https://x.com/Drakodan_",
+          "youtube": "https://www.youtube.com/@DrakodanSRL"
+        }
+      ],
+      "estimateSeconds": 6900,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-053",
+      "game": "スーパーマリオ64",
+      "category": "目隠し 9枚",
+      "runType": "single",
+      "platform": "N64 (Wii VC)",
+      "runners": [
+        {
+          "name": "Bubzia",
+          "twitch": "https://www.twitch.tv/bubzia",
+          "x": "https://x.com/bubzia1",
+          "youtube": "https://www.youtube.com/@bubzia"
+        }
+      ],
+      "estimateSeconds": 1200,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-054",
+      "game": "ゼルダの伝説 トワイライトプリンセスHD",
+      "category": "Any%",
+      "runType": "single",
+      "platform": "WiiU",
+      "runners": [
+        {
+          "name": "すわん。",
+          "twitch": "https://www.twitch.tv/swan_st",
+          "x": "https://x.com/swan_zsr_st",
+          "youtube": "https://www.youtube.com/@swan.46"
+        }
+      ],
+      "estimateSeconds": 12300,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-055",
+      "game": "ゼルダの伝説 スカイウォードソード",
+      "category": "Any%",
+      "runType": "single",
+      "platform": "Wii",
+      "runners": [
+        {
+          "name": "サンダーボルト",
+          "twitch": "https://www.twitch.tv/thunderbolt773",
+          "x": "https://x.com/thunderbolt_773",
+          "youtube": "https://www.youtube.com/@thunderbolt773"
+        }
+      ],
+      "estimateSeconds": 4680,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-056",
+      "game": "ゼルダの伝説1",
+      "category": "Swordless First Quest",
+      "runType": "single",
+      "platform": "FC",
+      "runners": [
+        {
+          "name": "cron",
+          "twitch": "https://www.twitch.tv/cron119",
+          "x": "https://x.com/o_manju_Reprise",
+          "youtube": "https://www.youtube.com/@cron119"
+        }
+      ],
+      "estimateSeconds": 2640,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-057",
+      "game": "EASTWARD",
+      "category": "Any% FGS",
+      "runType": "single",
+      "platform": "PC",
+      "runners": [
+        {
+          "name": "ひなめが",
+          "twitch": "https://www.twitch.tv/hinamega",
+          "x": "https://x.com/hinamega"
+        }
+      ],
+      "estimateSeconds": 9600,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-058",
+      "game": "聴音RPG【失われた音問村】",
+      "category": "Any%",
+      "runType": "single",
+      "platform": "Web",
+      "runners": [
+        {
+          "name": "まっつ"
+        }
+      ],
+      "estimateSeconds": 2520,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-059",
+      "game": "亜電",
+      "category": "Hard 100%",
+      "runType": "single",
+      "platform": "PC",
+      "runners": [
+        {
+          "name": "369",
+          "x": "https://x.com/369wasawasa",
+          "youtube": "https://www.youtube.com/@hrugis369"
+        }
+      ],
+      "estimateSeconds": 6600,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-060",
+      "game": "マリオ&ルイージRPG2",
+      "category": "Any%",
+      "runType": "single",
+      "platform": "DS",
+      "runners": [
+        {
+          "name": "とんこつ",
+          "twitch": "https://www.twitch.tv/tonkotsu_tnkt",
+          "x": "https://x.com/tnkt_kong",
+          "youtube": "https://www.youtube.com/@tonkotsu_tnkt"
+        }
+      ],
+      "estimateSeconds": 8700,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-061",
+      "game": "悪魔城ドラキュラ Revisited",
+      "category": "Any% Easy",
+      "runType": "race",
+      "platform": "PC/XboxSeriesS",
+      "runners": [
+        {
+          "name": "SAS",
+          "twitch": "https://www.twitch.tv/sas_rta",
+          "x": "https://x.com/sassbu",
+          "youtube": "https://www.youtube.com/@sas4769"
+        },
+        {
+          "name": "偏差値60",
+          "twitch": "https://www.twitch.tv/hensachi60",
+          "x": "https://x.com/hensachi60",
+          "youtube": "https://www.youtube.com/@偏差値60"
+        }
+      ],
+      "estimateSeconds": 960,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-062",
+      "game": "Isopod: A Webbed Spin-off",
+      "category": "Any% NMG",
+      "runType": "single",
+      "platform": "PC",
+      "runners": [
+        {
+          "name": "さっぼますたぁ",
+          "twitch": "https://www.twitch.tv/sabbomaster",
+          "x": "https://x.com/sabbomaster",
+          "youtube": "https://www.youtube.com/@sabbo_master"
+        }
+      ],
+      "estimateSeconds": 2700,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-063",
+      "game": "ポケモンスナップ",
+      "category": "100%",
+      "runType": "single",
+      "platform": "N64",
+      "runners": [
+        {
+          "name": "aKaFuKu(キイ)",
+          "twitch": "https://www.twitch.tv/akafuku_snap",
+          "x": "https://x.com/hidamare",
+          "youtube": "https://www.youtube.com/@aKaFuKuSnap"
+        }
+      ],
+      "estimateSeconds": 1680,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-064",
+      "game": "モンスターハンター4G",
+      "category": "Caravan Any% (Shagaru Magala)",
+      "runType": "single",
+      "platform": "3DS",
+      "runners": [
+        {
+          "name": "mosstkm(もす)",
+          "twitch": "https://www.twitch.tv/mosstkm",
+          "x": "https://x.com/Creeping_LUIGI",
+          "youtube": "https://www.youtube.com/@tkmmoss4806"
+        }
+      ],
+      "estimateSeconds": 12600,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-065",
+      "game": "Do You even Forklift?",
+      "category": "Any%",
+      "runType": "single",
+      "platform": "PC",
+      "runners": [
+        {
+          "name": "カゲタロ",
+          "twitch": "https://www.twitch.tv/kagetar0",
+          "x": "https://x.com/kagetar0"
+        }
+      ],
+      "estimateSeconds": 1680,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-066",
+      "game": "マイティ・グース",
+      "category": "Any% - Normal",
+      "runType": "single",
+      "platform": "PC",
+      "runners": [
+        {
+          "name": "Keiichi",
+          "twitch": "https://www.twitch.tv/keiichi",
+          "x": "https://x.com/Keiichied",
+          "youtube": "https://www.youtube.com/@keiichi1996 、 @KeiichiRTA"
+        }
+      ],
+      "estimateSeconds": 2100,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-067",
+      "game": "シャドウゲイト",
+      "category": "Glitched",
+      "runType": "single",
+      "platform": "FC",
+      "runners": [
+        {
+          "name": "コーリャン",
+          "twitch": "https://www.twitch.tv/vst_koryan",
+          "x": "https://x.com/vst_koryan",
+          "youtube": "https://www.youtube.com/@VstKoryan"
+        }
+      ],
+      "estimateSeconds": 720,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-068",
+      "game": "ドンキーコング バナンザ",
+      "category": "Any% Restricted 1P",
+      "runType": "race",
+      "platform": "Switch2",
+      "runners": [
+        {
+          "name": "Ath",
+          "twitch": "https://www.twitch.tv/athjp",
+          "x": "https://x.com/Athjp_",
+          "youtube": "https://www.youtube.com/@athsrecord"
+        },
+        {
+          "name": "Haitex",
+          "twitch": "https://www.twitch.tv/haitexas",
+          "x": "https://x.com/HaiTexas",
+          "youtube": "https://www.youtube.com/@Haitexas"
+        }
+      ],
+      "estimateSeconds": 4800,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-069",
+      "game": "スーパードンキーコング2 ディクシー&ディディー",
+      "category": "True Ending",
+      "runType": "single",
+      "platform": "SFC",
+      "runners": [
+        {
+          "name": "Leftover",
+          "twitch": "https://www.twitch.tv/leftover0w0"
+        }
+      ],
+      "estimateSeconds": 2160,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-070",
+      "game": "タイムクライシス2",
+      "category": "Single_Controller_Ammo:Normal",
+      "runType": "single",
+      "platform": "PlayStation 2",
+      "runners": [
+        {
+          "name": "いいだ先生",
+          "twitch": "https://www.twitch.tv/iida_teacher",
+          "x": "https://x.com/iida_teacher"
+        }
+      ],
+      "estimateSeconds": 1200,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-071",
+      "game": "Doom 64 (2020)",
+      "category": "Watch Me Die-Max",
+      "runType": "single",
+      "platform": "PC",
+      "runners": [
+        {
+          "name": "ZELLLOOO",
+          "twitch": "https://www.twitch.tv/ZELLLOOO",
+          "x": "https://x.com/ZELLLOOO",
+          "youtube": "https://www.youtube.com/@MoreFlesh"
+        }
+      ],
+      "estimateSeconds": 5700,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-072",
+      "game": "リング",
+      "category": "Any%",
+      "runType": "single",
+      "platform": "DC",
+      "runners": [
+        {
+          "name": "opi_pie_sunpaul",
+          "twitch": "https://www.twitch.tv/opi_pie_sunpaul",
+          "x": "https://x.com/sun_paul"
+        }
+      ],
+      "estimateSeconds": 4500,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-073",
+      "game": "九日ナインソール",
+      "category": "Any% Restricted",
+      "runType": "single",
+      "platform": "PC",
+      "runners": [
+        {
+          "name": "ぽちるが",
+          "x": "https://x.com/p0chi_LgA"
+        }
+      ],
+      "estimateSeconds": 4200,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-074",
+      "game": "マリオパーティDS",
+      "category": "Story Mode",
+      "runType": "single",
+      "platform": "DS",
+      "runners": [
+        {
+          "name": "じっくりアルゴン",
+          "x": "https://x.com/argonzikkuri",
+          "youtube": "https://www.youtube.com/@18argon19"
+        }
+      ],
+      "estimateSeconds": 10200,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-075",
+      "game": "ポケモン不思議のダンジョン 空の探検隊",
+      "category": "Any% No-WM",
+      "runType": "single",
+      "platform": "WiiUVC",
+      "runners": [
+        {
+          "name": "イカロす",
+          "twitch": "https://www.twitch.tv/icars0219",
+          "x": "https://x.com/icars0219",
+          "youtube": "https://www.youtube.com/@icars0219"
+        }
+      ],
+      "estimateSeconds": 17700,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-076",
+      "game": "New スーパーマリオブラザーズ Wii",
+      "category": "Any%",
+      "runType": "race",
+      "platform": "Wii",
+      "runners": [
+        {
+          "name": "Karume",
+          "twitch": "https://www.twitch.tv/karumerta",
+          "x": "https://x.com/KarumeRta",
+          "youtube": "https://www.youtube.com/@karume9663"
+        },
+        {
+          "name": "MW",
+          "twitch": "https://www.twitch.tv/mw_65536",
+          "x": "https://x.com/MW_65536",
+          "youtube": "https://www.youtube.com/@mw65536"
+        },
+        {
+          "name": "Noz",
+          "twitch": "https://www.twitch.tv/Noz1150",
+          "x": "https://x.com/Noz1150",
+          "youtube": "https://www.youtube.com/@Noz1150"
+        },
+        {
+          "name": "sunflower",
+          "twitch": "https://www.twitch.tv/sunflower8814",
+          "x": "https://x.com/sunflower_8814",
+          "youtube": "https://www.youtube.com/@sunflower.8814"
+        }
+      ],
+      "estimateSeconds": 1800,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-077",
+      "game": "奇々怪界　黒マントの謎",
+      "category": "Story Mode Normal",
+      "runType": "single",
+      "platform": "PC",
+      "runners": [
+        {
+          "name": "ルナ太",
+          "twitch": "https://www.twitch.tv/ryunuxattexya"
+        }
+      ],
+      "estimateSeconds": 2100,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-078",
+      "game": "悪魔城ドラキュラ 奪われた刻印",
+      "category": "Shanoa Any% No Ace",
+      "runType": "single",
+      "platform": "PC",
+      "runners": [
+        {
+          "name": "シャーフ",
+          "twitch": "https://www.twitch.tv/w_shaaf"
+        }
+      ],
+      "estimateSeconds": 2100,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-079",
+      "game": "ファイナルファンタジーIVピクセルリマスター",
+      "category": "Any%",
+      "runType": "single",
+      "platform": "PC",
+      "runners": [
+        {
+          "name": "かしわ親方",
+          "twitch": "https://www.twitch.tv/kashiwa_oyakata",
+          "x": "https://x.com/kashiwa_oyakata",
+          "youtube": "https://www.youtube.com/@かしわ親方"
+        }
+      ],
+      "estimateSeconds": 9900,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-080",
+      "game": "バイオハザード ヴィレッジ",
+      "category": "VR Mode NG Glitchless",
+      "runType": "single",
+      "platform": "PlayStation 5",
+      "runners": [
+        {
+          "name": "したい"
+        }
+      ],
+      "estimateSeconds": 6600,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-081",
+      "game": "Resident Evil Gaiden",
+      "category": "Any%",
+      "runType": "race",
+      "platform": "GBC",
+      "runners": [
+        {
+          "name": "いそがい",
+          "twitch": "https://www.twitch.tv/isogai2971",
+          "x": "https://x.com/Lingering_Will3",
+          "youtube": "https://www.youtube.com/@isogai9900"
+        },
+        {
+          "name": "ソードフィッシュ",
+          "twitch": "https://www.twitch.tv/swordfish464",
+          "x": "https://x.com/swordfish4649",
+          "youtube": "https://www.youtube.com/@swordfish4649"
+        }
+      ],
+      "estimateSeconds": 2400,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-082",
+      "game": "レミングス2 ザ・トライブス",
+      "category": "All Levels \"Gold%\"",
+      "runType": "single",
+      "platform": "MS-DOS",
+      "runners": [
+        {
+          "name": "ピロ彦",
+          "twitch": "https://www.twitch.tv/pirohiko",
+          "x": "https://x.com/pirohiko",
+          "youtube": "https://www.youtube.com/@pirohiko"
+        }
+      ],
+      "estimateSeconds": 7800,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-083",
+      "game": "JUMP KING QUEST",
+      "category": "Any%",
+      "runType": "single",
+      "platform": "PC",
+      "runners": [
+        {
+          "name": "らー油まん",
+          "twitch": "https://www.twitch.tv/laayuman",
+          "x": "https://x.com/laayuman",
+          "youtube": "https://www.youtube.com/@laayuman"
+        }
+      ],
+      "estimateSeconds": 3000,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-084",
+      "game": "キングダム ハーツIII",
+      "category": "Any%, New Game, Critical",
+      "runType": "single",
+      "platform": "PC",
+      "runners": [
+        {
+          "name": "あみあ",
+          "twitch": "https://www.twitch.tv/amia_xiii",
+          "x": "https://x.com/amiadazo",
+          "youtube": "https://www.youtube.com/@amia_xiii"
+        }
+      ],
+      "estimateSeconds": 10800,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-085",
+      "game": "サイレントヒルf",
+      "category": "NG Casual Any%",
+      "runType": "single",
+      "platform": "PC",
+      "runners": [
+        {
+          "name": "志々島",
+          "twitch": "https://www.twitch.tv/shishijima402",
+          "x": "https://x.com/shishijima402"
+        }
+      ],
+      "estimateSeconds": 6000,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-086",
+      "game": "妖怪ウォッチ2",
+      "category": "Any% No Passwords/QR Codes/Trading",
+      "runType": "single",
+      "platform": "3DS",
+      "runners": [
+        {
+          "name": "ぺぺん",
+          "twitch": "https://www.twitch.tv/yw2_Pepen",
+          "x": "https://x.com/yw2_Pepen",
+          "youtube": "https://www.youtube.com/@yw2_Pepen"
+        }
+      ],
+      "estimateSeconds": 12600,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-087",
+      "game": "Final Fantasy 2 Pixel Remaster",
+      "category": "Any%",
+      "runType": "single",
+      "platform": "PC",
+      "runners": [
+        {
+          "name": "家具埜箪笥",
+          "twitch": "https://www.twitch.tv/tansu_kaguno",
+          "x": "https://x.com/tansu_kaguno",
+          "youtube": "https://www.youtube.com/@tansu_kaguno"
+        }
+      ],
+      "estimateSeconds": 8100,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-088",
+      "game": "まつけけBURST!",
+      "category": "ストーリーモード7キャラ",
+      "runType": "single",
+      "platform": "Switch",
+      "runners": [
+        {
+          "name": "ざらき",
+          "twitch": "https://www.twitch.tv/scrapped_zaraki",
+          "x": "https://x.com/scrapped_zaraki",
+          "youtube": "https://www.youtube.com/@aizaraki3"
+        }
+      ],
+      "estimateSeconds": 2400,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-089",
+      "game": "スターオーシャン Till the End of Time ディレクターズカット",
+      "category": "Any%",
+      "runType": "single",
+      "platform": "PlayStation 2",
+      "runners": [
+        {
+          "name": "あまえ",
+          "twitch": "https://www.twitch.tv/ikana_temperu",
+          "x": "https://x.com/Ikana_temperu",
+          "youtube": "https://www.youtube.com/@amae4480"
+        }
+      ],
+      "estimateSeconds": 12600,
+      "setupSeconds": 480
+    },
+    {
+      "id": "run-090",
+      "game": "イースⅥ-ナピシュテムの匣-",
+      "category": "Any% Normal",
+      "runType": "race",
+      "platform": "PC",
+      "runners": [
+        {
+          "name": "なずな",
+          "twitch": "https://www.twitch.tv/na2na_rta",
+          "x": "https://x.com/na2na_RTA",
+          "youtube": "https://www.youtube.com/@na2na_chang"
+        },
+        {
+          "name": "海苔",
+          "twitch": "https://www.twitch.tv/nori_ys",
+          "x": "https://x.com/Nori_RTA",
+          "youtube": "https://www.youtube.com/@Nori_ys"
+        }
+      ],
+      "estimateSeconds": 4800,
+      "setupSeconds": 480
+    }
+  ]
+}
