@@ -138,7 +138,7 @@
     "leaderboard": null,
     "RiJW2026": {
       "モバイルランキング1位全撃破": [
-        "打破當年 (2002 年) 官方排行榜上所有賽道的榜一紀錄",
+        "打破當年官方排行榜上所有賽道的榜一紀錄",
         "任天堂曾推出的 Mobile System GB 周邊服務<br>透過手機上傳 GBA 成績到官方線上排行榜<br><a href='https://pbs.twimg.com/media/HU68l7WaUAAV-ez?format=png'>https://pbs.twimg.com/media/HU68l7WaUAAV-ez?format=png</a>",
         null
       ]
@@ -907,10 +907,10 @@
     }
   },
   "Do You even Forklift?": {
-    "tw": "Do You even Forklift?",
-    "jp": "Do You even Forklift?",
+    "tw": null,
+    "jp": null,
     "en": "Do You even Forklift?",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1738840498_IGDB.jpg",
     "leaderboard": null,
     "RiJW2026": {
       "Any%": [
@@ -921,10 +921,10 @@
     }
   },
   "マイティ・グース": {
-    "tw": "Mighty Goose",
+    "tw": "暴走大鵝",
     "jp": "マイティ・グース",
     "en": "Mighty Goose",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/511623745_IGDB.jpg",
     "leaderboard": null,
     "RiJW2026": {
       "Any% - Normal": [
@@ -935,10 +935,10 @@
     }
   },
   "シャドウゲイト": {
-    "tw": "Shadowgate",
+    "tw": "闇影之門",
     "jp": "シャドウゲイト",
     "en": "Shadowgate",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1458763995_IGDB.jpg",
     "leaderboard": null,
     "RiJW2026": {
       "Glitched": [
@@ -952,7 +952,7 @@
     "tw": "咚奇剛 蕉力全開",
     "jp": "ドンキーコング バナンザ",
     "en": "Donkey Kong Bananza",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1222247252_IGDB.jpg",
     "leaderboard": null,
     "RiJW2026": {
       "Any% Restricted 1P": [
@@ -963,10 +963,10 @@
     }
   },
   "スーパードンキーコング2 ディクシー&ディディー": {
-    "tw": "超級咚奇剛 2 迪克西與迪迪",
+    "tw": "超級咚奇剛 2",
     "jp": "スーパードンキーコング2 ディクシー&ディディー",
     "en": "Donkey Kong Country 2: Diddy's Kong Quest",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/15483_IGDB.jpg",
     "leaderboard": null,
     "RiJW2026": {
       "True Ending": [
@@ -977,10 +977,10 @@
     }
   },
   "タイムクライシス2": {
-    "tw": "危機時刻 2",
+    "tw": "火線危機 2",
     "jp": "タイムクライシス2",
-    "en": "Time Crisis 2",
-    "boxart": null,
+    "en": "Time Crisis II",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/14095_IGDB.jpg",
     "leaderboard": null,
     "RiJW2026": {
       "Single_Controller_Ammo:Normal": [
@@ -993,10 +993,10 @@
 
 
   "Doom 64 (2020)": {
-    "tw": "Doom 64 (2020)",
-    "jp": "Doom 64 (2020)",
+    "tw": "毀滅戰士 64 (2020)",
+    "jp": null,
     "en": "Doom 64 (2020)",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/604342633_IGDB.jpg",
     "leaderboard": null,
     "RiJW2026": {
       "Watch Me Die-Max": [
@@ -1007,10 +1007,10 @@
     }
   },
   "リング": {
-    "tw": "リング",
+    "tw": "鈴",
     "jp": "リング",
-    "en": "RING",
-    "boxart": null,
+    "en": "The Ring: Terror's Realm",
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co439w.webp",
     "leaderboard": null,
     "RiJW2026": {
       "Any%": [
@@ -1024,8 +1024,8 @@
     "tw": "九日",
     "jp": "九日ナインソール",
     "en": "Nine Sols",
-    "boxart": null,
-    "leaderboard": "https://www.speedrun.com/nine_sols",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/715052357_IGDB.jpg",
+    "leaderboard": null,
     "RiJW2026": {
       "Any% Restricted": [
         null,
@@ -1038,7 +1038,7 @@
     "tw": "瑪利歐派對 DS",
     "jp": "マリオパーティDS",
     "en": "Mario Party DS",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/19332_IGDB.jpg",
     "leaderboard": null,
     "RiJW2026": {
       "Story Mode": [
@@ -1049,10 +1049,10 @@
     }
   },
   "ポケモン不思議のダンジョン 空の探検隊": {
-    "tw": "寶可夢不思議迷宮：天空探險隊",
+    "tw": "寶可夢不可思議迷宮 空之探險隊",
     "jp": "ポケモン不思議のダンジョン 空の探検隊",
     "en": "Pokémon Mystery Dungeon: Explorers of Sky",
-    "boxart": null,
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob26g.webp",
     "leaderboard": null,
     "RiJW2026": {
       "Any% No-WM": [
@@ -1066,8 +1066,8 @@
     "tw": "新超級瑪利歐兄弟 Wii",
     "jp": "New スーパーマリオブラザーズ Wii",
     "en": "New Super Mario Bros. Wii",
-    "boxart": null,
-    "leaderboard": "https://www.speedrun.com/nsmbw",
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/24238_IGDB.jpg",
+    "leaderboard": null,
     "RiJW2026": {
       "Any%": [
         null,
@@ -1080,7 +1080,7 @@
     "tw": "奇奇怪界 黑斗篷之謎",
     "jp": "奇々怪界　黒マントの謎",
     "en": "Pocky & Rocky Reshrined",
-    "boxart": null,
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob8zc.webp",
     "leaderboard": null,
     "RiJW2026": {
       "Story Mode Normal": [
@@ -1094,8 +1094,8 @@
     "tw": "惡魔城 被奪走的刻印",
     "jp": "悪魔城ドラキュラ 奪われた刻印",
     "en": "Castlevania: Order of Ecclesia",
-    "boxart": null,
-    "leaderboard": "https://www.speedrun.com/ooe",
+    "boxart": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5fj5.webp",
+    "leaderboard": null,
     "RiJW2026": {
       "Shanoa Any% No Ace": [
         null,
@@ -1106,9 +1106,9 @@
   },
   "ファイナルファンタジーIVピクセルリマスター": {
     "tw": "Final Fantasy IV 像素複刻版",
-    "jp": "ファイナルファンタジーIVピクセルリマスター",
+    "jp": null,
     "en": "Final Fantasy IV Pixel Remaster",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/19023_IGDB.jpg",
     "leaderboard": null,
     "RiJW2026": {
       "Any%": [
@@ -1122,7 +1122,7 @@
     "tw": "惡靈古堡 村莊",
     "jp": "バイオハザード ヴィレッジ",
     "en": "Resident Evil Village",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/518017_IGDB.jpg",
     "leaderboard": null,
     "RiJW2026": {
       "VR Mode NG Glitchless": [
@@ -1133,10 +1133,10 @@
     }
   },
   "Resident Evil Gaiden": {
-    "tw": "Resident Evil Gaiden",
-    "jp": "Resident Evil Gaiden",
+    "tw": "惡靈古堡 外傳",
+    "jp": "BIOHAZARD GAIDEN",
     "en": "Resident Evil Gaiden",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/14406_IGDB.jpg",
     "leaderboard": null,
     "RiJW2026": {
       "Any%": [
@@ -1147,10 +1147,10 @@
     }
   },
   "レミングス2 ザ・トライブス": {
-    "tw": "百戰小旅鼠 2：部族",
+    "tw": "百戰小旅鼠 2",
     "jp": "レミングス2 ザ・トライブス",
     "en": "Lemmings 2: The Tribes",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/17245_IGDB.jpg",
     "leaderboard": null,
     "RiJW2026": {
       "All Levels \"Gold%\"": [
@@ -1161,10 +1161,10 @@
     }
   },
   "JUMP KING QUEST": {
-    "tw": "JUMP KING QUEST",
-    "jp": "JUMP KING QUEST",
+    "tw": null,
+    "jp": null,
     "en": "JUMP KING QUEST",
-    "boxart": null,
+    "boxart": "https://static-cdn.jtvnw.net/ttv-boxart/1945019091_IGDB.jpg",
     "leaderboard": null,
     "RiJW2026": {
       "Any%": [
